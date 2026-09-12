@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 04:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:31:32 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,6 +17,26 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trump is giving data centers a pass to pollute</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa</guid>
+      <pubDate>Sat, 12 Sep 2026 14:41:27 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a &amp;quot;Data Center Health Protection […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI just wants to win</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition</guid>
+      <pubDate>Sat, 12 Sep 2026 11:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI&amp;#x27;s relentless advance with […]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement</title>
