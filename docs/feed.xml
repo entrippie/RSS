@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:48:22 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,6 +17,36 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trump and Mike Johnson think the AI industry is overreacting</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting</guid>
+      <pubDate>Sun, 13 Sep 2026 19:41:48 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to &amp;quot;pace the frontier&amp;quot; and slow down AI development. OpenAI&amp;#x27;s Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet&amp;#x27;s Demis Hassabis offered tentative support for Amodei&amp;#x27;s proposal. Donald Trump and House Speaker Mike Johnson, however, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What’s behind the AI industry’s latest warnings of doom?</title>
+      <link>https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/</guid>
+      <pubDate>Sun, 13 Sep 2026 19:40:15 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we discussed the AI industry&amp;#x27;s latest debate about whether it poses an existential threat to humanity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
+      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</guid>
+      <pubDate>Sun, 13 Sep 2026 16:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
