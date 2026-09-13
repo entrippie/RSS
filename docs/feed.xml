@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:44:12 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,6 +17,46 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
+      <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/astra-running-routes/</guid>
+      <pubDate>Sat, 12 Sep 2026 23:56:42 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Here&amp;#x27;s a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at &amp;lt;my address&amp;gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I&amp;#x27;d asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here&amp;#x27;s that 5K route: When I asked it how it had created the route,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI’s rogue AI tried to hack another company in May</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack</guid>
+      <pubDate>Sat, 12 Sep 2026 21:41:36 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users&amp;#x27; API keys. At the time, RubyGems described it as a […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised</guid>
+      <pubDate>Sat, 12 Sep 2026 21:16:28 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>California Brown Pelican</title>
+      <link>https://simonwillison.net/2026/Sep/12/sighting-399708714/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/sighting-399708714/</guid>
+      <pubDate>Sat, 12 Sep 2026 21:16:09 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
@@ -47,6 +87,16 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their respective crafts. A.I. can write very good software, but it also makes it easy to…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic CEO says it’s time to pump the brakes on AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development</guid>
+      <pubDate>Sat, 12 Sep 2026 16:23:40 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its &amp;quot;adherence to safety practices and commitments.&amp;quot; In a winding essay, Amodei proposed a three-step plan to &amp;quot;pace the frontier&amp;quot; - jargon that simply means to slow […]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trump is giving data centers a pass to pollute</title>
