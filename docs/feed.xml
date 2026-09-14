@@ -5,9 +5,159 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:49:14 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What execs and politicians are saying about slowing down AI development</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei</guid>
+      <pubDate>Mon, 14 Sep 2026 21:21:42 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled &amp;quot;We Must Pace the Frontier&amp;quot; detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we&amp;#x27;ve compiled some of […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The contagion of fear</title>
+      <link>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</guid>
+      <pubDate>Mon, 14 Sep 2026 21:18:13 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI &amp;quot;could kill us all by the end of the decade&amp;quot;. Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same: These ghoulish claims strike brazenly at the hearth, and…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says</title>
+      <link>https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/</guid>
+      <pubDate>Mon, 14 Sep 2026 20:44:14 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple&amp;#x27;s Portrait Mode.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What blog posts influenced your thinking the most?</title>
+      <link>https://simonwillison.net/2026/Sep/14/influences/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/influences/</guid>
+      <pubDate>Mon, 14 Sep 2026 20:21:48 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it&amp;#x27;s encouraged me to always be looking for improved understanding of the layers under where I&amp;#x27;m working, just in case one of those abstractions leaks. A more recent one, from 2018, is Migrations: the sole…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world</title>
+      <link>https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit</guid>
+      <pubDate>Mon, 14 Sep 2026 20:03:37 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast&amp;#x27;s All-In Summit. It&amp;#x27;s not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI industry has taken a doomer turn. What now?</title>
+      <link>https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/</guid>
+      <pubDate>Mon, 14 Sep 2026 17:54:22 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>With iOS 27, I’m actually using Siri again</title>
+      <link>https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/</guid>
+      <pubDate>Mon, 14 Sep 2026 17:10:30 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll</title>
+      <link>https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/</guid>
+      <pubDate>Mon, 14 Sep 2026 17:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Thanks to the launch of iOS 27, Daydream&amp;#x27;s app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans</title>
+      <link>https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/</guid>
+      <pubDate>Mon, 14 Sep 2026 16:27:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI agents blew the whistle on their cheating colleagues</title>
+      <link>https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?</title>
+      <link>https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</guid>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If you&amp;#x27;re building an AI company, the question isn&amp;#x27;t whether foundation models will continue to evolve. It&amp;#x27;s whether your company will continue creating value as they do. Don&amp;#x27;t miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work</title>
+      <link>https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:45:44 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Laurie Voss</title>
+      <link>https://simonwillison.net/2026/Sep/14/laurie-voss/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/laurie-voss/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:34:29 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I&amp;#x27;m assuming it gets there. What&amp;#x27;s left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per piece of software and doesn&amp;#x27;t transfer, so as the amount of software goes to infinity, which it will because there&amp;#x27;s no…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft says ‘people matter more than AI’ following safety concerns</title>
+      <link>https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft is publishing a 37-page &amp;quot;humanist AI code of conduct&amp;quot; today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Fyxer built an AI executive assistant people trust</title>
+      <link>https://openai.com/index/fyxer</link>
+      <guid isPermaLink="true">https://openai.com/index/fyxer</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems</title>
       <link>https://arxiv.org/abs/2609.11934</link>
