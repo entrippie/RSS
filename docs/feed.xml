@@ -5,9 +5,89 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:19:51 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta now lets AI agents handle the boring parts of WhatsApp Business setup</title>
+      <link>https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/</guid>
+      <pubDate>Tue, 15 Sep 2026 20:12:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train</title>
+      <link>https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/</link>
+      <guid isPermaLink="true">https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/</guid>
+      <pubDate>Tue, 15 Sep 2026 20:00:35 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Algorithms &amp;amp; Theory&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+      <link>https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</guid>
+      <pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;From Apple&amp;#x27;s repeatedly delayed Siri AI to OpenAI&amp;#x27;s messy &amp;quot;super app&amp;quot; launch, here&amp;#x27;s a look at the AI projects that shut down or missed expectations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>US data centers could consume more natural gas than Germany and Japan combined by 2035</title>
+      <link>https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/</guid>
+      <pubDate>Tue, 15 Sep 2026 18:29:20 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roundtables: Could AI really kill us all?</title>
+      <link>https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:47:51 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI agents now have a place to snitch</title>
+      <link>https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:42:59 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:57 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta expands subscription push with new AI-focused plans</title>
+      <link>https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Your Agent Aced the Task. Will It Do It Again?</title>
       <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>

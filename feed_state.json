@@ -1,5 +1,77 @@
 [
  {
+  "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+  "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+  "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789503173
+ },
+ {
+  "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+  "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+  "summary": "Algorithms & Theory",
+  "source": "Google Research",
+  "section": "Research labs",
+  "source_feed": "https://research.google/blog/rss/",
+  "ts": 1789502435
+ },
+ {
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789498800
+ },
+ {
+  "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+  "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+  "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789496960
+ },
+ {
+  "title": "Roundtables: Could AI really kill us all?",
+  "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+  "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1789494471
+ },
+ {
+  "title": "AI agents now have a place to snitch",
+  "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+  "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789494179
+ },
+ {
+  "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+  "summary": "",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1789491957
+ },
+ {
+  "title": "Meta expands subscription push with new AI-focused plans",
+  "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+  "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789491924
+ },
+ {
   "title": "Your Agent Aced the Task. Will It Do It Again?",
   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
   "summary": "",
