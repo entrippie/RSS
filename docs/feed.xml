@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 04:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:42:21 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What must happen for AI’s trillion-dollar gamble to pay off</title>
+      <link>https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/</guid>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents</title>
       <link>https://arxiv.org/abs/2609.13149</link>
