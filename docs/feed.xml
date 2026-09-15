@@ -5,9 +5,99 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:58:21 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Agent Aced the Task. Will It Do It Again?</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI, Anthropic, Google have been in talks on AI safety for weeks</title>
+      <link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</guid>
+      <pubDate>Tue, 15 Sep 2026 15:47:03 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump&amp;#x27;s team dismisses safety concerns and pushes to keep pace with China.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round</title>
+      <link>https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/</guid>
+      <pubDate>Tue, 15 Sep 2026 15:22:48 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s new One subscriptions put a price on social media and AI</title>
+      <link>https://www.theverge.com/tech/995453/meta-one-subscriptions-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/995453/meta-one-subscriptions-ai</guid>
+      <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Shortly after launching its new do-everything AI assistant Muse, Meta&amp;#x27;s launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Former TikTok execs built an app that uses AI to teach you how to pose for a photo</title>
+      <link>https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/</guid>
+      <pubDate>Tue, 15 Sep 2026 14:42:37 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Tue, 15 Sep 2026 14:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4 days left to exhibit at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This doorbell camera lets a human security guard watch your front door</title>
+      <link>https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs</guid>
+      <pubDate>Tue, 15 Sep 2026 13:36:45 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company&amp;#x27;s Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents</title>
+      <link>https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/</guid>
+      <pubDate>Tue, 15 Sep 2026 13:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What must happen for AI’s trillion-dollar gamble to pay off</title>
       <link>https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/</link>
