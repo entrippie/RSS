@@ -1,5 +1,122 @@
 [
  {
+  "title": "Claude comes for Gemini with its own take on Docs and Slides",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+  "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1789576200
+ },
+ {
+  "title": "Anthropic merges Claude chat and Cowork in one interface",
+  "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+  "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789576200
+ },
+ {
+  "title": "Quoting Mustafa Suleyman",
+  "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+  "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder. — Mustafa Suleyman , A warning about ‘model…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1789574454
+ },
+ {
+  "title": "Helping older adults use AI in everyday life",
+  "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+  "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1789574400
+ },
+ {
+  "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+  "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789570800
+ },
+ {
+  "title": "The sexy AI-powered dating app scams are here",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+  "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1789569900
+ },
+ {
+  "title": "Threads’ new features let podcasters promote shows and reach listeners",
+  "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+  "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789568698
+ },
+ {
+  "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+  "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+  "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789568100
+ },
+ {
+  "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+  "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789567200
+ },
+ {
+  "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+  "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+  "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789564982
+ },
+ {
+  "title": "Reimagining advertising with AI",
+  "link": "https://openai.com/index/reimagining-advertising-with-ai",
+  "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1789563600
+ },
+ {
+  "title": "Building the materials foundation for AI",
+  "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+  "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1789562854
+ },
+ {
+  "title": "A brief history of AI executives calling for regulation",
+  "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+  "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1789560000
+ },
+ {
   "title": "Amazon launches Alexa+ in India with Hindi support",
   "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
   "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
@@ -7,6 +124,15 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1789554887
+ },
+ {
+  "title": "How workers are unlocking new ways of working",
+  "link": "https://openai.com/index/unlocking-new-ways-of-working",
+  "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1789549200
  },
  {
   "title": "Causal neural set filtering for online multi-target tracking",
@@ -2239,14 +2365,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1788990139
- },
- {
-  "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-  "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1788968184
  }
 ]

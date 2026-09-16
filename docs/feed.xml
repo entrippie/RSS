@@ -5,9 +5,139 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:52:32 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude comes for Gemini with its own take on Docs and Slides</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</guid>
+      <pubDate>Wed, 16 Sep 2026 16:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Claude is getting a pair of new tools today: Docs and Slides. They&amp;#x27;ll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into &amp;quot;one Claude,&amp;quot; with all […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic merges Claude chat and Cowork in one interface</title>
+      <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is releasing these features to Pro and Max plan subscribers initally&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Mustafa Suleyman</title>
+      <link>https://simonwillison.net/2026/Sep/16/mustafa-suleyman/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/mustafa-suleyman/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:54 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder. — Mustafa Suleyman , A warning about ‘model…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helping older adults use AI in everyday life</title>
+      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+      <guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia&amp;#x27;s Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The sexy AI-powered dating app scams are here</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams</guid>
+      <pubDate>Wed, 16 Sep 2026 14:45:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Security researcher Matthew &amp;quot;Zigula&amp;quot; Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she&amp;#x27;s a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Threads’ new features let podcasters promote shows and reach listeners</title>
+      <link>https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/</guid>
+      <pubDate>Wed, 16 Sep 2026 14:24:58 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed</title>
+      <link>https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/</guid>
+      <pubDate>Wed, 16 Sep 2026 14:15:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don&amp;#x27;t miss a moment of the ultimate startup pitch competition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Wed, 16 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SK Hynix reportedly in talks with Intel to build memory chips in US</title>
+      <link>https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/</guid>
+      <pubDate>Wed, 16 Sep 2026 13:23:02 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;SK Hynix told TechCrunch the company hasn&amp;#x27;t finalized any plans or arrangements yet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reimagining advertising with AI</title>
+      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building the materials foundation for AI</title>
+      <link>https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/</guid>
+      <pubDate>Wed, 16 Sep 2026 12:47:34 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A brief history of AI executives calling for regulation</title>
+      <link>https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it&amp;#x27;s time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Amazon launches Alexa+ in India with Hindi support</title>
       <link>https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</link>
@@ -17,6 +147,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon is letting all customers use Alexa+ assistant in early access period&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How workers are unlocking new ways of working</title>
+      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
+      <guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
+      <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Causal neural set filtering for online multi-target tracking</title>
@@ -2497,16 +2637,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Suno&amp;#x27;s new v6 AI music model is its first made with support from the record industry. Suno&amp;#x27;s Jack Brody told The Verge that v6 was &amp;quot;trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.&amp;quot; The data includes content licensed […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
-      <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
-      <pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
