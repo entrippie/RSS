@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:29:28 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon launches Alexa+ in India with Hindi support</title>
+      <link>https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</guid>
+      <pubDate>Wed, 16 Sep 2026 10:34:47 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon is letting all customers use Alexa+ assistant in early access period&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Causal neural set filtering for online multi-target tracking</title>
       <link>https://arxiv.org/abs/2609.16054</link>
@@ -2497,16 +2507,6 @@
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
       <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra, Looped Transformers, and Hidden Reasoning</title>
-      <link>https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</link>
-      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</guid>
-      <pubDate>Wed, 09 Sep 2026 11:14:25 +0000</pubDate>
-      <dc:creator>Ahead of AI (Sebastian Raschka)</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://magazine.sebastianraschka.com/feed">Ahead of AI (Sebastian Raschka)</source>
-      <description>&lt;p&gt;&lt;em&gt;Ahead of AI (Sebastian Raschka) · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

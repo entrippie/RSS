@@ -1,5 +1,14 @@
 [
  {
+  "title": "Amazon launches Alexa+ in India with Hindi support",
+  "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+  "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789554887
+ },
+ {
   "title": "Causal neural set filtering for online multi-target tracking",
   "link": "https://arxiv.org/abs/2609.16054",
   "summary": "Transformer-based multi-target tracking (MTT) jointly learns data association and state estimation, but MT3/Track-MT3-style trackers repeatedly re-encode measurement windows, incurring redundant computation. We propose Causal Neural Set Filtering (CNSF)\\footnote{\\href{https://github.com/daihuangyu/CNSF}{Code: https://github.com/daihuangyu/CNSF}}, a neural set filter that encodes only current…",
@@ -2239,14 +2248,5 @@
   "section": "Research labs",
   "source_feed": "https://huggingface.co/blog/feed.xml",
   "ts": 1788968184
- },
- {
-  "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-  "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-  "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
-  "source": "Ahead of AI (Sebastian Raschka)",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://magazine.sebastianraschka.com/feed",
-  "ts": 1788952465
  }
 ]
