@@ -5,9 +5,99 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:17:29 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?</title>
+      <link>https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</guid>
+      <pubDate>Wed, 16 Sep 2026 21:07:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long</title>
+      <link>https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review</link>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review</guid>
+      <pubDate>Wed, 16 Sep 2026 20:59:13 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Christopher Nolan&amp;#x27;s engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI data center e-waste problem is huge — and getting bigger</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban</guid>
+      <pubDate>Wed, 16 Sep 2026 20:40:46 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It&amp;#x27;s a significantly higher estimate of AI&amp;#x27;s e-waste than previous studies have […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera</title>
+      <link>https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/</guid>
+      <pubDate>Wed, 16 Sep 2026 20:12:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Can Meta dodge the &amp;quot;pervert glasses&amp;quot; accusations with a new camera-free product?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI labs want in-house auditors — but maybe they should shut the front door first</title>
+      <link>https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:25:25 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;There may be a simpler and more effective fix for rogue agents, hiding in plain sight.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Cowork and chat are now one Claude</title>
+      <link>https://simonwillison.net/2026/Sep/16/one-claude/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/one-claude/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:09:49 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple might make servers again to cash in on the AI rush</title>
+      <link>https://www.theverge.com/tech/996321/apple-servers-ai-nvidia</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/996321/apple-servers-ai-nvidia</guid>
+      <pubDate>Wed, 16 Sep 2026 17:20:29 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google will now let any AI agent run your smart home</title>
+      <link>https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date</guid>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home&amp;#x27;s data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your AI agents can now control your Google Home devices</title>
+      <link>https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/</guid>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude comes for Gemini with its own take on Docs and Slides</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</link>
@@ -137,6 +227,16 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it&amp;#x27;s time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to connect AI usage to business value</title>
+      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
+      <guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon launches Alexa+ in India with Hindi support</title>
