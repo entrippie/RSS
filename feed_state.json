@@ -1,5 +1,221 @@
 [
  {
+  "title": "Causal neural set filtering for online multi-target tracking",
+  "link": "https://arxiv.org/abs/2609.16054",
+  "summary": "Transformer-based multi-target tracking (MTT) jointly learns data association and state estimation, but MT3/Track-MT3-style trackers repeatedly re-encode measurement windows, incurring redundant computation. We propose Causal Neural Set Filtering (CNSF)\\footnote{\\href{https://github.com/daihuangyu/CNSF}{Code: https://github.com/daihuangyu/CNSF}}, a neural set filter that encodes only current…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents",
+  "link": "https://arxiv.org/abs/2609.16056",
+  "summary": "Humans carry behaviour knowledge of how to act in familiar situations into every new task rather than relearning it from scratch. There is no reason a Reinforcement Learning (RL) agent shouldn't do the same: known behaviour patterns need not be learned, only applied. Neuro-symbolic RL bridges prior knowledge and RL by injecting symbolic knowledge alongside a learned policy. The point at which…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+  "link": "https://arxiv.org/abs/2609.16057",
+  "summary": "Unified multimodal large language models (MLLMs) and multi-agent systems have advanced visual generation. However, three limitations remain. (1) Existing methods often distill task-specific experience with limited generalizability. (2) Reflection is often deferred until task completion. (3) Knowledge is often acquired only in response to downstream task demands. To address these limitations, we…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "Driver Behavior Estimation at Signalized Intersections Using a Physics-Constrained Decision-Conditioned Autoregressive Transformer",
+  "link": "https://arxiv.org/abs/2609.16058",
+  "summary": "Red-light violations and harsh braking at signalized intersections are major contributors to traffic accidents. This paper analyzes and predicts human driver decision-making and longitudinal trajectory behavior during traffic light signal transitions. We collected a diverse real-world dataset comprising 449 approach runs under varying speed and distance conditions. Vehicle motion was recorded…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "HintMiner: Automatic Question Hints Mining From Q&A Web Posts with Language Model via Self-Supervised Learning",
+  "link": "https://arxiv.org/abs/2609.16060",
+  "summary": "Users often need ask questions and seek answers online. The Question - Answering (QA) forums such as Stack Overflow cannot always respond to the questions timely and properly. In this paper, we propose HintMiner, a novel automatic question hints mining tool for users to help them find answers. HintMiner leverages the machine comprehension and sequence generation techniques to automatically…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "POSPAN: Position-Constrained Span Masking for Language Model Pre-training",
+  "link": "https://arxiv.org/abs/2609.16061",
+  "summary": "Span-level masked language modeling (MLM) has shown to be advantageous to pre-trained language models over the original single-token MLM, as entities/phrases and their dependencies are critical to language understanding. Previous works only consider span length with some discrete distributions, while the dependencies among spans are ignored, i.e., assuming that the positions of masked spans are…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "Signed p-adic Residual Encodings of Finite-Domain All-Different Systems with a Sudoku Case Study",
+  "link": "https://arxiv.org/abs/2609.16063",
+  "summary": "We study signed, weighted affine $p$-adic residual objectives as native encodings of finite-domain constraints. For primes that separate the finite alphabet, sufficiently weighted positive unary rows pin each coefficient to its allowed set, while negative rows reward unequal endpoints or clause satisfaction. A coordinatewise domination theorem places every global minimiser in the finite domain;…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "You Don't Need To Train: Agentic Heuristic Learning Studio for Executable Human Activity Recognition",
+  "link": "https://arxiv.org/abs/2609.16065",
+  "summary": "Human activity recognition (HAR) is usually framed as gradient-based training of neural networks. Agentic Heuristic Learning (AHL) Studio explores a complementary view inspired by human cognitive learning: people learn activities by remembering examples, forming rules, and repairing mistakes, not by backpropagating. This proposed tool implements AHL for HAR: a learning-time agent reasons over…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "A panoramic aerodynamic performance prediction method for turbomachinery cascades using transformer-enhanced neural operator",
+  "link": "https://arxiv.org/abs/2609.16066",
+  "summary": "To enable flexible and rapid aerodynamic performance evaluation in turbomachinery design, this paper proposes a panoramic performance prediction framework. Unlike most previous prediction models that directly predict the objective functions of interest, our approach first predicts the basic parameters of the Navier-Stokes equations, such as temperature, pressure, and density. Utilizing these…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "A Dynamic Aggregation Strategy Enhanced Efficient Global Optimization Algorithm for Solving High-Dimensional Turbomachinery Design Problems",
+  "link": "https://arxiv.org/abs/2609.16067",
+  "summary": "In order to solve the high-dimensional ($d \\geq 30$) expensive black-box problems within budget, an efficient global optimization (EGO) algorithm with a dynamic aggregation strategy is proposed, labeled as DA-EGO. Specifically, the DA-EGO decomposes the original high-dimensional design space into a set of low-dimensional subspaces for efficient surrogate-based optimization search, and the optimal…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1789531200
+ },
+ {
+  "title": "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures",
+  "link": "https://arxiv.org/abs/2609.15990",
+  "summary": "Few-shot prompting sometimes degrades language models instead of helping them, but why this happens is unknown. We evaluate 12 open-weight models on two Ukrainian tasks news classification and legal case outcome prediction and find that the effect is strongly task-dependent: the same models that gain +24 pp on news show only +3.4 pp on legal text, with two models degrading. To understand why, we…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "The Functionalizer: Lossless Functional Decomposition for Subword Tokenization",
+  "link": "https://arxiv.org/abs/2609.15991",
+  "summary": "Standard subword tokenizers either treat every orthographic variation of a word (such as hello, Hello, HELLO, and H\\'ello) as unrelated vocabulary entries, which fragments the embedding space, or discard this variation through lossy normalization. We present the Functionalizer, a lossless pre-tokenizer framework that factors orthographic and structural variations into a compositional…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "Optimal Model Activation Policies for Inference Networks of Large Language Models",
+  "link": "https://arxiv.org/abs/2609.15992",
+  "summary": "Recent advances in large language models (LLMs) have rendered them necessary for Natural Language Processing (NLP) tasks, and their high inference cost motivates the study of cost-performance trade-offs. In practice, several expert LLMs are used in synergy for inference, either in an ensemble mode or in series, yet without a principled approach on how to best use the available models. An adaptive…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "Single Document Extractive Summarization using Domination in Hypergraph",
+  "link": "https://arxiv.org/abs/2609.15993",
+  "summary": "Automatic Text Summarization (ATS) in Natural Language Processing has been an important task in Information Retrieval. It compresses a document to create a summary that captures all the relevant and important information conveyed in the document. This study explores Hypergraph for extractive text summarization of single documents. Objective: This study explores a novel method of leveraging the…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "Latent Undertow: How Ordinary Typos Break Probes",
+  "link": "https://arxiv.org/abs/2609.15994",
+  "summary": "LLMs handle ordinary typing variation fluently: a typo or missing punctuation leaves both user intent and the model's response substantively unchanged. Yet probes that detect malicious prompts by reading the model's hidden states tell a different story: the same edit rotates the readout vector by 43--56 at the perturbed token, decaying below 15% within ~10 downstream tokens. Stacking ~3 common…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "Bias Audits Detect Bias but Disagree on Ranking: Evidence from Ten Instruments and Ten Frontier Models",
+  "link": "https://arxiv.org/abs/2609.15995",
+  "summary": "Emerging AI regulation mandates bias audits of high-risk systems, and audit scores are beginning to be used to rank models. Both uses assume different audit tools measure the same thing well enough to compare. We test that assumption directly, running ten extrinsic audit instruments over a shared panel of ten frontier models through one pooled inference gateway, first on occupational gender bias,…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "Comment on arXiv:2607.01233: Survivorship Bias in Published-Paper Baselines for Research-Idea Distributions",
+  "link": "https://arxiv.org/abs/2609.15996",
+  "summary": "Chen, Zhao, and Cohan introduce a valuable distributional evaluation of LLM-generated research ideas. This comment raises a narrower identification concern: their human baseline consists of published papers, whereas the LLM baseline consists of one-shot proposals. If bridge-like or synthesis-like ideas are relatively easy to generate but relatively unlikely to survive publication, then the…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "Crash Narrative-Guided Countermeasure Recommendation Using Large Language Models: A Retrieval-Augmented Generation Framework for Intersection Safety",
+  "link": "https://arxiv.org/abs/2609.15997",
+  "summary": "Improving safety at intersections requires identifying crash mechanisms and recommending appropriate countermeasures. However, this process traditionally relies on expert judgment, making it labor-intensive, difficult to scale, and dependent on the availability of experienced traffic safety engineers. Although crash narratives contain rich description of crash mechanisms, this unstructured…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "Self-reported archetypes and behavioral failures in Large Language Models",
+  "link": "https://arxiv.org/abs/2609.15998",
+  "summary": "Every large language model (LLM) has behavioral traits and moral preferences that comprise its character. Whether by design or as an emergent property of training, these systems exhibit persistent dispositions that shape how they interact, comply, resist, and err, yet the structure of LLM character remains poorly understood. We map the self-reported personality archetypes of 22 LLMs spanning…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "NepKANUN: A RAG-Based Nepali Legal Assistant",
+  "link": "https://arxiv.org/abs/2609.15999",
+  "summary": "Accessing legal information in Nepal is difficult due to complex terminology, limited resources, and misinformation. We introduce an AI-powered legal assistant that is tailored for Nepali legal texts and is built on a fine-tuned large language model. The technology provides precise, streamlined answers to natural language legal inquiries when integrated into a Retrieval-Augmented Generation (RAG)…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1789531200
+ },
+ {
+  "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+  "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+  "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789518039
+ },
+ {
+  "title": "AI and data centers are incredibly unpopular in every poll",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+  "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1789515265
+ },
+ {
+  "title": "Gemini Live audio",
+  "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+  "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying out the new models. You can select a model and voice preset, enter an optional system prompt and then start a voice…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1789512427
+ },
+ {
+  "title": "The AI data center boom is colliding with cities scarred by big industry",
+  "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+  "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789508858
+ },
+ {
   "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
   "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
   "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
@@ -2032,41 +2248,5 @@
   "section": "Newsletters & blogs",
   "source_feed": "https://magazine.sebastianraschka.com/feed",
   "ts": 1788952465
- },
- {
-  "title": "What OpenAI’s latest controversy tells us about the future of math",
-  "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-  "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1788923408
- },
- {
-  "title": "Quoting Terence Tao",
-  "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-  "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of someone working on a problem can trigger a massive amount of AI-powered effort to flatten it before the original research project has time to reach its full…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1788913217
- },
- {
-  "title": "On the Navier–Stokes Millennium Prize Problem",
-  "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-  "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000. The discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1788911712
- },
- {
-  "title": "Introducing ChatGPT Images 2.5",
-  "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-  "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\". There are two new model IDs in the API:…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1788907593
  }
 ]
