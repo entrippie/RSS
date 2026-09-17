@@ -5,9 +5,89 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:58:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:21:07 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-generated prompt injections in compaction summaries</title>
+      <link>https://simonwillison.net/2026/Sep/17/compaction-summaries/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/compaction-summaries/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:57:55 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide &amp;quot;six reports on unexpected or concerning model behavior we’ve observed in the last six months&amp;quot;. This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts. Compaction is the process agent systems…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The future of practice: Enabling teachers to create learning interactives with generative UI</title>
+      <link>https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/</link>
+      <guid isPermaLink="true">https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:45:00 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Education Innovation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The fix for rogue AI agents could be more AI</title>
+      <link>https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:34:47 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI caught its models leaving notes to successors to hide bad behavior</title>
+      <link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:34:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is the AI safety debate about safety or control?</title>
+      <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:19:37 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Not everyone agrees with Amodei&amp;#x27;s call for globally coordinated action for AI safety.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UN turns to Google to make its global data ready for AI agents</title>
+      <link>https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal</title>
+      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</guid>
+      <pubDate>Thu, 17 Sep 2026 19:46:08 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Newly unsealed court filings show Microsoft privately called OpenAI&amp;#x27;s data practices &amp;quot;theft&amp;quot; while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Even the king of England has his hesitations about AI</title>
+      <link>https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/</guid>
+      <pubDate>Thu, 17 Sep 2026 17:26:25 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia</title>
       <link>https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/</link>
@@ -407,6 +487,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Since Specs&amp;#x27; debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Astra for Law</title>
+      <link>https://openai.com/index/astra-for-law</link>
+      <guid isPermaLink="true">https://openai.com/index/astra-for-law</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>datasette 1.0a40</title>
@@ -2637,76 +2727,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Native is now the future of mobile at Shopify</title>
-      <link>https://simonwillison.net/2026/Sep/10/shopify-react-native/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/shopify-react-native/</guid>
-      <pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI puts Pro subscriptions on hold due to Astra demand</title>
-      <link>https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/</guid>
-      <pubDate>Thu, 10 Sep 2026 20:59:51 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The company said Pro subscriptions put the most strain on its systems, so it&amp;#x27;s pausing sign-ups while adding more capacity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek</title>
-      <link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/</guid>
-      <pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s AI agent Muse is now the No. 2 app in the US</title>
-      <link>https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/</guid>
-      <pubDate>Thu, 10 Sep 2026 19:50:04 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s newest app Muse is off to a slower start than the company&amp;#x27;s other apps, like Meta AI or Threads.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Schools are catching on to Big Tech’s playbook</title>
-      <link>https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids</guid>
-      <pubDate>Thu, 10 Sep 2026 19:44:20 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It&amp;#x27;s the hot new thing in tech, and it&amp;#x27;s where all the jobs are. Students who don&amp;#x27;t learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That&amp;#x27;s the narrative AI companies are pitching schools on […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic reveals rogue AI agents hate CAPTCHAs, just like you</title>
-      <link>https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/</guid>
-      <pubDate>Thu, 10 Sep 2026 17:54:44 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Come inside the mind of a bot trying to convince the internet it&amp;#x27;s human.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content</title>
-      <link>https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/</guid>
-      <pubDate>Thu, 10 Sep 2026 17:45:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
