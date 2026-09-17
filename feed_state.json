@@ -1,5 +1,14 @@
 [
  {
+  "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+  "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+  "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789621200
+ },
+ {
   "title": "Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds",
   "link": "https://arxiv.org/abs/2609.17560",
   "summary": "Every production model is updated, by retraining, fine-tuning, quantization, or a silent vendor swap, and each update risks being worse than what it replaced. We formalize update promotion as certified paired risk-difference auditing. Our starting point is a support identity: the risk difference between two models lives on the inputs where they disagree, observable without labels. We build…",
@@ -2419,41 +2428,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1789048800
- },
- {
-  "title": "Mathematicians want proof OpenAI didn’t use their work",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-  "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1789038057
- },
- {
-  "title": "Powering AI is an architecture problem",
-  "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-  "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1789038000
- },
- {
-  "title": "Introducing ChatGPT for Financial Services",
-  "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-  "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1789023600
- },
- {
-  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-  "link": "https://openai.com/index/expanding-ai-access-us-government",
-  "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1789023600
  }
 ]

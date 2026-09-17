@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:38:54 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iceland-based Treble raises $18 million for its voice simulation platform</title>
+      <link>https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Treble&amp;#x27;s voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds</title>
       <link>https://arxiv.org/abs/2609.17560</link>
@@ -2697,46 +2707,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This interview has been lightly edited for length and clarity.  Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mathematicians want proof OpenAI didn’t use their work</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data</guid>
-      <pubDate>Thu, 10 Sep 2026 11:00:57 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company&amp;#x27;s models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and &amp;quot;dishonest&amp;quot; behavior and a lack of transparency about the origins […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Powering AI is an architecture problem</title>
-      <link>https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/</guid>
-      <pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing ChatGPT for Financial Services</title>
-      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-financial-services</guid>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Expanding AI access and cyber defense for federal, state, local, and tribal governments</title>
-      <link>https://openai.com/index/expanding-ai-access-us-government</link>
-      <guid isPermaLink="true">https://openai.com/index/expanding-ai-access-us-government</guid>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
