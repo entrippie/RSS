@@ -5,9 +5,79 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:38:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:58:48 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia</title>
+      <link>https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/</guid>
+      <pubDate>Thu, 17 Sep 2026 14:06:14 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft AI CEO says AI threats are real, and Anthropic is making it worse</title>
+      <link>https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude</guid>
+      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI is feared globally as the destroyer of jobs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs</guid>
+      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2 days left to exhibit at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls</title>
+      <link>https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:46:16 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;People can use these assistants to make restaurant reservations and cancel subscriptions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers</title>
+      <link>https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:38:33 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inside the suddenly explosive world of AI safety</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic</guid>
+      <pubDate>Thu, 17 Sep 2026 11:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On a sunny July day in Berkeley, California, the country&amp;#x27;s top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a &amp;quot;war room&amp;quot; to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Iceland-based Treble raises $18 million for its voice simulation platform</title>
       <link>https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/</link>
@@ -2637,76 +2707,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
-      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
-      <guid isPermaLink="true">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Universal Music is launching an AI music platform with ElevenLabs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai</guid>
-      <pubDate>Thu, 10 Sep 2026 15:38:19 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Now everyone can put data to work</title>
-      <link>https://openai.com/index/put-data-to-work</link>
-      <guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
-      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s Muse AI works and creeps me out</title>
-      <link>https://www.theverge.com/tech/993391/meta-muse-ai-hands-on</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/993391/meta-muse-ai-hands-on</guid>
-      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta has launched its new Muse assistant, marking the company&amp;#x27;s first real foray into AI-powered productivity tools. The company says its AI agent can &amp;quot;take the busywork off your plate&amp;quot; by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI agents are flooding public services with new requests</title>
-      <link>https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/</guid>
-      <pubDate>Thu, 10 Sep 2026 14:53:50 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Maven Robotics wants to steal your robot deployment deal</title>
-      <link>https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/</guid>
-      <pubDate>Thu, 10 Sep 2026 14:17:37 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why the current tech backlash feels different</title>
-      <link>https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers</guid>
-      <pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This interview has been lightly edited for length and clarity.  Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
