@@ -1,5 +1,14 @@
 [
  {
+  "title": "Flash floods can strike without warning — this new technology could change that",
+  "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+  "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1789729200
+ },
+ {
   "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
   "link": "https://arxiv.org/abs/2609.19209",
   "summary": "Generative query suggestion aims to enhance user engagement by anticipating user intents and recommending relevant follow-up queries. A central challenge is to generate slates whose individual queries are useful while the slate covers distinct intents. We propose an Intent-Driven Query Suggestion Framework with dual-stage optimization. First, intent-aware diversity modeling constructs…",
@@ -2554,14 +2563,5 @@
   "section": "Newsletters & blogs",
   "source_feed": "https://simonwillison.net/atom/everything/",
   "ts": 1789134692
- },
- {
-  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-  "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-  "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1789120800
  }
 ]

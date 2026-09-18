@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 04:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:09:24 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flash floods can strike without warning — this new technology could change that</title>
+      <link>https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning</link>
+      <guid isPermaLink="true">https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning</guid>
+      <pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. &amp;quot;I look over to where the barn is over there, […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment</title>
       <link>https://arxiv.org/abs/2609.19209</link>
@@ -2847,16 +2857,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Graham Dumpleton&amp;#x27;s new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I&amp;#x27;m not sure why I&amp;#x27;ve seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here&amp;#x27;s everything he&amp;#x27;s published so far: Introducing wrapture - a new monkey patching library that serves both testing and…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
-      <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
