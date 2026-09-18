@@ -5,9 +5,129 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:51:57 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World model companies are keeping a lot of secrets</title>
+      <link>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</guid>
+      <pubDate>Fri, 18 Sep 2026 20:18:14 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they&amp;#x27;re actually building.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note on 18th September 2026</title>
+      <link>https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</guid>
+      <pubDate>Fri, 18 Sep 2026 19:21:32 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai , generative-ai&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Thariq Shihipar</title>
+      <link>https://simonwillison.net/2026/Sep/18/thariq-shihipar/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/thariq-shihipar/</guid>
+      <pubDate>Fri, 18 Sep 2026 19:09:27 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We&amp;#x27;re adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A new kind of AI model from a ChatGPT inventor is thrilling developers</title>
+      <link>https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/</guid>
+      <pubDate>Fri, 18 Sep 2026 18:49:30 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virginia governor creates an AI task force and moves to restrain data centers</title>
+      <link>https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</guid>
+      <pubDate>Fri, 18 Sep 2026 18:29:17 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disney’s first CTO led an AI startup it once accused of copying its characters</title>
+      <link>https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:59:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company&amp;#x27;s first-ever chief technology officer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MilleMiglia: A realistic instance generator for middle-mile logistics</title>
+      <link>https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/</link>
+      <guid isPermaLink="true">https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:46:09 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Algorithms &amp;amp; Theory&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google’s new ‘CC’ is an AI agent that helps families run their households</title>
+      <link>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:33:50 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</title>
+      <link>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:09:56 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. …&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automattic’s 33-Hour Coup, and can AI labs police themselves?</title>
+      <link>https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/</link>
+      <guid isPermaLink="true">https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:06:32 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.  On…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gavin Newsom is pushing for an AI kill switch</title>
+      <link>https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</guid>
+      <pubDate>Fri, 18 Sep 2026 17:04:51 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a &amp;quot;kill switch&amp;quot; for frontier models, with a new executive order issued Friday. Newsom&amp;#x27;s order directs the state to convene a group of experts that will deliver recommendations within two months on how to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Hollywood thinks about existential AI warnings</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</guid>
+      <pubDate>Fri, 18 Sep 2026 16:35:19 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As the tech sector sounds alarms about AI&amp;#x27;s potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what&amp;#x27;s already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Security researchers used Claude to help them hack into OpenAI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</link>
@@ -2787,96 +2907,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lawyer fined $5K over AI-hallucinated witnesses in a murder case</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal</guid>
-      <pubDate>Fri, 11 Sep 2026 20:44:02 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New Mexico&amp;#x27;s Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client&amp;#x27;s murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to &amp;quot;verify the factual claims and legal […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One week left to book your exhibit table at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:33:18 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Final, final, final call for TechCrunch Disrupt 2026 Side Events</title>
-      <link>https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:30:17 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Roundtables: Will AI really kill us all?</title>
-      <link>https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:05:06 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi-maker Moonshot AI targets $2B in annual revenue</title>
-      <link>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</guid>
-      <pubDate>Fri, 11 Sep 2026 19:35:54 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;While K3&amp;#x27;s usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An Anthropic researcher’s doomsday warning comes at a very interesting time</title>
-      <link>https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</link>
-      <guid isPermaLink="true">https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</guid>
-      <pubDate>Fri, 11 Sep 2026 18:41:49 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO,…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Boris Cherny</title>
-      <link>https://simonwillison.net/2026/Sep/11/boris-cherny/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/boris-cherny/</guid>
-      <pubDate>Fri, 11 Sep 2026 17:47:11 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Feeling sad about AI</title>
-      <link>https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</guid>
-      <pubDate>Fri, 11 Sep 2026 17:28:37 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on Feeling sad about AI — Hacker News. I&amp;#x27;m not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initial reaction, when some coding agent does a piece of work that would have taken you a week in an hour and does it well , is to be very disheartened by…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO</title>
-      <link>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</guid>
-      <pubDate>Fri, 11 Sep 2026 16:46:25 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
