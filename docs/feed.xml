@@ -5,9 +5,79 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:53:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 15:50:42 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini went rogue, hacked three companies, and Google hid it</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</guid>
+      <pubDate>Sat, 19 Sep 2026 15:25:03 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In May, Gemini broke containment and hacked three different companies, but Google didn&amp;#x27;t disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model&amp;#x27;s cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn&amp;#x27;t […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI safety conversations have gotten unbelievable</title>
+      <link>https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/</guid>
+      <pubDate>Sat, 19 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Petlibro’s new AI-powered feeder is a game changer for multi-cat homes</title>
+      <link>https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/</guid>
+      <pubDate>Sat, 19 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Petlibro&amp;#x27;s new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Does AI need an antitrust exemption so it doesn’t kill everyone????</title>
+      <link>https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</guid>
+      <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prices go up in 7 days. Get your Disrupt ticket now.</title>
+      <link>https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/</guid>
+      <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI regulation smackdown isn’t over</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</guid>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At the start of this week, the who&amp;#x27;s-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</title>
+      <link>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/</guid>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>India forces caller-ID apps to feed spam reports to telcos</title>
       <link>https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/</link>
@@ -2827,26 +2897,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its &amp;quot;adherence to safety practices and commitments.&amp;quot; In a winding essay, Amodei proposed a three-step plan to &amp;quot;pace the frontier&amp;quot; - jargon that simply means to slow […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump is giving data centers a pass to pollute</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa</guid>
-      <pubDate>Sat, 12 Sep 2026 14:41:27 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a &amp;quot;Data Center Health Protection […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI just wants to win</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition</guid>
-      <pubDate>Sat, 12 Sep 2026 11:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI&amp;#x27;s relentless advance with […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
