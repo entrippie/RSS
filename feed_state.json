@@ -243,6 +243,15 @@
   "ts": 1789740000
  },
  {
+  "title": "Introducing the Australian Youth Safety Blueprint",
+  "link": "https://openai.com/index/australian-youth-safety-blueprint",
+  "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1789732800
+ },
+ {
   "title": "Could AI really kill us all? Your questions, answered.",
   "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
   "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
