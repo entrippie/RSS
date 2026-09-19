@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 15:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:35:58 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump suggests rebranding AI with a new name, says he’s also creating an AI Force</title>
+      <link>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</guid>
+      <pubDate>Sat, 19 Sep 2026 19:57:47 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Trump claimed, without evidence, that the AI backlash is a Democratic hoax.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google’s Gemini is the latest AI model to hack other companies</title>
+      <link>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</guid>
+      <pubDate>Sat, 19 Sep 2026 17:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google said Gemini had &amp;quot;acted appropriately&amp;quot; by ending each hack immediately.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>California Sea Lion, Brandt's Cormorant</title>
+      <link>https://simonwillison.net/2026/Sep/19/sighting-401567341/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/sighting-401567341/</guid>
+      <pubDate>Sat, 19 Sep 2026 17:10:08 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Sea Lion, Brandt&amp;#x27;s Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gemini went rogue, hacked three companies, and Google hid it</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</link>
@@ -2857,46 +2887,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
-      <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</guid>
-      <pubDate>Sat, 12 Sep 2026 20:19:16 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic CEO outlines plan to slow AI development</title>
-      <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</guid>
-      <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s Dario Amodei and OpenAI&amp;#x27;s Sam Altman seem to agree that it&amp;#x27;s time to &amp;quot;pace the frontier.&amp;quot; What would that actually look like?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Paul Ford</title>
-      <link>https://simonwillison.net/2026/Sep/12/paul-ford/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/paul-ford/</guid>
-      <pubDate>Sat, 12 Sep 2026 18:00:21 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their respective crafts. A.I. can write very good software, but it also makes it easy to…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic CEO says it’s time to pump the brakes on AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development</guid>
-      <pubDate>Sat, 12 Sep 2026 16:23:40 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its &amp;quot;adherence to safety practices and commitments.&amp;quot; In a winding essay, Amodei proposed a three-step plan to &amp;quot;pace the frontier&amp;quot; - jargon that simply means to slow […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
