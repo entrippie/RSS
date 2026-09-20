@@ -1,5 +1,23 @@
 [
  {
+  "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+  "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1789850680
+ },
+ {
+  "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+  "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+  "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1789850353
+ },
+ {
   "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
   "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
   "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
@@ -7,6 +25,15 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1789847867
+ },
+ {
+  "title": "datasette-auth-github 1.0",
+  "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+  "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1789847522
  },
  {
   "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -2554,41 +2581,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1789317000
- },
- {
-  "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-  "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-  "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here's that 5K route: When I asked it how it had created the route,…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1789257402
- },
- {
-  "title": "OpenAI’s rogue AI tried to hack another company in May",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-  "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1789249296
- },
- {
-  "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-  "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1789247788
- },
- {
-  "title": "California Brown Pelican",
-  "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-  "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1789247769
  }
 ]

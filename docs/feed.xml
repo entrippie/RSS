@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:50:13 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta’s Muse is creepy, but maybe not for the reasons you think</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</guid>
+      <pubDate>Sat, 19 Sep 2026 20:44:40 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s Muse is apparently an effective AI assistant, but one that&amp;#x27;s a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn&amp;#x27;t actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flock reportedly tries to shrink workforce with employee buyouts</title>
+      <link>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/</guid>
+      <pubDate>Sat, 19 Sep 2026 20:39:13 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Without buyouts, Flock would &amp;quot;almost certainly&amp;quot; need to lay off staff.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Trump suggests rebranding AI with a new name, says he’s also creating an AI Force</title>
       <link>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</link>
@@ -17,6 +37,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Trump claimed, without evidence, that the AI backlash is a Democratic hoax.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>datasette-auth-github 1.0</title>
+      <link>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/datasette-auth-github/</guid>
+      <pubDate>Sat, 19 Sep 2026 19:52:02 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren&amp;#x27;t lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google’s Gemini is the latest AI model to hack other companies</title>
@@ -2847,46 +2877,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
-      <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/astra-running-routes/</guid>
-      <pubDate>Sat, 12 Sep 2026 23:56:42 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Here&amp;#x27;s a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at &amp;lt;my address&amp;gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I&amp;#x27;d asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here&amp;#x27;s that 5K route: When I asked it how it had created the route,…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI’s rogue AI tried to hack another company in May</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack</guid>
-      <pubDate>Sat, 12 Sep 2026 21:41:36 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users&amp;#x27; API keys. At the time, RubyGems described it as a […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised</guid>
-      <pubDate>Sat, 12 Sep 2026 21:16:28 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>California Brown Pelican</title>
-      <link>https://simonwillison.net/2026/Sep/12/sighting-399708714/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/sighting-399708714/</guid>
-      <pubDate>Sat, 12 Sep 2026 21:16:09 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
