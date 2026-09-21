@@ -5,9 +5,69 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 04:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:42:33 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How we made the first comprehensive map of deaths along the US border’s “virtual wall”</title>
+      <link>https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4 ways to address the failures we found along the US border’s “virtual wall”</title>
+      <link>https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The US spent billions on border surveillance. Why can’t it catch people before they die?</title>
+      <link>https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>She died at the San Diego border. A surveillance camera was in plain sight</title>
+      <link>https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UN says AI safeguards can’t wait for certainty</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</guid>
+      <pubDate>Mon, 21 Sep 2026 10:18:06 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization&amp;#x27;s first major assessment of OpenAI&amp;#x27;s hack of Hugging Face earlier this year. The report cements AI&amp;#x27;s place on the global diplomatic agenda this week as leaders gather in New York […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon doesn’t trust Meta’s Muse AI agent</title>
+      <link>https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</guid>
+      <pubDate>Mon, 21 Sep 2026 09:21:47 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that &amp;quot;continued access by an unauthorized AI agent violates Amazon&amp;#x27;s Conditions of Use, to which our customers have agreed.&amp;quot; According to GeekWire, Meta didn&amp;#x27;t notify Amazon that […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sparse Priors for Efficient Distribution Learning</title>
       <link>https://arxiv.org/abs/2609.20883</link>
@@ -2917,16 +2977,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft is publishing a 37-page &amp;quot;humanist AI code of conduct&amp;quot; today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Fyxer built an AI executive assistant people trust</title>
-      <link>https://openai.com/index/fyxer</link>
-      <guid isPermaLink="true">https://openai.com/index/fyxer</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
