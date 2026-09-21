@@ -5,9 +5,119 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:56:53 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California tightens rules on AI data center energy and water use</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</guid>
+      <pubDate>Mon, 21 Sep 2026 20:29:45 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI forms math advisory group as its AI resolves more than 100 open problems</title>
+      <link>https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/</guid>
+      <pubDate>Mon, 21 Sep 2026 20:15:58 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The group won&amp;#x27;t be given leeway to slow down or redirect OpenAI&amp;#x27;s ongoing mathematical research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket</title>
+      <link>https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/</guid>
+      <pubDate>Mon, 21 Sep 2026 19:25:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s Muse is outpacing ChatGPT’s early mobile launch</title>
+      <link>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</guid>
+      <pubDate>Mon, 21 Sep 2026 19:19:21 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s AI agent has been blocked from using Amazon.com</title>
+      <link>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</guid>
+      <pubDate>Mon, 21 Sep 2026 17:55:18 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they&amp;#x27;re under no legal obligation to open the doors to Muse, why would they?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>With Tabby, a former accountant is using AI to make accountants obsolete</title>
+      <link>https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:38:51 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Improving synthesis prediction of small molecules at scale with RetroChimera</title>
+      <link>https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/</guid>
+      <pubDate>Mon, 21 Sep 2026 15:30:19 +0000</pubDate>
+      <dc:creator>Microsoft Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research .&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Can John Ternus find Apple’s next big thing?</title>
+      <link>https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone</guid>
+      <pubDate>Mon, 21 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.  Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
+      <pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement</title>
+      <link>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</guid>
+      <pubDate>Mon, 21 Sep 2026 13:36:52 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How we made the first comprehensive map of deaths along the US border’s “virtual wall”</title>
       <link>https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/</link>
@@ -49,6 +159,26 @@
       <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Advisory Group on Mathematics and Artificial Intelligence</title>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
+      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
+      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>UN says AI safeguards can’t wait for certainty</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</link>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</guid>
@@ -59,6 +189,16 @@
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization&amp;#x27;s first major assessment of OpenAI&amp;#x27;s hack of Hugging Face earlier this year. The report cements AI&amp;#x27;s place on the global diplomatic agenda this week as leaders gather in New York […]&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Building standards for the next phase of AI</title>
+      <link>https://openai.com/index/building-standards-next-phase-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/building-standards-next-phase-ai</guid>
+      <pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Amazon doesn’t trust Meta’s Muse AI agent</title>
       <link>https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</link>
       <guid isPermaLink="true">https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</guid>
@@ -67,6 +207,16 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that &amp;quot;continued access by an unauthorized AI agent violates Amazon&amp;#x27;s Conditions of Use, to which our customers have agreed.&amp;quot; According to GeekWire, Meta didn&amp;#x27;t notify Amazon that […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Expanding OpenAI Academy with new learning paths</title>
+      <link>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</link>
+      <guid isPermaLink="true">https://openai.com/index/expanding-openai-academy-with-new-learning-paths</guid>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sparse Priors for Efficient Distribution Learning</title>
@@ -369,6 +519,26 @@
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This paper presents the Transsion Speech Team submission to Task 1 of the MLC-SLM 2026 Challenge, which focuses on speaker-attributed transcription for multilingual conversational speech. We propose a cascaded framework consisting of three components: a speaker diarization module, a long-form multilingual ASR module, and a speaker-transcription fusion module. The diarization module is built upon…&lt;/p&gt;</description>
     </item>
     <item>
+      <title>How V7 gives AI agents institutional memory</title>
+      <link>https://openai.com/index/v7</link>
+      <guid isPermaLink="true">https://openai.com/index/v7</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tokenizers v1: encode, decode and scaling, measured</title>
+      <link>https://huggingface.co/blog/tokenizers-v1</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/tokenizers-v1</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Quoting voxium</title>
       <link>https://simonwillison.net/2026/Sep/20/voxium/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/voxium/</guid>
@@ -387,6 +557,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they&amp;#x27;re actually building.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MCP was always a bad idea?</title>
+      <link>https://simonwillison.net/2026/Sep/20/hn-49779718/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/hn-49779718/</guid>
+      <pubDate>Sun, 20 Sep 2026 20:24:41 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there&amp;#x27;s almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that&amp;#x27;s less YOLO than that, you&amp;#x27;ll find…&lt;/p&gt;</description>
     </item>
     <item>
       <title>llm-keys-ui 0.1</title>
@@ -2827,156 +3007,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to &amp;quot;pace the frontier,&amp;quot; signing on at least partially to a […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’</title>
-      <link>https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/</guid>
-      <pubDate>Mon, 14 Sep 2026 21:51:02 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Though Elon Musk and Sam Altman have supported Dario Amodei&amp;#x27;s calls to slow the pace of AI development, Jensen Huang seems to feel differently.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What execs and politicians are saying about slowing down AI development</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei</guid>
-      <pubDate>Mon, 14 Sep 2026 21:21:42 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled &amp;quot;We Must Pace the Frontier&amp;quot; detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we&amp;#x27;ve compiled some of […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The contagion of fear</title>
-      <link>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</guid>
-      <pubDate>Mon, 14 Sep 2026 21:18:13 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI &amp;quot;could kill us all by the end of the decade&amp;quot;. Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same: These ghoulish claims strike brazenly at the hearth, and…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says</title>
-      <link>https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/</guid>
-      <pubDate>Mon, 14 Sep 2026 20:44:14 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple&amp;#x27;s Portrait Mode.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What blog posts influenced your thinking the most?</title>
-      <link>https://simonwillison.net/2026/Sep/14/influences/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/influences/</guid>
-      <pubDate>Mon, 14 Sep 2026 20:21:48 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it&amp;#x27;s encouraged me to always be looking for improved understanding of the layers under where I&amp;#x27;m working, just in case one of those abstractions leaks. A more recent one, from 2018, is Migrations: the sole…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world</title>
-      <link>https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit</guid>
-      <pubDate>Mon, 14 Sep 2026 20:03:37 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast&amp;#x27;s All-In Summit. It&amp;#x27;s not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The AI industry has taken a doomer turn. What now?</title>
-      <link>https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/</guid>
-      <pubDate>Mon, 14 Sep 2026 17:54:22 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>With iOS 27, I’m actually using Siri again</title>
-      <link>https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/</guid>
-      <pubDate>Mon, 14 Sep 2026 17:10:30 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll</title>
-      <link>https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/</guid>
-      <pubDate>Mon, 14 Sep 2026 17:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Thanks to the launch of iOS 27, Daydream&amp;#x27;s app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans</title>
-      <link>https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/</guid>
-      <pubDate>Mon, 14 Sep 2026 16:27:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI agents blew the whistle on their cheating colleagues</title>
-      <link>https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/</guid>
-      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?</title>
-      <link>https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</guid>
-      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If you&amp;#x27;re building an AI company, the question isn&amp;#x27;t whether foundation models will continue to evolve. It&amp;#x27;s whether your company will continue creating value as they do. Don&amp;#x27;t miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work</title>
-      <link>https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/</guid>
-      <pubDate>Mon, 14 Sep 2026 14:45:44 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Laurie Voss</title>
-      <link>https://simonwillison.net/2026/Sep/14/laurie-voss/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/laurie-voss/</guid>
-      <pubDate>Mon, 14 Sep 2026 14:34:29 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I&amp;#x27;m assuming it gets there. What&amp;#x27;s left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per piece of software and doesn&amp;#x27;t transfer, so as the amount of software goes to infinity, which it will because there&amp;#x27;s no…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft says ‘people matter more than AI’ following safety concerns</title>
-      <link>https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct</guid>
-      <pubDate>Mon, 14 Sep 2026 13:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft is publishing a 37-page &amp;quot;humanist AI code of conduct&amp;quot; today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
