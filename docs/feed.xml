@@ -5,9 +5,129 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:54:06 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy</guid>
+      <pubDate>Tue, 22 Sep 2026 16:34:08 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Venture capital firm Andreessen Horowitz (a16z) is creating an &amp;quot;academy&amp;quot; positioned as a pipeline for young people to build or join a Silicon Valley startup. The &amp;quot;Horowitz Andreessen Academy&amp;quot; will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic releases Opus 5.5 with lower prices and Fable-level performance</title>
+      <link>https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:30:07 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic called it &amp;quot;the strongest-performing model we&amp;#x27;ve tested to date.&amp;quot;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</guid>
+      <pubDate>Tue, 22 Sep 2026 16:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company&amp;#x27;s testing sandbox. It&amp;#x27;s the first model released by Anthropic after CEO Dario […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trump says the US is officially renaming AI to ‘super intelligence’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence</guid>
+      <pubDate>Tue, 22 Sep 2026 16:01:10 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, &amp;quot;globalists,&amp;quot; climate change, and transgender people while also claiming that the US is now &amp;quot;officially&amp;quot; renaming artificial intelligence to &amp;quot;super intelligence.&amp;quot; Oddly, this wasn&amp;#x27;t one of the entries in the poll Trump posted a few days ago when he started […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llm-typesafe 0.1a0</title>
+      <link>https://simonwillison.net/2026/Sep/22/llm-typesafe/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm-typesafe/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:54:16 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI&amp;#x27;s new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no &amp;quot;noul&amp;quot; questions like this: llm -m jev &amp;#x27;Please refund my last payment.&amp;#x27; \ -s &amp;#x27;Does this message…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AstroForge is putting AI in command of its next spacecraft</title>
+      <link>https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda</title>
+      <link>https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage</title>
+      <link>https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/</guid>
+      <pubDate>Tue, 22 Sep 2026 14:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/</guid>
+      <pubDate>Tue, 22 Sep 2026 14:15:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF&amp;#x27;s Moscone West from October 13-15.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roundtables: The Deadly Failures of The Virtual Border Wall</title>
+      <link>https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/</guid>
+      <pubDate>Tue, 22 Sep 2026 13:42:05 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta patches Muse exploit that let attackers control the AI agent</title>
+      <link>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</guid>
+      <pubDate>Tue, 22 Sep 2026 11:53:58 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta&amp;#x27;s servers […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Don’t be fooled by this summer of AI hype</title>
       <link>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</link>
@@ -2847,96 +2967,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Your Agent Aced the Task. Will It Do It Again?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic, Google have been in talks on AI safety for weeks</title>
-      <link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</guid>
-      <pubDate>Tue, 15 Sep 2026 15:47:03 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump&amp;#x27;s team dismisses safety concerns and pushes to keep pace with China.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round</title>
-      <link>https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/</guid>
-      <pubDate>Tue, 15 Sep 2026 15:22:48 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s new One subscriptions put a price on social media and AI</title>
-      <link>https://www.theverge.com/tech/995453/meta-one-subscriptions-ai</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/995453/meta-one-subscriptions-ai</guid>
-      <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Shortly after launching its new do-everything AI assistant Muse, Meta&amp;#x27;s launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Former TikTok execs built an app that uses AI to teach you how to pose for a photo</title>
-      <link>https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/</guid>
-      <pubDate>Tue, 15 Sep 2026 14:42:37 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Tue, 15 Sep 2026 14:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>4 days left to exhibit at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>This doorbell camera lets a human security guard watch your front door</title>
-      <link>https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs</guid>
-      <pubDate>Tue, 15 Sep 2026 13:36:45 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company&amp;#x27;s Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents</title>
-      <link>https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/</guid>
-      <pubDate>Tue, 15 Sep 2026 13:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
