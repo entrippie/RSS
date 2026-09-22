@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:33:08 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don’t be fooled by this summer of AI hype</title>
+      <link>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</guid>
+      <pubDate>Tue, 22 Sep 2026 11:04:51 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>PRQuant: Permutation Residual Quantization for Low-Overhead Inference</title>
       <link>https://arxiv.org/abs/2609.22106</link>
@@ -207,6 +217,26 @@
       <category>arXiv papers</category>
       <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As automated scientific discovery advances, Large Language Models (LLMs) can now generate research ideas at an unprecedented scale, shifting the bottleneck from idea generation to idea evaluation. Existing evaluators mainly rely on parametric LLM knowledge or unstructured retrieval, producing judgments that lack the experience-grounded reasoning used by human instructors. To address this, we…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transformers now runs llama.cpp quants</title>
+      <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
+      <link>https://huggingface.co/blog/omlx</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/omlx</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping</title>
@@ -2907,16 +2937,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What must happen for AI’s trillion-dollar gamble to pay off</title>
-      <link>https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/</guid>
-      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
