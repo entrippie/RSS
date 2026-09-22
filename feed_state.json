@@ -1,5 +1,59 @@
 [
  {
+  "title": "Better prompt caching for GPT-6",
+  "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+  "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1790110800
+ },
+ {
+  "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+  "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+  "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790107200
+ },
+ {
+  "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+  "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+  "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790104151
+ },
+ {
+  "title": "Quoting @therealcornpop",
+  "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+  "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not. It's the lack of anything . It's the…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1790100201
+ },
+ {
+  "title": "Introducing GPT-6 Sol and Luna",
+  "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1790100000
+ },
+ {
+  "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+  "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+  "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790100000
+ },
+ {
   "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
   "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
   "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. […]",
@@ -308,6 +362,24 @@
  {
   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
   "link": "https://huggingface.co/blog/omlx",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1790035200
+ },
+ {
+  "title": "Priorities and principles for effective third party assessments",
+  "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1790035200
+ },
+ {
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "link": "https://huggingface.co/blog/evaleval-aisi",
   "summary": "",
   "source": "Hugging Face",
   "section": "Research labs",
@@ -2590,77 +2662,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1789508858
- },
- {
-  "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-  "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-  "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1789503173
- },
- {
-  "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-  "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-  "summary": "Algorithms & Theory",
-  "source": "Google Research",
-  "section": "Research labs",
-  "source_feed": "https://research.google/blog/rss/",
-  "ts": 1789502435
- },
- {
-  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-  "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-  "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1789498800
- },
- {
-  "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-  "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-  "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1789496960
- },
- {
-  "title": "Roundtables: Could AI really kill us all?",
-  "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-  "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1789494471
- },
- {
-  "title": "AI agents now have a place to snitch",
-  "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-  "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1789494179
- },
- {
-  "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-  "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-  "summary": "",
-  "source": "Google DeepMind",
-  "section": "Research labs",
-  "source_feed": "https://deepmind.google/blog/rss.xml",
-  "ts": 1789491957
- },
- {
-  "title": "Meta expands subscription push with new AI-focused plans",
-  "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-  "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1789491924
  }
 ]
