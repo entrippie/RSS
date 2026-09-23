@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 04:41:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:29:45 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI nabs key Patreon execs ahead of upcoming announcement</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</guid>
+      <pubDate>Wed, 23 Sep 2026 11:02:39 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he&amp;#x27;s joining OpenAI to lead Creator Product. He&amp;#x27;s also bringing Patreon&amp;#x27;s former product head Drew Rowny and engineering head Shannon Ma with […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI</title>
+      <link>https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/</guid>
+      <pubDate>Wed, 23 Sep 2026 04:59:08 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>"As a Language Model...": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It</title>
       <link>https://arxiv.org/abs/2609.25021</link>
@@ -327,6 +347,16 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grab and OpenAI bring practical AI skills to Southeast Asia</title>
+      <link>https://openai.com/index/grab-openai-ai-skills-southeast-asia</link>
+      <guid isPermaLink="true">https://openai.com/index/grab-openai-ai-skills-southeast-asia</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war</title>
@@ -3097,26 +3127,6 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon launches Alexa+ in India with Hindi support</title>
-      <link>https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</guid>
-      <pubDate>Wed, 16 Sep 2026 10:34:47 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon is letting all customers use Alexa+ assistant in early access period&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How workers are unlocking new ways of working</title>
-      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
-      <guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
-      <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

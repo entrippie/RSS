@@ -1,5 +1,23 @@
 [
  {
+  "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+  "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1790161359
+ },
+ {
+  "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+  "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+  "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790139548
+ },
+ {
   "title": "\"As a Language Model...\": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",
   "link": "https://arxiv.org/abs/2609.25021",
   "summary": "Large Language Models (LLMs) tend to add disclaimers like \"I'm just an AI\" when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood. Are the models telling us about themselves or rather how they are deployed? In this work, we show that the chat template…",
@@ -286,6 +304,15 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1790122637
+ },
+ {
+  "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+  "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+  "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1790121600
  },
  {
   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
@@ -2779,23 +2806,5 @@
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1789560000
- },
- {
-  "title": "Amazon launches Alexa+ in India with Hindi support",
-  "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-  "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1789554887
- },
- {
-  "title": "How workers are unlocking new ways of working",
-  "link": "https://openai.com/index/unlocking-new-ways-of-working",
-  "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1789549200
  }
 ]
