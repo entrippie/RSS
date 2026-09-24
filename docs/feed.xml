@@ -5,9 +5,149 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:06:48 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It’s sinister that Meta’s Muse AI mascot is so cute</title>
+      <link>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</link>
+      <guid isPermaLink="true">https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they&amp;#x27;re going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to help me set some health […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS</title>
+      <link>https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
+      <link>https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:46:47 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B</title>
+      <link>https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:35:13 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.8 Live with Live Avatar</title>
+      <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini can now call businesses for you so you don’t have to wait on hold</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls</guid>
+      <pubDate>Thu, 24 Sep 2026 16:04:31 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s launching an &amp;quot;early experiment&amp;quot; feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don&amp;#x27;t even need to start the call to have Gemini handle it for you: Instead of dialing yourself, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:03:36 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google tests letting Gemini call businesses for you</title>
+      <link>https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why can’t we just keep rogue AIs off the internet?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</guid>
+      <pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn&amp;#x27;t it be safer to just keep the agents off the internet? &amp;quot;A strict air […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google is sending an AI satellite into space next week</title>
+      <link>https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher</guid>
+      <pubDate>Thu, 24 Sep 2026 14:15:17 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google&amp;#x27;s Project Suncatcher, the company&amp;#x27;s experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google&amp;#x27;s Tensor […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The vibes are bad for Flock in Washington</title>
+      <link>https://www.theverge.com/policy/1000005/flock-senate-hearing</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1000005/flock-senate-hearing</guid>
+      <pubDate>Thu, 24 Sep 2026 14:15:05 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its &amp;quot;AI Surveillance Network&amp;quot; on Wednesday. &amp;quot;There&amp;#x27;s many players in this industry, but there&amp;#x27;s one name that really stands out above the rest, and that is Flock,&amp;quot; Senate Judiciary crime and counterterrorism subcommittee chair […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I have some questions for Mark Zuckerberg</title>
+      <link>https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers</guid>
+      <pubDate>Thu, 24 Sep 2026 14:15:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is surprisingly good.  CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+      <pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -3007,76 +3147,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia</title>
-      <link>https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/</guid>
-      <pubDate>Thu, 17 Sep 2026 14:06:14 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft AI CEO says AI threats are real, and Anthropic is making it worse</title>
-      <link>https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude</guid>
-      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI is feared globally as the destroyer of jobs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs</guid>
-      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2 days left to exhibit at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls</title>
-      <link>https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/</guid>
-      <pubDate>Thu, 17 Sep 2026 13:46:16 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;People can use these assistants to make restaurant reservations and cancel subscriptions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers</title>
-      <link>https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/</guid>
-      <pubDate>Thu, 17 Sep 2026 13:38:33 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Cooley is accelerating IPO work with ChatGPT</title>
-      <link>https://openai.com/index/cooley-gopublic</link>
-      <guid isPermaLink="true">https://openai.com/index/cooley-gopublic</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
