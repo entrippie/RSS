@@ -5,9 +5,129 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 17:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:28:39 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>commit-rewriter 0.2</title>
+      <link>https://simonwillison.net/2026/Sep/24/commit-rewriter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/commit-rewriter/</guid>
+      <pubDate>Thu, 24 Sep 2026 20:06:53 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 3.8 Live with Live Avatar gives Google’s AI a face</title>
+      <link>https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</guid>
+      <pubDate>Thu, 24 Sep 2026 19:59:26 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The &amp;quot;Live Avatar&amp;quot; will lip-sync and show different facial expressions during conversations, but it&amp;#x27;s currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automating coherent long-form video generation</title>
+      <link>https://research.google/blog/coherent-long-form-video-generation/</link>
+      <guid isPermaLink="true">https://research.google/blog/coherent-long-form-video-generation/</guid>
+      <pubDate>Thu, 24 Sep 2026 19:40:29 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Generative AI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>datasette 1.0a41</title>
+      <link>https://simonwillison.net/2026/Sep/24/datasette/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/datasette/</guid>
+      <pubDate>Thu, 24 Sep 2026 19:15:23 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I&amp;#x27;ve also refactored all of Datasette&amp;#x27;s modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , alex-garcia , opentelemetry&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass</title>
+      <link>https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/</guid>
+      <pubDate>Thu, 24 Sep 2026 19:15:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PrismML brings its tiny LLMs to Qualcomm-powered smart glasses</title>
+      <link>https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/</guid>
+      <pubDate>Thu, 24 Sep 2026 19:00:42 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Prism&amp;#x27;s larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oracle sends force majeure notice on its New Mexico Stargate data center</title>
+      <link>https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/</guid>
+      <pubDate>Thu, 24 Sep 2026 18:11:44 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jensen Huang talks about AI and climate change like a supervillain</title>
+      <link>https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain</guid>
+      <pubDate>Thu, 24 Sep 2026 18:04:44 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts &amp;quot;an enormous amount of pain and suffering&amp;quot; first. The Nvidia CEO discussed the future of energy and AI&amp;#x27;s impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta is going to let you build games with AI right on your phone</title>
+      <link>https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games</guid>
+      <pubDate>Thu, 24 Sep 2026 17:52:29 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend</title>
+      <link>https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/</guid>
+      <pubDate>Thu, 24 Sep 2026 17:39:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Muse will apparently let you download its entire filesystem</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem</guid>
+      <pubDate>Thu, 24 Sep 2026 17:14:12 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A pair of developers say that with very little prompting, Meta&amp;#x27;s Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Muse sure looks a lot like OpenClaw</title>
+      <link>https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike</link>
+      <guid isPermaLink="true">https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike</guid>
+      <pubDate>Thu, 24 Sep 2026 17:10:38 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We seem to be entering into an AI agent renaissance. Meta&amp;#x27;s new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>It’s sinister that Meta’s Muse AI mascot is so cute</title>
       <link>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</link>
@@ -3047,106 +3167,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America&amp;#x27;s skies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Self-generated prompt injections in compaction summaries</title>
-      <link>https://simonwillison.net/2026/Sep/17/compaction-summaries/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/compaction-summaries/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:57:55 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide &amp;quot;six reports on unexpected or concerning model behavior we’ve observed in the last six months&amp;quot;. This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts. Compaction is the process agent systems…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The future of practice: Enabling teachers to create learning interactives with generative UI</title>
-      <link>https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/</link>
-      <guid isPermaLink="true">https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:45:00 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Education Innovation&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The fix for rogue AI agents could be more AI</title>
-      <link>https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:34:47 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI caught its models leaving notes to successors to hide bad behavior</title>
-      <link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:34:24 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is the AI safety debate about safety or control?</title>
-      <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:19:37 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Not everyone agrees with Amodei&amp;#x27;s call for globally coordinated action for AI safety.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>UN turns to Google to make its global data ready for AI agents</title>
-      <link>https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal</title>
-      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</guid>
-      <pubDate>Thu, 17 Sep 2026 19:46:08 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Newly unsealed court filings show Microsoft privately called OpenAI&amp;#x27;s data practices &amp;quot;theft&amp;quot; while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The AI Superintelligence Slowdown</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic</guid>
-      <pubDate>Thu, 17 Sep 2026 19:28:24 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code relaunches Projects to manage multiple AI agents in the cloud</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects</guid>
-      <pubDate>Thu, 17 Sep 2026 18:58:05 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has &amp;quot;threads&amp;quot; running different tasks in parallel, with a &amp;quot;coordinator&amp;quot; directing everything: […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Even the king of England has his hesitations about AI</title>
-      <link>https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/</guid>
-      <pubDate>Thu, 17 Sep 2026 17:26:25 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
