@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 04:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:46:33 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Pentagon wants $30 million to build an AI-powered lie detector</title>
+      <link>https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/</guid>
+      <pubDate>Fri, 25 Sep 2026 09:16:25 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lightspeed targets $250M for new India fund, focusing on early-stage AI</title>
+      <link>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Stable and Faithful Explanations for Knowledge Tracing</title>
       <link>https://arxiv.org/abs/2609.28502</link>
@@ -3087,26 +3107,6 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Could AI really kill us all? Your questions, answered.</title>
-      <link>https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/</guid>
-      <pubDate>Fri, 18 Sep 2026 11:29:22 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flash floods can strike without warning — this new technology could change that</title>
-      <link>https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning</link>
-      <guid isPermaLink="true">https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning</guid>
-      <pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. &amp;quot;I look over to where the barn is over there, […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

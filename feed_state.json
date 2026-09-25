@@ -1,5 +1,23 @@
 [
  {
+  "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+  "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+  "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1790327785
+ },
+ {
+  "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+  "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+  "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790312400
+ },
+ {
   "title": "Stable and Faithful Explanations for Knowledge Tracing",
   "link": "https://arxiv.org/abs/2609.28502",
   "summary": "Knowledge tracing (KT) models predict student performance opaquely, limiting pedagogical action. This study contributes a validation protocol testing predictive competitiveness (RQ1), explanation stability (RQ2) and retraining-based faithfulness (RQ3) together. Thirteen behavioral features across five pedagogical themes were engineered from ASSISTments 2009 and 2012, with history features…",
@@ -2770,23 +2788,5 @@
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1789732800
- },
- {
-  "title": "Could AI really kill us all? Your questions, answered.",
-  "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-  "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1789730962
- },
- {
-  "title": "Flash floods can strike without warning — this new technology could change that",
-  "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-  "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1789729200
  }
 ]
