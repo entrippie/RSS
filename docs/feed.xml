@@ -5,9 +5,129 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:07:15 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+      <link>https://openai.com/index/proaction</link>
+      <guid isPermaLink="true">https://openai.com/index/proaction</guid>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta makes the Muse filesystem even more accessible</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</guid>
+      <pubDate>Fri, 25 Sep 2026 16:49:53 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yesterday, with a little prodding, it was discovered that Meta&amp;#x27;s Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren&amp;#x27;t meant to see, not least because Muse itself told people, including us, it wasn&amp;#x27;t supposed to reveal […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta is putting its muscle behind Muse as the AI app takes off</title>
+      <link>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</guid>
+      <pubDate>Fri, 25 Sep 2026 16:16:52 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents&amp;#x27;s promotion across its own apps and beyond.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sony and UMG are suing Suno again</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music</guid>
+      <pubDate>Fri, 25 Sep 2026 15:51:56 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it&amp;#x27;s trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</title>
+      <link>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/</guid>
+      <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The latest unauthorized agent swarms were discovered by researchers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic’s founders seek voting control ahead of IPO</title>
+      <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</guid>
+      <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One company is at the center of a wave of rogue AI attacks</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google</guid>
+      <pubDate>Fri, 25 Sep 2026 15:39:48 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware</title>
+      <link>https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/</guid>
+      <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass</title>
+      <link>https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/</guid>
+      <pubDate>Fri, 25 Sep 2026 14:15:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum</title>
+      <link>https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/</guid>
+      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup&amp;#x27;s trajectory than where you started. Don&amp;#x27;t miss your chance to save and to push the needle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test</title>
+      <link>https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</guid>
+      <pubDate>Fri, 25 Sep 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a &amp;quot;motion detected&amp;quot; notification from my security camera. &amp;quot;Just […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft thinks its new Copilot ‘super app’ will be as influential as Office</title>
+      <link>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</guid>
+      <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After teasing its new Copilot &amp;quot;super app&amp;quot; last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Pentagon wants $30 million to build an AI-powered lie detector</title>
       <link>https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/</link>
@@ -327,6 +447,26 @@
       <category>arXiv papers</category>
       <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Language-model agents increasingly answer questions over customer-relationship management (CRM) records, such as whether to qualify a sales lead. We identify a failure mode not addressed by a stronger model: when the context contains an assertion by a party with an incentive toward optimism - here the sales representative, a witness recorded in the CRM - the model treats the assertion as evidence…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northern Gannet, Great Blue Heron, California Brown Pelican</title>
+      <link>https://simonwillison.net/2026/Sep/25/sighting-403293902/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/25/sighting-403293902/</guid>
+      <pubDate>Fri, 25 Sep 2026 02:07:04 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA New 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor! Tags: photography , wildlife&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note on 24th September 2026</title>
+      <link>https://simonwillison.net/2026/Sep/24/harder/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/harder/</guid>
+      <pubDate>Thu, 24 Sep 2026 23:31:08 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms&lt;/p&gt;</description>
     </item>
     <item>
       <title>commit-rewriter 0.2</title>
@@ -2997,116 +3137,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. …&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Automattic’s 33-Hour Coup, and can AI labs police themselves?</title>
-      <link>https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/</link>
-      <guid isPermaLink="true">https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/</guid>
-      <pubDate>Fri, 18 Sep 2026 17:06:32 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.  On…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gavin Newsom is pushing for an AI kill switch</title>
-      <link>https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</guid>
-      <pubDate>Fri, 18 Sep 2026 17:04:51 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a &amp;quot;kill switch&amp;quot; for frontier models, with a new executive order issued Friday. Newsom&amp;#x27;s order directs the state to convene a group of experts that will deliver recommendations within two months on how to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Hollywood thinks about existential AI warnings</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</guid>
-      <pubDate>Fri, 18 Sep 2026 16:35:19 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As the tech sector sounds alarms about AI&amp;#x27;s potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what&amp;#x27;s already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Security researchers used Claude to help them hack into OpenAI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</guid>
-      <pubDate>Fri, 18 Sep 2026 15:30:16 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic&amp;#x27;s Claude Opus 4.8 and 5, the Wall Street Journal reports. They were able to access OpenAI&amp;#x27;s GitHub repository, called &amp;quot;Monorepo,&amp;quot; which reportedly contains &amp;quot;OpenAI&amp;#x27;s algorithmic secrets,&amp;quot; according to the […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Fri, 18 Sep 2026 15:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia&amp;#x27;s Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s Muse hits Mac, letting the AI take actions on your computer</title>
-      <link>https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/</guid>
-      <pubDate>Fri, 18 Sep 2026 15:22:48 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Creative Spirit of Who Framed Roger Rabbit</title>
-      <link>https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/</guid>
-      <pubDate>Fri, 18 Sep 2026 14:36:41 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven&amp;#x27;t watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie: It&amp;#x27;s a pelican riding a bicycle! Look closely and you&amp;#x27;ll note that the pelican is animated while the bicycle is a real bicycle. Apparently they filled the wheels…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Researchers used Anthropic’s Claude to hack into OpenAI</title>
-      <link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/</guid>
-      <pubDate>Fri, 18 Sep 2026 14:00:14 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing the Australian Youth Safety Blueprint</title>
-      <link>https://openai.com/index/australian-youth-safety-blueprint</link>
-      <guid isPermaLink="true">https://openai.com/index/australian-youth-safety-blueprint</guid>
-      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
