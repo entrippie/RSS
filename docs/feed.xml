@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:31:56 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta opens early access program for new Muse features</title>
+      <link>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</guid>
+      <pubDate>Fri, 25 Sep 2026 20:34:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anyone interested in joining has to ask Muse to put them on the list.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
+      <link>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</guid>
+      <pubDate>Fri, 25 Sep 2026 19:13:38 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic has committed $11.6 billion over seven years to Akamai&amp;#x27;s cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
       <link>https://openai.com/index/proaction</link>
@@ -17,6 +37,56 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his</title>
+      <link>https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/</guid>
+      <pubDate>Fri, 25 Sep 2026 18:48:33 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing</title>
+      <link>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</guid>
+      <pubDate>Fri, 25 Sep 2026 18:33:59 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The funding, which comes from Third Point, Nvidia, and others, will fuel the company&amp;#x27;s massive AI data center buildout.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic</title>
+      <link>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/</link>
+      <guid isPermaLink="true">https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/</guid>
+      <pubDate>Fri, 25 Sep 2026 18:22:47 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Some Supabase customers are publicly exposing reams of people’s data to the web</title>
+      <link>https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/</guid>
+      <pubDate>Fri, 25 Sep 2026 17:29:46 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The findings highlight how AI-generated and vibe-coded apps can spill and expose users&amp;#x27; data when not configured or secured properly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting John Gruber</title>
+      <link>https://simonwillison.net/2026/Sep/25/john-gruber/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/25/john-gruber/</guid>
+      <pubDate>Fri, 25 Sep 2026 17:22:01 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot . It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meta makes the Muse filesystem even more accessible</title>
@@ -3037,106 +3107,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Accenture is about to take on its most high-risk consulting engagement ever.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</guid>
-      <pubDate>Fri, 18 Sep 2026 21:07:24 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Recently unsealed court documents in the New York Times&amp;#x27; case against OpenAI and Microsoft are pretty damning. The companies&amp;#x27; own documentation warned that it was starting a &amp;quot;doom loop&amp;quot; that would damage the web, characterized its scraping of data to train its models as the &amp;quot;largest theft of labor in human history,&amp;quot; and that it […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>World model companies are keeping a lot of secrets</title>
-      <link>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/</guid>
-      <pubDate>Fri, 18 Sep 2026 20:18:14 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they&amp;#x27;re actually building.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Note on 18th September 2026</title>
-      <link>https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</guid>
-      <pubDate>Fri, 18 Sep 2026 19:21:32 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai , generative-ai&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Thariq Shihipar</title>
-      <link>https://simonwillison.net/2026/Sep/18/thariq-shihipar/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/thariq-shihipar/</guid>
-      <pubDate>Fri, 18 Sep 2026 19:09:27 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We&amp;#x27;re adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A new kind of AI model from a ChatGPT inventor is thrilling developers</title>
-      <link>https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/</guid>
-      <pubDate>Fri, 18 Sep 2026 18:49:30 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Virginia governor creates an AI task force and moves to restrain data centers</title>
-      <link>https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</guid>
-      <pubDate>Fri, 18 Sep 2026 18:29:17 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Disney’s first CTO led an AI startup it once accused of copying its characters</title>
-      <link>https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/</guid>
-      <pubDate>Fri, 18 Sep 2026 17:59:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company&amp;#x27;s first-ever chief technology officer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MilleMiglia: A realistic instance generator for middle-mile logistics</title>
-      <link>https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/</link>
-      <guid isPermaLink="true">https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/</guid>
-      <pubDate>Fri, 18 Sep 2026 17:46:09 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Algorithms &amp;amp; Theory&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google’s new ‘CC’ is an AI agent that helps families run their households</title>
-      <link>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</guid>
-      <pubDate>Fri, 18 Sep 2026 17:33:50 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</title>
-      <link>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</guid>
-      <pubDate>Fri, 18 Sep 2026 17:09:56 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. …&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
