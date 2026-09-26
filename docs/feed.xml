@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 16:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:06:02 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insurers claim AI is already increasing healthcare costs</title>
+      <link>https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</guid>
+      <pubDate>Sat, 26 Sep 2026 21:02:06 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI pauses training of its ‘most capable models’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</guid>
+      <pubDate>Sat, 26 Sep 2026 16:34:59 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As reports of OpenAI&amp;#x27;s models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Can Cloudflare CEO Matthew Prince save the web from AI?</title>
       <link>https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</link>
@@ -2957,66 +2977,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s Muse is creepy, but maybe not for the reasons you think</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</guid>
-      <pubDate>Sat, 19 Sep 2026 20:44:40 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s Muse is apparently an effective AI assistant, but one that&amp;#x27;s a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn&amp;#x27;t actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flock reportedly tries to shrink workforce with employee buyouts</title>
-      <link>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/</guid>
-      <pubDate>Sat, 19 Sep 2026 20:39:13 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Without buyouts, Flock would &amp;quot;almost certainly&amp;quot; need to lay off staff.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump suggests rebranding AI with a new name, says he’s also creating an AI Force</title>
-      <link>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</guid>
-      <pubDate>Sat, 19 Sep 2026 19:57:47 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Trump claimed, without evidence, that the AI backlash is a Democratic hoax.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette-auth-github 1.0</title>
-      <link>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/datasette-auth-github/</guid>
-      <pubDate>Sat, 19 Sep 2026 19:52:02 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren&amp;#x27;t lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google’s Gemini is the latest AI model to hack other companies</title>
-      <link>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</guid>
-      <pubDate>Sat, 19 Sep 2026 17:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google said Gemini had &amp;quot;acted appropriately&amp;quot; by ending each hack immediately.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>California Sea Lion, Brandt's Cormorant</title>
-      <link>https://simonwillison.net/2026/Sep/19/sighting-401567341/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/sighting-401567341/</guid>
-      <pubDate>Sat, 19 Sep 2026 17:10:08 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;California Sea Lion, Brandt&amp;#x27;s Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
