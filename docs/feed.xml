@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 21:18:33 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic’s CEO is about to have dinner with President Trump</title>
+      <link>https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</guid>
+      <pubDate>Sun, 27 Sep 2026 20:34:28 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This will be the first one-on-one meeting between Dario Amodei and Donald Trump&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Can Muse overcome Meta’s trust issues?</title>
+      <link>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:30 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we discussed how Meta&amp;#x27;s AI announcement managed to steal the spotlight from OpenAI and Anthropic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI agents tried to ‘bruteforce’ a UN website</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</guid>
+      <pubDate>Sun, 27 Sep 2026 17:21:07 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development&amp;#x27;s (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn&amp;#x27;t quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it&amp;#x27;s yet another concerning example of AI […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic’s Dario Amodei gets the SNL treatment</title>
       <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
@@ -2887,86 +2917,6 @@
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
       <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting voxium</title>
-      <link>https://simonwillison.net/2026/Sep/20/voxium/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/voxium/</guid>
-      <pubDate>Sun, 20 Sep 2026 21:06:43 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>World model companies are keeping a lot of secrets</title>
-      <link>https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</guid>
-      <pubDate>Sun, 20 Sep 2026 20:29:07 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they&amp;#x27;re actually building.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MCP was always a bad idea?</title>
-      <link>https://simonwillison.net/2026/Sep/20/hn-49779718/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/hn-49779718/</guid>
-      <pubDate>Sun, 20 Sep 2026 20:24:41 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there&amp;#x27;s almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that&amp;#x27;s less YOLO than that, you&amp;#x27;ll find…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>llm-keys-ui 0.1</title>
-      <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/llm-keys-ui/</guid>
-      <pubDate>Sun, 20 Sep 2026 19:22:19 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I&amp;#x27;ve started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don&amp;#x27;t like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is the AI industry really ready to slow down?</title>
-      <link>https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/</guid>
-      <pubDate>Sun, 20 Sep 2026 18:56:04 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we debated whether Ai executives are serious about wanting to slow down.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown</guid>
-      <pubDate>Sun, 20 Sep 2026 18:50:18 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a &amp;quot;0% chance&amp;quot; of AI being the end of the […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vocci’s ring adds a new form factor to meeting note-taking</title>
-      <link>https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/</guid>
-      <pubDate>Sun, 20 Sep 2026 18:32:52 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Vocci&amp;#x27;s lightweight ring costs $249, and might pose some privacy questions&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ScrollEd wants to turn textbooks into TikTok</title>
-      <link>https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/</guid>
-      <pubDate>Sun, 20 Sep 2026 18:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
