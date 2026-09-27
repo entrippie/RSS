@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 21:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 05:14:20 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
+      <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</guid>
+      <pubDate>Sun, 27 Sep 2026 01:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The limited test covers select products and users, with a broader rollout planned for later in October.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kākāpō Party</title>
+      <link>https://simonwillison.net/2026/Sep/26/kakapo-party/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/26/kakapo-party/</guid>
+      <pubDate>Sat, 26 Sep 2026 23:39:06 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Insurers claim AI is already increasing healthcare costs</title>
       <link>https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</link>
@@ -2967,16 +2987,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Before recent high-profile hacks raised the specter of AI possibly &amp;quot;killing all humans,&amp;quot; our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. &amp;quot;We were always prey. We were just kind of surviving at the appetite of our predators,&amp;quot; Joshua Corman, executive in residence for public safety and resilience at […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette-explain 0.2.2</title>
-      <link>https://simonwillison.net/2026/Sep/20/datasette-explain/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/datasette-explain/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:22:04 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
