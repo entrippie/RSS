@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 05:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 16:55:31 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic’s Dario Amodei gets the SNL treatment</title>
+      <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</guid>
+      <pubDate>Sun, 27 Sep 2026 16:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;AI is the devil and I its maker.&amp;quot;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
       <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
@@ -2957,36 +2967,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump now says he wants to form an ‘AI Force’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar</guid>
-      <pubDate>Sun, 20 Sep 2026 15:39:22 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The president posted on Truth Social that he wanted to appoint an &amp;quot;AI czar&amp;quot; to lead a new &amp;quot;AI force.&amp;quot; He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration &amp;quot;will not in any way hinder […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>6 days left to get ahead at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Sun, 20 Sep 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems</title>
-      <link>https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</link>
-      <guid isPermaLink="true">https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</guid>
-      <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Before recent high-profile hacks raised the specter of AI possibly &amp;quot;killing all humans,&amp;quot; our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. &amp;quot;We were always prey. We were just kind of surviving at the appetite of our predators,&amp;quot; Joshua Corman, executive in residence for public safety and resilience at […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
