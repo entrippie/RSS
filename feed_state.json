@@ -1,5 +1,311 @@
 [
  {
+  "title": "Quoting Muse AI Agent",
+  "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+  "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse. I've sent him an apology from your account owning…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1790568090
+ },
+ {
+  "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+  "link": "https://arxiv.org/abs/2609.30270",
+  "summary": "On-device inference with small language models keeps user data local, works offline, and incurs no per-query cost, so the on-device tier is preferred when it is adequate. It is thermally constrained, however, and I find the constraint is sharper than a slowdown: on a flagship Snapdragon device, sustained on-device generation destabilizes the GPU inference runtime, which crashes or silently wedges…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "When the Preconditioning Exponent Turns Negative: Learning-Rate Coupling and Cross-Environment Generalization",
+  "link": "https://arxiv.org/abs/2609.30271",
+  "summary": "Adaptive optimizers are commonly parameterized by a fixed power of the second-moment estimate. Existing partially adaptive methods study exponents between momentum-like updates and the standard Adam square root, while the interaction between this exponent and the global learning rate is less understood. We perform a controlled cross-environment study using a paired four-environment classification…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers",
+  "link": "https://arxiv.org/abs/2609.30272",
+  "summary": "We present \\textbf{ENAS}, a hardware-aware Neural Architecture Search (NAS) framework that combines a static feasibility check, a cell-based search space supporting standard, depthwise-separable, and bottleneck blocks with optional skip connections, and a three-stage hybrid search strategy (random $\\rightarrow$ top-$K$ $\\rightarrow$ mutation) with persistent cross-run caching. Unlike many…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "Offline Policy Evaluation as a decision support tool for designing Adaptive Experiments",
+  "link": "https://arxiv.org/abs/2609.30273",
+  "summary": "We investigate how historical data from fixed randomized experiments (A/B tests) can be used to inform the deployment of adaptive experiments based on contextual bandits. Given data collected under a static allocation, our goal is to assess which adaptive policies, if any, would have outperformed the original design and under what conditions. To this end, we combine off-policy evaluation (OPE)…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "Cosine Similarity Is Not Evidence: Measuring the Noise Floor of Interpretability Transfer Under Quantization",
+  "link": "https://arxiv.org/abs/2609.30275",
+  "summary": "A statistic reported without the quantity needed to interpret it is not evidence. We develop that thesis for a concrete practice in AI safety. Interpretability artifacts are calibrated on full-precision weights, deployed on quantized ones, and certified as surviving the change by scale-invariant statistics (cosine similarity, correlation, AUROC) that are reported without their noise floor. For…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "Why Clipping Matters in AdaGrad? Toward a High-Probability Theory under Generalized Smoothness",
+  "link": "https://arxiv.org/abs/2609.30276",
+  "summary": "We analyze the original same-step coordinate-wise AdaGrad under generalized smoothness and heavy-tailed noise with bounded variance. In this setting, local curvature may grow sub-quadratically with the gradient norm, and stochastic gradients are assumed to have only bounded conditional second moments. We show that unclipped AdaGrad can become \\emph{anisotropically miscalibrated}: under…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "Fixed Points Without Fixed Diffusion: Implicit Neural Sheaves for Convergent Test-Time Computation",
+  "link": "https://arxiv.org/abs/2609.30277",
+  "summary": "Implicit Graph Neural Networks (IGNNs) define node representations as fixed points of message-passing operators, enabling effectively infinite-depth propagation, iteration-independent parameterization, and flexible test-time computation. Yet these benefits depend on the equilibrium being unique and attainable by fixed-point iteration. Existing constructions often impose constraints on recurrent…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "Neural Ideals and Neural Codes: An Algebraic Framework for Neural Network Classification and Feature Interpretation",
+  "link": "https://arxiv.org/abs/2609.30279",
+  "summary": "Understanding the features captured by the hidden layers of neural networks is a fundamental challenge in machine learning, despite their widespread success across various classification problems. In this work, we propose an algebraic framework for examining neural networks that model classification problems. Certain results, such as the correspondence between the neural network and neural…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "Seasonal and Quantum-inspired Models for Neutron Monitor Time Series Forecasting",
+  "link": "https://arxiv.org/abs/2609.30281",
+  "summary": "We present a focused and reproducible study of multi-horizon forecasting on the Lomnicky Stit neutron monitor (LMKS) time series. Our evaluation suite covers simple seasonal baselines, modern deep sequence models, and functional and quantum-inspired architectures, including Seasonal Naive, Long Short-Term Memory (LSTM), Temporal Convolutional Network (TCN), N-BEATS, Kolmogorov-Arnold Networks…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "When Does Advection-Aware Graph Nowcasting Help? A Controlled Study of Distributed Solar Ramp Forecasting with a Self-Supervised Cloud-Motion Estimator",
+  "link": "https://arxiv.org/abs/2609.30286",
+  "summary": "Short-term forecasting of cloud-induced power ramps across a network of distributed photovoltaic (PV) or irradiance sensors is a recognised pain point for grid operators. A natural idea is to make the graph neural network (GNN) advection-aware: connect each site to the sites upwind of it, with edge time-lags set by the cloud-motion vector (CMV), so that a ramp is propagated forward before it…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790568000
+ },
+ {
+  "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+  "link": "https://arxiv.org/abs/2609.30291",
+  "summary": "The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluation of autonomous systems, based on a generic…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+  "link": "https://arxiv.org/abs/2609.30325",
+  "summary": "Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope adherence. We introduce ScopeBench, a benchmark…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+  "link": "https://arxiv.org/abs/2609.30328",
+  "summary": "When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+  "link": "https://arxiv.org/abs/2609.30341",
+  "summary": "Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented through the Eunomia Agent, to…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+  "link": "https://arxiv.org/abs/2609.30383",
+  "summary": "A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of third-party capabilities, but the openness of this skill ecosystem also opens up a new attack surface. Prior work has focused on vulnerabilities…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+  "link": "https://arxiv.org/abs/2609.30397",
+  "summary": "Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typically assess explanations by measuring their fidelity with respect to the predictions of a black-box model. However, such evaluation strategies only…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+  "link": "https://arxiv.org/abs/2609.30446",
+  "summary": "This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. The model is trained on the same dataset used to develop the recent DeepTMHMM model with 5-fold cross-validation. Unlike the conventional approaches based on using only the protein sequences or the $\\alpha$-carbons as features, we have decoded our classifier in this way,…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+  "link": "https://arxiv.org/abs/2609.30456",
+  "summary": "Reward maximization alignment methods for discrete diffusion models have primarily focused on steering the reverse process, either by influencing token logits or by selecting favorable sequences at intermediate steps. These approaches largely treat inference as a unidirectional process, lacking mechanisms for revisiting undesirable token selections. We introduce Spectral Feedback, an algorithm…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+  "link": "https://arxiv.org/abs/2609.30469",
+  "summary": "Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsupervised path to improve ASR without expensive human labels, but the efficacy of this approach on very noisy domains is not known. In this work, we systematically assess the opportunities and limits of pseudo-labeling to adapt…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+  "link": "https://arxiv.org/abs/2609.30484",
+  "summary": "While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at their core: do these models truly comprehend context or simply excel at pattern matching on an unprecedented scale? Contextual understanding in LLMs refers to the ability to correctly extract relevant information from a given context, integrate it into a coherent internal…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790568000
+ },
+ {
+  "title": "A Mechanistic Study of AI-Text Detection Neurons in Frozen BERT: Sparse Probing and Activation Patching on RAID",
+  "link": "https://arxiv.org/abs/2609.30287",
+  "summary": "AI-generated text detectors achieve high accuracy on standard benchmarks, yet the internal representations that drive these predictions remain poorly understood. We study which neurons in a frozen BERT-base-uncased encoder support AI-text detection, using the RAID benchmark across six generators spanning pure-base and instruction-tuned models. We apply the L1-to-L2 sparse-probing protocol of…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "Manifold Projection and Iterative Autoencoder Refinement for Masked Language Modeling",
+  "link": "https://arxiv.org/abs/2609.30288",
+  "summary": "In Transformer-based masked language models, attention is the primary mechanism for context mixing, but there are other ways to mix data across tokens. Recent attention-free mixers replace attention with fixed or hypernetwork-generated MLPs, alternating their dynamic, content-dependent weighting for computational simplicity. We build an alternative that gets the same property from a low-rank…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "Not All Memories Are Equal: Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents",
+  "link": "https://arxiv.org/abs/2609.30289",
+  "summary": "In team collaboration scenarios, memory is heterogeneous and continually evolving. Team memories capture collective decisions, protocols, and current consensus, while individual memories preserve member-specific observations, execution traces, and intermediate progress. Existing memory-augmented systems typically retrieve from all stored memories as a flat pool, ranking them by semantic…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline",
+  "link": "https://arxiv.org/abs/2609.30290",
+  "summary": "Production text-to-SQL pipelines often end with an LLM-as-judge whose agreement with human annotators has never actually been measured. When we checked ours, the deployed gpt-4o-mini judge agreed with two-author gold at only Cohen's kappa = 0.04 on a disagreement-enriched set and 0.42 on a uniform-random spot-check, over-flagging 77.1% of the human-FAITHFUL cases in the enriched set. Most of its…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models",
+  "link": "https://arxiv.org/abs/2609.30292",
+  "summary": "Online reviews shape consumer decisions, platform governance, and corporate reputation.Fake reviews compromise this information channel by injecting deceptive evidence into rating systems, recommendation pipelines, and public trust mechanisms.The rise of large language models, or LLMs, has changed the problem in two directions.LLMs can generate fluent and context-aware deceptive reviews, while…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents",
+  "link": "https://arxiv.org/abs/2609.30293",
+  "summary": "The Model Context Protocol (MCP) enables AI agents to discover and call tools, but loading every definition becomes expensive as connected catalogs grow. We present Cartograph, a federated MCP proxy that changes agent-visible tool discovery from $O(n)$ catalog traversal to $O(k)$ progressive disclosure. Cartograph combines three mechanisms: (1) operator-attested capability cards, Ed25519-signed…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "SlideLab: Audience-Centered Scientific Slide Generation and Evaluation",
+  "link": "https://arxiv.org/abs/2609.30294",
+  "summary": "Scientific presentations are more than summaries of research papers. They need to present the work in a coherent sequence, explain the main ideas clearly, and help the audience follow the presentation. We present SlideLab, a training-free multi-agent framework for generating scientific presentations from research papers. SlideLab first plans the presentation narrative, then builds and iteratively…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "SignTrace: Describe a Sign, Find the Word",
+  "link": "https://arxiv.org/abs/2609.30295",
+  "summary": "Identifying an unfamiliar sign is difficult when a learner remembers its movement but does not know its meaning or formal feature codes. SignTrace addresses this longstanding reverse-lookup problem through natural-language access to a Chinese sign-language dictionary. The system integrates LLM-based dictionary enrichment, action extraction, dictionary-style rewriting, seven-channel retrieval, and…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "Bootstrapping Conversational Recommendation Agents At Spotify: Synthetic Data Generation and Self-Improvement Loops",
+  "link": "https://arxiv.org/abs/2609.30297",
+  "summary": "Conversational recommendation agents are a new paradigm for content discovery, enabling users to express complex intents through natural language (e.g., \"recommend Italian indie artists I haven't heard before\"). A central challenge in building such agents is optimizing agent planning -- deciding how to select, sequence, and invoke tools -- particularly in cold-start settings where real user…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "A Benchmark Framework for Screening Automation in Systematic Reviews",
+  "link": "https://arxiv.org/abs/2609.30298",
+  "summary": "Systematic reviews (SR) are essential for evidence-based research, but their screening phase is highly time-consuming and labor-intensive. Large language models (LLMs) offer a promising opportunity to reduce this workload by assisting with article relevance classification. However, existing evaluation approaches often rely on traditional metrics that may be misleading for highly imbalanced SR…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790568000
+ },
+ {
+  "title": "2026 in LLMs (so far)",
+  "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+  "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my annotated slides and notes to accompany the talk. And as an annotated presentation : # I'm going to give a lightning tour of everything…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1790553255
+ },
+ {
+  "title": "S3 Is the Future, S3 Is the Past",
+  "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+  "summary": "My comment on S3 Is the Future, S3 Is the Past — Hacker News. One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade : 2006-03-14 $0.150/GB-month 2010-11-01 $0.140/GB-month 2012-02-01 $0.125/GB-month 2012-12-01 $0.095/GB-month 2014-02-01 $0.085/GB-month 2014-04-01 $0.030/GB-month 2016-12-01 $0.023/GB-month…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1790550559
+ },
+ {
+  "title": "Engram is a sampler that turns broken AI hallucinations into music",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+  "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1790541996
+ },
+ {
   "title": "Anthropic’s CEO is about to have dinner with President Trump",
   "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
   "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
@@ -16,6 +322,15 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1790539050
+ },
+ {
+  "title": "Bluesky reply bot checker",
+  "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+  "summary": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies. They've started manifesting on Bluesky as well. Unlike Twitter, Bluesky still has a freely available and useful API. The lack of such a thing doesn't slow down the…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1790534504
  },
  {
   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -2329,293 +2644,5 @@
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1789974000
- },
- {
-  "title": "Sparse Priors for Efficient Distribution Learning",
-  "link": "https://arxiv.org/abs/2609.20883",
-  "summary": "Despite the widespread use and success of generative AI techniques today, theoretical guarantees on learning a distribution supported in $d$ dimensions from $n$ samples degrade as $O(n^{-1/\\Theta(d)})$, though shown to be minimax optimal. We hypothesize that present bounds are too pessimistic because smoothness assumptions are not enough to capture the structure of distributions that often appear…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence",
-  "link": "https://arxiv.org/abs/2609.20886",
-  "summary": "Business intelligence (BI) is a cornerstone of enterprise decision-making and is widely used by enterprise users in software such as Power BI and Tableau. In traditional BI workflows, users need to prepare data by (1) identifying relevant tables, (2) performing data transformations, and (3) building join relationships, before they can (4) answer their business questions. These steps can be…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context Decoding",
-  "link": "https://arxiv.org/abs/2609.20888",
-  "summary": "Massive KV caches can cause severe memory-bandwidth bottlenecks during long-context decoding. Sparse attention methods mitigate this via selective loading, but that comes at a cost: rigid heuristics drop necessary context, leading to quality degradation. We introduce \\textbf{Elastic Threshold Attention (ETA)}, an end-to-end trainable architecture that achieves hardware-accelerated decoding speed…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "Bio-MF: Low-Latency and High-Fidelity EEG-to-fNIRS Cross-Modal Generation for Hybrid Motor-Imagery Brain--Computer Interfaces",
-  "link": "https://arxiv.org/abs/2609.20904",
-  "summary": "Hybrid motor-imagery brain-computer interfaces (MI-BCIs) combining EEG and fNIRS can outperform EEG-only systems by exploiting complementary electrophysiological and hemodynamic information. To obtain such hybrid information when paired EEG-fNIRS acquisition is unavailable or inconvenient, recent studies have focused on EEG-to-fNIRS cross-modal generation. However, existing methods still suffer…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "Continuous Delayed-Memory Stochastic Gradient Descent and Continuous-Time Reinforcement Learning from History of Astrophysical Time Series Studies",
-  "link": "https://arxiv.org/abs/2609.20906",
-  "summary": "Quasars are luminous objects in the universe that exhibit stochastic brightness variations encoding information about the supermassive black holes powering them, and modeling these variations from ground-based survey data time series, known as light curves, is a statistical challenge. This paper reviews how stochastic differential equations (SDEs) have been adapted with neural network…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "Do Quantum Models Scale Like LLMs?",
-  "link": "https://arxiv.org/abs/2609.20912",
-  "summary": "In this work, we study the neural scaling laws of RydbergGPT, an autoregressive transformer model trained on qubit projective measurement data gathered from interacting Rydberg atom arrays. The quantum system is known to exhibit a finite-size remnant of a critical point as the laser detuning parameter is varied. We find that near the critical point the transformer loss as a function of training…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
-  "link": "https://arxiv.org/abs/2609.20942",
-  "summary": "Large language models (LLMs) increasingly participate in scientific evaluation, both as automated reviewers and as assistants to human reviewers. As model-generated reviews enter public data and future training corpora, AI peer review can become recursive: later reviewers learn from judgments produced by earlier models. We study one step of this feedback loop in a controlled setting. Starting…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "Efficient Bayes-Adaptive Reinforcement Learning with Temporal Logic Specifications",
-  "link": "https://arxiv.org/abs/2609.20954",
-  "summary": "We present a novel end-to-end model-based Reinforcement Learning (RL) algorithm for efficient policy synthesis under given Linear Temporal Logic (LTL) specifications (e.g., safety or reachability) in unknown environments. To do so, a Limit-Deterministic B{\\\"u}chi Automaton (LDBA) representation of the LTL task is synchronised with a Bayes-Adaptive Markov Decision Process (BAMDP) representation of…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "From Switching to Dynamic Regret: A Simple Reduction via Unbiased Random Sequences",
-  "link": "https://arxiv.org/abs/2609.20968",
-  "summary": "In non-stationary online learning, dynamic regret has attracted increasing attention as a measure of how well an online learner performs against a time-varying comparator sequence. Despite considerable advances, attaining optimal bounds for strongly convex and exp-concave losses often involves intricate analysis. In this paper, we present a \\textit{simple} framework that reduces dynamic regret…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "Generative inversion for early ranking of competing geologic interpretations",
-  "link": "https://arxiv.org/abs/2609.20978",
-  "summary": "High-consequence subsurface decisions are often made under severe data scarcity. Experts may arrive at competing interpretations of the same subsurface system, yet early in a project there is rarely a practical way to determine which one is most realistic. This uncertainty can persist until several wells are drilled, often costing millions of dollars. Existing approaches for evaluating geologic…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1789963200
- },
- {
-  "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-  "link": "https://arxiv.org/abs/2609.20971",
-  "summary": "Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-  "link": "https://arxiv.org/abs/2609.20974",
-  "summary": "In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of the model's contextual state, disentangled from…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-  "link": "https://arxiv.org/abs/2609.20981",
-  "summary": "Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-  "link": "https://arxiv.org/abs/2609.21061",
-  "summary": "Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-  "link": "https://arxiv.org/abs/2609.21096",
-  "summary": "In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-  "link": "https://arxiv.org/abs/2609.21113",
-  "summary": "Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-  "link": "https://arxiv.org/abs/2609.21139",
-  "summary": "Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introduces a \\emph{quality-gated post-training conversion} framework using CeNN-inspired cellular-recurrent layers with bounded local processing, compact recurrent memory, routing, fusion, and accept-or-rollback validation. Three…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-  "link": "https://arxiv.org/abs/2609.21149",
-  "summary": "Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for quality assurance. Because clinicians may use different intake styles, evaluation for this task must (1) support comparison across interviewing approaches, (2) minimize clinician burden, and (3) measure clinically relevant…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-  "link": "https://arxiv.org/abs/2609.21157",
-  "summary": "Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS Design, Post-Compiler HLS Refinement, and Post-HLS RTL Refinement, and combine Agent-based HLS Design with Post-HLS RTL…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-  "link": "https://arxiv.org/abs/2609.21165",
-  "summary": "Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on generating selective compounds de novo rather than improving the selectivity of existing, well- characterized drugs. We introduce specificity optimization (SpecOpt), a molecular design task that seeks constrained structural modifications to an…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1789963200
- },
- {
-  "title": "Do small language models know what they don't know?",
-  "link": "https://arxiv.org/abs/2609.20824",
-  "summary": "We explore whether entropy-based confidence signals can be leveraged to improve the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters, running entirely on consumer hardware. We evaluate seven distinct approaches, including token-level entropy early stopping, semantic entropy estimation, and uncertainty-aware routing to larger expert models, across 7 model pairs and 5…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction",
-  "link": "https://arxiv.org/abs/2609.20825",
-  "summary": "Clinical predictive models often rely on structured Electronic Health Record data, such as time-series and procedure codes. While recent approaches have begun leveraging unstructured clinical notes, they typically encode them as flat sequences, which may lose explicit relational and temporal structure present in clinical narratives. In response, we propose HERMES, a graph-based framework that…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation",
-  "link": "https://arxiv.org/abs/2609.20826",
-  "summary": "Current radiology report generation (RRG) models usually produce descriptive reports based on a single examination or only the most recent prior examination, limiting their ability to perform accurate and meaningful longitudinal comparisons and detect subtle interval changes. Although recent approaches have begun to incorporate multiple prior examinations, they usually aggregate a fixed-length…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "From Discharge Notes to Patient Understanding: Persona-Grounded, Open-Ended Simulation of LLMs as Discharge Educators",
-  "link": "https://arxiv.org/abs/2609.20827",
-  "summary": "Hospital discharge education is an interactive teaching task: a clinician adapts a discharge plan to a patient's literacy, recall, and personality. Existing LLM evaluations target static or artifact-generation tasks and do not measure patient understanding under open-ended dialogue. We introduce DischargeBench, a persona-grounded simulation in which a candidate LLM educator conducts a multi-turn…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR",
-  "link": "https://arxiv.org/abs/2609.20828",
-  "summary": "ASR systems optimised for Word Error Rate (WER) often miss named entities and filled pauses in accented conversational English, both critical for language-learning feedback. We present a three-stage pipeline for speakers from India, Indonesia, and Latin America: (1) heuristic SQL filters curating entity-rich training data at 2.8x the entity density of random sampling, (2) regional LoRA adapters…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "SAGE: Schema-Guided LLMs for Grant Review",
-  "link": "https://arxiv.org/abs/2609.20829",
-  "summary": "Grant reviewers must apply detailed criteria to application forms, budgets, and supporting documents while producing assessments that colleagues can inspect. We present SAGE, Schema-Guided Aspect-Based Grant Evaluation, a system that translates a grant rubric into structured checks and links its judgements to evidence from the application package. We evaluate SAGE in two stages on 35 nonprofit…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "Reviser: Revision-Capable Text Generation via Autoregressive Cursor Actions",
-  "link": "https://arxiv.org/abs/2609.20830",
-  "summary": "Revision-capable generation is appealing because it can insert or revise earlier content, but many non-autoregressive and edit-based approaches obtain this flexibility through repeated sequence-level computation. We propose Reviser, a decoder-only Transformer that generates a response as a sequence of cursor-relative actions on a mutable canvas. At each step, Reviser predicts exactly one action…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "Recursive Language Models Generalize Out of Domain",
-  "link": "https://arxiv.org/abs/2609.20831",
-  "summary": "We study when limiting what a language model can see improves learning. We compare standard CoT, the more general learner that reads the full trace, with recursive language models, which restricts itself by solving each subtask in an isolated context. In-distribution, this generality comes for free: CoT can efficiently simulate the recursive rule, so the IID generalization guarantee changes only…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "TatBLiMP: A Benchmark of Linguistic Minimal Pairs for Tatar",
-  "link": "https://arxiv.org/abs/2609.20832",
-  "summary": "We introduce TatBLiMP, the first benchmark of linguistic minimal pairs for Tatar (tt, ISO 639-3 tat), a Qypchaq Turkic language written in Cyrillic. To our knowledge it is the first grammaticality evaluation for Tatar language models of any kind, since even the 101-language MultiBLiMP does not include Tatar. TatBLiMP covers 16 morphosyntactic phenomena in 1248 sentence pairs. Each pair differs by…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "Transsion's Speaker-Attributed Multilingual ASR System for the MLC-SLM 2026 Challenge",
-  "link": "https://arxiv.org/abs/2609.20833",
-  "summary": "This paper presents the Transsion Speech Team submission to Task 1 of the MLC-SLM 2026 Challenge, which focuses on speaker-attributed transcription for multilingual conversational speech. We propose a cascaded framework consisting of three components: a speaker diarization module, a long-form multilingual ASR module, and a speaker-transcription fusion module. The diarization module is built upon…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1789963200
- },
- {
-  "title": "How V7 gives AI agents institutional memory",
-  "link": "https://openai.com/index/v7",
-  "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1789948800
- },
- {
-  "title": "tokenizers v1: encode, decode and scaling, measured",
-  "link": "https://huggingface.co/blog/tokenizers-v1",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1789948800
  }
 ]
