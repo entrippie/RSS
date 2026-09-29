@@ -5,9 +5,69 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:39:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:47:03 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI apologizes to Australia after its AI agents breached government sites</title>
+      <link>https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/</guid>
+      <pubDate>Tue, 29 Sep 2026 12:45:05 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reco raises $55M as AI agent security startups crowd the market</title>
+      <link>https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/</guid>
+      <pubDate>Tue, 29 Sep 2026 12:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The round builds on a $30 million fundraise in February, taking the company&amp;#x27;s total funding to $140 million.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Will Chinese AI companies slow down? A top House Democrat wants answers</title>
+      <link>https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat</guid>
+      <pubDate>Tue, 29 Sep 2026 11:48:27 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As Anthropic gears up for its greatly anticipated public debut, a preview of the company&amp;#x27;s IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could &amp;quot;further increase the risk that our models cause harm.&amp;quot; These disclosures come as Anthropic eyes a $2 trillion valuation, more than […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Language Models for Text Classification: From Bag-of-Words to Jev</title>
+      <link>https://magazine.sebastianraschka.com/p/classifier-history-and-jev</link>
+      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/classifier-history-and-jev</guid>
+      <pubDate>Tue, 29 Sep 2026 10:50:25 +0000</pubDate>
+      <dc:creator>Ahead of AI (Sebastian Raschka)</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://magazine.sebastianraschka.com/feed">Ahead of AI (Sebastian Raschka)</source>
+      <description>&lt;p&gt;&lt;em&gt;Ahead of AI (Sebastian Raschka) · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Making AI an asset, not an expense</title>
+      <link>https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/</guid>
+      <pubDate>Tue, 29 Sep 2026 10:43:45 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity</title>
       <link>https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/</link>
@@ -427,6 +487,16 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Towards safety cases for frontier AI training</title>
+      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
+      <guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI’s AI agents need to catch up</title>
@@ -3017,36 +3087,6 @@
       <category>News</category>
       <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
       <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Parallel cut research time and cost in half with GPT‑6 Astra</title>
-      <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
-      <guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta patches Muse exploit that let attackers control the AI agent</title>
-      <link>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</guid>
-      <pubDate>Tue, 22 Sep 2026 11:53:58 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta&amp;#x27;s servers […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Don’t be fooled by this summer of AI hype</title>
-      <link>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:04:51 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
