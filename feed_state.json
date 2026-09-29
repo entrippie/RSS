@@ -1,5 +1,302 @@
 [
  {
+  "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+  "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+  "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790658823
+ },
+ {
+  "title": "Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase",
+  "link": "https://arxiv.org/abs/2609.31630",
+  "summary": "Replay-based continual learning almost always consolidates in a dedicated offline phase or by interleaving replayed samples with the input stream, whereas brains also consolidate during wakefulness through local sleep, brief use-dependent off-periods of individual circuits. We ask whether a network trained by local, biologically constrained rules can consolidate with no offline phase at all. An…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "OMP-MoE: Efficient Expert Pruning for Mixture-of-Experts LLMs via Orthogonal Matching Pursuit",
+  "link": "https://arxiv.org/abs/2609.31631",
+  "summary": "Mixture-of-Experts (MoE) models enable efficient scaling of large language models but face critical deployment challenges due to massive memory requirements. Existing pruning methods either incur prohibitive search costs or neglect the dynamic interdependencies between experts. To address these challenges, we present OMP-MoE, a novel training-free compression framework for reducing expert…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis",
+  "link": "https://arxiv.org/abs/2609.31632",
+  "summary": "Electroencephalography (EEG) analysis is evolving from short-segment classification toward long-horizon interpretation that demands iterative evidence accumulation, multi-step reasoning, and coordinated use of specialized signal-processing tools. Although large language models (LLMs) have recently shown promise as autonomous agents for EEG analysis, existing EEG agentic evaluations remain…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "Enhancing generalization in endwall film cooling prediction: Incorporating the superposition principle into transformer-based neural operators",
+  "link": "https://arxiv.org/abs/2609.31633",
+  "summary": "In this study, a physics-enhanced neural operator framework is proposed to enhance the generalization prediction ability of the cooling layout of a turbine endwall with variable number of film holes. Specifically, inspired by the film cooling superposition principle, we propose a film cooling prediction model, namely superposition-based deep neural operator (SDNO), that divides the endwall…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "Symmetry-quotient Flatness and Generalization",
+  "link": "https://arxiv.org/abs/2609.31634",
+  "summary": "This paper develops a theorem-level pipeline in symmetry-quotient settings: quotient linear stability implies quotient flatness, quotient flatness implies input smoothness, and input smoothness yields generalization under local covering assumptions. Flatness is often associated with generalization, and Stochastic Gradient Descent (SGD) is frequently viewed as implicitly biased toward flat…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "What Next-Event Accuracy Cannot See: Closed-Loop Evaluation of Emergency Department Trajectory Simulators",
+  "link": "https://arxiv.org/abs/2609.31635",
+  "summary": "Clinical trajectory models are usually evaluated by next-event accuracy on observed histories. Simulation is different: models must condition on their own generated events, allowing errors to compound. Although this problem is well known in sequence modelling, it has not been systematically quantified for clinical trajectory simulators. We developed EDSim-Bench to evaluate this failure mode using…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "Grounding Vision-Language Models in Driving Semantics: A Multi-Dataset Predicate Framework for Explainable Reasoning",
+  "link": "https://arxiv.org/abs/2609.31636",
+  "summary": "Vision-language models are increasingly used for driving-scene understanding, yet the semantic relations expressed in their outputs are often difficult to verify against the underlying traffic situation. This paper introduces a deterministic multi-dataset predicate framework that derives driving-scene semantics from measurable geometric, kinematic, temporal, map, and traffic-control evidence.…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "FIDAL: Diversity-Aware Federated Active Learning Under Real-World Distribution Shifts",
+  "link": "https://arxiv.org/abs/2609.31637",
+  "summary": "Federated learning enables collaborative model training across institutions without centralizing data, yet high annotation costs, domain shifts, and class imbalance remain major obstacles, especially when irrelevant out-of-distribution (OOD) samples dilute the labeled data. Existing active learning methods target uncertainty or diversity within in-distribution (ID) data and overlook unknown…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "Energy-aware frugal Bayesian optimization",
+  "link": "https://arxiv.org/abs/2609.31638",
+  "summary": "Modern design optimization frameworks aim first and foremost for models with the most accurate predictions without balancing computational overhead. It remains a reason why scaled architecture and multidisciplinary design optimization problems are difficult to address, even with sample-efficient Bayesian optimizers. In this paper, a metric quantifying the computational energy footprint is…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "When Does Domain Adaptation Help on Physical Vibration Sensors? A Held-Out-Bearing Study of Neural-Operator and Convolutional Models",
+  "link": "https://arxiv.org/abs/2609.31639",
+  "summary": "Diagnosing rolling-element bearing faults from vibration is a canonical physical-sensing task and a widely used benchmark for domain adaptation under operating-condition shift. Accuracies above 99 percent are commonly reported, but under evaluation splits that place the same physical bearing in both training and test. We revisit the task under a held-out-bearing protocol, assigning every bearing…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1790654400
+ },
+ {
+  "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
+  "link": "https://arxiv.org/abs/2609.31763",
+  "summary": "Long-context clinical AI systems can miss relevant patient history when prior admissions fall outside the active reasoning context. In ICU monitoring, this can cause early vital-sign drift to appear nonspecific even when it resembles a prior deterioration pattern. SMARtCARE addresses this gap through a four-state clinical decision-support architecture: Stable, Meta-cognitive, Assisted, and…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
+  "link": "https://arxiv.org/abs/2609.31784",
+  "summary": "Open-weight models are often released, fine-tuned, aligned, merged, and re-released, making provenance audits ask not only whether checkpoints are related, but also which checkpoint came first. Many existing model-provenance methods are designed for a base-known audit setting: given a victim or source model, they test whether a suspect model is related to it. Although these audits are framed as…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
+  "link": "https://arxiv.org/abs/2609.31790",
+  "summary": "Crystal plasticity (CP) simulations predict the mechanical behavior of polycrystalline metals, yet their routine use is hindered by the manual effort of configuring heterogeneous tools, orchestrating multi-step data pipelines, and calibrating constitutive parameters against experiments. These bottlenecks impede productivity in systematic parameter studies, motivating interest in automated…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
+  "link": "https://arxiv.org/abs/2609.31792",
+  "summary": "While Vision-Language-Action (VLA) models perform strongly on manipulation tasks, their responses to invalid task premises remain underexplored. Existing evaluations of premise conflicts often focus on terminal task outcomes, yet task failure alone cannot distinguish behavioral disengagement from continued pursuit followed by an execution error. We call the latter pattern Failed Persistence. To…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "Working with AI: A Design Framework for Human-AI Collaboration",
+  "link": "https://arxiv.org/abs/2609.31793",
+  "summary": "Artificial Intelligence (AI), particularly GenAI, is becoming an increasingly important part of modern work. In industrial settings, AI can support decision-making, automate routine activities, assist humans, and improve productivity. However, successful AI adoption depends on more than what the technology can do. It also depends on how people experience and work with it. This raises an important…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
+  "link": "https://arxiv.org/abs/2609.31814",
+  "summary": "Evaluating VLM-based autonomous driving remains difficult because driving competence is composite, where a capable system must ground traffic participants and hazards, integrate context across views and time, reason about future evolution, and act appropriately under closed-loop interaction. Existing benchmarks usually assess either open-loop understanding or closed-loop driving but provide…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "LLM Judge Validation Under Sparse Overlap: From Inference to Design",
+  "link": "https://arxiv.org/abs/2609.31857",
+  "summary": "Validating an LLM-as-a-judge requires estimating its agreement with humans, yet annotation budgets rarely allow every item to be multiply labeled. We prove that this \\emph{overlap sparsity} is the first-order determinant of wrong deployment decisions: at 5\\% pairwise overlap, wrong-decision rates reach 25\\% and the probability of selecting the wrong best judge among ten candidates is 65\\%. The…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
+  "link": "https://arxiv.org/abs/2609.31868",
+  "summary": "Model-predictive control with Joint-Embedding Predictive Architectures (JEPAs) provides a strong zero-shot goal-reaching planner, but it is only effective over short planning horizons. Hierarchical extensions attempt to bridge this gap by learning a macro planner to predict intermediate latent sub-goals to guide the micro planner. In this work, we demonstrate that unconstrained latent sub-goal…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "IndustryLLM: Failure-Driven LLM Training for Industrial Procurement",
+  "link": "https://arxiv.org/abs/2609.31871",
+  "summary": "Industrial procurement requires language models to bridge informal buyer jargon, sparse marketplace attributes, and authoritative engineering standards under strict safety tolerances. We present IndustryLLM, an open-weight industrial language model trained from Qwen3.5-35B-A3B-Base (35B total parameters with ~3B activated per token, with the vision encoder frozen). Rather than relying on generic…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents",
+  "link": "https://arxiv.org/abs/2609.31874",
+  "summary": "Existing agent memory frameworks mainly create memory through an agent's interaction with the factual world, e.g., remembering feedback from actions taken to improve performance on future tasks. However, these frameworks seldom ask the \"what if\" question during memory construction: what if a different action had been taken, would the feedback have changed, and how could this feedback become…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1790654400
+ },
+ {
+  "title": "ChestPheNoT: Deployable, Auditable Label-Status-Evidence Extraction from Radiology Reports",
+  "link": "https://arxiv.org/abs/2609.31629",
+  "summary": "Structured phenotype extraction from radiology reports supports cohort construction, quality auditing, and clinical analytics, but practical deployment requires local inference and auditable predictions, while expert annotations remain scarce. Conventional labelers provide structured findings and assertion states but no supporting evidence, while API-hosted large language models may be unsuitable…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "A literature-guided descriptor-based framework for filtering composition search spaces",
+  "link": "https://arxiv.org/abs/2609.31650",
+  "summary": "Scientific literature contains latent knowledge about materials behavior, but much of this knowledge is expressed through words, contexts, and recurring associations rather than explicit design principles. This raises a central question: how can large-scale scientific corpora be used for practical problems in materials discovery? Here, we present a literature-guided descriptor-based filtering…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "Distributional sentiment modeling and anomaly detection for consumer complaint assessment",
+  "link": "https://arxiv.org/abs/2609.31653",
+  "summary": "Sentiment analysis is a common tool for converting unstructured text into quantitative signals in finance and risk management. Yet most applications reduce the output to a discrete polarity label or a single predictive feature, overlooking the distributional structure of sentiment intensity in consumer complaint narratives. In this paper we treat negative sentiment in consumer complaints as a…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents",
+  "link": "https://arxiv.org/abs/2609.31660",
+  "summary": "Retrieval-augmented generation (RAG) pipelines are typically assembled from independently-chosen components -- a document parser, a chunking strategy, and an embedding model -- yet these choices are rarely evaluated jointly, and evaluations that do combine them are usually run on a single document or corpus. We present a controlled factorial study of 3 parsers, 3 chunking strategies, and 5 dense…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "LLM-Guided Ontology-Driven Knowledge Graph Construction from Unstructured Text",
+  "link": "https://arxiv.org/abs/2609.31663",
+  "summary": "Ontology-driven knowledge graph construction from industrial text remains challenging due to the domain specificity of documents, the scarcity of annotated resources, and the complexity of ontology engineering workflows. This paper presents and investigates the applicability of an ontology learning pipeline that combines compact open-source Large Language Models (LLMs), reusable prompting…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "What Drives Dialectal Jailbreaks? An Ablation of Surface Form, Cultural Framing, and Strategy Banks",
+  "link": "https://arxiv.org/abs/2609.31664",
+  "summary": "Recent work suggests that obscure language registers can weaken large language model refusal behavior, especially when paired with black-box prompt optimization. It remains unclear whether failures stem from non-standard surface form, culturally grounded framing, or optimization over an expressive prompt-strategy space. We study Chinese registers by extending a classical-Chinese red-teaming…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "Age-Adaptive Handwriting Reconstruction from an IMU-Based Digital Pen through Shared Representations and Domain-Specific Heads",
+  "link": "https://arxiv.org/abs/2609.31666",
+  "summary": "Digital pens are widely used to capture handwriting on digital devices, enabling precise trace recording and enhancing human-computer interaction. However, most are bundled with tablets and lack cross-brand compatibility. Recent digital pens equipped with kinematic sensors have emerged, designed for use on any surface. This especially opens significant potential for supporting handwriting…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "An Evaluation of AI-Supported Evidence-Based Learning for Public Speaking Skill Development",
+  "link": "https://arxiv.org/abs/2609.31676",
+  "summary": "Public speaking is an essential skill in academic and professional contexts, but it often causes anxiety. Although several AI-based speech coaching tools exist, they typically provide generic feedback and lack model speeches for learning. This study addresses these gaps by developing a system that incorporates speech context into evaluation criteria, enabling more tailored feedback. It also…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "The Temporal Tug-of-War: Visualizing and Detecting RAG Conflicts in Diffusion Models via Trajectory Variance",
+  "link": "https://arxiv.org/abs/2609.31684",
+  "summary": "Retrieval-Augmented Generation (RAG) introduces a specific failure mode in discrete diffusion language models: when retrieved context contradicts parametric knowledge, the iterative denoising process becomes a visible battleground between competing knowledge sources. We identify temporal semantic divergence as an observable for detecting these conflicts and introduce the Trajectory Variance Score…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "Verification of PETSc with CIVL using LLM-generated ACSL contracts and deterministic driver generation",
+  "link": "https://arxiv.org/abs/2609.31687",
+  "summary": "Parallel numerical libraries such as PETSc are widely used in science and engineering applications where wrong results can have costly consequences. Despite this, numerical libraries are rarely formally verified. One of the challenges is the need for an expert to hand-write a specification and manually apply a verification tool, often requiring the development of a harness or driver, all of which…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1790654400
+ },
+ {
+  "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+  "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+  "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790641800
+ },
+ {
+  "title": "OpenAI reportedly ditches model over safety concerns",
+  "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+  "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790638760
+ },
+ {
   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
   "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
   "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
@@ -70,6 +367,15 @@
   "section": "Newsletters & blogs",
   "source_feed": "https://simonwillison.net/atom/everything/",
   "ts": 1790622702
+ },
+ {
+  "title": "How we will do better for Australia",
+  "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+  "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1790622000
  },
  {
   "title": "OpenAI’s AI agents need to catch up",
@@ -2428,230 +2734,5 @@
   "section": "News",
   "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
   "ts": 1790075091
- },
- {
-  "title": "PRQuant: Permutation Residual Quantization for Low-Overhead Inference",
-  "link": "https://arxiv.org/abs/2609.22106",
-  "summary": "Accuracy of Low-bit quantization of linear layers is often dominated by a small number of outliers. Although existing methods, such as smoothing, rotation, or residual-based approaches, may mitigate this problem, they often introduce new accuracy bottlenecks to weights. Besides, most of these techniques are implemented as online approaches, which can result in heavy execution overheads. To…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "Generalized Multimodal Foundation Model",
-  "link": "https://arxiv.org/abs/2609.22107",
-  "summary": "Making prediction with multimodal data is widely used in diverse scenarios. Existing multimodal fusion models, once deployed, can only handle predefined modalities (e.g., vision, text and audio) and single tasks, making it difficult to quickly adapt to new downstream applications. Therefore, a natural yet rather aggressive question arises, whether there exists a general multimodal fusion model…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "Correcting Learning-based Perception for Safety",
-  "link": "https://arxiv.org/abs/2609.22108",
-  "summary": "Learning-enabled perception is important in many autonomous systems. Unlike traditional sensors, the boundary where ML perception does or does not work is poorly characterized. Incorrect perception can lead to unsafe or overtly conservative downstream control actions. In this paper, we propose a two-step strategy for correcting ML-based state estimation. First, an offline computation is used to…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "A Shared Learning Rate Is Not a Neutral Control in Selective On-Policy Distillation",
-  "link": "https://arxiv.org/abs/2609.22109",
-  "summary": "Selective on-policy distillation trains a student only at the token positions a selector scores highest, and the literature compares selectors under a single shared learning rate--a control chosen to be neutral. We show it is not. Under LoRA on GSM8K (Qwen2.5-1.5B student, 7B teacher), across an 8x learning-rate grid, dense supervision is statistically flat (swing 1.8 pp, p=0.26) while every…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "Toward Fairness in Machine Learning Models for Predicting Treatment Retention and Premature Discontinuation in Medication for Opioid Use Disorder",
-  "link": "https://arxiv.org/abs/2609.22113",
-  "summary": "Persistent low retention and completion rates in medications for opioid use disorder (MOUD) have driven the use of machine learning (ML) models to predict retention and identify patients at risk of premature discontinuation. However, the fairness of these models across patient populations remains largely unexplored, raising concerns about their application in treatment decision support. This…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "ZoAQ: Adaptive Zeroth-Order Querying via Query-Reuse Coupling",
-  "link": "https://arxiv.org/abs/2609.22115",
-  "summary": "Zeroth-order optimization (ZOO) estimates updates from function evaluations, making perturbation queries a primary cost. Fixed budgets spend the same number of queries at every step, while adaptive controllers may offset their savings by using additional oracle calls to test estimator reliability. We introduce ZoAQ, an adaptive ZOO method built around query reuse. Rather than discarding past…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "LE4Mob: Towards Inductive, Distance-Aware and General-Purpose Location Embedding for Human Mobility Modelling",
-  "link": "https://arxiv.org/abs/2609.22117",
-  "summary": "Location representations provide mobility models with fundamental information about the spatial position, functional characteristics, and relationships of places. However, existing embeddings are often dependent on mobility observations, unable to represent unseen locations, and weakly constrained to retain geographic distance. This limits their reuse across datasets and mobility tasks. To…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "Success Leaves Detours: Learning Executable Walkthroughs for Long-Horizon Agents",
-  "link": "https://arxiv.org/abs/2609.22120",
-  "summary": "Test-time self-evolving agents improve by reusing past experience, yet sparse-reward trajectories contain failures, loops, and detours, while summaries often omit the state conditions and action dependencies needed for execution. We study executable Walkthrough induction from sparse-reward trajectories: extracting compact, state-conditioned, and verifiable procedures. Our key observation is that…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "Modelling daily activity patterns from mobile phone location data via deep representation learning",
-  "link": "https://arxiv.org/abs/2609.22121",
-  "summary": "Passively collected mobile phone location data provide large-scale, longitudinal observations of human mobility but do not directly reveal activity purposes. The functional characteristics of visited locations offer useful contextual information, yet their relationship with activity purpose remains uncertain, particularly in mixed-use urban environments. We conceptualise activity pattern mining…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "Rank Portability Does Not Imply Feasibility Portability: Target-Specific Evaluation of Joint Hardware Constraints",
-  "link": "https://arxiv.org/abs/2609.22122",
-  "summary": "Cross-device hardware evaluation often assumes that if architecture rankings transfer across devices, a proxy device can support target-side model selection. We stress-test this assumption for joint latency-energy feasibility across two public architecture families. On NAS-Bench-201, cross-device rank correlations are moderate, while target-comparable feasible-set overlap remains incomplete. A…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1790049600
- },
- {
-  "title": "Recognition, Simulation, and Refusal: A Contamination-Aware Study of Classic Psychological Effects in LLM Agents",
-  "link": "https://arxiv.org/abs/2609.22090",
-  "summary": "An LLM producing the response pattern associated with a human psychological effect is not the same claim as the LLM possessing that bias. We present PsyAgentBench, a benchmark that re-runs classic psychology experiments on LLM agents under a factorial design built to separate these: each paradigm is run with the paradigm explicitly labeled in the prompt (named) or framed as a routine task…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "Memory That Looks Forward: A Zero-Inference Prospective Term for Personal Memory Retrieval",
-  "link": "https://arxiv.org/abs/2609.22091",
-  "summary": "Retrieval over a personal memory store is retrospective: it surfaces what resembles the query, and it is blind to what the user has committed to do. We describe a prospective term for memory retrieval that costs no inference at query time. Commitments are held in an explicit ledger as dated or trigger-conditioned entries; memory items linked to a firing entry receive a salience boost, blended…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning for Multimodal Content Moderation",
-  "link": "https://arxiv.org/abs/2609.22094",
-  "summary": "Content moderation systems traditionally entangle multimodal understanding with policy-specific classification, requiring full pipeline retraining for every policy change and suffering from label scarcity since multimedia cannot be meaningfully augmented. We propose Summarize-Judge-Refine (SJR), a two-model architecture that decouples these concerns via a natural language interface: a multimodal…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "AI-inferred expressed well-being and collective-action discourse in climate-change campaigns on X",
-  "link": "https://arxiv.org/abs/2609.22096",
-  "summary": "Climate campaigns are often evaluated through attention and mobilization, but less is known about the well-being language that accompanies them. Whether campaign periods alter positive affect and hope, and whether happiness aligns with action language, remains unresolved. We analysed 364,118 public Twitter/X posts from Earth Day, Earth Hour, Global Climate Action Day and World Environment Day in…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "Token Signatures of Code: Comparing Coding Behaviors Across Large Language Models",
-  "link": "https://arxiv.org/abs/2609.22097",
-  "summary": "The evaluation of large language models (LLMs) on coding tasks has primarily focused on performance metrics such as pass@k. As LLMs continue to advance, many models now meet baseline performance requirements, reducing the discriminative power of performance-based evaluation alone. Yet a key question remains largely unexplored: how do LLMs differ in their coding behavior? We propose CLIC (Code…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "TreeSpark: Calibrated, Load-Adaptive Draft Trees for Semi-Autoregressive Speculative Decoding",
-  "link": "https://arxiv.org/abs/2609.22098",
-  "summary": "Speculative decoding accelerates language-model inference by letting a cheap drafter propose tokens that the target model verifies in parallel. Recent block drafters make drafting nearly free: a single backbone pass emits an entire block of draft tokens. Draft trees promise a further gain -- several alternative continuations verified in one target forward -- but existing constructions rank…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "A framework for recipe data structure with applications for culinary and nutritional insights",
-  "link": "https://arxiv.org/abs/2609.22099",
-  "summary": "Cooking is a complex process that transforms raw ingredients into delicious and nutritious dishes, yet the recipes that encode this process remain largely free text; readable by people but not directly computable. Existing recipe collections capture fragments of this information, but no shared representation links a recipe's structured ingredient composition, its geo-cultural provenance, and its…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "AdaMem: Adaptive Memory Token Allocation for Soft Compression in Retrieval-Augmented Generation",
-  "link": "https://arxiv.org/abs/2609.22100",
-  "summary": "Retrieval-augmented generation (RAG) improves language models with retrieved evidence, but processing many long passages is costly and can introduce distracting information. Soft compression addresses this challenge by encoding passages as compact sequences of continuous memory embeddings before generation. However, existing methods typically assign each retained passage an identical number of…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "Context Poisoning as Extreme-Value Attention Interference in Long-Context Language Models",
-  "link": "https://arxiv.org/abs/2609.22101",
-  "summary": "Large language models can process increasingly long prompts, yet their ability to locate and use decisive evidence may degrade as irrelevant or confusable context is added. We formulate this phenomenon, which we call context poisoning, as extreme-value interference in attention: the decisive-evidence score is upper-bounded, while the maximum score among effective distractors grows with their…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "DeepInstructor: An Agentic AI Instructor for Experience-Driven Idea Evaluation",
-  "link": "https://arxiv.org/abs/2609.22104",
-  "summary": "As automated scientific discovery advances, Large Language Models (LLMs) can now generate research ideas at an unprecedented scale, shifting the bottleneck from idea generation to idea evaluation. Existing evaluators mainly rely on parametric LLM knowledge or unstructured retrieval, producing judgments that lack the experience-grounded reasoning used by human instructors. To address this, we…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1790049600
- },
- {
-  "title": "Transformers now runs llama.cpp quants",
-  "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1790035200
- },
- {
-  "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-  "link": "https://huggingface.co/blog/omlx",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1790035200
- },
- {
-  "title": "Priorities and principles for effective third party assessments",
-  "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-  "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1790035200
- },
- {
-  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-  "link": "https://huggingface.co/blog/evaleval-aisi",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1790035200
- },
- {
-  "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-  "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-  "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790034268
  }
 ]
