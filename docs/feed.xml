@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 05:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:29:33 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here’s how tech leaders will self-police AI safety under Trump’s deal</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs</guid>
+      <pubDate>Wed, 30 Sep 2026 12:24:32 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We now have the full details of the &amp;quot;morally binding&amp;quot; AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment On Frontier Responsibilities, was shared online by tech founder and presidential advisor David Sacks, and has been signed by […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Airbnb adds AI search, more social features</title>
+      <link>https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Airbnb is also launching new services such as meal delivery and laundry in select locations&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer</title>
+      <link>https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/</guid>
+      <pubDate>Wed, 30 Sep 2026 10:40:30 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI-HuggingFace: A Reproduction &amp; Lessons for Alignment Testing</title>
       <link>https://arxiv.org/abs/2609.35799</link>
@@ -2837,56 +2867,6 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sam Altman’s remarks at the United Nations Security Council</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="true">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How invideo improves color grading 3x with GPT‑6 Astra</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="true">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI nabs key Patreon execs ahead of upcoming announcement</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</guid>
-      <pubDate>Wed, 23 Sep 2026 11:02:39 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he&amp;#x27;s joining OpenAI to lead Creator Product. He&amp;#x27;s also bringing Patreon&amp;#x27;s former product head Drew Rowny and engineering head Shannon Ma with […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The AI Hype Index: AI loves cheating</title>
-      <link>https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/</guid>
-      <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
