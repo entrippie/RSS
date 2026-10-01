@@ -1,5 +1,23 @@
 [
  {
+  "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+  "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+  "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1790856000
+ },
+ {
+  "title": "Quoting Matthew Green",
+  "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+  "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1790836141
+ },
+ {
   "title": "Travel Time Prediction in Supply Chain Management Using Machine Learning",
   "link": "https://arxiv.org/abs/2609.38190",
   "summary": "The purpose of this research is to find data and methods using machine learning and deep learning to correctly predict the estimated travel time for transportation and logistics in a supply chain system. The supply chain ecosystem is very complex and heavily relies on the transportation and logistics of raw materials and finished goods. Accurate travel time estimation is critical because it helps…",
@@ -2554,23 +2572,5 @@
   "section": "Research labs",
   "source_feed": "https://huggingface.co/blog/feed.xml",
   "ts": 1790258937
- },
- {
-  "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-  "link": "https://openai.com/index/ringg",
-  "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1790251200
- },
- {
-  "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-  "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-  "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790240658
  }
 ]
