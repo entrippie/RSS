@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:11:14 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
+      <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</guid>
+      <pubDate>Sat, 03 Oct 2026 18:43:57 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Capcom is preparing for a ‘future where we create games together with AI’</title>
+      <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/1004418/capcom-ai-game-development</guid>
+      <pubDate>Sat, 03 Oct 2026 16:49:10 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Capcom&amp;#x27;s Pragmata might be all about the horrors of AI, but in practice the studio doesn&amp;#x27;t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: &amp;quot;The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
+      <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</guid>
+      <pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</title>
       <link>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</link>
@@ -47,6 +77,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta wants Muse in your TV and your toaster, so it&amp;#x27;s giving the code away for free.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rex's Dino Store</title>
+      <link>https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</guid>
+      <pubDate>Fri, 02 Oct 2026 22:57:38 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Museum: Rex&amp;#x27;s Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn&amp;#x27;s Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sean Parker is rebuilding Stability AI around music</title>
@@ -2697,26 +2737,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Insurers claim AI is already increasing healthcare costs</title>
-      <link>https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</guid>
-      <pubDate>Sat, 26 Sep 2026 21:02:06 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI pauses training of its ‘most capable models’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</guid>
-      <pubDate>Sat, 26 Sep 2026 16:34:59 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As reports of OpenAI&amp;#x27;s models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
