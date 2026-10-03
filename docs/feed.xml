@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 22:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:13:23 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta wants your next gadget to be Muse-infused</title>
+      <link>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</guid>
+      <pubDate>Sat, 03 Oct 2026 00:45:39 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta wants Muse in your TV and your toaster, so it&amp;#x27;s giving the code away for free.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sean Parker is rebuilding Stability AI around music</title>
       <link>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</link>
@@ -2697,36 +2707,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>At Meta Connect, the company’s smart glasses were everywhere</title>
-      <link>https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/</guid>
-      <pubDate>Sat, 26 Sep 2026 01:08:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</title>
-      <link>https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/</guid>
-      <pubDate>Fri, 25 Sep 2026 23:11:10 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Boom Supersonic CEO Blake Scholl said the company&amp;#x27;s new stationary power plants were no longer in Crusoe&amp;#x27;s near-term plans.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</title>
-      <link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</guid>
-      <pubDate>Fri, 25 Sep 2026 22:20:47 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI agents operating in OpenAI&amp;#x27;s research environment posted user images on public image-hosting sites without the lab&amp;#x27;s knowledge.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
