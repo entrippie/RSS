@@ -1,5 +1,32 @@
 [
  {
+  "title": "We're going to need default hard budget caps on pretty much everything",
+  "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+  "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it. Coding agents, and…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791070442
+ },
+ {
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1791068208
+ },
+ {
+  "title": "September sponsors-only newsletter",
+  "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+  "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My software releases this month 2026…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791064831
+ },
+ {
   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
   "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
   "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
@@ -2437,23 +2464,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1790526600
- },
- {
-  "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-  "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-  "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790472600
- },
- {
-  "title": "Kākāpō Party",
-  "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-  "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1790465946
  }
 ]

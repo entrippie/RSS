@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:47:07 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We're going to need default hard budget caps on pretty much everything</title>
+      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</guid>
+      <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Here&amp;#x27;s a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I&amp;#x27;m talking about the feature of pay-by-usage services and APIs that lets you say &amp;quot;after $X/month, cut this thing off and return errors&amp;quot;. These need to be hard limits. Soft caps, &amp;quot;after $X/month, send me a warning email&amp;quot;, will not cut it. Coding agents, and…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Agent Said It Was Done. The Database Disagreed.</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox</guid>
+      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>September sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/newsletter/</guid>
+      <pubDate>Sat, 03 Oct 2026 22:00:31 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I&amp;#x27;m using right now My software releases this month 2026…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
       <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
@@ -2717,26 +2747,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;AI is the devil and I its maker.&amp;quot;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
-      <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</guid>
-      <pubDate>Sun, 27 Sep 2026 01:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The limited test covers select products and users, with a broader rollout planned for later in October.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kākāpō Party</title>
-      <link>https://simonwillison.net/2026/Sep/26/kakapo-party/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/26/kakapo-party/</guid>
-      <pubDate>Sat, 26 Sep 2026 23:39:06 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
