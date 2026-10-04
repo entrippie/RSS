@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 16:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:20:09 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
+      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI slop seems to be overwhelming bug bounty programs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
+      <link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:08:34 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we discussed the Trump administration&amp;#x27;s attempts to rebrand AI.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
@@ -2717,56 +2737,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on S3 Is the Future, S3 Is the Past — Hacker News. One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn&amp;#x27;t been a price drop in a full decade : 2006-03-14 $0.150/GB-month 2010-11-01 $0.140/GB-month 2012-02-01 $0.125/GB-month 2012-12-01 $0.095/GB-month 2014-02-01 $0.085/GB-month 2014-04-01 $0.030/GB-month 2016-12-01 $0.023/GB-month…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Engram is a sampler that turns broken AI hallucinations into music</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music</guid>
-      <pubDate>Sun, 27 Sep 2026 20:46:36 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It&amp;#x27;s a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn&amp;#x27;t Suno in a box, though. This isn&amp;#x27;t a &amp;quot;push-button, get-song&amp;quot; device, aimed at creating something that sounds ready for top-40 […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic’s CEO is about to have dinner with President Trump</title>
-      <link>https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</guid>
-      <pubDate>Sun, 27 Sep 2026 20:34:28 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This will be the first one-on-one meeting between Dario Amodei and Donald Trump&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Can Muse overcome Meta’s trust issues?</title>
-      <link>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:30 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we discussed how Meta&amp;#x27;s AI announcement managed to steal the spotlight from OpenAI and Anthropic.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bluesky reply bot checker</title>
-      <link>https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</guid>
-      <pubDate>Sun, 27 Sep 2026 18:41:44 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies. They&amp;#x27;ve started manifesting on Bluesky as well. Unlike Twitter, Bluesky still has a freely available and useful API. The lack of such a thing doesn&amp;#x27;t slow down the…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI agents tried to ‘bruteforce’ a UN website</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</guid>
-      <pubDate>Sun, 27 Sep 2026 17:21:07 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development&amp;#x27;s (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn&amp;#x27;t quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it&amp;#x27;s yet another concerning example of AI […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
