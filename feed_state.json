@@ -1,5 +1,32 @@
 [
  {
+  "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+  "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791130564
+ },
+ {
+  "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+  "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791127319
+ },
+ {
+  "title": "Trump unveils his new Super Intelligence Force",
+  "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+  "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791126910
+ },
+ {
   "title": "We're going to need default hard budget caps on pretty much everything",
   "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
   "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it. Coding agents, and…",
@@ -2455,14 +2482,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1790529667
- },
- {
-  "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-  "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-  "summary": "\"AI is the devil and I its maker.\"",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790526600
  }
 ]

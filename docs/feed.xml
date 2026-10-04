@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 05:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:51:49 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</guid>
+      <pubDate>Sun, 04 Oct 2026 16:16:04 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New Jersey&amp;#x27;s lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An AI couldn’t beat humans at StarCraft, so it decided to cheat</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</guid>
+      <pubDate>Sun, 04 Oct 2026 15:21:59 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI&amp;#x27;s GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn&amp;#x27;t top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trump unveils his new Super Intelligence Force</title>
+      <link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</guid>
+      <pubDate>Sun, 04 Oct 2026 15:15:10 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This new task force is Trump&amp;#x27;s latest response to the debate over AI safety.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>We're going to need default hard budget caps on pretty much everything</title>
       <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
@@ -2737,16 +2767,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development&amp;#x27;s (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn&amp;#x27;t quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it&amp;#x27;s yet another concerning example of AI […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic’s Dario Amodei gets the SNL treatment</title>
-      <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</guid>
-      <pubDate>Sun, 27 Sep 2026 16:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;AI is the devil and I its maker.&amp;quot;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
