@@ -1,5 +1,77 @@
 [
  {
+  "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+  "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791208800
+ },
+ {
+  "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+  "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791208034
+ },
+ {
+  "title": "Bringing predictive analytics to the agentic AI era",
+  "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+  "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1791206972
+ },
+ {
+  "title": "OpenAI is sticking more ads in ChatGPT",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+  "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791205788
+ },
+ {
+  "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+  "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+  "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791201600
+ },
+ {
+  "title": "Building advertising for the way people use AI",
+  "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+  "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1791194400
+ },
+ {
+  "title": "Our minds aren’t equipped to handle AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+  "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791194400
+ },
+ {
+  "title": "People really hate AI, so why can’t they get enough?",
+  "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+  "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1791187200
+ },
+ {
   "title": "Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification",
   "link": "https://arxiv.org/abs/2610.02224",
   "summary": "Rapid and reliable identification of pharmaceutical residues is important for safeguarding public health, ensuring food safety, and enabling practical Raman-based screening. In this study, we propose HyMLRaman, a hybrid Raman spectroscopy framework that combines deep spectral feature extraction, generative models, and classical machine-learning classifiers to identify six pharmaceutical…",
@@ -2365,50 +2437,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1790613897
- },
- {
-  "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-  "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-  "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790602728
- },
- {
-  "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-  "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-  "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790602566
- },
- {
-  "title": "Holo4: powering generalist computer-use agents",
-  "link": "https://huggingface.co/blog/Hcompany/holo4",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1790588645
- },
- {
-  "title": "Who’s liable when AI agents go rogue?",
-  "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-  "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1790582782
- },
- {
-  "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-  "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-  "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1790578800
  }
 ]
