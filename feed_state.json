@@ -1,5 +1,23 @@
 [
  {
+  "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+  "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+  "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791283991
+ },
+ {
+  "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+  "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1791269079
+ },
+ {
   "title": "Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent Systems?",
   "link": "https://arxiv.org/abs/2610.03769",
   "summary": "Multi-agent LLM systems pair a sender with broad context and an executor with a limited local view. We study when a short message improves the executor's next decision, when raw context is preferable, and when a stronger sender helps. Our framework, \\emph{receiver-relative bounded coordination}, expresses message utility as receiver gain minus protocol tax. Compression beats raw context when tax…",
@@ -2311,86 +2329,5 @@
   "section": "Research labs",
   "source_feed": "https://www.microsoft.com/en-us/research/feed/",
   "ts": 1790690402
- },
- {
-  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-  "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1790687220
- },
- {
-  "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-  "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-  "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790685905
- },
- {
-  "title": "Reco raises $55M as AI agent security startups crowd the market",
-  "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-  "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790685000
- },
- {
-  "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-  "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-  "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790683200
- },
- {
-  "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-  "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790682507
- },
- {
-  "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-  "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-  "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency",
-  "source": "Ahead of AI (Sebastian Raschka)",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://magazine.sebastianraschka.com/feed",
-  "ts": 1790679025
- },
- {
-  "title": "Making AI an asset, not an expense",
-  "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-  "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1790678625
- },
- {
-  "title": "Introducing GPT-6.1 Sol",
-  "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-  "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1790676000
- },
- {
-  "title": "DevDay 2026 Recap",
-  "link": "https://openai.com/index/devday-2026-recap",
-  "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1790676000
  }
 ]
