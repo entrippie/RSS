@@ -5,9 +5,159 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:31 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini Call for Me might tell your mom you’re running late</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
+      <pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google may be expanding its &amp;quot;Call for Me&amp;quot; AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a &amp;quot;Gemini Calling&amp;quot; introductory screen in an APK teardown with examples that include &amp;quot;Call Mom and tell her I will be 15 minutes late&amp;quot; and &amp;quot;Call […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle</title>
+      <link>https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/</link>
+      <guid isPermaLink="true">https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/</guid>
+      <pubDate>Mon, 05 Oct 2026 21:08:31 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Education Innovation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
+      <link>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</guid>
+      <pubDate>Mon, 05 Oct 2026 20:36:48 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This startup is issuing AI-generated acne prescriptions</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</guid>
+      <pubDate>Mon, 05 Oct 2026 20:14:57 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</title>
+      <link>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</guid>
+      <pubDate>Mon, 05 Oct 2026 19:33:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>All the drama around AI’s takeover of mathematics</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution</guid>
+      <pubDate>Mon, 05 Oct 2026 19:28:59 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage</title>
+      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</guid>
+      <pubDate>Mon, 05 Oct 2026 19:05:19 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it &amp;quot;can confirm that we have discovered some activity&amp;quot; by &amp;quot;rogue&amp;quot; OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, &amp;quot;unsuccessful attempts&amp;quot; to &amp;quot;exploit&amp;quot; the Etherpad note-taking tool that the Wikimedia…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instinct brings its AI agent to group chats, even for friends without an account</title>
+      <link>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</guid>
+      <pubDate>Mon, 05 Oct 2026 18:54:30 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TikTok rolls out an AI shopping assistant and one-click checkout</title>
+      <link>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</guid>
+      <pubDate>Mon, 05 Oct 2026 18:29:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI is adding text watermarking in ChatGPT and Codex</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act</guid>
+      <pubDate>Mon, 05 Oct 2026 18:08:39 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking &amp;quot;matched or exceeded&amp;quot; other approaches like Google DeepMind&amp;#x27;s SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hot Girl Hotline is like ‘Dear Abby’ for the AI era</title>
+      <link>https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:29:22 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr</guid>
+      <pubDate>Mon, 05 Oct 2026 16:55:42 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An OpenAI publicist tried to change the topic of CEO Sam Altman&amp;#x27;s interview with Vanity Fair&amp;#x27;s Mark Guiducci after the editor brought up a ChatGPT user&amp;#x27;s suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she&amp;#x27;d like to &amp;quot;move on&amp;quot; to another topic. The interruption came […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</title>
+      <link>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:43:35 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Connecting AI agents to enterprise knowledge</title>
+      <link>https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:47:52 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our approach to EU text provenance rules</title>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026</title>
       <link>https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</link>
@@ -387,6 +537,26 @@
       <category>arXiv papers</category>
       <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Simultaneous speech translation must emit useful target text before the source is complete while preserving every committed token. We adapt a full-utterance speech language model using prefix supervision derived from its own complete- and partial-waveform translations, requiring neither transcripts nor human translations. We compare single-turn forced-prefix and multi-turn append-only decoding,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EmTech Future 2026: When AI Meets Everything</title>
+      <link>https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yossi Matias, Vice President &amp;amp; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.  Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen3.8 27B addition in words</title>
+      <link>https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/</guid>
+      <pubDate>Sun, 04 Oct 2026 23:34:00 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could &amp;quot;compute the sum but return the answer in words&amp;quot; across increasingly large numbers. Here&amp;#x27;s the chart he shared of those results: I&amp;#x27;m confident GPT-4o didn&amp;#x27;t cheat and use a calculator, especially since it got so many of the calculations wrong,…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
@@ -2507,216 +2677,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing dots</title>
-      <link>https://openai.com/index/introducing-dots</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI reportedly ditches model over safety concerns</title>
-      <link>https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/</guid>
-      <pubDate>Mon, 28 Sep 2026 23:39:20 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Roundtables: The Deadly Failures of The Virtual Border Wall</title>
-      <link>https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/</guid>
-      <pubDate>Mon, 28 Sep 2026 22:17:07 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Sonnet 5.5</title>
-      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</guid>
-      <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it &amp;quot;runs 30%+ faster, and costs up to 30% less for most work&amp;quot; - it&amp;#x27;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the &amp;quot;max&amp;quot; thinking effort pelican thought for 128,000 tokens…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AMD is acquiring AI company World Labs in a deal worth more than $8 billion</title>
-      <link>https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</guid>
-      <pubDate>Mon, 28 Sep 2026 21:31:35 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AMD announced today that it&amp;#x27;s acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</title>
-      <link>https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/</guid>
-      <pubDate>Mon, 28 Sep 2026 21:29:18 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The new financing is expected to more than triples the AI infrastructure startup&amp;#x27;s valuation from just four months ago.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact</title>
-      <link>https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/</link>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/</guid>
-      <pubDate>Mon, 28 Sep 2026 21:00:00 +0000</pubDate>
-      <dc:creator>Microsoft Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion</title>
-      <link>https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</guid>
-      <pubDate>Mon, 28 Sep 2026 20:39:33 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shopify opens checkout to browser-based AI agents</title>
-      <link>https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/</guid>
-      <pubDate>Mon, 28 Sep 2026 19:33:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting @joedaroo</title>
-      <link>https://simonwillison.net/2026/Sep/28/joedaroo/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/joedaroo/</guid>
-      <pubDate>Mon, 28 Sep 2026 19:11:42 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How we will do better for Australia</title>
-      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-      <guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Towards safety cases for frontier AI training</title>
-      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
-      <guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI’s AI agents need to catch up</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent</guid>
-      <pubDate>Mon, 28 Sep 2026 18:45:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it&amp;#x27;s fallen behind in one of the industry&amp;#x27;s hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia launches new platform for reining in rogue AI agents</title>
-      <link>https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/</guid>
-      <pubDate>Mon, 28 Sep 2026 18:31:23 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI is supercharging hacking, and your local hospitals and banks aren’t ready</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready</guid>
-      <pubDate>Mon, 28 Sep 2026 18:30:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian&amp;#x27;s Door. Vivian&amp;#x27;s Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies&amp;#x27; financial data, which was stored on its systems. But suddenly, concerned…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner</title>
-      <link>https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/</guid>
-      <pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google is killing off Gemini’s Gems in favor of ‘skills’</title>
-      <link>https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/</guid>
-      <pubDate>Mon, 28 Sep 2026 17:29:50 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As all-in-one AI agents like Meta&amp;#x27;s Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When can we say AI made a scientific discovery?</title>
-      <link>https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/</guid>
-      <pubDate>Mon, 28 Sep 2026 17:03:16 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Florida seeks a ban on ChatGPT acting like a person</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids</guid>
-      <pubDate>Mon, 28 Sep 2026 17:00:23 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from &amp;quot;giving ChatGPT false human attributes,&amp;quot; a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as &amp;quot;ChatGPT&amp;#x27;s use of language, including first-person pronouns […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI keeps bulldozing mathematicians</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group</guid>
-      <pubDate>Mon, 28 Sep 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI&amp;#x27;s latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Walmart won’t hike prices based on your shopping history, CEO says</title>
-      <link>https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels</guid>
-      <pubDate>Mon, 28 Sep 2026 16:44:57 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Walmart says it won&amp;#x27;t change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company&amp;#x27;s switch to digital shelf labels is meant to save store associates time, rather than dynamically change prices. […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
