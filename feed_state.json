@@ -1,5 +1,158 @@
 [
  {
+  "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+  "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+  "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791326043
+ },
+ {
+  "title": "llm-mistral 0.16",
+  "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+  "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791322354
+ },
+ {
+  "title": "EmbeddingGemma 2",
+  "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+  "summary": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions of embedding vectors and storing them for later comparison. If your model is…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791319073
+ },
+ {
+  "title": "How AI decision models could change content moderation",
+  "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+  "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791318920
+ },
+ {
+  "title": "Introducing Mistral Large 4: Le chonk",
+  "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+  "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open weights model at the \"end of this month\". The model only supports two reasoning…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791317899
+ },
+ {
+  "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+  "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+  "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791316830
+ },
+ {
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "summary": "",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1791316624
+ },
+ {
+  "title": "The next hurdle for AI agents: getting websites to let them in",
+  "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+  "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791316610
+ },
+ {
+  "title": "Using Parseable with Datasette for OpenTelemetry traces",
+  "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+  "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791313651
+ },
+ {
+  "title": "Hark releases an AI personal assistant with a focus on privacy",
+  "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+  "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791310965
+ },
+ {
+  "title": "Mistral Large 4",
+  "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+  "summary": "My comment on Mistral Large 4 — Hacker News. wren6991 : The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m claude-opus-5.5 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m gpt-6.1-sol 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791310858
+ },
+ {
+  "title": "Mirror Particle is building a ‘world model’ of human behavior",
+  "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+  "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791304500
+ },
+ {
+  "title": "We can’t just change the definition of ‘recording’",
+  "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+  "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791304184
+ },
+ {
+  "title": "What AI gets wrong and what failure teaches us",
+  "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+  "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. The post What AI gets wrong and what failure teaches us appeared first on Microsoft Research .",
+  "source": "Microsoft Research",
+  "section": "Research labs",
+  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
+  "ts": 1791303546
+ },
+ {
+  "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+  "link": "https://openai.com/index/atlassian-partnership",
+  "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1791302400
+ },
+ {
+  "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+  "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+  "summary": "Earth AI",
+  "source": "Google Research",
+  "section": "Research labs",
+  "source_feed": "https://research.google/blog/rss/",
+  "ts": 1791299111
+ },
+ {
+  "title": "Google is about to remove free access to Gemini Flash and Pro",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+  "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791292741
+ },
+ {
   "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
   "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
   "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The […]",
@@ -7,6 +160,15 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1791283991
+ },
+ {
+  "title": "Advancing computer use with Ironclad",
+  "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1791280800
  },
  {
   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
@@ -2131,203 +2293,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1790724655
- },
- {
-  "title": "Trump orders US government to call AI ‘Super Intelligence’",
-  "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-  "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790720745
- },
- {
-  "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-  "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-  "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790720459
- },
- {
-  "title": "Quoting Anthropic Frontier Red Team",
-  "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-  "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1790720428
- },
- {
-  "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-  "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-  "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790718549
- },
- {
-  "title": "OpenAI’s latest features take direct aim at the app store model",
-  "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-  "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790712947
- },
- {
-  "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-  "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-  "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790711557
- },
- {
-  "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-  "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-  "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790711557
- },
- {
-  "title": "How Diffusion Controller unifies and simplifies AI image generation",
-  "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-  "summary": "Algorithms & Theory",
-  "source": "Google Research",
-  "section": "Research labs",
-  "source_feed": "https://research.google/blog/rss/",
-  "ts": 1790707107
- },
- {
-  "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-  "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-  "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790706900
- },
- {
-  "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-  "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-  "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv... Here they are for GPT-6.1-Sol: https://tools.simonwillison.net/markdown-svg-renderer?url=ht... They're not notably different from the GPT-6 family pelicans:…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1790706468
- },
- {
-  "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-  "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-  "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790703951
- },
- {
-  "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-  "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790703303
- },
- {
-  "title": "AI-powered app maker Wabi pivots to a messaging experience",
-  "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-  "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790702400
- },
- {
-  "title": "OpenAI launches Dots, its bubbly agentic avatar",
-  "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-  "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790702235
- },
- {
-  "title": "OpenAI launches Dots, its Muse competitor",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-  "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790702100
- },
- {
-  "title": "Protesters gather at OpenAI’s DevDay",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-  "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790701947
- },
- {
-  "title": "Photo Scrubber — local face blur & metadata removal",
-  "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-  "summary": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces and automatically blur them out. It uses Google's MediaPipe C++ library, compiled to WebAssembly via @mediapipe/tasks-vision , plus…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1790700327
- },
- {
-  "title": "OpenAI DevDay 2026: The biggest news and announcements",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-  "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790697600
- },
- {
-  "title": "OpenAI DevDay 2026 live blog",
-  "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-  "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1790697313
- },
- {
-  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-  "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1790695838
- },
- {
-  "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-  "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1790690901
- },
- {
-  "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-  "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-  "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results…",
-  "source": "Microsoft Research",
-  "section": "Research labs",
-  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
-  "ts": 1790690402
  }
 ]
