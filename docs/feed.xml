@@ -5,9 +5,179 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:02:42 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Haiku 5.5</title>
+      <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</guid>
+      <pubDate>Wed, 07 Oct 2026 20:56:21 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As previously promised , here&amp;#x27;s Anthropic&amp;#x27;s new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI&amp;#x27;s GPT-6 Luna , released last month. The new Haiku exactly matches the price of…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nous Research confirms it hit $1.5B valuation, launches AI agents for business users</title>
+      <link>https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</guid>
+      <pubDate>Wed, 07 Oct 2026 20:48:45 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The developer of Hermes Agent raised a $90 million Series B.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</title>
+      <link>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</guid>
+      <pubDate>Wed, 07 Oct 2026 20:22:37 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Does better work always mean better workers?</title>
+      <link>https://research.google/blog/does-better-work-always-mean-better-workers/</link>
+      <guid isPermaLink="true">https://research.google/blog/does-better-work-always-mean-better-workers/</guid>
+      <pubDate>Wed, 07 Oct 2026 20:19:57 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</guid>
+      <pubDate>Wed, 07 Oct 2026 19:10:42 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Everything announced at Microsoft’s Surface Laptop Ultra event</title>
+      <link>https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced</guid>
+      <pubDate>Wed, 07 Oct 2026 18:42:22 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s Muse launches on iPad just a month after its mobile debut</title>
+      <link>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</guid>
+      <pubDate>Wed, 07 Oct 2026 18:30:57 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT for Teens keeps teens talking, even during mental health crises</title>
+      <link>https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/</guid>
+      <pubDate>Wed, 07 Oct 2026 18:15:28 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft is giving Copilot more control over Windows and your files</title>
+      <link>https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence</guid>
+      <pubDate>Wed, 07 Oct 2026 18:01:20 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At today&amp;#x27;s Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It&amp;#x27;s part of an idea Microsoft is calling &amp;quot;Hybrid Intelligence,&amp;quot; where apps and tools rely on a mix of […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT is getting a lot more visual, with the launch of a new interface</title>
+      <link>https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</guid>
+      <pubDate>Wed, 07 Oct 2026 18:00:19 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Surface RTX Spark Dev Box is available for preorder for $5,999</title>
+      <link>https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder</guid>
+      <pubDate>Wed, 07 Oct 2026 17:46:44 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft&amp;#x27;s Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It&amp;#x27;s pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box&amp;#x27;s flat, 3D-printed anodized […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multimodal open d1 decision models for the edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/open-d1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material</title>
+      <link>https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</guid>
+      <pubDate>Wed, 07 Oct 2026 16:53:46 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</title>
+      <link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</guid>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>Microsoft Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses appeared first…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT is getting college planning tools</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards</guid>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. &amp;quot;College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student&amp;#x27;s list in one plan,&amp;quot; OpenAI says. &amp;quot;Students applying to several […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Muse launches on the iPad</title>
+      <link>https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support</guid>
+      <pubDate>Wed, 07 Oct 2026 15:37:23 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After launching nearly a month ago and spending several weeks as the top free app in Apple&amp;#x27;s App Store, the latest update to Meta&amp;#x27;s Muse iOS app introduces native support for the iPad. A Mac version of Meta&amp;#x27;s agentic AI tool (designed to compete with OpenClaw, ChatGPT&amp;#x27;s Dots, and Grok Bot) was released about a […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anti-Patterns in Software Blogging</title>
+      <link>https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:53:51 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against &amp;quot;meandering intros&amp;quot;, misjudging your reader&amp;#x27;s existing knowledge, assuming they&amp;#x27;ll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain terminology. This one hurt! I do this all the time, but I have a nagging suspicion…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
       <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
@@ -29,6 +199,16 @@
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it&amp;#x27;s operating as a pre-seed startup. But this summer, Bites […]&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Helping teens learn, plan, and shape the future of AI</title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <guid isPermaLink="true">https://openai.com/index/teens-learn-and-plan</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media</link>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media</guid>
@@ -37,6 +217,16 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI&amp;#x27;s ChatGPT for Teens is an &amp;quot;unacceptable risk.&amp;quot; ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
+      <link>https://openai.com/index/radisson</link>
+      <guid isPermaLink="true">https://openai.com/index/radisson</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quoting Jake Boggan</title>
@@ -257,6 +447,16 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it&amp;#x27;s not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 and Intelligent UI for everyone</title>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-for-everyone</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quoting Victoria Kim</title>
@@ -2517,166 +2717,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>He Built This City</title>
-      <link>https://simonwillison.net/2026/Sep/30/he-built-this-city/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/30/he-built-this-city/</guid>
-      <pubDate>Wed, 30 Sep 2026 21:54:19 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance. Tags: museums , new-york&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation</title>
-      <link>https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/</guid>
-      <pubDate>Wed, 30 Sep 2026 21:07:40 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</title>
-      <link>https://www.theverge.com/tech/1002980/google-gemini-4-argon</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1002980/google-gemini-4-argon</guid>
-      <pubDate>Wed, 30 Sep 2026 20:41:41 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google today revealed its next AI frontier model, which it&amp;#x27;s calling Gemini 4 Argon. The new model delivers &amp;quot;frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,&amp;quot; according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: our next era of frontier intelligence</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
-      <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI’s Jev clone could help the frontier lab stop its swarming agents</title>
-      <link>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</guid>
-      <pubDate>Wed, 30 Sep 2026 19:00:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI&amp;#x27;s &amp;quot;Decisions API&amp;quot; is a Jev clone that confirms the importance of fast, cheap intelligence.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI voice startup ElevenLabs doubles valuation to $22B</title>
-      <link>https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/</guid>
-      <pubDate>Wed, 30 Sep 2026 18:23:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The $300 million employee tender was co-led by Wellington and T. Rowe Price.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The AI Tamagotchis are coming</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices</guid>
-      <pubDate>Wed, 30 Sep 2026 18:07:38 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;While AI has made plenty of inroads on people&amp;#x27;s phones and computers, it&amp;#x27;s largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they&amp;#x27;re apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. &amp;quot;Hardware is […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit is killing RSS feeds and ending public API access because of AI bots</title>
-      <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</guid>
-      <pubDate>Wed, 30 Sep 2026 17:45:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The ugly economics of consumer AI</title>
-      <link>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/</guid>
-      <pubDate>Wed, 30 Sep 2026 17:24:45 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Here’s what AI leaders are saying about Trump’s new safety plan</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</guid>
-      <pubDate>Wed, 30 Sep 2026 17:15:49 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a &amp;quot;hoax&amp;quot; cooked up by Democrats no longer apply now that he&amp;#x27;s renamed the technology to &amp;quot;Super Intelligence.&amp;quot; He […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta disputes claim that Muse read a user’s private messages without permission</title>
-      <link>https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/</guid>
-      <pubDate>Wed, 30 Sep 2026 16:24:23 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Forecasting space weather risks on power grids</title>
-      <link>https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/</link>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/</guid>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
-      <dc:creator>Microsoft Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on Microsoft Research .&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>All the latest news on Meta’s cute, creepy Muse AI agent</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai</guid>
-      <pubDate>Wed, 30 Sep 2026 15:18:49 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing SynthID Bio</title>
-      <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/introducing-synthid-bio/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Proof of concept for watermarking AI-generated proteins while preserving biological function.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google reportedly tests paying publishers for AI search results</title>
-      <link>https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features</guid>
-      <pubDate>Wed, 30 Sep 2026 14:51:49 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Instagram is adding an AI ‘assistant’ to tell you how to post</title>
-      <link>https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube</guid>
-      <pubDate>Wed, 30 Sep 2026 14:30:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI &amp;quot;creative assistant&amp;quot; that pulls in data from a user&amp;#x27;s Instagram account and offers suggestions on what to change. Using the new […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
