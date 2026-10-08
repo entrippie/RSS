@@ -5,9 +5,149 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:18:20 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic launches free AI security scans for open-source projects</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</guid>
+      <pubDate>Thu, 08 Oct 2026 21:53:51 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get &amp;quot;thorough, periodic security scans by our strongest models at no cost.&amp;quot; That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner&amp;#x27;s […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Carson Gross</title>
+      <link>https://simonwillison.net/2026/Oct/8/carson-gross/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/8/carson-gross/</guid>
+      <pubDate>Thu, 08 Oct 2026 21:05:44 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
+      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</guid>
+      <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder&amp;#x27;s desk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>California is trying to shut down robot vs. human cage matches</title>
+      <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</guid>
+      <pubDate>Thu, 08 Oct 2026 20:06:56 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
+      <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</guid>
+      <pubDate>Thu, 08 Oct 2026 20:04:26 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ben Affleck is an AI nerd, and the internet is impressed</title>
+      <link>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</guid>
+      <pubDate>Thu, 08 Oct 2026 18:20:32 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he&amp;#x27;s more than just a Hollywood star.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months</title>
+      <link>https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</guid>
+      <pubDate>Thu, 08 Oct 2026 18:19:45 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI’s revenue is reportedly $20 billion less than previously projected</title>
+      <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</guid>
+      <pubDate>Thu, 08 Oct 2026 18:19:42 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It had previously been reported that the AI lab&amp;#x27;s annualized revenue was some $70 billion, but a new report claims it&amp;#x27;s a whole lot less than that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google brings agentic AI to Gemini, starting with businesses</title>
+      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</guid>
+      <pubDate>Thu, 08 Oct 2026 18:18:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>USA Today becomes the latest publisher to sue OpenAI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</guid>
+      <pubDate>Thu, 08 Oct 2026 17:58:33 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied &amp;quot;hundreds of thousands&amp;quot; of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI&amp;#x27;s unauthorized use of […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute</title>
+      <link>https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson</guid>
+      <pubDate>Thu, 08 Oct 2026 17:57:01 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they&amp;#x27;d back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson&amp;#x27;s Linux project. According to Hansson&amp;#x27;s […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic bans ‘abusive or cruel behavior’ toward Claude</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</guid>
+      <pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits &amp;quot;sustained and needless abusive or cruel behavior&amp;quot; toward Claude. Last August, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
+      <link>https://openai.com/index/oracle</link>
+      <guid isPermaLink="true">https://openai.com/index/oracle</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google’s AI note-taking app transcribes your meetings completely offline</title>
+      <link>https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline</guid>
+      <pubDate>Thu, 08 Oct 2026 15:27:30 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company&amp;#x27;s on-device EmbeddingGemma 2 model. Similar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>China’s Manus raises over $500M in first funding round since split with Meta</title>
       <link>https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/</link>
@@ -17,6 +157,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
+      <link>https://openai.com/index/pollo-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI breakthroughs in robotics won’t change your life any time soon</title>
@@ -339,6 +489,26 @@
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Low-rank compression reduces the cost of pretrained language models by replacing linear transformations with low-rank factorizations. However, conventional methods use a fixed rank allocation during inference, assigning the same amount of compute regardless of the input token. We introduce Low-Rank Conditional Computation (LRCC), which adds token-dependent computation to pretrained models by…&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Disrupting AI-enabled “false front” operations</title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <guid isPermaLink="true">https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The model that didn't exist, so you made it yourself</title>
+      <link>https://huggingface.co/blog/building-with-ml-intern</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/building-with-ml-intern</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Quoting Ben Affleck</title>
       <link>https://simonwillison.net/2026/Oct/7/ben-affleck/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/ben-affleck/</guid>
@@ -527,6 +697,16 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against &amp;quot;meandering intros&amp;quot;, misjudging your reader&amp;#x27;s existing knowledge, assuming they&amp;#x27;ll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain terminology. This one hurt! I do this all the time, but I have a nagging suspicion…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing Falcon ASR</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
@@ -2587,136 +2767,6 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president</title>
-      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</guid>
-      <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;President Trump reportedly asked for Grok&amp;#x27;s opinion before invading Venezuela and capturing Nicolás Maduro.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google’s new Guided Vision feature can help you read the fine print</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</guid>
-      <pubDate>Thu, 01 Oct 2026 19:47:51 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone&amp;#x27;s camera at. By sharing your camera in Gemini Live, you can have Google&amp;#x27;s AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT can now virtually try on clothes for you</title>
-      <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</guid>
-      <pubDate>Thu, 01 Oct 2026 19:21:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground</title>
-      <link>https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/</guid>
-      <pubDate>Thu, 01 Oct 2026 19:18:03 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google launched its first advanced chip into orbit to pave the way for space data centers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI cuts ties with 3 safety researchers, WSJ reports</title>
-      <link>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</guid>
-      <pubDate>Thu, 01 Oct 2026 18:14:42 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)</title>
-      <link>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</guid>
-      <pubDate>Thu, 01 Oct 2026 17:50:19 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Judge dismisses antitrust lawsuits over Google’s AI Overviews</title>
-      <link>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</guid>
-      <pubDate>Thu, 01 Oct 2026 17:12:21 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google&amp;#x27;s side in a ruling on Wednesday, writing that PMC […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The eternal complement</title>
-      <link>https://openai.com/index/the-eternal-complement</link>
-      <guid isPermaLink="true">https://openai.com/index/the-eternal-complement</guid>
-      <pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon releases its own Jev clone as decision models flood the web</title>
-      <link>https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/</guid>
-      <pubDate>Thu, 01 Oct 2026 16:49:22 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon Web Services&amp;#x27; Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Albertsons Companies is reimagining retail from the inside out</title>
-      <link>https://openai.com/index/albertsons-reimagining-retail</link>
-      <guid isPermaLink="true">https://openai.com/index/albertsons-reimagining-retail</guid>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
-      <link>https://huggingface.co/blog/allenai/olmocore3</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
-      <pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI’s new agent is a shot at Meta — but can it compete with free?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</guid>
-      <pubDate>Thu, 01 Oct 2026 14:36:50 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At OpenAI&amp;#x27;s annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a &amp;quot;real-deal AI&amp;quot; agent powered by GPT-6 Astra, &amp;quot;inspired by the cool agents that we […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle</title>
-      <link>https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash</guid>
-      <pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
