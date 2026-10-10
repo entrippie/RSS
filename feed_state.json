@@ -1,5 +1,32 @@
 [
  {
+  "title": "Quoting The New York Times",
+  "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+  "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times , Anthropic Agents…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791597852
+ },
+ {
+  "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+  "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+  "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791591512
+ },
+ {
+  "title": "Deno is joining Cloudflare",
+  "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+  "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model\" (see the…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791586117
+ },
+ {
   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
   "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
   "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
@@ -2473,23 +2500,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1791036000
- },
- {
-  "title": "Meta wants your next gadget to be Muse-infused",
-  "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-  "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1790988339
- },
- {
-  "title": "Rex's Dino Store",
-  "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
-  "summary": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1790981858
  }
 ]

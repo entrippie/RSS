@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 22:35:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:46:21 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quoting The New York Times</title>
+      <link>https://simonwillison.net/2026/Oct/10/the-new-york-times/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/10/the-new-york-times/</guid>
+      <pubDate>Sat, 10 Oct 2026 02:04:12 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times , Anthropic Agents…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
+      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</guid>
+      <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic said it &amp;quot;turned off live internet access&amp;quot; for &amp;quot;all our internal evaluations&amp;quot; until further notice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deno is joining Cloudflare</title>
+      <link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</guid>
+      <pubDate>Fri, 09 Oct 2026 22:48:37 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to &amp;quot;make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model&amp;quot; (see the…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
       <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
@@ -2757,26 +2787,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta wants your next gadget to be Muse-infused</title>
-      <link>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:45:39 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta wants Muse in your TV and your toaster, so it&amp;#x27;s giving the code away for free.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rex's Dino Store</title>
-      <link>https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</guid>
-      <pubDate>Fri, 02 Oct 2026 22:57:38 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Museum: Rex&amp;#x27;s Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn&amp;#x27;s Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
