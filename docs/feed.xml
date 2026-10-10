@@ -5,9 +5,69 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 05:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:38:24 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</title>
+      <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</guid>
+      <pubDate>Sat, 10 Oct 2026 19:50:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Is Apple hoping to get into the AI-generated podcast business?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
+      <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</guid>
+      <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an &amp;quot;AI-slop pipeline.&amp;quot; Artists are saying that […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</title>
+      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</guid>
+      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic is cutting off its internal evaluations from the internet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</guid>
+      <pubDate>Sat, 10 Oct 2026 14:41:16 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed &amp;quot;unintended model actions,&amp;quot; including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Here are the top AI agents that can live in your text messages</title>
+      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI agent makers are promising privacy — will they deliver?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</guid>
+      <pubDate>Sat, 10 Oct 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At this year&amp;#x27;s OpenAI DevDay, CEO Sam Altman unveiled the company&amp;#x27;s new AI agent Dots - and told the crowd that the company wants to &amp;quot;set a new standard for privacy in frontier AI.&amp;quot; OpenAI would spend the day taking veiled shots at Meta&amp;#x27;s Muse, its primary competitor, for failing to keep users&amp;#x27; data safe. […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quoting The New York Times</title>
       <link>https://simonwillison.net/2026/Oct/10/the-new-york-times/</link>
@@ -2727,66 +2787,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I&amp;#x27;m using right now My software releases this month 2026…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
-      <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</guid>
-      <pubDate>Sat, 03 Oct 2026 18:43:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Capcom is preparing for a ‘future where we create games together with AI’</title>
-      <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/1004418/capcom-ai-game-development</guid>
-      <pubDate>Sat, 03 Oct 2026 16:49:10 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Capcom&amp;#x27;s Pragmata might be all about the horrors of AI, but in practice the studio doesn&amp;#x27;t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: &amp;quot;The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
-      <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</guid>
-      <pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</title>
-      <link>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</link>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</guid>
-      <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa&amp;#x27;s &amp;quot;Money&amp;quot; and &amp;quot;Espresso&amp;quot; by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An OpenAI safety employee has quit and is sounding the alarm</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</guid>
-      <pubDate>Sat, 03 Oct 2026 14:31:56 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It&amp;#x27;s understandable if you&amp;#x27;re feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>All the AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-      <pubDate>Sat, 03 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
