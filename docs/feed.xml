@@ -5,9 +5,49 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 21:38:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:40:54 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dwarf Fortress uses version control now</title>
+      <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/11/dwarf-fortress/</guid>
+      <pubDate>Sun, 11 Oct 2026 00:52:37 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I remember hearing a while ago that Dwarf Fortress didn&amp;#x27;t use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That&amp;#x27;s art. I went looking and I&amp;#x27;m sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013: &amp;quot;I don&amp;#x27;t…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python 3.15.0 added to actions/python-versions</title>
+      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/10/python-actions/</guid>
+      <pubDate>Sat, 10 Oct 2026 23:58:04 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Python 3.15.0 added to actions/python-versions Bit of a niche link, but I&amp;#x27;ve been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add &amp;quot;3.15&amp;quot; to a GitHub Actions testing matrix to run tests against the new…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</guid>
+      <pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In a lengthy post on X, Microsoft&amp;#x27;s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a &amp;quot;set of nested black boxes&amp;quot; whose advice and actions we simply accept or […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
+      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</guid>
+      <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In a Saturday morning post, Microsoft&amp;#x27;s CEO wrote that it’s time “to step back and assess the trust architecture” of AI.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</title>
       <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
@@ -2757,36 +2797,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This new task force is Trump&amp;#x27;s latest response to the debate over AI safety.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>We're going to need default hard budget caps on pretty much everything</title>
-      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</guid>
-      <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Here&amp;#x27;s a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I&amp;#x27;m talking about the feature of pay-by-usage services and APIs that lets you say &amp;quot;after $X/month, cut this thing off and return errors&amp;quot;. These need to be hard limits. Soft caps, &amp;quot;after $X/month, send me a warning email&amp;quot;, will not cut it. Coding agents, and…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox</guid>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>September sponsors-only newsletter</title>
-      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/newsletter/</guid>
-      <pubDate>Sat, 03 Oct 2026 22:00:31 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I&amp;#x27;m using right now My software releases this month 2026…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
