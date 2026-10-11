@@ -5,9 +5,59 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:54:08 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will the HomeView be Apple’s first smart home success?</title>
+      <link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</guid>
+      <pubDate>Sun, 11 Oct 2026 21:14:40 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
+      <link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</guid>
+      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</guid>
+      <pubDate>Sun, 11 Oct 2026 18:33:56 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When President Donald Trump announced his plans to rebrand artificial intelligence as &amp;quot;super intelligence,&amp;quot; you&amp;#x27;d be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley&amp;#x27;s most powerful are falling in line and trying to give Trump the great AI rebrand he […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Can the AI industry persuade data center opponents by getting rid of NDAs?</title>
+      <link>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</guid>
+      <pubDate>Sun, 11 Oct 2026 16:52:33 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
+      <link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</guid>
+      <pubDate>Sun, 11 Oct 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Voice AI&amp;#x27;s often misses important points for its context layer, and causes the whole pipeline to break&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learning to use local AI is exciting, overwhelming, and frustrating</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</link>
@@ -2757,56 +2807,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could &amp;quot;compute the sum but return the answer in words&amp;quot; across increasingly large numbers. Here&amp;#x27;s the chart he shared of those results: I&amp;#x27;m confident GPT-4o didn&amp;#x27;t cheat and use a calculator, especially since it got so many of the calculations wrong,…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
-      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</guid>
-      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI slop seems to be overwhelming bug bounty programs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
-      <link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</guid>
-      <pubDate>Sun, 04 Oct 2026 20:08:34 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we discussed the Trump administration&amp;#x27;s attempts to rebrand AI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</guid>
-      <pubDate>Sun, 04 Oct 2026 16:16:04 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New Jersey&amp;#x27;s lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An AI couldn’t beat humans at StarCraft, so it decided to cheat</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</guid>
-      <pubDate>Sun, 04 Oct 2026 15:21:59 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI&amp;#x27;s GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn&amp;#x27;t top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump unveils his new Super Intelligence Force</title>
-      <link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</guid>
-      <pubDate>Sun, 04 Oct 2026 15:15:10 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This new task force is Trump&amp;#x27;s latest response to the debate over AI safety.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
