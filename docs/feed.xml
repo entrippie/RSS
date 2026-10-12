@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 05:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:15:26 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings</title>
+      <link>https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/</guid>
+      <pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Former Plaud exec raises $26M for AI app that listens to you in the background</title>
+      <link>https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:47:59 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Algebraic Integer Quantization for Machine Learning Applications</title>
       <link>https://arxiv.org/abs/2610.12494</link>
@@ -2697,96 +2717,6 @@
       <category>News</category>
       <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
       <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our approach to EU text provenance rules</title>
-      <link>https://openai.com/index/eu-text-provenance</link>
-      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
-      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An open-source tool lets you delete 12GB of Apple Intelligence data on macOS</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool</guid>
-      <pubDate>Mon, 05 Oct 2026 13:47:14 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Getting some extra storage space on your Mac could be as easy as deleting Apple&amp;#x27;s AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bringing predictive analytics to the agentic AI era</title>
-      <link>https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:29:32 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI is sticking more ads in ChatGPT</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</guid>
-      <pubDate>Mon, 05 Oct 2026 13:09:48 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI&amp;#x27;s latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will &amp;quot;initially&amp;quot; appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT&amp;#x27;s […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Can Safeworld convince people that GenAI robots won’t hurt them?</title>
-      <link>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Safeworld is building digital humans to make sure robots don&amp;#x27;t hurt the real ones.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building advertising for the way people use AI</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our minds aren’t equipped to handle AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Norbert Wiener, godfather of cybernetics, once said, &amp;quot;The thought of every age is reflected in its technique.&amp;quot; For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google&amp;#x27;s Demis Hassabis calls the brain &amp;quot;a biological approximation to a Turing machine.&amp;quot; Elon Musk puts it more bluntly, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>People really hate AI, so why can’t they get enough?</title>
-      <link>https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
