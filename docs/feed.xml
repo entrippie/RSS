@@ -5,9 +5,169 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:40:47 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cerebras CEO pushes back on AI doomsday warnings</title>
+      <link>https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/</guid>
+      <pubDate>Tue, 13 Oct 2026 22:36:59 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry&amp;#x27;s focus on AI&amp;#x27;s risks is drowning out its potential benefits.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI employee arrested for allegedly planting a bug in a conference room</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
+      <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An OpenAI engineer was arrested after the company said it discovered a &amp;quot;sophisticated recording device&amp;quot; hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Judge orders OpenAI to turn over hiring records in Apple trade secrets case</title>
+      <link>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</guid>
+      <pubDate>Tue, 13 Oct 2026 20:36:44 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A federal judge ruled that Apple can access OpenAI&amp;#x27;s interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Developing Gemini 4 Argon responsibly and safely</title>
+      <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</guid>
+      <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shopify opens its catalog up to more AI agents</title>
+      <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</guid>
+      <pubDate>Tue, 13 Oct 2026 19:42:42 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company&amp;#x27;s agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify&amp;#x27;s catalog. (The catalog consists […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xbox is officially embracing the chaos of AI-powered game ports</title>
+      <link>https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration</guid>
+      <pubDate>Tue, 13 Oct 2026 19:00:48 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads</title>
+      <link>https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/</guid>
+      <pubDate>Tue, 13 Oct 2026 18:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Flox&amp;#x27;s edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook is giving users more control over their algorithm</title>
+      <link>https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</guid>
+      <pubDate>Tue, 13 Oct 2026 18:05:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I don’t miss the camera on the Ray-Ban Meta Audio glasses</title>
+      <link>https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</title>
+      <link>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</guid>
+      <pubDate>Tue, 13 Oct 2026 17:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
+      <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</guid>
+      <pubDate>Tue, 13 Oct 2026 17:18:25 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook will let you customize your feed algorithm using AI</title>
+      <link>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</guid>
+      <pubDate>Tue, 13 Oct 2026 17:01:31 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Facebook&amp;#x27;s new &amp;quot;Your Algorithm&amp;quot; feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations &amp;quot;respond right away&amp;quot; after you make updates using the new feature by hitting &amp;quot;interested&amp;quot; or &amp;quot;not interested&amp;quot; for different topics. Your Algorithm previously launched on Instagram earlier this […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google makes it easier to launch your vibe-coded apps</title>
+      <link>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</guid>
+      <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The next time you vibe-code a custom app with Google&amp;#x27;s AI Studio, you won&amp;#x27;t have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon for Robotics</title>
+      <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TechCrunch Disrupt 2026: Day 1</title>
       <link>https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/</link>
@@ -89,6 +249,16 @@
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The startup will sell some of its assets to Disney for $20 million.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Higgsfield takes AI video from 1 minute to over 10</title>
+      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+      <guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Character.AI files for bankruptcy</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</link>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</guid>
@@ -157,6 +327,16 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it&amp;#x27;s now launching two new models it claims can go toe-to-toe with the industry&amp;#x27;s best. The new models, Muse Wonder and Muse Wonder Full, are available […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Profiling web-edit with Python 3.15: flame graphs and source heatmaps</title>
+      <link>https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</guid>
+      <pubDate>Mon, 12 Oct 2026 16:58:00 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the &amp;quot;web-edit&amp;quot; app from PyPI - research first then make me those demos Here&amp;#x27;s the resulting example flame graph and heatmap . Tags:…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simulating student learning for better AI tutoring</title>
@@ -2267,166 +2447,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week&amp;#x27;s DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-openai-decisions plugin inspired by llm-typesafe . Unlike Jev, the new gpt-6-luna decision model supports image input in…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</title>
-      <link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</guid>
-      <pubDate>Tue, 06 Oct 2026 22:34:03 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>llm-mistral 0.16</title>
-      <link>https://simonwillison.net/2026/Oct/6/llm-mistral/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/llm-mistral/</guid>
-      <pubDate>Tue, 06 Oct 2026 21:32:34 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EmbeddingGemma 2</title>
-      <link>https://simonwillison.net/2026/Oct/6/hn-49983751/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49983751/</guid>
-      <pubDate>Tue, 06 Oct 2026 20:37:53 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don&amp;#x27;t think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions of embedding vectors and storing them for later comparison. If your model is…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How AI decision models could change content moderation</title>
-      <link>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</guid>
-      <pubDate>Tue, 06 Oct 2026 20:35:20 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Mistral Large 4: Le chonk</title>
-      <link>https://simonwillison.net/2026/Oct/6/le-chonk/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/le-chonk/</guid>
-      <pubDate>Tue, 06 Oct 2026 20:18:19 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they&amp;#x27;re releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open weights model at the &amp;quot;end of this month&amp;quot;. The model only supports two reasoning…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI computing startup Lambda to raise $4B ahead of planned IPO</title>
-      <link>https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</guid>
-      <pubDate>Tue, 06 Oct 2026 20:00:30 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
-      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The next hurdle for AI agents: getting websites to let them in</title>
-      <link>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:56:50 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Using Parseable with Datasette for OpenTelemetry traces</title>
-      <link>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:07:31 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it&amp;#x27;s a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an &amp;quot;Enterprise&amp;quot; version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hark releases an AI personal assistant with a focus on privacy</title>
-      <link>https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/</guid>
-      <pubDate>Tue, 06 Oct 2026 18:22:45 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The AI lab&amp;#x27;s personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mistral Large 4</title>
-      <link>https://simonwillison.net/2026/Oct/6/hn-49982139/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49982139/</guid>
-      <pubDate>Tue, 06 Oct 2026 18:20:58 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on Mistral Large 4 — Hacker News. wren6991 : The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn&amp;#x27;t resist this one: llm -m claude-opus-5.5 &amp;#x27;Generate an SVG of an armadillo in fishnet tights jaywalking on Mars&amp;#x27; llm -m gpt-6.1-sol &amp;#x27;Generate an SVG of an armadillo in fishnet tights jaywalking on Mars&amp;#x27; llm -m…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mirror Particle is building a ‘world model’ of human behavior</title>
-      <link>https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/</guid>
-      <pubDate>Tue, 06 Oct 2026 16:35:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mirror Particle will launch at TechCrunch Disrupt&amp;#x27;s Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>We can’t just change the definition of ‘recording’</title>
-      <link>https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording</link>
-      <guid isPermaLink="true">https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording</guid>
-      <pubDate>Tue, 06 Oct 2026 16:29:44 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With AI hardware, tech companies are pushing the definition of what does and doesn&amp;#x27;t constitute a recording. For most of gadget history, it&amp;#x27;d be reasonable to assume that a device with a microphone or camera is either recording you or it isn&amp;#x27;t; it&amp;#x27;s either on or off, without much gray area. Microphones capture sound. Cameras […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What AI gets wrong and what failure teaches us</title>
-      <link>https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/</link>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/</guid>
-      <pubDate>Tue, 06 Oct 2026 16:19:06 +0000</pubDate>
-      <dc:creator>Microsoft Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. The post What AI gets wrong and what failure teaches us appeared first on Microsoft Research .&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
-      <link>https://openai.com/index/atlassian-partnership</link>
-      <guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unlocking Earth AI’s planetary geospatial foundation models for global public health</title>
-      <link>https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/</link>
-      <guid isPermaLink="true">https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:05:11 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Earth AI&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

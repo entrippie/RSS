@@ -1,5 +1,149 @@
 [
  {
+  "title": "Cerebras CEO pushes back on AI doomsday warnings",
+  "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+  "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791931019
+ },
+ {
+  "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+  "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791924325
+ },
+ {
+  "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+  "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+  "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791923804
+ },
+ {
+  "title": "Developing Gemini 4 Argon responsibly and safely",
+  "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+  "summary": "",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1791920587
+ },
+ {
+  "title": "Shopify opens its catalog up to more AI agents",
+  "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+  "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791920562
+ },
+ {
+  "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+  "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+  "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791918048
+ },
+ {
+  "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+  "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+  "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791916200
+ },
+ {
+  "title": "Facebook is giving users more control over their algorithm",
+  "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+  "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791914724
+ },
+ {
+  "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+  "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+  "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791914400
+ },
+ {
+  "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+  "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+  "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791912600
+ },
+ {
+  "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+  "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+  "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1791911905
+ },
+ {
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1791911148
+ },
+ {
+  "title": "Facebook will let you customize your feed algorithm using AI",
+  "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+  "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791910891
+ },
+ {
+  "title": "Google makes it easier to launch your vibe-coded apps",
+  "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+  "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1791910800
+ },
+ {
+  "title": "Gemini 4 Argon for Robotics",
+  "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+  "summary": "",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1791907318
+ },
+ {
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+  "summary": "",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1791907312
+ },
+ {
   "title": "TechCrunch Disrupt 2026: Day 1",
   "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
   "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
@@ -72,6 +216,15 @@
   "ts": 1791894222
  },
  {
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1791892800
+ },
+ {
   "title": "Character.AI files for bankruptcy",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
   "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing […]",
@@ -133,6 +286,15 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1791824400
+ },
+ {
+  "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+  "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+  "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\" app from PyPI - research first then make me those demos Here's the resulting example flame graph and heatmap . Tags:…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1791824280
  },
  {
   "title": "Simulating student learning for better AI tutoring",
@@ -2032,149 +2194,5 @@
   "section": "Newsletters & blogs",
   "source_feed": "https://simonwillison.net/atom/everything/",
   "ts": 1791327853
- },
- {
-  "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-  "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-  "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791326043
- },
- {
-  "title": "llm-mistral 0.16",
-  "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-  "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791322354
- },
- {
-  "title": "EmbeddingGemma 2",
-  "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-  "summary": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions of embedding vectors and storing them for later comparison. If your model is…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791319073
- },
- {
-  "title": "How AI decision models could change content moderation",
-  "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-  "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791318920
- },
- {
-  "title": "Introducing Mistral Large 4: Le chonk",
-  "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-  "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open weights model at the \"end of this month\". The model only supports two reasoning…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791317899
- },
- {
-  "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-  "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-  "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791316830
- },
- {
-  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-  "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-  "summary": "",
-  "source": "Google DeepMind",
-  "section": "Research labs",
-  "source_feed": "https://deepmind.google/blog/rss.xml",
-  "ts": 1791316624
- },
- {
-  "title": "The next hurdle for AI agents: getting websites to let them in",
-  "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-  "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791316610
- },
- {
-  "title": "Using Parseable with Datasette for OpenTelemetry traces",
-  "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-  "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791313651
- },
- {
-  "title": "Hark releases an AI personal assistant with a focus on privacy",
-  "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-  "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791310965
- },
- {
-  "title": "Mistral Large 4",
-  "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-  "summary": "My comment on Mistral Large 4 — Hacker News. wren6991 : The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m claude-opus-5.5 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m gpt-6.1-sol 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791310858
- },
- {
-  "title": "Mirror Particle is building a ‘world model’ of human behavior",
-  "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-  "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791304500
- },
- {
-  "title": "We can’t just change the definition of ‘recording’",
-  "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-  "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1791304184
- },
- {
-  "title": "What AI gets wrong and what failure teaches us",
-  "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
-  "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. The post What AI gets wrong and what failure teaches us appeared first on Microsoft Research .",
-  "source": "Microsoft Research",
-  "section": "Research labs",
-  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
-  "ts": 1791303546
- },
- {
-  "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-  "link": "https://openai.com/index/atlassian-partnership",
-  "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1791302400
- },
- {
-  "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-  "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-  "summary": "Earth AI",
-  "source": "Google Research",
-  "section": "Research labs",
-  "source_feed": "https://research.google/blog/rss/",
-  "ts": 1791299111
  }
 ]
