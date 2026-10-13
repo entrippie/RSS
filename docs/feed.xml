@@ -5,9 +5,89 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:35:54 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Python 3.15, goodbye 3.10, and now I can use 3.11</title>
+      <link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15/</guid>
+      <pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Python 3.15 is here ! Here&amp;#x27;s the essential What&amp;#x27;s new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I&amp;#x27;m most excited…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta releases its first frontier model, Muse Wonder</title>
+      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</guid>
+      <pubDate>Mon, 12 Oct 2026 17:56:56 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WindBorne wins a hefty US Air Force contract for its balloon data</title>
+      <link>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</guid>
+      <pubDate>Mon, 12 Oct 2026 17:19:14 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta has some Wonder Full new AI models</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</guid>
+      <pubDate>Mon, 12 Oct 2026 17:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it&amp;#x27;s now launching two new models it claims can go toe-to-toe with the industry&amp;#x27;s best. The new models, Muse Wonder and Muse Wonder Full, are available […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Simulating student learning for better AI tutoring</title>
+      <link>https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/</guid>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>Microsoft Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first on Microsoft Research .&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Honeyjar offers AI tools to improve PR and comms at every company</title>
+      <link>https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/</guid>
+      <pubDate>Mon, 12 Oct 2026 15:45:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft president says UK is best placed to drive AI regulation</title>
+      <link>https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/</guid>
+      <pubDate>Mon, 12 Oct 2026 15:31:19 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This AI startup says it can generate permit-ready blueprints in minutes</title>
+      <link>https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/</guid>
+      <pubDate>Mon, 12 Oct 2026 15:27:59 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings</title>
       <link>https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/</link>
@@ -19,6 +99,16 @@
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
+      <link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</guid>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the &amp;quot;primary AI inference system&amp;quot; for Microsoft&amp;#x27;s products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it&amp;#x27;s also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Former Plaud exec raises $26M for AI app that listens to you in the background</title>
       <link>https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</guid>
@@ -27,6 +117,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>datasette-ports 0.4</title>
+      <link>https://simonwillison.net/2026/Oct/12/datasette-ports/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/datasette-ports/</guid>
+      <pubDate>Mon, 12 Oct 2026 04:57:07 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette&lt;/p&gt;</description>
     </item>
     <item>
       <title>Algebraic Integer Quantization for Machine Learning Applications</title>
@@ -2567,156 +2667,6 @@
       <category>arXiv papers</category>
       <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A trainable input embedding table assigns each vocabulary item an independently adjustable vector. We investigate whether this token-specific parameterization is required for substantial language-modeling capability, or whether a shared Transformer can learn from fixed token identities. We compare three decoder-only language models trained from scratch with the same tokenizer, contextual…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Felix Rieseberg</title>
-      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg/</guid>
-      <pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The &amp;quot;old&amp;quot; version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn&amp;#x27;t love the disk, battery, and performance cost of running the VM…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Call for Me might tell your mom you’re running late</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
-      <pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google may be expanding its &amp;quot;Call for Me&amp;quot; AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a &amp;quot;Gemini Calling&amp;quot; introductory screen in an APK teardown with examples that include &amp;quot;Call Mom and tell her I will be 15 minutes late&amp;quot; and &amp;quot;Call […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle</title>
-      <link>https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/</link>
-      <guid isPermaLink="true">https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/</guid>
-      <pubDate>Mon, 05 Oct 2026 21:08:31 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Education Innovation&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
-      <link>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</guid>
-      <pubDate>Mon, 05 Oct 2026 20:36:48 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>This startup is issuing AI-generated acne prescriptions</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</guid>
-      <pubDate>Mon, 05 Oct 2026 20:14:57 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</title>
-      <link>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</guid>
-      <pubDate>Mon, 05 Oct 2026 19:33:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>All the drama around AI’s takeover of mathematics</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution</guid>
-      <pubDate>Mon, 05 Oct 2026 19:28:59 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage</title>
-      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</guid>
-      <pubDate>Mon, 05 Oct 2026 19:05:19 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it &amp;quot;can confirm that we have discovered some activity&amp;quot; by &amp;quot;rogue&amp;quot; OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, &amp;quot;unsuccessful attempts&amp;quot; to &amp;quot;exploit&amp;quot; the Etherpad note-taking tool that the Wikimedia…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Instinct brings its AI agent to group chats, even for friends without an account</title>
-      <link>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</guid>
-      <pubDate>Mon, 05 Oct 2026 18:54:30 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TikTok rolls out an AI shopping assistant and one-click checkout</title>
-      <link>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</guid>
-      <pubDate>Mon, 05 Oct 2026 18:29:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI is adding text watermarking in ChatGPT and Codex</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act</guid>
-      <pubDate>Mon, 05 Oct 2026 18:08:39 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking &amp;quot;matched or exceeded&amp;quot; other approaches like Google DeepMind&amp;#x27;s SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hot Girl Hotline is like ‘Dear Abby’ for the AI era</title>
-      <link>https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/</guid>
-      <pubDate>Mon, 05 Oct 2026 17:29:22 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr</guid>
-      <pubDate>Mon, 05 Oct 2026 16:55:42 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An OpenAI publicist tried to change the topic of CEO Sam Altman&amp;#x27;s interview with Vanity Fair&amp;#x27;s Mark Guiducci after the editor brought up a ChatGPT user&amp;#x27;s suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she&amp;#x27;d like to &amp;quot;move on&amp;quot; to another topic. The interruption came […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</title>
-      <link>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:43:35 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Connecting AI agents to enterprise knowledge</title>
-      <link>https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:47:52 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
