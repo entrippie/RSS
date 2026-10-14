@@ -5,9 +5,79 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:37:52 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flock CEO says its microphones detect ‘just gunshots.’ Its website says different</title>
+      <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</guid>
+      <pubDate>Wed, 14 Oct 2026 21:30:33 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
+      <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI race is back on</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</guid>
+      <pubDate>Wed, 14 Oct 2026 19:06:03 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Now that Character.AI is going bankrupt, what happens to all of its users’ data?</title>
+      <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
+      <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI&amp;#x27;s bankruptcy case &amp;quot;to put all parties on notice of the regulatory issues that […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>YouTube Music launches new labels as AI-generated music floods streaming platforms</title>
+      <link>https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/</guid>
+      <pubDate>Wed, 14 Oct 2026 18:23:46 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>YouTube sticks new labels on AI-generated songs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</guid>
+      <pubDate>Wed, 14 Oct 2026 18:22:56 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;YouTube is adding a &amp;quot;Made with AI&amp;quot; label to tracks that were &amp;quot;altered or fully generated&amp;quot; using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn&amp;#x27;t sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apate sends AI agents undercover to get scammed so they can gather fraud intelligence</title>
+      <link>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</guid>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My AI doppelganger tells me what to eat</title>
       <link>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</link>
@@ -177,6 +247,16 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SentinelOne cuts malware analysis from weeks to hours</title>
+      <link>https://openai.com/index/sentinelone</link>
+      <guid isPermaLink="true">https://openai.com/index/sentinelone</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scimplify raises $25M to challenge China’s grip on critical materials with AI</title>
@@ -2527,126 +2607,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I&amp;#x27;ve always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5</title>
-      <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:56:21 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As previously promised , here&amp;#x27;s Anthropic&amp;#x27;s new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI&amp;#x27;s GPT-6 Luna , released last month. The new Haiku exactly matches the price of…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nous Research confirms it hit $1.5B valuation, launches AI agents for business users</title>
-      <link>https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:48:45 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The developer of Hermes Agent raised a $90 million Series B.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</title>
-      <link>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:22:37 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Does better work always mean better workers?</title>
-      <link>https://research.google/blog/does-better-work-always-mean-better-workers/</link>
-      <guid isPermaLink="true">https://research.google/blog/does-better-work-always-mean-better-workers/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:19:57 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</guid>
-      <pubDate>Wed, 07 Oct 2026 19:10:42 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>It appears .agent and .agi are about to be the hot new domains</title>
-      <link>https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi</guid>
-      <pubDate>Wed, 07 Oct 2026 18:46:16 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Everything announced at Microsoft’s Surface Laptop Ultra event</title>
-      <link>https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced</guid>
-      <pubDate>Wed, 07 Oct 2026 18:42:22 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s Muse launches on iPad just a month after its mobile debut</title>
-      <link>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</guid>
-      <pubDate>Wed, 07 Oct 2026 18:30:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT for Teens keeps teens talking, even during mental health crises</title>
-      <link>https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/</guid>
-      <pubDate>Wed, 07 Oct 2026 18:15:28 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft is giving Copilot more control over Windows and your files</title>
-      <link>https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence</guid>
-      <pubDate>Wed, 07 Oct 2026 18:01:20 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At today&amp;#x27;s Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It&amp;#x27;s part of an idea Microsoft is calling &amp;quot;Hybrid Intelligence,&amp;quot; where apps and tools rely on a mix of […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT is getting a lot more visual, with the launch of a new interface</title>
-      <link>https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</guid>
-      <pubDate>Wed, 07 Oct 2026 18:00:19 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Surface RTX Spark Dev Box is available for preorder for $5,999</title>
-      <link>https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder</guid>
-      <pubDate>Wed, 07 Oct 2026 17:46:44 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft&amp;#x27;s Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It&amp;#x27;s pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box&amp;#x27;s flat, 3D-printed anodized […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
