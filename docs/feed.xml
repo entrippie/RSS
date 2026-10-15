@@ -5,9 +5,109 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:55:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:19:03 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump posts AI-edited photo to brag about White House restoration work</title>
+      <link>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</guid>
+      <pubDate>Thu, 15 Oct 2026 21:09:33 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a &amp;quot;restored&amp;quot; one, has several discrepancies and was flagged by Google&amp;#x27;s AI detector as &amp;quot;made or […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta launches an open-weight AI model that runs on Macs</title>
+      <link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</guid>
+      <pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta and Apple have teamed up for the launch of the social media giant&amp;#x27;s newest model, Muse Spark Open, which will run locally on Apple silicon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bluesky’s AI tool now lets you make games and apps to share on social</title>
+      <link>https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</guid>
+      <pubDate>Thu, 15 Oct 2026 19:57:16 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bluesky&amp;#x27;s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make &amp;quot;small&amp;quot; social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</title>
+      <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</guid>
+      <pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users&amp;#x27; needs instead of waiting for commands.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chirp Pong</title>
+      <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/chirp-pong/</guid>
+      <pubDate>Thu, 15 Oct 2026 19:47:52 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
+      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</guid>
+      <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more</title>
+      <link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</guid>
+      <pubDate>Thu, 15 Oct 2026 18:56:46 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network&amp;#x27;s audience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta and Apple team up to make Muse AI models run better on Macs</title>
+      <link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</guid>
+      <pubDate>Thu, 15 Oct 2026 18:15:36 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta announced the Muse Spark Open AI model today, claiming that it&amp;#x27;s the &amp;quot;most capable US open-weight model to date.&amp;quot; But the company also says that it&amp;#x27;s the &amp;quot;the first model in its class&amp;quot; that can &amp;quot;run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.&amp;quot; Meta and Apple, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16</title>
+      <link>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</guid>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Friends don’t let friends feed their data to AI agents</title>
       <link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
@@ -392,6 +492,16 @@
       <title>Welcome FLUX.3 Image Klein in Diffusers</title>
       <link>https://huggingface.co/blog/flux-3</link>
       <guid isPermaLink="true">https://huggingface.co/blog/flux-3</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
+      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <dc:creator>Hugging Face</dc:creator>
       <category>Research labs</category>
@@ -2517,116 +2627,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get &amp;quot;thorough, periodic security scans by our strongest models at no cost.&amp;quot; That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner&amp;#x27;s […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Carson Gross</title>
-      <link>https://simonwillison.net/2026/Oct/8/carson-gross/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/8/carson-gross/</guid>
-      <pubDate>Thu, 08 Oct 2026 21:05:44 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
-      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</guid>
-      <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder&amp;#x27;s desk.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>California is trying to shut down robot vs. human cage matches</title>
-      <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</guid>
-      <pubDate>Thu, 08 Oct 2026 20:06:56 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
-      <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</guid>
-      <pubDate>Thu, 08 Oct 2026 20:04:26 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ben Affleck is an AI nerd, and the internet is impressed</title>
-      <link>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</guid>
-      <pubDate>Thu, 08 Oct 2026 18:20:32 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he&amp;#x27;s more than just a Hollywood star.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months</title>
-      <link>https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</guid>
-      <pubDate>Thu, 08 Oct 2026 18:19:45 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI’s revenue is reportedly $20 billion less than previously projected</title>
-      <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</guid>
-      <pubDate>Thu, 08 Oct 2026 18:19:42 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It had previously been reported that the AI lab&amp;#x27;s annualized revenue was some $70 billion, but a new report claims it&amp;#x27;s a whole lot less than that.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google brings agentic AI to Gemini, starting with businesses</title>
-      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</guid>
-      <pubDate>Thu, 08 Oct 2026 18:18:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>USA Today becomes the latest publisher to sue OpenAI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</guid>
-      <pubDate>Thu, 08 Oct 2026 17:58:33 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied &amp;quot;hundreds of thousands&amp;quot; of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI&amp;#x27;s unauthorized use of […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute</title>
-      <link>https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson</guid>
-      <pubDate>Thu, 08 Oct 2026 17:57:01 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they&amp;#x27;d back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson&amp;#x27;s Linux project. According to Hansson&amp;#x27;s […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic bans ‘abusive or cruel behavior’ toward Claude</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</guid>
-      <pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits &amp;quot;sustained and needless abusive or cruel behavior&amp;quot; toward Claude. Last August, […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
