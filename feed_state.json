@@ -1,5 +1,221 @@
 [
  {
+  "title": "Figma announces new features to define how agents work on its platform",
+  "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+  "summary": "Figma is also releasing its code layers feature in open beta.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792038600
+ },
+ {
+  "title": "Lotus: Learning to Understand Time-series by Learning to Forecast",
+  "link": "https://arxiv.org/abs/2610.18877",
+  "summary": "Time-series language models typically align numerical signals with language using labels, captions, or question-answer pairs. Although such supervision encourages linguistic representations, it does not explicitly require them to preserve information about how the underlying time-series signal evolves. We introduce forecast grounding, a pretraining principle that requires language-aligned…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data",
+  "link": "https://arxiv.org/abs/2610.18878",
+  "summary": "Post-training reasoning LLMs often requires making a tradeoff between costly supervision and compute inefficiency: supervised finetuning typically requires reasoning traces, which is data inefficient since in many applications one only has prompt-answer tuples and lacks the groundtruth chain-of-thought (CoT) sequence. On the other hand, reinforcement learning (with verifiable rewards, for…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders",
+  "link": "https://arxiv.org/abs/2610.18879",
+  "summary": "Protein function annotation operates over an expanding label space, making class-incremental learning (CIL) a natural framework for incorporating newly discovered functions without full retraining. Yet existing CIL methods have been developed largely in vision and have not been systematically evaluated over frozen protein representations. We conduct a controlled benchmark of nine representative…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "Do Perturbation Predictors Learn Gene Interactions? Diagnosing Extrapolation in Agentic Screening",
+  "link": "https://arxiv.org/abs/2610.18880",
+  "summary": "High-throughput perturbation screens increasingly use machine-learning models to predict the effects of gene combinations that were never measured. A difficult case arises when both genes in a test pair were seen individually during training, but their combination was not. In this setting, standard OOD methods often fail because neither gene appears unfamiliar on its own. We therefore compare…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "Token Utility for On-Policy Distillation via Local Trust-Region Optimization",
+  "link": "https://arxiv.org/abs/2610.18883",
+  "summary": "Token-selection methods for on-policy distillation (OPD) prioritize student-visited positions using diverse signals, including uncertainty, teacher-student disagreement, and mismatch direction. We instead derive token importance from the distillation objective itself: how much can each position's loss decrease under an equal local KL budget on the student's predictive distribution? The answer is…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "PMO-Dock: Benchmarking Docking, Specificity, and Generalization in Molecular Optimization",
+  "link": "https://arxiv.org/abs/2610.19011",
+  "summary": "The Practical Molecular Optimization (PMO) benchmark standardized evaluation in molecular optimization, but it is built on simple property-based oracles that do not capture structure-based drug design. As the field has moved to docking-based objectives, evaluation practice has become unstandardized, and different methods report results on different docking tasks, often without a shared protocol…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "Data Density Scaling Laws for Image Self-Distillation",
+  "link": "https://arxiv.org/abs/2610.19013",
+  "summary": "Current scaling law formulations suggest that increasing the number of unique samples in a dataset improves model performance, while repeated exposure to the same samples provides diminishing value. In this work, we examine this assumption for image self-distillation models. Through systematic experiments across diverse datasets, namely Maxar, SATLAS, Waymo, nuPlan, Ego4D, ImageNet, and YFCC15M,…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "Scaling Cheap Synthetic Pretraining Improves Indoor Radio-Map Prediction",
+  "link": "https://arxiv.org/abs/2610.19015",
+  "summary": "Real measurements are too limited to train an accurate indoor pathloss predictor that works across a wide range of buildings. Large-scale synthetic pretraining offers a way forward, but real building layouts are also scarce, and accurate ray-tracing simulators are slow, expensive, and often proprietary. We address both problems by introducing a generator that automatically creates diverse indoor…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "IR-PRM+ with Previous-Utility Prediction: Constant Regret and Best-Iterate Convergence",
+  "link": "https://arxiv.org/abs/2610.19016",
+  "summary": "Regret matching (and its variants) and counterfactual regret minimization are central algorithms in practice for normal-form and extensive-form game solving. Yet these have historically lacked the stronger theoretical convergence guarantees available to optimistic and extra-gradient methods. Recent work introduced IREG-PRM+, a regret matching variant which does have strong theoretical convergence…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "How Many Ranks Does a Token Need? A Noise-Floor Squelch for Rank-One LoRA Experts",
+  "link": "https://arxiv.org/abs/2610.19033",
+  "summary": "Low-rank adaptation (LoRA) applies every rank-one component of its update to every token, and mixture-of-experts variants replace this with a learned router that activates a fixed number of components. We argue that the number of components a token needs is a detection question with a classical answer. A token's responses to the rank-one components of a trained LoRA consist of a few large values…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792036800
+ },
+ {
+  "title": "Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection",
+  "link": "https://arxiv.org/abs/2610.18881",
+  "summary": "Voice agents built on large language models (LLMs) now handle customer calls, but in regulated applications completing the task is not enough: the agent must follow a conversational flow set by law. In debt collection, it must confirm it is speaking to the debtor before mentioning the debt, identify itself and the creditor, state the amount, and avoid prohibited language. Every creditor turns…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "Evaluating Large Language Models for Multilingual Abstractive Summarization: A Comprehensive Study of English and Bengali",
+  "link": "https://arxiv.org/abs/2610.19003",
+  "summary": "Abstractive summarization remains challenging across languages, where linguistic quality and factual consistency may diverge, particularly in low-resource settings. We present a standardized zero-shot benchmark of eight closed-source and open-weight LLMs on size-matched English and Bengali XL-Sum test sets. Our evaluation combines lexical and semantic metrics with reference-free factuality…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "Can LLMs Access their World Knowledge for Event Prediction?",
+  "link": "https://arxiv.org/abs/2610.19021",
+  "summary": "Recent work has questioned whether large language models (LLMs) can be useful for temporal event prediction. Despite vast pretrained world knowledge, LLMs often underperform simpler specialized models. We ask whether this knowledge is truly inaccessible, or whether current methods fail to present event prediction in a form LLMs can use. We argue for the latter and show that LLMs become effective…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "Joint Subspace Sparse Attention for Efficient Long-Context Decoding",
+  "link": "https://arxiv.org/abs/2610.19026",
+  "summary": "Sparse attention reduces the KV-cache traffic that dominates long-context LLM decoding, but practical methods largely operate at coarse granularity. Token-level selection offers finer control, yet presents two challenges: low-dimensional scoring may lose query--key structure needed for accurate ranking, while gathering scattered selected tokens can offset the resulting latency benefit. We…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "Crossing the Gender Binary: Modelling Gendered Reference in Science Fiction and General Fiction",
+  "link": "https://arxiv.org/abs/2610.19028",
+  "summary": "Science fiction is widely credited with unsettling gender. This article asks whether that holds at the linguistic level, in how readily gendered reference gives way to its counterpart, a neutral term, or other social category, and whether it separates the genre from general fiction. It does so by masking man/men, woman/women, and person/people across same-period science fiction and general…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "Pre-Trained Language Models as Zero-Shot Tools for Social Science Research",
+  "link": "https://arxiv.org/abs/2610.19048",
+  "summary": "Record linkage and demographic inference from names are routine demands in social science. Most approaches to these problems require labeled training data that are difficult or costly to acquire. I show that pre-trained language models perform both tasks accurately without requiring task-specific training. For record linkage, I introduce EnsembleLink, an algorithm that uses pre-trained embeddings…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "Similar Models, Broken Odds: Where Luce's Axiom Fails in Chatbot Arena",
+  "link": "https://arxiv.org/abs/2610.19095",
+  "summary": "Chatbot Arena ranks language models with the Bradley-Terry model, which gives each model one score and so assumes Luce's choice axiom. Choice theory predicts where this fails: near-copies are told apart more decisively than their scores imply. On 1.8 million Arena votes, votes between versions of one model are 1.37 times as decisive as Bradley-Terry predicts, between sizes of one generation 1.26…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "From Copying to Composition: How Language Models Develop In-Context Learning",
+  "link": "https://arxiv.org/abs/2610.19113",
+  "summary": "In-context learning (ICL) allows language models to adapt their behavior from instructions and demonstrations in a prompt, but accuracy alone does not reveal how contextual information controls their predictions. We study the acquisition and trainability of ICL with a controlled diagnostic that separates copying a nearby demonstration from integrating information across the prompt. Across 17…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
+  "link": "https://arxiv.org/abs/2610.19118",
+  "summary": "Emerging decision models such as JEV provide typed interfaces that map task instructions and observations directly to choices, judgments, and scores. As these models are increasingly used for automated decision-making, understanding their reliability under adversarial manipulation becomes critical. We introduce DecisionRobust, a benchmark for systematically evaluating the robustness of decision…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition",
+  "link": "https://arxiv.org/abs/2610.19134",
+  "summary": "Feature distillation is usually expected to add to logit distillation. We find that this expectation does not hold for two common feature losses in compact multilingual automatic speech recognition (ASR), and analyze why through their gradients. The gradient of a projection-based loss is orthogonal to the task gradient, while that of Centered Kernel Alignment (CKA), a similarity-based loss, is…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792036800
+ },
+ {
+  "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+  "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+  "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792026092
+ },
+ {
+  "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+  "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+  "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792022400
+ },
+ {
+  "title": "McKinsey is making job applicants spar with a fake AI client",
+  "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+  "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792018411
+ },
+ {
   "title": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different",
   "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
   "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
@@ -7,6 +223,15 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1792013433
+ },
+ {
+  "title": "Tree Appreciator",
+  "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+  "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1792012981
  },
  {
   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
@@ -237,6 +462,15 @@
   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
   "link": "https://openai.com/index/third-moment-research",
   "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1791961200
+ },
+ {
+  "title": "How Block is building AI-powered security with OpenAI technology",
+  "link": "https://openai.com/index/block-ai-powered-security",
+  "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
   "source": "OpenAI",
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
@@ -2041,302 +2275,5 @@
   "section": "News",
   "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
   "ts": 1791447452
- },
- {
-  "title": "A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding",
-  "link": "https://arxiv.org/abs/2610.08792",
-  "summary": "We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions, and a self-latent interact through circular recursion. The defining constraint is a closed update S_t <- H_{t-1}, where a hybrid event-self latent H_t binds self-representations to abstract world models and reinjects this…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "Beyond Baseline Severity: Temporal and Disease-Specific Predictors of Depression Outcomes Following Mindfulness Interventions",
-  "link": "https://arxiv.org/abs/2610.08809",
-  "summary": "Depression severity among patients with chronic or acute medical conditions is influenced by a complex interaction of baseline psychological state, demographic characteristics, clinical context, and engagement with behavioral interventions. This paper presents an interpretable machine-learning analysis of a multi-center longitudinal clinical cohort to predict Beck Depression Inventory-II (BDI-II)…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents",
-  "link": "https://arxiv.org/abs/2610.08810",
-  "summary": "Fine-tuned geospatial foundation models (GeoFMs) pretrained on large satellite archives have been shown to improve crop classification accuracy and geographic transferability. However, their operational performance beyond the training distribution remains poorly characterized. We evaluated the out-of-distribution performance of a widely adopted GeoFM [Prithvi-EO-2.0] across 37 events in 12…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression",
-  "link": "https://arxiv.org/abs/2610.08811",
-  "summary": "As context windows scale to tens or hundreds of thousands of tokens, KV cache compression has become essential for efficient LLM inference. Existing methods fall into three families: score-based eviction, summary compensation, and offload-and-recall. Yet all three decide what to keep or recall by content relevance to the current query. We show this shared design is structurally incomplete. A…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "Bounded Autonomy and Verifiable Safety for Agentic AI Enabled Automation",
-  "link": "https://arxiv.org/abs/2610.08815",
-  "summary": "Agentic AI-enabled automation cannot be safely deployed in high-stakes environments on probabilistic reasoning alone. A recurring risk is epistemic drift: as reasoning deepens, system behavior may move away from subject-matter-expert constraints for safe operation. This paper presents BRaVeS, a bounded reasoning and safety-governance framework termed the Defensible Next-Gen Reasoning System…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "The Cost of Long Memory: State, Context, and Stability Complexity in Sequence Models",
-  "link": "https://arxiv.org/abs/2610.08816",
-  "summary": "Long-range temporal dependence poses a resource question for sequence models: for a specified predictive-memory law, how much state, context, or dynamical criticality is required in order to forecast accurately? We study this question directly in forecasting risk. For algebraically decaying predictive memory, we prove matching upper and lower approximation bounds for exponential and finite-state…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts",
-  "link": "https://arxiv.org/abs/2610.08817",
-  "summary": "Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly steady-state visual evoked potential (SSVEP) systems, are highly vulnerable to noise and artifacts, which severely degrade decoding accuracy. Although recent denoising approaches have shown promise, they are fitted without paired ground truth, can settle on reproducing their input, and are optimized on waveform…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States",
-  "link": "https://arxiv.org/abs/2610.08818",
-  "summary": "Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance resources, sensor networks often lack comprehensive spatial coverage, rendering Forecast Unobserved Node States (FUNS) a critical yet formidable challenge. Conventional models rely on historical observations and typically…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "HydroSphere: A Framework for Governed, Self-Healing Wastewater Infrastructure",
-  "link": "https://arxiv.org/abs/2610.08819",
-  "summary": "Rapid industrialization and urban growth are increasing pressure on water quality and wastewater treatment systems, while conventional treatment plants often rely on static monitoring and control strategies that cannot easily adapt to changing pollutant conditions. This paper presents HydroSphere, a governed, data-driven framework for real-time water quality monitoring, forecasting, treatment…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "Task-Oriented Key-Layer KV Communication for Efficient Latent Multi-Agent Collaboration",
-  "link": "https://arxiv.org/abs/2610.08820",
-  "summary": "Large language model-based multi-agent systems improve complex problem solving through collaboration, while latent communication directly transmits model internal states to avoid the high inference costs of natural language. However, existing KV-based latent communication methods prioritize sender-side state fidelity, leading to substantial communication and computation overhead and potentially…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1791432000
- },
- {
-  "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
-  "link": "https://arxiv.org/abs/2610.08793",
-  "summary": "Enterprise systems increasingly rely on automated workflows, yet many AI-driven solutions remain brittle under non-stationary conditions, evolving policies, and delayed operational feedback. While reinforcement learning and large language model (LLM) agents offer partial adaptability, they do not by themselves provide persistent reflection mechanisms or straightforward integration with…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
-  "link": "https://arxiv.org/abs/2610.08808",
-  "summary": "Satisfiability Modulo Theories (SMT) solvers are foundational to software verification, program analysis, and compiler testing, particularly over the theory of Quantifier-Free Floating-Point (QF_FP). While recent optimization-based SMT solvers have successfully applied gradient descent to continuous relaxations of logical formulas, they are fundamentally bottlenecked by gradient domination, a…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
-  "link": "https://arxiv.org/abs/2610.08814",
-  "summary": "Compositional generalization remains challenging when language models must combine familiar reasoning operations in unfamiliar ways. The Scenario-Based Commonsense Reasoning Evaluation (SCoRE) 2026 tests this ability on three mixed domains absent from training and requires models to identify the complete set of correct options for each question. We introduce Route-Verify-Vote (RVV), a framework…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "An Empirical Study of Agent Skills' Downstream Utility",
-  "link": "https://arxiv.org/abs/2610.08875",
-  "summary": "Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies characterize Skill content and evaluate downstream performance, yet provide limited explanations of how utility depends on content, execution configuration, and multi-Skill organization. We conduct an empirical study on 87 SkillsBench tasks,…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
-  "link": "https://arxiv.org/abs/2610.08878",
-  "summary": "This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse, or permanent human disempowerment. The central thesis is that catastrophic AI risk does not require consciousness, hostility, or an explicit intention to harm humanity. Instead, risk may arise through several distinct but…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "Humanize: Judgement Engineering for Agentic Coding",
-  "link": "https://arxiv.org/abs/2610.08900",
-  "summary": "Agentic coding makes code generation cheap, but reliable completion remains difficult: the agent that writes the code is a weak judge of whether it is done. We present Humanize, a multi-agent orchestration workflow for agentic coding built around judgement engineering: explicit, mechanically enforced decisions at the boundaries between planning, implementation, review, and learning. A human…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems",
-  "link": "https://arxiv.org/abs/2610.08901",
-  "summary": "LLM-based multi-agent systems (MAS) have attracted growing attention for improving reasoning through interaction among multiple agents. In this work, we focus on parallel multi-agent reasoning systems, where several agents solve the same problem over multiple rounds and aggregate their outputs into a final answer. Despite their strong reasoning performance, uncertainty estimation for such systems…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
-  "link": "https://arxiv.org/abs/2610.08902",
-  "summary": "AI agents increasingly operate in environments where they can diagnose failures and improve through experience, yet existing evaluations largely measure what an agent can do at a fixed point in time rather than how effectively it learns. Evaluating self-improvement requires answering three questions: does future performance improve and generalize beyond the interactions that enabled learning; how…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "AdaGuard: Enhancing Safety and Policy Compliance with Reasoning-Enabled LLM-As-A-Judge Guardrails",
-  "link": "https://arxiv.org/abs/2610.08923",
-  "summary": "Enterprise generative AI applications require robust safety mechanisms that can accommodate diverse risk postures, evolving policies, and varying latency constraints. Current guardrail solutions often suffer from rigidity, relying on fixed policy sets and offering limited transparency or reasoning flexibility. We present Adaguard, an adaptive LLM-as-a-Judge framework designed to address these…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-  "link": "https://arxiv.org/abs/2610.08927",
-  "summary": "Recent AI systems have made rapid progress in scientific discovery when given well-defined metrics, but whether they can autonomously undertake open-ended scientific discovery remains unclear. We investigate AI's ability to tackle open-ended tasks in Station, an open-world environment in which multiple agents simulate a scientific ecosystem. To tackle challenges specific to open-ended tasks, we…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1791432000
- },
- {
-  "title": "Tokka-Bench: Evaluating Tokenizers Across 100 Natural and 20 Programming Languages",
-  "link": "https://arxiv.org/abs/2610.08794",
-  "summary": "Large language models rely on subword tokenizers whose quality varies across languages, yet no standardized multi-metric framework exists for broad comparative evaluation. We introduce Tokka-Bench, an open-source framework that evaluates tokenizers on five complementary metrics -- bytes per token, unique token coverage, subword fertility, word-split rate, and vocabulary composition -- across 100…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "Child ASR Adaptation with Adult Retention: An Empirical Study",
-  "link": "https://arxiv.org/abs/2610.08827",
-  "summary": "Automatic Speech Recognition (ASR) systems often underperform for children and non-native speakers, while adapting adult ASR models to child speech can cause adult-speech forgetting. We study child ASR adaptation with adult retention across Arabic and English. We compare full fine-tuning, LoRA, and post-hoc weight-space merging across encoder--decoder, encoder--CTC, and AudioLLM-based ASR…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer Adaptation and the Price of Rehearsal",
-  "link": "https://arxiv.org/abs/2610.08828",
-  "summary": "Small-data adaptation can improve speech detection while degrading speaker attribution. We study this discrepancy in a released streaming diarizer adapted on 7.5 h of two-party conversation and evaluated across six corpora. Adaptation substantially improves in-domain diarization performance and transfers to an independent corpus. However, this improvement is not consistent across evaluation…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "Emo-Jev: Probabilistic Reasoning for Emotion Classification with Jev",
-  "link": "https://arxiv.org/abs/2610.08829",
-  "summary": "Jev offers an alternative interface for language understanding: given an input and predefined questions, it returns probabilistic decisions rather than free-form responses. Whether this interface can support effective reasoning for text classification against leading LLMs remains an open questions. We introduce Emo-Jev, a training-free framework with two complementary implementations. Emo-Jev-D…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "CoDR: Training-Free Confidence-Drift Remasking for Diffusion Language Models",
-  "link": "https://arxiv.org/abs/2610.08833",
-  "summary": "Masked diffusion language models (MDLMs) decode by repeatedly committing tokens to masked positions, but these commitments are usually irreversible. A token chosen under sparse, partial context is kept fixed, even when later context no longer supports it. Existing samplers mainly decide when to commit a token, but rarely check whether an already committed token should still be kept, allowing…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News",
-  "link": "https://arxiv.org/abs/2610.08835",
-  "summary": "The spread of fake news may cause severe social consequences. Existing fake news detection methods mainly focus on stylistic variations or incorporate external information such as explanations. However, news articles are often rewritten under different emotional backgrounds while preserving their underlying factual claims, which may affect the robustness of detection models. In this work, we…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "Beyond the Sycophancy Score: How Task, Model, and Pressure Shape LLM Yielding",
-  "link": "https://arxiv.org/abs/2610.08840",
-  "summary": "Large language models (LLMs) often abandon a correct answer, or endorse a user's position, once the user pushes back. This behavior, called sycophancy, is usually reported as a single rate per model, which says little about when it happens or how a user can avoid it. We study the conditions that produce it with 103,939 graded replies from ten configurations: eight LLMs with reasoning disabled,…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "Beyond Risk Prediction: Evidence Grounding and Psychosocial Factor Verification for Explainable Suicide Risk Assessment",
-  "link": "https://arxiv.org/abs/2610.08842",
-  "summary": "Identifying suicide risk from social networking services (SNS) posts is important for detecting suicide-related signals in online environments. However, risk classification alone provides limited insight into the textual evidence and psychosocial factors behind a prediction. Based on the IEEE BigData 2026 Explainable Suicide Risk Detection Challenge, this study presents a framework consisting of…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "QuanLing: Cross-Branch Validation of Language Distance Quantification on Western Romance",
-  "link": "https://arxiv.org/abs/2610.08851",
-  "summary": "Quantifying language distance among closely related languages remains a core challenge in quantitative linguistics. Our previous work [1] introduced QuanLing (Quantitative Linguistics via Pretrained Language Models), a quantitative framework combining language distance metrics (sentence embedding distance, tokenization fragmentation rate) with language property analysis (MLM prediction…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "LRCC: Generalizing Low-Rank Compression with Conditional Computation",
-  "link": "https://arxiv.org/abs/2610.08858",
-  "summary": "Low-rank compression reduces the cost of pretrained language models by replacing linear transformations with low-rank factorizations. However, conventional methods use a fixed rank allocation during inference, assigning the same amount of compute regardless of the input token. We introduce Low-Rank Conditional Computation (LRCC), which adds token-dependent computation to pretrained models by…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1791432000
- },
- {
-  "title": "Disrupting AI-enabled “false front” operations",
-  "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-  "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1791417600
- },
- {
-  "title": "The model that didn't exist, so you made it yourself",
-  "link": "https://huggingface.co/blog/building-with-ml-intern",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1791417600
- },
- {
-  "title": "Quoting Ben Affleck",
-  "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-  "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791414898
  }
 ]
