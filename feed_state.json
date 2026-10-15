@@ -1,5 +1,140 @@
 [
  {
+  "title": "Friends don’t let friends feed their data to AI agents",
+  "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+  "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792081305
+ },
+ {
+  "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+  "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+  "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1792080483
+ },
+ {
+  "title": "Proof-based general-purpose computing with Magnetar",
+  "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+  "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research .",
+  "source": "Microsoft Research",
+  "section": "Research labs",
+  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
+  "ts": 1792080000
+ },
+ {
+  "title": "AI agents are coming to Rivian’s cars",
+  "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+  "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792076556
+ },
+ {
+  "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+  "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+  "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792074600
+ },
+ {
+  "title": "Google’s Universal Cart shopping tool launches in the US",
+  "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+  "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792074573
+ },
+ {
+  "title": "Nobody is safe from celebrity AI deepfakes",
+  "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+  "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792073022
+ },
+ {
+  "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+  "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+  "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces for his work investigating […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792072800
+ },
+ {
+  "title": "TechCrunch Disrupt 2026: Last day",
+  "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+  "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792072800
+ },
+ {
+  "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+  "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+  "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1792069443
+ },
+ {
+  "title": "Teaching students to think and learn through questions",
+  "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1792069200
+ },
+ {
+  "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+  "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+  "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792069200
+ },
+ {
+  "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+  "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+  "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792065600
+ },
+ {
+  "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792065600
+ },
+ {
+  "title": "Apertus 1.5 Release Notes",
+  "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1792055325
+ },
+ {
   "title": "Figma announces new features to define how agents work on its platform",
   "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
   "summary": "Figma is also releasing its code layers feature in open beta.",
@@ -204,6 +339,15 @@
   "source": "TechCrunch",
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792022400
+ },
+ {
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "link": "https://huggingface.co/blog/flux-3",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
   "ts": 1792022400
  },
  {
@@ -2212,50 +2356,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1791478800
- },
- {
-  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-  "link": "https://openai.com/index/oracle",
-  "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1791475200
- },
- {
-  "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-  "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-  "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1791473250
- },
- {
-  "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-  "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-  "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791465632
- },
- {
-  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-  "link": "https://openai.com/index/pollo-ai",
-  "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1791460800
- },
- {
-  "title": "LegalOn halves Codex costs while maintaining development speed",
-  "link": "https://openai.com/index/legalon-halves-codex-costs",
-  "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1791460800
  }
 ]
