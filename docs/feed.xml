@@ -5,9 +5,89 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:34:33 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
+      <link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</guid>
+      <pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Physical AI is more than robots, says the Nvidia veteran now investing in it</title>
+      <link>https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/</link>
+      <guid isPermaLink="true">https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/</guid>
+      <pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elorian’s first AI model wants to reason with images, not just about them</title>
+      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</guid>
+      <pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;According to Elorian&amp;#x27;s evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jev is Vercel’s fastest-adopted AI model ever</title>
+      <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</guid>
+      <pubDate>Fri, 16 Oct 2026 15:33:49 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The data comes from Vercel&amp;#x27;s AI gateway, a unified API service similar to OpenRouter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops</title>
+      <link>https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions</guid>
+      <pubDate>Fri, 16 Oct 2026 15:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia&amp;#x27;s RTX Spark N1X processor is finally here, and we&amp;#x27;ve been collectively testing a small fortune&amp;#x27;s worth of powerful laptops sporting this new &amp;quot;superchip.&amp;quot; RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy</title>
+      <link>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</guid>
+      <pubDate>Fri, 16 Oct 2026 14:26:51 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Actor and angel investor Mark Wahlberg says he&amp;#x27;s OK with using AI in filmmaking, provided it&amp;#x27;s used &amp;quot;to enhance what you&amp;#x27;re doing.&amp;quot;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s new terms may allow it to train AI on news sites for free</title>
+      <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
+      <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s new terms appear to give it permission to crawl and scrape websites &amp;quot;associated&amp;quot; with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to &amp;quot;develop, improve, research,&amp;quot; and &amp;quot;train&amp;quot; […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles</title>
+      <link>https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</guid>
+      <pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Counterfeiters are getting better at replicating brands&amp;#x27; marks and passing off dupes, known as &amp;quot;superfakes,&amp;quot; as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models</title>
       <link>https://arxiv.org/abs/2610.20636</link>
@@ -313,6 +393,16 @@
       <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
       <guid isPermaLink="true">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
       <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
+      <link>https://huggingface.co/blog/reflection-beam</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/reflection-beam</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <dc:creator>Hugging Face</dc:creator>
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
@@ -2567,56 +2657,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,&amp;quot; Dr. Sherry Turkle writes. &amp;quot;And we are wired to care for it in return.&amp;quot;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Impactful scheduling for GPU clusters</title>
-      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/impactful-scheduling</guid>
-      <pubDate>Fri, 09 Oct 2026 15:20:29 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Matthew Green</title>
-      <link>https://simonwillison.net/2026/Oct/9/matthew-green/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/matthew-green/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:02:29 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump’s attempt to rename AI is looking awfully artificial</title>
-      <link>https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding</guid>
-      <pubDate>Fri, 09 Oct 2026 14:25:43 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like &amp;quot;Little Marco&amp;quot; and &amp;quot;Crooked Hillary&amp;quot;; he changed &amp;quot;fake news&amp;quot; from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he&amp;#x27;s clearly decided […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Instinct was the buzziest AI agent around — can it survive Muse?</title>
-      <link>https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</guid>
-      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A new feature for my blog, built using my voice</title>
-      <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/built-using-my-voice/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:54:06 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I&amp;#x27;ve sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner. Codex voice mode I used the ChatGPT desktop app for this, in the Codex tab, using the voice…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
