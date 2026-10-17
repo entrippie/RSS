@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:29:24 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta removes language that may have allowed it to scrape news sites</title>
+      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</guid>
+      <pubDate>Sat, 17 Oct 2026 15:04:36 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Websites are closing their doors to AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
+      <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won&amp;#x27;t play nice? In recent weeks, […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang</title>
       <link>https://simonwillison.net/2026/Oct/16/code-review/</link>
@@ -2577,46 +2597,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an &amp;quot;AI-slop pipeline.&amp;quot; Artists are saying that […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</title>
-      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</guid>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic is cutting off its internal evaluations from the internet</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</guid>
-      <pubDate>Sat, 10 Oct 2026 14:41:16 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed &amp;quot;unintended model actions,&amp;quot; including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Here are the top AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI agent makers are promising privacy — will they deliver?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</guid>
-      <pubDate>Sat, 10 Oct 2026 13:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At this year&amp;#x27;s OpenAI DevDay, CEO Sam Altman unveiled the company&amp;#x27;s new AI agent Dots - and told the crowd that the company wants to &amp;quot;set a new standard for privacy in frontier AI.&amp;quot; OpenAI would spend the day taking veiled shots at Meta&amp;#x27;s Muse, its primary competitor, for failing to keep users&amp;#x27; data safe. […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
