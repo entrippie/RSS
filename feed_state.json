@@ -1,5 +1,32 @@
 [
  {
+  "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+  "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+  "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1792188397
+ },
+ {
+  "title": "Replit is no longer working with Anthropic, CEO says",
+  "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792185748
+ },
+ {
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "link": "https://openai.com/index/itau-generative-ai",
+  "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1792177200
+ },
+ {
   "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
   "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
   "summary": "General Science",
@@ -2311,50 +2338,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1791637200
- },
- {
-  "title": "Quoting The New York Times",
-  "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-  "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times , Anthropic Agents…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791597852
- },
- {
-  "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-  "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-  "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791591512
- },
- {
-  "title": "Deno is joining Cloudflare",
-  "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-  "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model\" (see the…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791586117
- },
- {
-  "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-  "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-  "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791582089
- },
- {
-  "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-  "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1791580538
  }
 ]
