@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 04:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:49:11 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -2567,26 +2567,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
-      <link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</guid>
-      <pubDate>Sun, 11 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Voice AI&amp;#x27;s often misses important points for its context layer, and causes the whole pipeline to break&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Learning to use local AI is exciting, overwhelming, and frustrating</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</guid>
-      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I&amp;#x27;m embarking on a journey I&amp;#x27;ve so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it&amp;#x27;s increasingly possible to run powerful models locally to see what they&amp;#x27;re capable of. Is this tech so useful […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
