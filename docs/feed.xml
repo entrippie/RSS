@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:36:47 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A woman was arrested in Philly for blocking a delivery robot</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</guid>
+      <pubDate>Sun, 18 Oct 2026 18:28:10 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia&amp;#x27;s ABC13 &amp;quot;I know they&amp;#x27;re taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
+      <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</guid>
+      <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meta removes language that raised scraping and AI training concerns</title>
       <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
@@ -2537,36 +2557,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
-      <link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</guid>
-      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</guid>
-      <pubDate>Sun, 11 Oct 2026 18:33:56 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When President Donald Trump announced his plans to rebrand artificial intelligence as &amp;quot;super intelligence,&amp;quot; you&amp;#x27;d be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley&amp;#x27;s most powerful are falling in line and trying to give Trump the great AI rebrand he […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Can the AI industry persuade data center opponents by getting rid of NDAs?</title>
-      <link>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</guid>
-      <pubDate>Sun, 11 Oct 2026 16:52:33 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
