@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:25:41 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta removes language that raised scraping and AI training concerns</title>
+      <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</guid>
+      <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inline rendering with document​.currentScript</title>
+      <link>https://simonwillison.net/2026/Oct/17/document-currentscript/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/17/document-currentscript/</guid>
+      <pubDate>Sat, 17 Oct 2026 21:11:12 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &amp;lt;script&amp;gt; element that replaces itself when the page loads: The year is &amp;lt;script&amp;gt; document.currentScript.replaceWith( new Date().getFullYear())&amp;lt;/script&amp;gt; If you define a shortcut function like this:…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
       <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
@@ -37,6 +57,16 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>web-edit 0.1a2</title>
+      <link>https://simonwillison.net/2026/Oct/17/web-edit/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/17/web-edit/</guid>
+      <pubDate>Sat, 17 Oct 2026 13:16:49 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a &amp;quot;copy to clipboard&amp;quot; option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here&amp;#x27;s DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Websites are closing their doors to AI agents</title>
@@ -2557,46 +2587,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I&amp;#x27;m embarking on a journey I&amp;#x27;ve so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it&amp;#x27;s increasingly possible to run powerful models locally to see what they&amp;#x27;re capable of. Is this tech so useful […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dwarf Fortress uses version control now</title>
-      <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/11/dwarf-fortress/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:52:37 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I remember hearing a while ago that Dwarf Fortress didn&amp;#x27;t use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That&amp;#x27;s art. I went looking and I&amp;#x27;m sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013: &amp;quot;I don&amp;#x27;t…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Python 3.15.0 added to actions/python-versions</title>
-      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/10/python-actions/</guid>
-      <pubDate>Sat, 10 Oct 2026 23:58:04 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Python 3.15.0 added to actions/python-versions Bit of a niche link, but I&amp;#x27;ve been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add &amp;quot;3.15&amp;quot; to a GitHub Actions testing matrix to run tests against the new…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</guid>
-      <pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In a lengthy post on X, Microsoft&amp;#x27;s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a &amp;quot;set of nested black boxes&amp;quot; whose advice and actions we simply accept or […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
-      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</guid>
-      <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In a Saturday morning post, Microsoft&amp;#x27;s CEO wrote that it’s time “to step back and assess the trust architecture” of AI.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
