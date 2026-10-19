@@ -5,9 +5,129 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 13:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:18:39 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
+      <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</guid>
+      <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The fossil fuel comeback is here</title>
+      <link>https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report</link>
+      <guid isPermaLink="true">https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report</guid>
+      <pubDate>Mon, 19 Oct 2026 21:48:01 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CoreWeave’s debt is becoming the whole AI industry’s problem</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
+      <pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they&amp;#x27;d get from government bonds. Last Tuesady Chamath &amp;quot;SPAC King&amp;quot; Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
+      <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</guid>
+      <pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
+      <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenCode is an open-source AI coding agent that&amp;#x27;s become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tolan snags $30M for its AI companion that helps users navigate life</title>
+      <link>https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:00:12 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</title>
+      <link>https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/</guid>
+      <pubDate>Mon, 19 Oct 2026 18:49:04 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Eugenia Kuyda&amp;#x27;s newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tenstorrent hits $6.2B valuation to scale open-weight AI chips</title>
+      <link>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</guid>
+      <pubDate>Mon, 19 Oct 2026 18:37:27 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Making the internet better for AI agents might make it worse for everyone else</title>
+      <link>https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/</guid>
+      <pubDate>Mon, 19 Oct 2026 18:22:47 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“We were looking at it wrong”: The explosive claim that’s upended the AI world</title>
+      <link>https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/</guid>
+      <pubDate>Mon, 19 Oct 2026 17:45:55 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</title>
+      <link>https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</guid>
+      <pubDate>Mon, 19 Oct 2026 14:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
+      <pubDate>Mon, 19 Oct 2026 13:58:41 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn&amp;#x27;t name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Democrats think cracking down on AI could give them an edge</title>
       <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
@@ -227,6 +347,16 @@
       <category>arXiv papers</category>
       <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autoregressive foundation language models predominantly target high-resource Indo-European languages, imposing computational and morphological penalties on under-represented African languages. Generic multilingual tokenizers routinely exceed fertility rates of 3.2 tokens per word on agglutinative Bantu languages, degrading context efficiency and inflating latency. We present Pearl-Chat, an…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
+      <link>https://huggingface.co/blog/hf-torchneuron</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/hf-torchneuron</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>llm-tools-datasette 0.1.1</title>
@@ -2357,116 +2487,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new &amp;quot;most capable models&amp;quot;. These look like they may be Meta&amp;#x27;s first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin for the new model. Here are pelicans for Muse Wonder for the six reasoning levels: minimal, low, medium, high, xhigh,…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello Python 3.15, goodbye 3.10, and now I can use 3.11</title>
-      <link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15/</guid>
-      <pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Python 3.15 is here ! Here&amp;#x27;s the essential What&amp;#x27;s new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I&amp;#x27;m most excited…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta releases its first frontier model, Muse Wonder</title>
-      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</guid>
-      <pubDate>Mon, 12 Oct 2026 17:56:56 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WindBorne wins a hefty US Air Force contract for its balloon data</title>
-      <link>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</guid>
-      <pubDate>Mon, 12 Oct 2026 17:19:14 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta has some Wonder Full new AI models</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</guid>
-      <pubDate>Mon, 12 Oct 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it&amp;#x27;s now launching two new models it claims can go toe-to-toe with the industry&amp;#x27;s best. The new models, Muse Wonder and Muse Wonder Full, are available […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Profiling web-edit with Python 3.15: flame graphs and source heatmaps</title>
-      <link>https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</guid>
-      <pubDate>Mon, 12 Oct 2026 16:58:00 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the &amp;quot;web-edit&amp;quot; app from PyPI - research first then make me those demos Here&amp;#x27;s the resulting example flame graph and heatmap . Tags:…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Simulating student learning for better AI tutoring</title>
-      <link>https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/</link>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/</guid>
-      <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
-      <dc:creator>Microsoft Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first on Microsoft Research .&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>web-edit 0.1a0</title>
-      <link>https://simonwillison.net/2026/Oct/12/web-edit/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/web-edit/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:54:36 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It&amp;#x27;s intended to be run over Tailscale, so I can have an…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Honeyjar offers AI tools to improve PR and comms at every company</title>
-      <link>https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:45:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft president says UK is best placed to drive AI regulation</title>
-      <link>https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:31:19 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>This AI startup says it can generate permit-ready blueprints in minutes</title>
-      <link>https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:27:59 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings</title>
-      <link>https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/</guid>
-      <pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
