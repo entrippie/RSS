@@ -1,5 +1,23 @@
 [
  {
+  "title": "Democrats think cracking down on AI could give them an edge",
+  "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+  "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1792411200
+ },
+ {
+  "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+  "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+  "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1792400885
+ },
+ {
   "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
   "link": "https://arxiv.org/abs/2610.22379",
   "summary": "Calibrating expensive engineering simulators requires tuning model parameters to match reference data, a process heavily constrained by computational costs. This study investigates whether Large Language Models (LLMs), conditioned on physical diagnostic descriptions of simulation errors, can propose informative parameter updates more efficiently than conventional derivative-free optimizers. We…",
@@ -2194,32 +2212,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1791813600
- },
- {
-  "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-  "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-  "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1791810000
- },
- {
-  "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-  "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-  "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791809279
- },
- {
-  "title": "datasette-ports 0.4",
-  "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-  "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1791781027
  }
 ]
