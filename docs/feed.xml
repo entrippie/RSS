@@ -5,9 +5,99 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:34:06 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic’s cloud partnerships are getting messy</title>
+      <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</guid>
+      <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SpaceX’s AI business is beating expectations</title>
+      <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</guid>
+      <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
+      <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</guid>
+      <pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI says it&amp;#x27;s adding Orchestra&amp;#x27;s team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Battle Drones - a vibe coded RTS with audio-based multiplayer</title>
+      <link>https://simonwillison.net/2026/Oct/20/battledrones/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/battledrones/</guid>
+      <pubDate>Tue, 20 Oct 2026 19:34:19 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My latest vibe coded game experiment is a Command &amp;amp; Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I&amp;#x27;m somewhat embarrassed to admit that I got there by telling Claude to &amp;quot;Make it a LOT more fun&amp;quot;. It also supports multiplayer between nearby devices using audio to synchronize game state! Here&amp;#x27;s…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</title>
+      <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</guid>
+      <pubDate>Tue, 20 Oct 2026 18:38:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT now lets you lock your chats</title>
+      <link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</guid>
+      <pubDate>Tue, 20 Oct 2026 18:36:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
+      <pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta pauses Muse sharing after researchers find AI chats on the web</title>
+      <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</guid>
+      <pubDate>Tue, 20 Oct 2026 18:07:34 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</title>
+      <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</guid>
+      <pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
       <link>https://huggingface.co/blog/allenai/fairstress</link>
@@ -137,6 +227,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
+      <link>https://openai.com/index/ted-taylor-restaurant</link>
+      <guid isPermaLink="true">https://openai.com/index/ted-taylor-restaurant</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A visit to Samsung’s massive new semiconductor hub</title>
@@ -487,6 +587,16 @@
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
       <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI acquires Orchestra Bio</title>
+      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;amp;D, helping biopharma teams accelerate drug development and advance new treatments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My obituary for programming</title>
@@ -2717,136 +2827,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI employee arrested for allegedly planting a bug in a conference room</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
-      <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An OpenAI engineer was arrested after the company said it discovered a &amp;quot;sophisticated recording device&amp;quot; hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Judge orders OpenAI to turn over hiring records in Apple trade secrets case</title>
-      <link>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</guid>
-      <pubDate>Tue, 13 Oct 2026 20:36:44 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A federal judge ruled that Apple can access OpenAI&amp;#x27;s interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Developing Gemini 4 Argon responsibly and safely</title>
-      <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</guid>
-      <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shopify opens its catalog up to more AI agents</title>
-      <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</guid>
-      <pubDate>Tue, 13 Oct 2026 19:42:42 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company&amp;#x27;s agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify&amp;#x27;s catalog. (The catalog consists […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Xbox is officially embracing the chaos of AI-powered game ports</title>
-      <link>https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration</guid>
-      <pubDate>Tue, 13 Oct 2026 19:00:48 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads</title>
-      <link>https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/</guid>
-      <pubDate>Tue, 13 Oct 2026 18:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Flox&amp;#x27;s edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Facebook is giving users more control over their algorithm</title>
-      <link>https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</guid>
-      <pubDate>Tue, 13 Oct 2026 18:05:24 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I don’t miss the camera on the Ray-Ban Meta Audio glasses</title>
-      <link>https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</title>
-      <link>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</guid>
-      <pubDate>Tue, 13 Oct 2026 17:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
-      <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</guid>
-      <pubDate>Tue, 13 Oct 2026 17:18:25 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
-      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Facebook will let you customize your feed algorithm using AI</title>
-      <link>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</guid>
-      <pubDate>Tue, 13 Oct 2026 17:01:31 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Facebook&amp;#x27;s new &amp;quot;Your Algorithm&amp;quot; feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations &amp;quot;respond right away&amp;quot; after you make updates using the new feature by hitting &amp;quot;interested&amp;quot; or &amp;quot;not interested&amp;quot; for different topics. Your Algorithm previously launched on Instagram earlier this […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google makes it easier to launch your vibe-coded apps</title>
-      <link>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</guid>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The next time you vibe-code a custom app with Google&amp;#x27;s AI Studio, you won&amp;#x27;t have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
