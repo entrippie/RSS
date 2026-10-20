@@ -5,9 +5,119 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:58:52 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
+      <link>https://huggingface.co/blog/allenai/fairstress</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/fairstress</guid>
+      <pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Called to serve: Tech, research, and positive impact</title>
+      <link>https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>Microsoft Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech, research, and positive impact appeared first on Microsoft Research .&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plants can speak using electricity, so this startup built an AI model to decipher their language</title>
+      <link>https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The new economics of enterprise AI</title>
+      <link>https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/</guid>
+      <pubDate>Tue, 20 Oct 2026 15:20:25 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?”…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
+      <pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spotify pulled 50 million AI slop and spam tracks from its recommendations</title>
+      <link>https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</link>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</guid>
+      <pubDate>Tue, 20 Oct 2026 14:18:37 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That&amp;#x27;s according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. &amp;quot;Our editors hold the same standard and […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Figma co-founder Dylan Field thinks MCP is not a perfect protocol</title>
+      <link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</guid>
+      <pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Figma said it plans to support as many standards as possible without exposing all of its data&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
+      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</guid>
+      <pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adobe Lightroom mobile can now open closed eyes in photos with a simple tap</title>
+      <link>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</guid>
+      <pubDate>Tue, 20 Oct 2026 13:06:44 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eka is worth $1.45B thanks to a physical AI model that has experts raving</title>
+      <link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</guid>
+      <pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI adoption by industry shows what other sectors can learn</title>
+      <link>https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
       <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
@@ -352,6 +462,26 @@
       <title>MPS in PyTorch 2.15</title>
       <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
       <guid isPermaLink="true">https://huggingface.co/blog/mps-pytorch-2-15</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
+      <link>https://huggingface.co/blog/hf-torchtpu</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/hf-torchtpu</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
+      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <dc:creator>Hugging Face</dc:creator>
       <category>Research labs</category>
@@ -2717,116 +2847,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The next time you vibe-code a custom app with Google&amp;#x27;s AI Studio, you won&amp;#x27;t have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon for Robotics</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026: Day 1</title>
-      <link>https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/</guid>
-      <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;TechCrunch Disrupt 2026 officially kicks off today. See what&amp;#x27;s in store for Day 1 (Oct. 13) at San Francisco&amp;#x27;s Moscone West. Don&amp;#x27;t miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DLSS 5 gets toned down for its Hogwarts Legacy debut next month</title>
-      <link>https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements</guid>
-      <pubDate>Tue, 13 Oct 2026 13:55:45 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn&amp;#x27;t get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace from Resident Evil […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SpaceXSI bundles X Premium, Grok and Cursor into one subscription</title>
-      <link>https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:50:19 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The new X Subscription combines X&amp;#x27;s paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Geoffrey Huntley</title>
-      <link>https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:32:00 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If the agent isn&amp;#x27;t using my diagnostics library, I could introspect and update AGENTS.md, but there&amp;#x27;s still a delta, and it&amp;#x27;ll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it&amp;#x27;s ten out of ten. —…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:28:06 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple launches HomeView, its first smart display for the home</title>
-      <link>https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It&amp;#x27;s finally here: Apple&amp;#x27;s long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it&amp;#x27;s gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple&amp;#x27;s […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amex introduces a framework to prevent AI agents from making unauthorized purchases</title>
-      <link>https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
-      <link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The startup will sell some of its assets to Disney for $20 million.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Higgsfield takes AI video from 1 minute to over 10</title>
-      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
-      <guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
