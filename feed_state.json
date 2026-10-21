@@ -1,5 +1,14 @@
 [
  {
+  "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+  "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1792580382
+ },
+ {
   "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
   "link": "https://arxiv.org/abs/2610.26887",
   "summary": "Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical reasoning, but expert task authoring is costly, while direct LLM synthesis struggles to produce challenging tasks with…",
@@ -2311,32 +2320,5 @@
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1791979200
- },
- {
-  "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-  "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-  "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1791975600
- },
- {
-  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-  "link": "https://openai.com/index/third-moment-research",
-  "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1791961200
- },
- {
-  "title": "How Block is building AI-powered security with OpenAI technology",
-  "link": "https://openai.com/index/block-ai-powered-security",
-  "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1791961200
  }
 ]
