@@ -5,9 +5,119 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:07:27 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panache — RTS Belle Époque pour mobile</title>
+      <link>https://simonwillison.net/2026/Oct/21/panache/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/21/panache/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:25:16 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there&amp;#x27;s already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Empowering frontline maternal care with AI-assisted ultrasound</title>
+      <link>https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/</link>
+      <guid isPermaLink="true">https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:23:53 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Health &amp;amp; Bioscience&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solving a 31-year-old grand challenge in mathematics – the KLS conjecture</title>
+      <link>https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>Microsoft Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conversational Gemini navigation comes to Apple CarPlay</title>
+      <link>https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with &amp;quot;rollout happening globally too,&amp;quot; according to Google (we&amp;#x27;ve asked for specific regional availability details). It&amp;#x27;s taken almost 12 months for Google to bring […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+      <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI promises productivity, but for managers, it’s mostly a headache for now</title>
+      <link>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More than 50% of managers say they&amp;#x27;re finding it harder to evaluate employees&amp;#x27; work after adopting AI, according to a new survey.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
+      <pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. &amp;quot;The reference didn&amp;#x27;t configure a monitor, and Astra decided that was reason […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
+      <pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI models are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
       <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
@@ -17,6 +127,36 @@
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
       <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+      <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using thousands of AI agents to uncover new leads in biological data</title>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+      <pubDate>Wed, 21 Oct 2026 04:50:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training</title>
@@ -2407,186 +2547,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My AI doppelganger tells me what to eat</title>
-      <link>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</link>
-      <guid isPermaLink="true">https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</guid>
-      <pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they&amp;#x27;re going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI claims an ex-employee took its product plans and presented them to Apple</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</guid>
-      <pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company&amp;#x27;s operations in Asia. The […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI is mass decompiling games. That's both awesome and scary.</title>
-      <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:26:53 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI is mass decompiling games. That&amp;#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Putting Earth AI to work: Geospatial agents for our planet's biggest challenges</title>
-      <link>https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/</link>
-      <guid isPermaLink="true">https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:14:38 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Earth AI&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Research@ 2026: 10 ways we're amplifying human ingenuity</title>
-      <link>https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/</link>
-      <guid isPermaLink="true">https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:14:34 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;General Science&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Analyzing technical documents with Deep Review</title>
-      <link>https://research.google/blog/analyzing-technical-documents-with-deep-review/</link>
-      <guid isPermaLink="true">https://research.google/blog/analyzing-technical-documents-with-deep-review/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:14:00 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;General Science&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
-      <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/hiro-acev2</guid>
-      <pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft has a new machine learning tool to improve weather forecasts</title>
-      <link>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</link>
-      <guid isPermaLink="true">https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</guid>
-      <pubDate>Wed, 14 Oct 2026 16:05:21 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they&amp;#x27;ve found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Square’s new kiosk lets you talk to AI for help with your order</title>
-      <link>https://www.theverge.com/tech/1009086/square-kiosk</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1009086/square-kiosk</guid>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It&amp;#x27;s called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an &amp;quot;agentic, conversational voice layer&amp;quot; that &amp;quot;fully understands a seller&amp;#x27;s menu and listens and responds in real […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Android is using AI to suss out scammers in Google Messages</title>
-      <link>https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</guid>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new &amp;quot;enhanced protection&amp;quot; setting will be rolling out in the coming weeks that taps into cloud-based […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic’s self-replicating AI warning is alarming deja vu</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</guid>
-      <pubDate>Wed, 14 Oct 2026 15:19:02 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deezer will soon let you filter out AI-generated music</title>
-      <link>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:16:04 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Deezer said that the new toggle will be rolled out by the end of the year.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West</title>
-      <link>https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:13:24 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it&amp;#x27;s all about physical and software AI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace</title>
-      <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:08:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Zenzap is used by organizations including Starbucks and Taco Bell.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Floqer’s AI agents research sales prospects so teams don’t have to</title>
-      <link>https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026: Day 2</title>
-      <link>https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amp puts AI agents to work beyond code with OpenAI models</title>
-      <link>https://openai.com/index/amp-beyond-coding</link>
-      <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SentinelOne cuts malware analysis from weeks to hours</title>
-      <link>https://openai.com/index/sentinelone</link>
-      <guid isPermaLink="true">https://openai.com/index/sentinelone</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
