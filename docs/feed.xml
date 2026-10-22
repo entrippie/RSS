@@ -5,9 +5,49 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:45:15 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots</title>
+      <link>https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that &amp;quot;your secrets are safe with me,&amp;quot; but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Making the case for context-aware AI</title>
+      <link>https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI’s hidden storage bill: What inference leaves behind</title>
+      <link>https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:41:18 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ensemble forecasting with IBM Granite time-series models</title>
+      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+      <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving Systems</title>
       <link>https://arxiv.org/abs/2610.28637</link>
@@ -2637,16 +2677,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apertus 1.5 Release Notes</title>
-      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
-      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
