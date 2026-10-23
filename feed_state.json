@@ -288,6 +288,15 @@
   "ts": 1792716337
  },
  {
+  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+  "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1792713600
+ },
+ {
   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
   "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
   "summary": "",
