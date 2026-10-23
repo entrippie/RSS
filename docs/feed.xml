@@ -5,9 +5,69 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:02:51 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The iPhone Duo should have been an iPad</title>
+      <link>https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:18 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We gave the iPhone Duo a 7 /10. But that wasn&amp;#x27;t always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
+      <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
+      <pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google has updated its privacy policy in a way that could mean you&amp;#x27;ll start seeing targeted ads based on your personal data if you&amp;#x27;re using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+      <link>https://huggingface.co/blog/allenai/litpivot</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/litpivot</guid>
+      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta delays new business terms after publisher pushback on AI scraping</title>
+      <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</guid>
+      <pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th &amp;quot;to allow […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Retro gaming is being overrun with AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Retro video games are everywhere lately - especially in places where they aren&amp;#x27;t supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
       <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
@@ -337,6 +397,16 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
+      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/torch-neuronx-model-support</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -2657,86 +2727,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
-      <link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Physical AI is more than robots, says the Nvidia veteran now investing in it</title>
-      <link>https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/</link>
-      <guid isPermaLink="true">https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;According to Elorian&amp;#x27;s evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jev is Vercel’s fastest-adopted AI model ever</title>
-      <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</guid>
-      <pubDate>Fri, 16 Oct 2026 15:33:49 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The data comes from Vercel&amp;#x27;s AI gateway, a unified API service similar to OpenRouter.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops</title>
-      <link>https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions</guid>
-      <pubDate>Fri, 16 Oct 2026 15:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia&amp;#x27;s RTX Spark N1X processor is finally here, and we&amp;#x27;ve been collectively testing a small fortune&amp;#x27;s worth of powerful laptops sporting this new &amp;quot;superchip.&amp;quot; RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy</title>
-      <link>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</guid>
-      <pubDate>Fri, 16 Oct 2026 14:26:51 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Actor and angel investor Mark Wahlberg says he&amp;#x27;s OK with using AI in filmmaking, provided it&amp;#x27;s used &amp;quot;to enhance what you&amp;#x27;re doing.&amp;quot;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s new terms may allow it to train AI on news sites for free</title>
-      <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
-      <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s new terms appear to give it permission to crawl and scrape websites &amp;quot;associated&amp;quot; with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to &amp;quot;develop, improve, research,&amp;quot; and &amp;quot;train&amp;quot; […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles</title>
-      <link>https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</guid>
-      <pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Counterfeiters are getting better at replicating brands&amp;#x27; marks and passing off dupes, known as &amp;quot;superfakes,&amp;quot; as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
