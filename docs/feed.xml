@@ -5,9 +5,49 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:53:14 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
+      <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</guid>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new study found Grok&amp;#x27;s AI overwhelmingly recommends Republican candidates while OpenAI&amp;#x27;s GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Here are the top AI agents that can live in your text messages</title>
+      <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build Your Own Reasoning Model: A Full Video Course</title>
+      <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
+      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/building-reasoning-models</guid>
+      <pubDate>Sat, 24 Oct 2026 11:14:32 +0000</pubDate>
+      <dc:creator>Ahead of AI (Sebastian Raschka)</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://magazine.sebastianraschka.com/feed">Ahead of AI (Sebastian Raschka)</source>
+      <description>&lt;p&gt;&lt;em&gt;Ahead of AI (Sebastian Raschka) · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>battledrones v14: Compass Rose, a four player map</title>
+      <link>https://simonwillison.net/2026/Oct/24/battledrones/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/24/battledrones/</guid>
+      <pubDate>Sat, 24 Oct 2026 03:59:57 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here&amp;#x27;s the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
       <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
@@ -2727,36 +2767,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta removes language that may have allowed it to scrape news sites</title>
-      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</guid>
-      <pubDate>Sat, 17 Oct 2026 15:04:36 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>web-edit 0.1a2</title>
-      <link>https://simonwillison.net/2026/Oct/17/web-edit/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/17/web-edit/</guid>
-      <pubDate>Sat, 17 Oct 2026 13:16:49 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a &amp;quot;copy to clipboard&amp;quot; option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here&amp;#x27;s DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Websites are closing their doors to AI agents</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-      <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won&amp;#x27;t play nice? In recent weeks, […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
