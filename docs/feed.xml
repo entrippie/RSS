@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:30:39 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
+      <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</guid>
+      <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn&amp;#x27;t work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
+      <link>https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</guid>
+      <pubDate>Fri, 23 Oct 2026 21:59:19 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a &amp;quot;nap,&amp;quot; and summersaulted on voice command.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quick Study</title>
+      <link>https://simonwillison.net/2026/Oct/23/quick-study-painter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/quick-study-painter/</guid>
+      <pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts.…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI now trains its frontier AI models with no internet access</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
@@ -2727,26 +2757,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won&amp;#x27;t play nice? In recent weeks, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang</title>
-      <link>https://simonwillison.net/2026/Oct/16/code-review/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/16/code-review/</guid>
-      <pubDate>Fri, 16 Oct 2026 22:06:37 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We think &amp;quot;did a human read the code?&amp;quot; is an imprecise proxy for &amp;quot;what could go wrong with this change, and which check—automated or human—is the right one to catch it?&amp;quot; Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Replit is no longer working with Anthropic, CEO says</title>
-      <link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
-      <pubDate>Fri, 16 Oct 2026 21:22:28 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
