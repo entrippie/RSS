@@ -1,5 +1,14 @@
 [
  {
+  "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+  "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792947452
+ },
+ {
   "title": "The hottest AI wearables and gadgets you should know about",
   "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
@@ -2482,32 +2491,5 @@
   "section": "Newsletters & blogs",
   "source_feed": "https://simonwillison.net/atom/everything/",
   "ts": 1792365376
- },
- {
-  "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-  "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-  "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1792355860
- },
- {
-  "title": "A woman was arrested in Philly for blocking a delivery robot",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-  "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1792348090
- },
- {
-  "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-  "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-  "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1792341000
  }
 ]

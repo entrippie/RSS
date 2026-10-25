@@ -5,9 +5,19 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:46:44 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
+      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</guid>
+      <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.&amp;quot;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The hottest AI wearables and gadgets you should know about</title>
       <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
@@ -2767,36 +2777,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-echo 0.5 I&amp;#x27;m working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a &amp;quot;model&amp;quot; which doesn&amp;#x27;t involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage:…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</guid>
-      <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic said that it will commit 5% of its shares to the fund.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A woman was arrested in Philly for blocking a delivery robot</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</guid>
-      <pubDate>Sun, 18 Oct 2026 18:28:10 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia&amp;#x27;s ABC13 &amp;quot;I know they&amp;#x27;re taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
-      <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</guid>
-      <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
