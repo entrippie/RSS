@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 04:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:10:03 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The hottest AI wearables and gadgets you should know about</title>
+      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</guid>
+      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>r/opensource just banned AI, non-English speakers, and more</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</guid>
+      <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, &amp;quot;If your project uses AI, is made by AI, or is intended for AI, it&amp;#x27;s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google’s AI search changes upended online publishing</title>
+      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
+      <guid isPermaLink="true">https://www.theverge.com/column/1017983/google-ai-search-online-publishing</guid>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI&amp;#x27;s impact on the web, follow Emma Roth. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Blue Planet III is keeping the rough edges in the age of AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
