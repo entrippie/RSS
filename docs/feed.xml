@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:53:31 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -2837,36 +2837,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn&amp;#x27;t name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Democrats think cracking down on AI could give them an edge</title>
-      <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1013113/democrats-ai-midterms</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Democrats could win back control of Congress this November, and if they do, they&amp;#x27;ll need to decide how to approach one of the country&amp;#x27;s newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advancing coding in low‑resource programming languages</title>
-      <link>https://openai.com/index/low-resource-programming-languages</link>
-      <guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI researchers stranded Claude on a virtual desert island. It started to “play.”</title>
-      <link>https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/</guid>
-      <pubDate>Mon, 19 Oct 2026 09:08:05 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
