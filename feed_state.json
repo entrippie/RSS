@@ -1,5 +1,284 @@
 [
  {
+  "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
+  "link": "https://arxiv.org/abs/2610.31702",
+  "summary": "Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment. However, most existing methods follow a supervised learning paradigm that requires costly labeled data and task-specific model training. Moreover, indoor environments involve privacy-sensitive information, such as building layouts and structures, that often…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection",
+  "link": "https://arxiv.org/abs/2610.31704",
+  "summary": "Non-Destructive Inspection (NDI) is a cornerstone of modern quality assurance, critical for ensuring the safety and reliability of infrastructure and manufactured components without causing damage. This paper presents a comprehensive review of the current NDI landscape, analyzing the field through four distinct lenses, namely, computational algorithms, physical techniques, industrial…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "Does LeWorldModel Preserve Local Action Geometry?",
+  "link": "https://arxiv.org/abs/2610.31716",
+  "summary": "We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales. Across nearly a thousand states from Reacher and OGBench Cube, the most sensitive action directions differ by median angles of about $36^\\circ$ and $42^\\circ$, respectively,…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
+  "link": "https://arxiv.org/abs/2610.31718",
+  "summary": "Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as distinct edges. Recently proposed multigraph neural network architectures leverage this structure explicitly to achieve a strong performance on anti-money laundering (AML) tasks. However, their robustness to adversaries that manipulate transaction…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
+  "link": "https://arxiv.org/abs/2610.31721",
+  "summary": "Optimizing high-dimensional physical systems under expensive evaluations and complex constraints is a central challenge in science and engineering. In offline model-based optimization (MBO), methods must improve designs using only a fixed dataset and no test-time access to the true objective. However, existing methods typically suffer from conservatism, unconstrained surrogate exploitation, or…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "Autoregressive Multimodal Anomaly Detection with Large Language Models for Microservice Systems",
+  "link": "https://arxiv.org/abs/2610.31722",
+  "summary": "Microservice systems have become a dominant architecture for large-scale cloud applications, enabling rapid deployment and elastic scaling. However, ensuring the reliability and availability of microservice systems critically relies on effective anomaly detection, as failures and performance anomalies can quickly propagate across services and severely impact end-to-end system behavior. Existing…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "Cognitively Constrained Partners for Zero-Shot Coordination in Real-Time Partitioned Control",
+  "link": "https://arxiv.org/abs/2610.31726",
+  "summary": "Effective human-machine teaming requires agents that coordinate with unpredictable human partners. Reinforcement learning from live human feedback or large behavioural datasets is expensive, while purely simulated training overfits to artificial conventions and fails at Zero-Shot Coordination with real people. We propose a framework for training teaming agents against Cognitively Constrained…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "When and How Does Muon Precondition? The Role of Structured Gradient Noise",
+  "link": "https://arxiv.org/abs/2610.31728",
+  "summary": "Muon has become a popular optimizer for large language model training, yet its theoretical foundations remain poorly understood. In this work, we study how gradient noise geometry shapes Muon's preconditioning benefits. We first show, theoretically and empirically, that under the classical isotropic noise assumption, Muon offers no acceleration beyond a rescaling of the learning rate. This…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis",
+  "link": "https://arxiv.org/abs/2610.31731",
+  "summary": "Multimodal sentiment analysis (MSA) aims to predict human sentiments by integrating signals from different modalities such as text, video, and audio. However, raw multimodal sequences often suffer from semantic inconsistency--exhibiting redundancy or conflicts within and across modalities--which hinders robust understanding and increases computational cost. To this end, we introduce ConsMSA,…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "Learning to Be Monitored: Causal Bounds and Intervention-Aware Post-Training Recipes for Chain-of-Thought Monitorability",
+  "link": "https://arxiv.org/abs/2610.31733",
+  "summary": "Chain-of-thought (CoT) monitoring aims to detect potentially harmful behaviors in large language models (LLMs) from their CoTs. Intervention-based evaluations measure this property by asking whether a monitor can detect the role of an intervention from the CoT when the targeted behavior occurs, typically using minimal-criterion sensitivity ($\\mathsf{TPR_{mc}}$) proposed…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1792987200
+ },
+ {
+  "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+  "link": "https://arxiv.org/abs/2610.31701",
+  "summary": "Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet the process often remains manual, making it…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+  "link": "https://arxiv.org/abs/2610.31789",
+  "summary": "Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+  "link": "https://arxiv.org/abs/2610.31808",
+  "summary": "Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddings and a convolutional…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+  "link": "https://arxiv.org/abs/2610.31810",
+  "summary": "Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+  "link": "https://arxiv.org/abs/2610.31846",
+  "summary": "Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We introduce Self-Direction, a mechanism for…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+  "link": "https://arxiv.org/abs/2610.31882",
+  "summary": "We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+  "link": "https://arxiv.org/abs/2610.31916",
+  "summary": "A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission to dispatch, evidence of an external effect and permission to reconcile are distinct obligations. We present a finite…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+  "link": "https://arxiv.org/abs/2610.31918",
+  "summary": "Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinction is inherently hierarchical: the policy that induces an interaction history need not be the same as the policy that generates the token prefix…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+  "link": "https://arxiv.org/abs/2610.31937",
+  "summary": "Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. However, many existing red-teaming approaches rely on heuristics or impose strong assumptions that limit their applicability in fully black box settings. We address this gap by introducing $M^3$, an automated red-teaming framework that formalizes…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+  "link": "https://arxiv.org/abs/2610.31971",
+  "summary": "Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through explicit trust and reputation models, whereas existing work on LLM negotiation largely treats trust as an emergent…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1792987200
+ },
+ {
+  "title": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
+  "link": "https://arxiv.org/abs/2610.31678",
+  "summary": "Many LLM studies compare how models respond to different follow-up prompts. For example, one prompt may neutrally ask a model to reconsider, while another insists that an invented film really exists. The difference is used to measure the effect of conversational pressure. An automatic scorer then labels whether each response makes an unsupported factual claim. Researchers commonly validate the…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring",
+  "link": "https://arxiv.org/abs/2610.31679",
+  "summary": "Large language models are increasingly used as math tutors, raising two questions: can a single LLM detect a student's error, diagnose the underlying misconception, and remediate it through multi-turn dialogue - and can we trust the numbers that report how well it does? We address both with MISCONCEPTDIALOGUE, a fully automated framework that runs the full pipeline on five open-weight LLM tutors…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?",
+  "link": "https://arxiv.org/abs/2610.31681",
+  "summary": "Structured generation is typically formulated as a deterministic mapping from input to a single structured output. This assumption is fundamentally misaligned with natural language, which often admits multiple structurally distinct yet semantically valid interpretations. As a result, existing methods rely on single-reference supervision that collapses ambiguity into one prediction, leading to…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "Multi modal perceived conversation success prediction for spontaneous autistic and non-autistic dyadic interactions",
+  "link": "https://arxiv.org/abs/2610.31682",
+  "summary": "Conversation success is important for communication, social bonds, and well-being and is often reduced in autistic-neurotypical conversations. Previous studies have predicted perceived conversation success using acoustic and lexical features in pediatric autism-enriched samples, or using nonverbal behavior in non-autistic group interactions. Other work has characterized prosodic, facial, motor,…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "The Schema Coherence Inventory: Measuring Whether an Assigned Belief Organizes a Language Model's Cognition",
+  "link": "https://arxiv.org/abs/2610.31683",
+  "summary": "Persona-conditioned language models are used as simulated patients and affective agents, but there is no validated way to ask whether a belief assigned to such a model organizes its behaviour or whether the model has merely adopted a mood. We present the Schema Coherence Inventory (SCI): 96 forced-choice items at eight levels of Beck's cognitive model, each offering six replies keyed to three…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
+  "link": "https://arxiv.org/abs/2610.31684",
+  "summary": "Knowledge Graphs (KGs) have been popularized during the last few decades and are increasingly constructed and consumed by Large Language Models (LLMs). Various applications therefore rely on KGs to provide concise, complete, accurate, faithful, fresh, and traceable answers. However, what is the quality of those KGs? In which cases should a KG be used, and can it be trusted to ground an LLM? How…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
+  "link": "https://arxiv.org/abs/2610.31685",
+  "summary": "LLM-based multimodal emotion reasoning systems perform well on standard benchmarks, but improving them through instruction tuning can be computationally expensive. Agentic pipelines built from frozen models avoid this cost, but introduce a different challenge: when a prediction is wrong, the system must identify which agent or stage caused the error. We address this problem with an agentic…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "From Target Selection to Condition Reuse: Auditing Residual Interventions in Tool-Use Models",
+  "link": "https://arxiv.org/abs/2610.31686",
+  "summary": "Activation interventions can make a language model produce a target answer, but can the model use the intended condition in other computations? We study this question in Qwen3.5-27B on tool-use tasks where time or permissions determine eligibility and selection. Across 32 fresh worlds, two case-specific residual-writing variants raise familiar target-selection correctness from 35/128 to 119/128…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "Distributional Alignment of LLMs and Its Generalization Properties",
+  "link": "https://arxiv.org/abs/2610.31687",
+  "summary": "Large language models are increasingly used to simulate and probe human behavior, e.g., for surveys. For these applications, a key property is that outputs satisfy distributional alignment: to match its output distribution with some reference (in this case, human) distribution. An obstacle in achieving distributional alignment is generalizing from small training data. In this work, we study (1)…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "LAMB: A Modern Contextual Language Model for Latin",
+  "link": "https://arxiv.org/abs/2610.31723",
+  "summary": "This article introduces Latin Modern BERT (LAMB), an encoder for the Latin language based on the ModernBERT architecture, pretrained in two phases on more than 74B Latin tokens using a novel morphologically informed masking regimen. We also present two corpora for the Latin language. Acervus contains 24B BERT WordPiece tokens, including over 760K samples from heavily damaged OCR transcriptions,…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1792987200
+ },
+ {
+  "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+  "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1792963876
+ },
+ {
   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
@@ -7,6 +286,15 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1792947452
+ },
+ {
+  "title": "Seam Cutter",
+  "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+  "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1792941019
  },
  {
   "title": "The hottest AI wearables and gadgets you should know about",
@@ -2284,212 +2572,5 @@
   "section": "News",
   "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
   "ts": 1792400885
- },
- {
-  "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
-  "link": "https://arxiv.org/abs/2610.22379",
-  "summary": "Calibrating expensive engineering simulators requires tuning model parameters to match reference data, a process heavily constrained by computational costs. This study investigates whether Large Language Models (LLMs), conditioned on physical diagnostic descriptions of simulation errors, can propose informative parameter updates more efficiently than conventional derivative-free optimizers. We…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion",
-  "link": "https://arxiv.org/abs/2610.22380",
-  "summary": "Continuous diffusion treats the forward process as a design space; discrete language diffusion often uses absorbing corruption, leaving context fully trusted throughout generation. This makes trust binary: corrupted context is copied as ground truth, propagating errors into generated spans. We reopen this design space by combining absorbing and uniform-mixing kernels with region-dependent rates.…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "Binding-Specific Relearning Savings for Test-Time Continual Learning",
-  "link": "https://arxiv.org/abs/2610.22381",
-  "summary": "When a fact becomes harder to elicit from a language model, has the model lost it, or has it merely become less accessible? Parameter-updating test-time continual learning agents are usually evaluated by current output accuracy; we ask whether that measurement captures how prior experience shapes later updates. We test whether learning a specific factual binding produces a later relearning…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "CGDT-CESN: Correlation-Guided and Dynamics-Trained Clustered Echo State Network for Multivariate Time-Series Prediction",
-  "link": "https://arxiv.org/abs/2610.22430",
-  "summary": "Accurate prediction of multivariate time series requires models that simultaneously capture variable-specific dynamics and cross-variable interactions. In this work, a Correlation-Guided and Dynamics-Trained Clustered Echo State Network (CGDT-CESN) is proposed, which comprises a modular reservoir architecture with each cluster distinctly specializing in one of the variables in the multivariate…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "BOLT: Multi-Bottleneck Bound-Guided Learning for Flexible Job-Shop Scheduling with Time Lags and Resource-Coupled Transport",
-  "link": "https://arxiv.org/abs/2610.22433",
-  "summary": "Flexible job-shop scheduling becomes resource-coupled when a scarce vehicle fleet moves jobs between stations, because the schedule sets the transport waits. BOLT (bound-oriented learning for transport-coupled scheduling) builds a lower bound from chain, machine-capacity, and fleet-capacity relaxations. The bound equals the makespan at termination, so its per-step changes form a reward that sums…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "TRACE: Transformer Residual Activation Codebook Encoding for Communication-efficient Distributed Edge Inference",
-  "link": "https://arxiv.org/abs/2610.22435",
-  "summary": "Distributed Transformer inference across co-located edge devices is fundamentally communication-bound, as exchanging activations between sequence-parallel partitions dominates inference latency under commodity edge bandwidths. Existing compression schemes reduce this cost but retain a structural bottleneck: the received data must still undergo key/value projection before attention can proceed,…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "Generative adversarial networks with Monte Carlo dropout uncertainty quantification for structural health monitoring: Fibre Bragg grating data augmentation comparison in Hawk T1A aircraft",
-  "link": "https://arxiv.org/abs/2610.22436",
-  "summary": "The signal generation capabilities of a novel data augmentation framework are examined in aerospace structures. First, the framework learns class-conditional temporal and spectral characteristics of the measured structural responses. It uses conditional generative adversarial network training and Monte Carlo dropout uncertainty quantification as a Bayesian approximation. This step enables…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "CF-NODE: Counterfactual Spatial Node Intervention for Test-Time Adaptation Under Domain Shift, Evaluated Across Five Diabetic Retinopathy Datasets",
-  "link": "https://arxiv.org/abs/2610.22437",
-  "summary": "Automated fundus-based diabetic retinopathy (DR) grading can substantially expand screening capacity, but source-trained models degrade sharply across different cameras, clinics, and patient populations. Existing test-time adaptation methods depend on entropy minimization or target information accumulated from image batches and streams. These mechanisms can reinforce confidently incorrect…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "Rank Measures of Fine-Tuning Updates Need a Noise Baseline",
-  "link": "https://arxiv.org/abs/2610.22438",
-  "summary": "Studies of what fine-tuning does to a language model often summarise the weight update $\\Delta W$ by its rank. We compare the rank measures used for this against the same measures on a random matrix of the same shape, and against two harder references: the pretrained weights, and matched fine-tunes without alignment content. Measures that count directions put our fine-tuning updates only a little…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "Sparse Autoencoders Can Induce Local Geometry for Mitigating Catastrophic Forgetting",
-  "link": "https://arxiv.org/abs/2610.22439",
-  "summary": "Catastrophic forgetting remains a challenge in supervised continual learning, as adapting to new tasks causes representation drift and loss of previously learned information. This raises the question of which representational changes should be constrained while preserving plasticity. We therefore introduce Sparse Autoencoder Geometric Anchoring (SAGA), which converts a Sparse Autoencoder (SAE)…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1792382400
- },
- {
-  "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
-  "link": "https://arxiv.org/abs/2610.22428",
-  "summary": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, it is also most of the file once the rest of the model is compressed. We ask what that table actually buys. We replace it with one frozen table of 512-bit codes, 16 MB, with no trainable parameters,…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss",
-  "link": "https://arxiv.org/abs/2610.22454",
-  "summary": "Running prompt tokens through fewer routed experts during prefill is a simple way to make mixture-of-experts (MoE) serving cheaper, yet it is unclear what this damages. We locate the damage with token-, layer- and attention-path interventions on short-answer question answering in four MoE families. At half the experts the F1 loss of three families is mostly answer form: the model still finds the…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions",
-  "link": "https://arxiv.org/abs/2610.22468",
-  "summary": "Action nominal constructions (ANCs) express events in nominal form, with their argument marking following patterns found in clauses or ordinary noun phrases. In this paper, we investigate how different grammatical configurations affect language models' learning of ANCs and related constructions, and how these learning preferences compare with typological distributions in natural languages. We use…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
-  "link": "https://arxiv.org/abs/2610.22507",
-  "summary": "Command-line interface (CLI) agents increasingly execute longer-horizon tasks, yet existing benchmarks either assume that user instructions remain fixed throughout execution or evaluate task outcomes without capturing runtime collaboration quality. In this paper, we present REALCLI, a paired benchmark that unifies the evaluation of task execution and human-agent collaboration quality on realistic…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
-  "link": "https://arxiv.org/abs/2610.22511",
-  "summary": "Evaluating language models and agents requires combining benchmark accuracy, judge-based assessment, runtime performance, tool-use behavior, and retrieval quality. Differences in interfaces, metric semantics, and trace formats complicate these comparisons and can hide failures in agentic workflows. We present AuditKIT, a source-available evaluation library that records these measurements in one…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "alkhder at ImageEval 2026 Shared Tasks: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
-  "link": "https://arxiv.org/abs/2610.22515",
-  "summary": "We describe our submission to Subtask~1b of ImageEval 2026. The task consists of selecting the single visually valid statement from three candidates paired with an image, and is in both English and Modern Standard Arabic (MSA). Our system uses a pre-trained 7B vision--language model in a zero-shot setting, without task-specific training or fine-tuning. We formulate the task as a constrained…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "Learning User Representations to Improve Simulation Fidelity",
-  "link": "https://arxiv.org/abs/2610.22518",
-  "summary": "User simulators enable interactive training and evaluation of AI assistants at scale. Yet current simulators struggle to reproduce the diverse behaviors of real users, leading to assistants that generalize poorly to underrepresented users. We identify user representations as an underexplored bottleneck in user simulation. User representations are natural-language descriptions that condition…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "alkhder at AlexandriaX-2026: Context-Aware English-to-Dialectal Arabic Dialogue Translation with QLoRA-Fine-Tuned NileChat-3B",
-  "link": "https://arxiv.org/abs/2610.22525",
-  "summary": "This paper describes team Alkhder's submission to Subtask 1 of the AlexandriaX-2026 shared task, which asks systems to translate English dialogue turns into thirteen Arabic dialects. We fine-tune NileChat-3B-Base with QLoRA on the Alexandria parallel dialogue corpus, training one set of adapter weights for all dialects. Each turn is translated conditioned on the target country and dialect, the…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "Literal Lock-In: How Test Language Shifts Literal Attraction in Typed Decision Models on Bengali Idioms",
-  "link": "https://arxiv.org/abs/2610.22526",
-  "summary": "Decision models, non-generative scorers that report a probability over caller-supplied options and emit no text, are increasingly deployed as routers, classifiers and guardrails. Because they generate nothing, rationales and chain-of-thought do not apply. We audit three: an encoder scorer, a decoder scorer and a closed API, entirely through interventions on their input, using expert-annotated…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "Pearl-Chat: Engineering a native Luganda language model from first principles in JAX and Flax NNX",
-  "link": "https://arxiv.org/abs/2610.22529",
-  "summary": "Autoregressive foundation language models predominantly target high-resource Indo-European languages, imposing computational and morphological penalties on under-represented African languages. Generic multilingual tokenizers routinely exceed fertility rates of 3.2 tokens per word on agglutinative Bantu languages, degrading context efficiency and inflating latency. We present Pearl-Chat, an…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1792382400
- },
- {
-  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-  "link": "https://huggingface.co/blog/hf-torchneuron",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1792368000
- },
- {
-  "title": "llm-tools-datasette 0.1.1",
-  "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-  "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1792366989
- },
- {
-  "title": "llm-echo 0.5",
-  "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-  "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage:…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1792365376
  }
 ]
