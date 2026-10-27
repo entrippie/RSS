@@ -5,9 +5,59 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 17:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:09:04 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
+      <link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</guid>
+      <pubDate>Tue, 27 Oct 2026 21:44:34 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The banking giant reminds customers that &amp;quot;you&amp;#x27;re responsible for activity&amp;quot; resulting from your AI agents&amp;#x27; access.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who’s really in charge at Anthropic after the IPO?</title>
+      <link>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</guid>
+      <pubDate>Tue, 27 Oct 2026 21:38:28 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Here&amp;#x27;s a clear explanation of Anthropic&amp;#x27;s incredibly complex governance structure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Researchers are getting tired of OpenAI gatekeeping its breakthroughs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</guid>
+      <pubDate>Tue, 27 Oct 2026 20:48:58 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company&amp;#x27;s antics. It has been a turbulent few months between OpenAI […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Boy Color on My Conference Badge</title>
+      <link>https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/</guid>
+      <pubDate>Tue, 27 Oct 2026 19:34:18 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Game Boy Color on My Conference Badge I&amp;#x27;m at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I&amp;#x27;ve been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disruptive raises $10B fund to make big bets on at least 10 companies</title>
+      <link>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</guid>
+      <pubDate>Tue, 27 Oct 2026 18:55:35 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The sleep framework: A new way for LLMs to retain knowledge in continual learning</title>
       <link>https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</link>
@@ -317,6 +367,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Check Point accelerates vulnerability research with Daybreak</title>
+      <link>https://openai.com/index/check-point-daybreak</link>
+      <guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT-6.1 Terra</title>
@@ -2607,86 +2667,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you&amp;#x27;re driving […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic’s cloud partnerships are getting messy</title>
-      <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</guid>
-      <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SpaceX’s AI business is beating expectations</title>
-      <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</guid>
-      <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
-      <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</guid>
-      <pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI says it&amp;#x27;s adding Orchestra&amp;#x27;s team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Battle Drones - a vibe coded RTS with audio-based multiplayer</title>
-      <link>https://simonwillison.net/2026/Oct/20/battledrones/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/battledrones/</guid>
-      <pubDate>Tue, 20 Oct 2026 19:34:19 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My latest vibe coded game experiment is a Command &amp;amp; Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I&amp;#x27;m somewhat embarrassed to admit that I got there by telling Claude to &amp;quot;Make it a LOT more fun&amp;quot;. It also supports multiplayer between nearby devices using audio to synchronize game state! Here&amp;#x27;s…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</title>
-      <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</guid>
-      <pubDate>Tue, 20 Oct 2026 18:38:24 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT now lets you lock your chats</title>
-      <link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</guid>
-      <pubDate>Tue, 20 Oct 2026 18:36:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
-      <pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta pauses Muse sharing after researchers find AI chats on the web</title>
-      <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</guid>
-      <pubDate>Tue, 20 Oct 2026 18:07:34 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
