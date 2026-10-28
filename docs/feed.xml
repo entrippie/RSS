@@ -5,9 +5,59 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:45:13 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pairing industrial AI autonomy and human control</title>
+      <link>https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Voters in Texas agree: They hate data centers</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ask Texas NAACP president Gary Bledsoe what it&amp;#x27;s been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There&amp;#x27;s the fight in Taylor over plans to build a data center at a site that&amp;#x27;s supposed to be a park. […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta quietly launched an ‘AI pet journal’ app</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</guid>
+      <pubDate>Wed, 28 Oct 2026 11:27:30 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta has launched a &amp;quot;tamagotchi-style&amp;quot; pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the &amp;quot;16-bit pet care game&amp;quot; is not really a game, but &amp;quot;a daily journal disguised as a pet.&amp;quot; Users should talk, not type, with […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Terk Terkowitz</title>
+      <link>https://simonwillison.net/2026/Oct/28/terk-terkowitz/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/terk-terkowitz/</guid>
+      <pubDate>Wed, 28 Oct 2026 10:09:07 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legora is building the agentic operating system for legal work</title>
+      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+      <guid isPermaLink="true">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+      <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>KORA: Deterministic-First Execution Control for AI Workloads</title>
       <link>https://arxiv.org/abs/2610.35869</link>
@@ -2807,46 +2857,6 @@
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
       <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI models are coming to Google Cloud</title>
-      <link>https://openai.com/index/openai-models-google-cloud</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
-      <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
-      <pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
-      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-      <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
-      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-      <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
