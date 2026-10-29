@@ -5,9 +5,169 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:42:19 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
+      <link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</guid>
+      <pubDate>Thu, 29 Oct 2026 20:08:31 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rivian expands joint venture with VW to include AI assistant</title>
+      <link>https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</guid>
+      <pubDate>Thu, 29 Oct 2026 20:05:47 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Rivian doesn&amp;#x27;t disclose if the value of its $5.8 billion joint venture will expand as a result.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI-backed Thrive Holdings acquires ADT</title>
+      <link>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:56:19 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft Research Focus – Edition #97</title>
+      <link>https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:19:16 +0000</pubDate>
+      <dc:creator>Microsoft Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research .&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta quietly launches an AI fashion app called Style Sketch</title>
+      <link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:14:36 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>You can generate and edit Google Docs files directly in Gemini chats now</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</guid>
+      <pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granola crunches up a dictation feature to compete with Wispr</title>
+      <link>https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:54:38 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a multiplayer game world with autonomous Fable-class models</title>
+      <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;How I Built the Most AI-Pilled Company in the World Don&amp;#x27;t be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what&amp;#x27;s possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</title>
+      <link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can&amp;#x27;t.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft’s AI future has fewer jobs</title>
+      <link>https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</guid>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft&amp;#x27;s workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The NYT Cooking app is testing AI recipe modifications</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</guid>
+      <pubDate>Thu, 29 Oct 2026 14:39:37 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Ben Hylak</title>
+      <link>https://simonwillison.net/2026/Oct/29/ben-hylak/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/ben-hylak/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:06:27 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we&amp;#x27;re special that way. — Ben Hylak Tags: model-context-protocol , ai&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic is asking Wall Street to believe in AGI</title>
+      <link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granite Switch 4.1.1 — Update models like you update software</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
+      <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic’s business plan: Build God or die trying</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it&amp;#x27;s in the business of selling IT […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>We urgently need to monitor AI agents’ actions in real time</title>
       <link>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</link>
@@ -29,9 +189,49 @@
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]&lt;/p&gt;</description>
     </item>
     <item>
+      <title>How we detect frontier model misalignment</title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+      <guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ropes &amp;amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
       <link>https://huggingface.co/blog/anydecisionmodel</link>
       <guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
+      <link>https://huggingface.co/blog/announcing-project-protostar</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/announcing-project-protostar</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+      <link>https://huggingface.co/blog/mistral-large4</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/mistral-large4</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <dc:creator>Hugging Face</dc:creator>
       <category>Research labs</category>
@@ -2157,336 +2357,6 @@
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
       <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-      <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
-      <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</guid>
-      <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Canva’s first AI image model plans designs before generating them</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</guid>
-      <pubDate>Thu, 22 Oct 2026 21:51:25 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for &amp;quot;greater precision, consistency and control,&amp;quot; according to an […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Designing an AI serving harness built to last</title>
-      <link>https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/</guid>
-      <pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s AI could still scrape news sites, legal experts say</title>
-      <link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</guid>
-      <pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren&amp;#x27;t enough to address their concerns. &amp;quot;This does nothing to restrict the &amp;#x27;associated with your products or services&amp;#x27; [language] that would let Meta scrape […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta turns Muse sharing back on</title>
-      <link>https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</guid>
-      <pubDate>Thu, 22 Oct 2026 20:24:04 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company&amp;#x27;s internal revenue review and a small business owner&amp;#x27;s loan application. Researchers at Claroc reported earlier this week that Muse the web […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sure, let’s smoosh SpaceX and Tesla together, who cares</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</guid>
-      <pubDate>Thu, 22 Oct 2026 19:45:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Oh sure, SpaceX&amp;#x27;s credit risk is pretty high because it&amp;#x27;s about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DE STAAT - FREEDOM (Official Music Video)</title>
-      <link>https://simonwillison.net/2026/Oct/22/de-staat-freedom/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/de-staat-freedom/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:42:26 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai , pelican-riding-a-bicycle&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
-      <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:07:09 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The new feature allows agents to log into a customer&amp;#x27;s personal accounts while still protecting the private credentials that secure those accounts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Build more responsive apps with the Decisions API</title>
-      <link>https://openai.com/index/decisions-api</link>
-      <guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Fast, focused, low-cost decisions for any application.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Canva releases its first image generation model</title>
-      <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-      <link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is launching its decision model to the world. Can it compete with the original Jev?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Discord now formats Markdown previews right</title>
-      <link>https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels</guid>
-      <pubDate>Thu, 22 Oct 2026 18:58:19 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Discord&amp;#x27;s latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with &amp;quot;a bunch of symbols,&amp;quot; according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Foundations of Scalable AI</title>
-      <link>https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/</guid>
-      <pubDate>Thu, 22 Oct 2026 18:48:04 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
-      <link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</guid>
-      <pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>In Meta’s version of the future, I’ll have my Muse call your Muse</title>
-      <link>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</guid>
-      <pubDate>Thu, 22 Oct 2026 18:15:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people&amp;#x27;s AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Donating Agent Skills to the Agentic AI Foundation</title>
-      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/donating-agent-skills/</guid>
-      <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I&amp;#x27;m pleased to note I…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft says its AI tool is better than doctors at diagnosing conditions</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</guid>
-      <pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now &amp;quot;it is finally here,&amp;quot; Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
-      <link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</guid>
-      <pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft points the blame for ConnectWise&amp;#x27;s breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’</title>
-      <link>https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion</link>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion</guid>
-      <pubDate>Thu, 22 Oct 2026 16:16:15 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It&amp;#x27;s a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
-      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
-      <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flint-interactive: A language for creating interactive data visualizations</title>
-      <link>https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/</link>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/</guid>
-      <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-      <dc:creator>Microsoft Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research .&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Uber puts all 30,000 employees on ChatGPT Work</title>
-      <link>https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/</guid>
-      <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic, and Nvidia had record lobbying quarters</title>
-      <link>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</guid>
-      <pubDate>Thu, 22 Oct 2026 15:50:30 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic&amp;#x27;s $2.1 million and OpenAI&amp;#x27;s $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Armin Ronacher</title>
-      <link>https://simonwillison.net/2026/Oct/22/armin-ronacher/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/armin-ronacher/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:34:13 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PHP: The three little letters wreaking havoc across the web</title>
-      <link>https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down</guid>
-      <pubDate>Thu, 22 Oct 2026 15:12:27 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spotify’s current AI bet is about being the music service that agents choose</title>
-      <link>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:03:58 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Beyond tree cover: mapping the world’s forest types</title>
-      <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
-      <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A global map categorizing every 10-meter patch of land on Earth into distinct forest types.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption</title>
-      <link>https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation</guid>
-      <pubDate>Thu, 22 Oct 2026 14:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Duet app is Anthropic’s bet on agents</title>
-      <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</guid>
-      <pubDate>Thu, 22 Oct 2026 13:53:26 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Claude Duet is available through waitlist for Pro and Max plan users.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nirva raises $33M for a pendant that only listens to you</title>
-      <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</guid>
-      <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nirva will ship its $249 ambient AI pendant by the end of the year.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek reportedly raises $15B days after US restrictions</title>
-      <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</guid>
-      <pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;DeepSeek has reportedly raised $15 billion in one of China&amp;#x27;s largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1Password lets AI agents use your passwords without seeing them</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in</guid>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn&amp;#x27;t give bots free reign to access all of your connected accounts - you&amp;#x27;ll still need to grant approval for sign-in requests - but should make it […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
