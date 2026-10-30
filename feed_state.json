@@ -1,5 +1,293 @@
 [
  {
+  "title": "Maine’s data center revolt will decide who controls the Senate",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+  "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1793358000
+ },
+ {
+  "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+  "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+  "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1793350800
+ },
+ {
+  "title": "Moment-Guided Optimizers for Noisy Deep Learning: MGO-SC as a Simple Consistency Gate for Adam-Style Updates",
+  "link": "https://arxiv.org/abs/2610.37712",
+  "summary": "Adaptive optimizers are widely used in deep learning, yet their behavior can degrade under heavy stochasticity and label noise where the sign and magnitude of gradients can be unstable. We study MGO-SC (Moment-Guided Optimizer with Sign-Consistency), a lightweight modification of Adam-style methods that derives a coordinate-wise consistency gate from the magnitude of a sign exponential moving…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "What a Weight Update Buys: Leverage Across Training Stages",
+  "link": "https://arxiv.org/abs/2610.37719",
+  "summary": "Post-training moves a language model's weights by about a thousandth of their norm and changes its behavior sharply; pretraining moves them by a third and buys a slow drift. We introduce leverage, an exact measure of what a unit of weight change buys: the Fisher quadratic form of an update, computed with one forward-mode pass per direction, divided by the same form for random directions of the…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Threshold Compatibility and Support-Selection Diagnostics in Neural Discovery of Partial Differential Equations",
+  "link": "https://arxiv.org/abs/2610.37726",
+  "summary": "Accurate regression need not yield the correct equation after support selection. For a median/sample-standard-deviation threshold in neural PDE discovery, we derive an exact two-signal retention boundary and a complete-vector perturbation bound. Exact advection-diffusion libraries lose diffusion despite coefficient recovery to numerical precision. True-support refits of forty saved sparse states…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning",
+  "link": "https://arxiv.org/abs/2610.37727",
+  "summary": "In machine learning, symbolic reasoning approaches often rely on static architectures that hinder integration into deep neural networks and gradient-based optimization. To address this, we introduce the Native Predicate Neuron, a differentiable logic-reasoning neural module that enriches standard architectures with symbolic reasoning capabilities via first-order logic quantization. The proposed…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Selective Transfer Learning for Groundwater Level Anomaly Forecasting: Accuracy-Risk Trade-offs",
+  "link": "https://arxiv.org/abs/2610.37733",
+  "summary": "This work studies context-aware selective transfer learning for multi-well groundwater anomaly forecasting in the Netherlands. Source-domain pretraining can raise average accuracy but is not uniformly reliable: it degrades performance on a substantial fraction of heterogeneous wells. Context-Aware Selective Learning (CASL) uses calibration-trained, constrained contextual blending of frozen…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Anisotropic Trust Region Warping for Prior-Data Fitted Networks in Bayesian Optimisation",
+  "link": "https://arxiv.org/abs/2610.37737",
+  "summary": "Prior-Data Fitted Networks (PFNs) replace the hyperparameter refitting of Gaussian Process (GP) surrogates in Bayesian optimisation with a single forward pass, at the cost of a prior that is fixed at meta-training time. We show empirically that a PFN's predictive log-likelihood falls increasingly behind that of a refitted GP as the objective function's lengthscale grows beyond the mode of the…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Spokes, not a Ring: Revisiting the Weekday Manifold in Language Models",
+  "link": "https://arxiv.org/abs/2610.37796",
+  "summary": "Recent work has hypothesised that large language models may represent some concepts as multi-dimensional manifolds instead of single directions. Using these manifolds to interpret or steer representations often assumes that moving along them corresponds to a continuous change in the represented concept. In this work, we test this continuous manifold assumption on the prototypical weekday…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+  "link": "https://arxiv.org/abs/2610.37819",
+  "summary": "Quantum machine learning (QML) is increasingly explored for medical classification, yet its behaviour under subgroup-aware fairness criteria remains understudied. We present an empirical fairness audit of classical and quantum classifiers for medical imaging, assuming QML is not inherently fair. Two scenarios are evaluated: dermatological lesions on DDI (sensitive attribute: Fitzpatrick skin…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Learning Without Clocks: Partition-Invariant Neural Network",
+  "link": "https://arxiv.org/abs/2610.37823",
+  "summary": "Event cameras, spiking cochleas and similar sensors emit asynchronous events, yet most learning systems first bin them into frames or packets, so the output depends on how the stream was sliced. Networks whose state is updated exactly at every event and evolves in closed form between events are invariant to this slicing. We ask what more makes the output (i) independent of the processing order of…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "Learning Lotteries with Minimal Stakeholder Violations from Membership Queries",
+  "link": "https://arxiv.org/abs/2610.37828",
+  "summary": "An AI developer often has several candidate versions of a system and can deploy a mixture of them, sending each request to a randomly chosen version, as in A/B testing. Each stakeholder (e.g., a safety team, a regulator, or a customer with private test data) accepts a mixture exactly when its expected performance (e.g., its rate of harmful replies) meets the stakeholder's own standard, which the…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793332800
+ },
+ {
+  "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+  "link": "https://arxiv.org/abs/2610.37720",
+  "summary": "Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert copies compete with token-related buffers for limited GPU memory. We present LRMoE, a memory-aware MoE training system that jointly recalibrates…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+  "link": "https://arxiv.org/abs/2610.37731",
+  "summary": "Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of localized posteriors by weighting observation likelihoods according to their proximity to a target context. Gaussian localization…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+  "link": "https://arxiv.org/abs/2610.37732",
+  "summary": "Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting, and date comparison. Letting the model think first fixes most of these errors, but costs seconds per decision instead of…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+  "link": "https://arxiv.org/abs/2610.37739",
+  "summary": "Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+  "link": "https://arxiv.org/abs/2610.37786",
+  "summary": "Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-and-replay preserves observations, with interaction coverage constrained by captured content and replay capabilities. We present WebAnything, a fully…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+  "link": "https://arxiv.org/abs/2610.37809",
+  "summary": "LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: it can miss errors, and it can flag correct answers and push the agent into \"fixing\" them. Whether a curated ontology is worth its cost as such a judge, and how it…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+  "link": "https://arxiv.org/abs/2610.37830",
+  "summary": "AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain and cannot be fixed once deployed. We ask how to check whether an AI-written contract behaves as it should, and where the requested behavior gets…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+  "link": "https://arxiv.org/abs/2610.37849",
+  "summary": "AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact wording of a message, whereas an uninvolved agent placed in its seat does not. Partner--Outsider Positive Listening (PoPLi) is the difference between the two agents in how…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+  "link": "https://arxiv.org/abs/2610.37851",
+  "summary": "Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introduce LibStructBench, a document-grounded benchmark for reconstructing sequencing-library structures and molecular workflows. Our experiments show that…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+  "link": "https://arxiv.org/abs/2610.37859",
+  "summary": "Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of operation in modern agentic workflows. However, the community primarily ranks models by metrics such as Pass@1 or Pass@K, which cannot capture how they…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793332800
+ },
+ {
+  "title": "The FlightFinder Occurrence Corpus: harmonising 128 aviation-safety source codes into one deduplicated cross-national accident dataset",
+  "link": "https://arxiv.org/abs/2610.37671",
+  "summary": "National aviation-investigation databases are deep but territorial; global compilations such as the Aviation Safety Network and the Bureau of Aircraft Accidents Archives are hand-curated, apply their own inclusion thresholds, and publish no per-record lineage. The FlightFinder Occurrence Corpus harmonizes 279,485 occurrences and 131,882 attached narratives from 128 source codes -- national…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "Scoring Explanations Without Reading Them: Structural Shortcuts in Automated-Interpretability Evaluation Data",
+  "link": "https://arxiv.org/abs/2610.37676",
+  "summary": "Automated interpretability scores an explanation of a sparse-autoencoder (SAE) feature by asking a model to predict, token by token, where the feature fires on evaluation examples or to judge whether marked tokens fit it. We find that the evaluation data standard pipelines build can be scored without reading the explanation. On Neuronpedia's stored fuzzing runs for 500 random GPT-2 small…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "The Best Second Opinion Is Right Where the Primary Is Wrong: Partner Selection for Selective Span Tagging",
+  "link": "https://arxiv.org/abs/2610.37678",
+  "summary": "A span tagger that ranks its outputs by risk can defer the riskiest ones to a person, and a second model can sharpen this ranking. Which second model should it be? Partner selection is conditional, not global: the best second opinion is the model that is right where the primary is wrong. Across eight tagger types, three seeds and three English benchmarks (576 evaluated primary-partner pairings),…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "Exposure Is Not Commitment: Double-Stratified Evaluation of Latent Monitors for Tool-Using Agents",
+  "link": "https://arxiv.org/abs/2610.37679",
+  "summary": "Tool-using language agents are vulnerable to indirect prompt injection, and a growing literature probes model internals to catch unsafe actions before they execute, with sharply conflicting results. We argue much of the conflict is an evaluation artifact, and propose a double-stratification protocol: separate injection exposure from behavioral commitment, in both the evaluation and the training…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
+  "link": "https://arxiv.org/abs/2610.37680",
+  "summary": "Closing the gap between frontier and smaller language models is usually approached by distillation: fine-tuning the small model (student) on a frontier model's (teacher) outputs, which binds transfer to training compute and leaves the transferred knowledge largely opaque. We propose Artifact Distillation: a teacher solves training instances and externalizes its problem-solving procedure into an…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "Supervised Fine-Tuning for Reasoning Large Language Models: A Survey",
+  "link": "https://arxiv.org/abs/2610.37681",
+  "summary": "Large reasoning models have recently demonstrated remarkable capabilities in solving complex tasks, where supervised fine-tuning (SFT) on long chain-of-thought data serves as a crucial foundation for eliciting and enhancing their reasoning abilities. Despite rapid progress in both improving and analyzing reasoning-oriented SFT, the field still lacks a systematic survey that consolidates its…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment",
+  "link": "https://arxiv.org/abs/2610.37682",
+  "summary": "Listwise preference feedback offers richer supervision for large language model (LLMs) alignment than pairwise comparisons, but a full ranking also reveals more sensitive user preferences. Existing privacy-preserving alignment methods focus mainly on pairwise feedback, while listwise alignment under local differential privacy (LDP) remains unexplored. Extending LDP to this listwise domain raises…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "Prompt-agnostic Language Models",
+  "link": "https://arxiv.org/abs/2610.37683",
+  "summary": "Despite their strong performance, large language models remain highly sensitive to prompt formulation. This issue is typically addressed at inference-time through manual prompt optimization, which introduces overhead and lacks scalability. Conversely, we focus on train-time approaches that build prompt robustness into the model during instruction tuning. A common strategy is to mix multiple…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "An Introduction to Large Language Models for Scientists and Professionals",
+  "link": "https://arxiv.org/abs/2610.37684",
+  "summary": "Large Language Models (LLMs) have rapidly become important tools for science, education, medicine, and professional work. Despite their apparent simplicity from the user's perspective, effective and responsible use requires an understanding of how these systems work, what their limitations are, and how their outputs should be evaluated. I wrote this document as a basis for my lecture on LLM in…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
+  "title": "From Geometry to Behavior: How Instruction Exposure Unlocks Latent Rhetorical Directions in LLMs",
+  "link": "https://arxiv.org/abs/2610.37685",
+  "summary": "Language models do not merely memorize facts; they absorb rhetorical strategies from pretraining data, including the human tendency to reason by analogy. We ask: is this absorbed capability geometrically accessible before any instruction tuning, and what determines whether it can be activated at inference time? We extract an \"Analogy Vector\" from the residual stream via difference-in-means and…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793332800
+ },
+ {
   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
@@ -1816,23 +2104,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1792766861
- },
- {
-  "title": "Retro gaming is being overrun with AI",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-  "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1792756800
- },
- {
-  "title": "Securing our frontier model training environment",
-  "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-  "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1792749600
  }
 ]
