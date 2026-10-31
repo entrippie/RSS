@@ -2158,14 +2158,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1792850400
- },
- {
-  "title": "Build Your Own Reasoning Model: A Full Video Course",
-  "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-  "summary": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
-  "source": "Ahead of AI (Sebastian Raschka)",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://magazine.sebastianraschka.com/feed",
-  "ts": 1792840472
  }
 ]

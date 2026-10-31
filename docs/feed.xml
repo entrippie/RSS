@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 05:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:18:19 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -2407,16 +2407,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Build Your Own Reasoning Model: A Full Video Course</title>
-      <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
-      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/building-reasoning-models</guid>
-      <pubDate>Sat, 24 Oct 2026 11:14:32 +0000</pubDate>
-      <dc:creator>Ahead of AI (Sebastian Raschka)</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://magazine.sebastianraschka.com/feed">Ahead of AI (Sebastian Raschka)</source>
-      <description>&lt;p&gt;&lt;em&gt;Ahead of AI (Sebastian Raschka) · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
