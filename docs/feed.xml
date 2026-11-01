@@ -5,9 +5,39 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:58:30 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
+      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</guid>
+      <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Data centers are deeply unpopular. But what if we called them something else?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
+      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:58 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we discuss why tech CEO statements can seem so tone deaf.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Kyle Kingsbury</title>
+      <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</guid>
+      <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation?…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How We Took Over ChatGPT Accounts</title>
       <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
@@ -2357,56 +2387,6 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</guid>
-      <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The footage looks okay, as long as you&amp;#x27;re not seeking artistry, inspiration, or human interest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
-      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</guid>
-      <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.&amp;quot;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Seam Cutter</title>
-      <link>https://simonwillison.net/2026/Oct/25/seam-cutter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/25/seam-cutter/</guid>
-      <pubDate>Sun, 25 Oct 2026 15:10:19 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The hottest AI wearables and gadgets you should know about</title>
-      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</guid>
-      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>r/opensource just banned AI, non-English speakers, and more</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</guid>
-      <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, &amp;quot;If your project uses AI, is made by AI, or is intended for AI, it&amp;#x27;s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
