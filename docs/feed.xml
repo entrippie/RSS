@@ -5,9 +5,419 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 00:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:04:50 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase</title>
+      <link>https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/</guid>
+      <pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How “reverse game theory” could keep AI agents in check</title>
+      <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</guid>
+      <pubDate>Tue, 03 Nov 2026 10:43:41 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heimstaden is changing residential real estate management with AI</title>
+      <link>https://openai.com/index/heimstaden</link>
+      <guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple Watch’s AI features for rewinding and recapping conversations begin beta testing</title>
+      <link>https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/</guid>
+      <pubDate>Tue, 03 Nov 2026 07:20:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Now in beta: Apple&amp;#x27;s new Audio Intelligence features can help you remember what someone said or take notes on conversations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I discovered a sound that leaks your exact location (and it's everywhere) - YouTube</title>
+      <link>https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/</guid>
+      <pubDate>Tue, 03 Nov 2026 05:32:25 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I discovered a sound that leaks your exact location (and it&amp;#x27;s everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>October sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Nov/3/october-newsletter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/october-newsletter/</guid>
+      <pubDate>Tue, 03 Nov 2026 05:28:59 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I&amp;#x27;m using right now My software releases My September newsletter can now be seen here ,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Output-Aware Block Influence: Jacobian-Lens Weighting for Depth Pruning</title>
+      <link>https://arxiv.org/abs/2611.00015</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00015</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Depth pruning removes entire transformer blocks and therefore depends on a reliable criterion for identifying which blocks can be removed. Block Influence (BI) ranks blocks by how minimally they rotate the hidden state. However, local redundancy does not necessarily imply downstream irrelevance. We address this limitation using the Jacobian Lens (J-Lens) neural artifact, a map transporting…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FB-MOAC: A Reinforcement Learning Algorithm for Forward-Backward Markov Decision Processes</title>
+      <link>https://arxiv.org/abs/2611.00130</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00130</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reinforcement learning (RL) algorithms are effective in solving problems that can be modeled as Markov decision processes (MDPs). These algorithms primarily target forward MDPs whose dynamics evolve over time from an initial state. However, several important problems in different scenarios including stochastic control and network systems exhibit both a forward and a backward dynamics. As a…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interpretable structural temperature scaling for calibrating graph neural networks and point-cloud segmentation</title>
+      <link>https://arxiv.org/abs/2611.00175</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00175</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Graph-aware calibrators make graph neural networks (GNNs) more trustworthy by predicting a temperature for each node, usually with auxiliary networks whose decisions are hard to inspect. We propose Interpretable Structural Temperature Scaling (ISTS), a twelve-parameter linear model that sets each node&amp;#x27;s temperature from named descriptors of its confidence, neighbourhood and closeness to labelled…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ProLand: A New Infeasible Manifold Optimization Method for LoRA Fine-Tuning</title>
+      <link>https://arxiv.org/abs/2611.00236</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00236</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Low-rank adaptation (LoRA) enables parameter-efficient fine-tuning but can suffer from redundant basis directions. Constraining the basis factor to the Stiefel manifold addresses this redundancy through orthonormality. Landing methods allow temporarily infeasible iterates to explore a neighborhood of the manifold while progressively restoring orthogonality without per-step retractions. To improve…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IsoAlign: Isoform-Aware DNA-Protein Alignment via Joint-Embedding Predictive Architectures</title>
+      <link>https://arxiv.org/abs/2611.00241</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00241</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Genomic foundation models (GFMs) have emerged as a powerful paradigm for learning DNA sequence representations, yet existing self-supervised pretraining strategies overlook alternative splicing and underperform compared to specialized models. To address this gap, we introduce IsoAlign, a multimodal framework that grounds genomic pretraining in isoform-aware DNA-protein alignment to learn…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure</title>
+      <link>https://arxiv.org/abs/2611.00264</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00264</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Concept erasure is a prominent approach to achieving fairness in machine learning through the removal of sensitive attributes from learned representations. Prior concept erasure methods typically define debiasing indirectly through the failure of a chosen adversary, probe, or fairness penalty, which makes the target of erasure dependent on a particular decoder family or optimization setup. We…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DELBERT-2: Pretrained Fingerprint Language Models for DEL Protein Binder Prediction</title>
+      <link>https://arxiv.org/abs/2611.00281</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00281</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We present DELBERT-2, a pretrained fingerprint language model that converts sparse molecular fingerprints into unified token sequences using a ModernBERT encoder trained with masked language modelling on 2.5M molecules from the AIRCHECK DEL corpus. We evaluate across six targets (WDR91, WDR12, SETDB1, PLCZ1, LRRK2, DCAF7) under three out-of-distribution (OOD) protocols: hierarchical cluster…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OCELOT: Planetary-Scale Species Distribution Modeling with Satellite Foundation Embeddings</title>
+      <link>https://arxiv.org/abs/2611.00284</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00284</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Large-scale repositories of species observations now contain billions of occurrence records from around the world, but these sightings cluster heavily in human-accessible areas. Existing models use only a small fraction of these records and are not evaluated on extrapolating to remote, unvisited regions--where species distribution models can be used as geographic priors to help classify data from…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantization of Large Models with Weight Outliers and Sparsity</title>
+      <link>https://arxiv.org/abs/2611.00286</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00286</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Post-training quantization (PTQ) reduces the memory burden of large model deployment by casting the high precision trained weights to fewer bits. While this promotes memory-efficient inference, it also incurs quantization error that impairs model performance. To compensate for quantization error, the present contribution decomposes the original trained weights into a quantized matrix, a low-rank…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Framework for Task-Agnostic Counterfactual Fairness in Transformers through Activation Steering</title>
+      <link>https://arxiv.org/abs/2611.00298</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00298</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bias in transformer-based models is a growing concern as these architectures become more prevalent in automated decision-making systems, such as prediction models for hiring, lending, and clinical treatment recommendation. Mechanistic interpretability (MI) is a growing body of work that measures meaningful causal effects of activations on model output by identifying human-interpretable features…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability</title>
+      <link>https://arxiv.org/abs/2611.00159</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00159</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Fuzzy clustering provides a robust framework for handling ambiguous and overlapping data boundaries, yet its traditional formulation generates entirely dense membership assignments that limit noise resilience and prevent estimating the true number of clusters, when it is unknown. To address these limitations, we introduce in this paper the Generalized Sparse Fuzzy Clustering (GSFC) framework,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning to bid and bundle: a posterior-sampling agent for online retail</title>
+      <link>https://arxiv.org/abs/2611.00165</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00165</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An online retailer launching a perishable product bids for sponsored-search clicks, discounts a bundle with an always-stocked staple and displays its remaining stock, which raises willingness to pay. It knows neither how clicks respond to its bid nor how strong and dispersed its market is, and learns both over repeated seasons from data its own decisions censor: a zero bid reveals nothing about…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Early Stopping in Large Reasoning Models: A Survey and Empirical Audit of Efficiency and Reliability</title>
+      <link>https://arxiv.org/abs/2611.00166</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00166</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Large reasoning models can improve accuracy by generating longer reasoning traces, but some of this computation may be unnecessary. Early-stopping methods aim to stop once enough reasoning is available to answer. Evaluating these methods requires accounting for the cost of deciding when to stop and the reliability of the resulting answer. We evaluate different methods across five reasoning models…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PatchScout: Thematic Web Data Collection via Information Foraging</title>
+      <link>https://arxiv.org/abs/2611.00169</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00169</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Researchers often need web corpora that are not answers to a single query, but reusable collections of documents spanning many decentralized sources. We refer to this problem as thematic web data collection: assembling semantically relevant documents that share a common theme but are scattered across heterogeneous and structurally disconnected regions of the web. Existing approaches, including…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies</title>
+      <link>https://arxiv.org/abs/2611.00171</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00171</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Text-to-SQL systems translate natural language questions into executable SQL queries, democratizing access to relational data. Early approaches relied on handcrafted rules and template matching, while subsequent neural methods introduced encoder-decoder architectures, schema linking, and constrained decoding to handle increasingly complex queries. The emergence of large language models (LLMs),…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation</title>
+      <link>https://arxiv.org/abs/2611.00177</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00177</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Egocentric observations provide a robot-centric view of manipulation processes, capturing contact interactions and object-state changes that are important for visuomotor policy learning but difficult to observe from external cameras. However, collecting such data at scale remains expensive due to additional hardware requirements and platform-specific deployment costs. Synthesizing egocentric…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neurons Are All You Need</title>
+      <link>https://arxiv.org/abs/2611.00186</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00186</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For decades, artificial neural networks have operated under the assumption that durable, learned capability resides exclusively in adaptive synaptic parameters, primarily due to the established neurobiology of synaptic connectivity. This design forces models to remain stateless during deployment, incurring well-known limitations such as catastrophic forgetting and expensive retraining. However,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions</title>
+      <link>https://arxiv.org/abs/2611.00191</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00191</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Existing Graphical User Interface (GUI) benchmarks predominantly rely on precise and stateless user instructions. In everyday usage, however, instructions are often \emph{vague and history-dependent}: users omit the exact details of their past operations because they no longer remember them, leaving the agent to recover the missing context from long and noisy interaction histories. To bridge this…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Cross-Section to Cross-Omics: Conditional Cell Nucleus Image Editing in Spatial Transcriptomics</title>
+      <link>https://arxiv.org/abs/2611.00226</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00226</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Spatial transcriptomics (ST) platforms simultaneously measure gene expression and capture cell nucleus images at single-cell resolution. A fundamental property of tissue preparation introduces a confounding relationship between the two measurement modalities: sectioning a three-dimensional tissue into a thin slice produces a two-dimensional cross-section whose area depends on the cutting angle.…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RE-SciVQA: Improving Scientific VQA With Context-Relevant Retrieval and Lightweight MLLM Adaptation</title>
+      <link>https://arxiv.org/abs/2611.00242</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00242</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A deep understanding of scientific literature often relies on interpreting figures that contain key information beyond the main text. Leveraging Large Language Models (LLMs) to extract insights from these figures can significantly accelerate knowledge discovery. Existing works on Scientific Visual Question Answering rely on resource-intensive training pipelines that are often inaccessible and…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings</title>
+      <link>https://arxiv.org/abs/2611.00172</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00172</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Embedding models underpin virtually every modern AI system, from search engines to recommendation systems. Despite shared mathematical foundations, research on embedding models remains fragmented by modality: the communities develop largely in isolation, seldom exchanging insights. We argue that this fragmentation obscures a deeper convergence. Driven by contrastive learning, Transformer…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MEMENTO: Learning Context Management for Long Context Processing Agents</title>
+      <link>https://arxiv.org/abs/2611.00244</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00244</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window. A common approach is compaction, where the model replaces its history with a self-generated note. Yet off-the-shelf agentic models, including GPT-5.5 and GLM-5.3, often write ineffective notes, and reinforcement learning (RL) alone rarely discovers useful note-taking…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cross-Lingual Persona Effects in LLM Negotiation</title>
+      <link>https://arxiv.org/abs/2611.00300</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00300</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tell an LLM negotiator to be &amp;quot;headstrong&amp;quot; and it should hold firm on price, but does that instruction retain the same behavior in every language? To test this, we use identical buyer and seller instances of Gemini 3.6 Flash to negotiate the same 12 CraigslistBargain scenarios in English and Korean. The pilot-scale 2 x 2 x 3 design crosses interaction language, seller urgency (none or strong), and…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GAVAGAI: Referential Alignment for Infant-Scale Vision-Language Models via Balanced Optimal Transport</title>
+      <link>https://arxiv.org/abs/2611.00319</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00319</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A child learns which words name which things from roughly 100 million words of input. Vision-language models trained at a comparable scale bind words to referents far less reliably, and we argue that part of the gap is structural: the usual next-token captioning objective has no variable standing for &amp;quot;this word refers to that region,&amp;quot; so training applies no direct pressure to ground words. We add…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Queering the Audits: Community-Based Auditing of AI Harms to Queer Communities</title>
+      <link>https://arxiv.org/abs/2611.00345</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00345</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI systems embed majority-group defaults into training data, evaluation metrics, and category definitions, producing documented harms for queer communities including erasure, misclassification, and discrimination. Standard technical audits often rely on aggregate measures and cannot detect harms that be come visible only through the lived experience of affected communities. We conducted a…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cross-Prompt Reuse of Entity-Replacement Responses</title>
+      <link>https://arxiv.org/abs/2611.00352</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00352</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With model weights fixed, we measure how much of an entity-replacement response transfers between English factual questions, beyond whether answers change. We add the hidden-state change from two source questions to a target question about the same entity, comparing the predicted log-probability shift between two relations&amp;#x27; published answers, given known answer prefixes, with the measured one.…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers</title>
+      <link>https://arxiv.org/abs/2611.00359</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00359</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI &amp;quot;humanizers&amp;quot; rewrite machine-generated text so that detectors classify it as human-written. Public leaderboards score evasion and embedding similarity, but not whether checkable details survive. We check whether numbers, dates, person and organization names, and quoted spans survive each rewrite, using a rule-based checker validated by two AI annotators (precision 0.84-1.00, recall 0.93-0.95;…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries</title>
+      <link>https://arxiv.org/abs/2611.00420</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00420</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Attribution graphs, an emerging tool in mechanistic interpretability, use transcoders to decompose language model computations into sparse interpretable features connected by causal edges. However, turning a graph into a safety-relevant insight requires hours of manual analysis by experts. We introduce Circuit Oracle, an off-the-shelf LLM equipped with a multi-agent harness and task-specific…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fidelity Collapses with Table Size, Not Turn Count: Delivery Architecture in a Deployed Tool-Using Agent</title>
+      <link>https://arxiv.org/abs/2611.00442</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00442</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When a multi-turn agent delivers a tool&amp;#x27;s structured records into the model&amp;#x27;s context and re-emits them each turn, every turn can corrupt data the tool computed correctly. We measure this in a production award-travel agent: two architectures over identical frozen payloads, lineage-matched prompts and sampling, differing only in delivery architecture. SYNTHESIS feeds full record sets into the…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory</title>
+      <link>https://arxiv.org/abs/2611.00450</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00450</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse without online retrieval. However, training the memory to mimic a retriever rewards accurate independent predictions, which do not necessarily improve…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test</title>
+      <link>https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/</guid>
+      <pubDate>Tue, 03 Nov 2026 04:18:47 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses</title>
+      <link>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/</guid>
+      <pubDate>Tue, 03 Nov 2026 03:30:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s Dreambeans, its latest AI experiment, now supports 13 Indian languages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple may try to increase revenue by doing…something with third-party AI apps</title>
+      <link>https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/</guid>
+      <pubDate>Tue, 03 Nov 2026 01:49:52 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple hinted at ways that it could spur revenue through third-party &amp;quot;opportunities&amp;quot; during its Monday night earnings call.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</title>
+      <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Y Combinator Garry Tan has jokingly admitted that he&amp;#x27;s suffered from &amp;quot;cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transformers Model Integration Contracts</title>
+      <link>https://huggingface.co/blog/transformers-mic</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/transformers-mic</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>llm 0.37</title>
       <link>https://simonwillison.net/2026/Nov/2/llm/</link>
@@ -77,6 +487,26 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In an announcement on Monday, OpenAI says it will pilot its &amp;quot;Grid Protectors Program&amp;quot; at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rewarding defenders with bigger bug bounties</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preparing our next security sprint to harden OpenAI</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
@@ -2197,206 +2627,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple is adding an AI chatbot to Pages, Keynote, and Numbers</title>
-      <link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</guid>
-      <pubDate>Tue, 27 Oct 2026 13:50:51 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document&amp;#x27;s context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Japan internet giant GMO says hackers posted stolen customer data</title>
-      <link>https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/</guid>
-      <pubDate>Tue, 27 Oct 2026 13:32:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Japan&amp;#x27;s GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>General Compute raises $100 million Series A, countering the neocloud disaster narrative</title>
-      <link>https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/</guid>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;General Compute is betting on inference chips from outside the Nvidia ecosystem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Opera introduces a new web standard to let users deploy AI locally in their browser</title>
-      <link>https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/</guid>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The new standard, WebAI, is designed to work with a variety of AI models.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Industrial Intelligence: The next growth opportunity for manufacturing</title>
-      <link>https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/</guid>
-      <pubDate>Tue, 27 Oct 2026 11:19:18 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia backs Indian startup helping companies run AI models with fewer GPUs</title>
-      <link>https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data center backlash is uniting America</title>
-      <link>https://www.theverge.com/policy/1019152/data-centers-midterm-elections</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1019152/data-centers-midterm-elections</guid>
-      <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If there&amp;#x27;s one issue that seems to activate all kinds of voters in 2026, it&amp;#x27;s data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
-      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning</title>
-      <link>https://arxiv.org/abs/2610.32997</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.32997</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Automatic Speech Recognition (ASR) models such as OpenAIs Whisper have substantially improved speech recognition quality but remain expensive to fine-tune, especially when large amounts of transcribed audio are available. This makes it challenging for many practitioners to adapt these models to new languages or domains. In this work, we introduce an embedding-based subset selection approach for…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision</title>
-      <link>https://arxiv.org/abs/2610.33001</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33001</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Academic revision presents a governance problem when legitimate writing objectives conflict. Writing-process and social-science research show that revision is recursive and that wording carries epistemic and disciplinary commitments. Those literatures identify important constraints but do not settle which objective should prevail when concision, outlet form or stylistic variation conflicts with…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Entity-Aware Evaluation of OCR Systems for Historical Document Transcription</title>
-      <link>https://arxiv.org/abs/2610.33004</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33004</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Optical Character Recognition (OCR) is essential for digitizing historical archives, yet standard evaluation metrics such as Character Error Rate (CER) do not necessarily reflect whether meaningful information, such as names, dates, and identifiers, is preserved. In this work, we investigate entitylevel analysis of OCR errors as a complementary perspective for evaluating OCR quality in historical…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenESM: Energy-Steered Models Are Scalable Foundation Learners</title>
-      <link>https://arxiv.org/abs/2610.33005</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33005</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Energy-based models have shown promising properties for domain-specific tasks but remain challenging in modeling general-purpose scenarios. To bridge this gap, we design energy-steered models (ESMs) for foundational language modeling. ESMs integrate energy steering and token generation within a single architecture to leverage the energy-guided search to refine token generation. Specifically, ESMs…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Linear-Time Context Compression with State-Space Encoding</title>
-      <link>https://arxiv.org/abs/2610.33006</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33006</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Transformer-based large language models (LLMs) impose substantial computation and memory costs as context sizes increase, motivating methods that compress a context into a shorter representation before inference. Existing soft-prompt compression methods typically use the same Transformer backbone as used in the target model, where producing the compressed representation leads to significant…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Knowledge-Guided LLM for Intent-Driven Service Orchestration in Integrated Terrestrial and Non-Terrestrial 6G Networks</title>
-      <link>https://arxiv.org/abs/2610.33007</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33007</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Natural-language service intents in integrated terrestrial and non-terrestrial (TN/NTN) 6G networks can be incomplete, ambiguous, or inconsistent, making unconstrained LLM generation challenging for reliable network-facing orchestration. This paper proposes a knowledge-guided LLM framework that combines grammar-constrained semantic parsing with a knowledge-graph (KG)-driven clarification loop to…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TraceQuery: learning what to recompute from full-denoising trajectory in diffusion language models</title>
-      <link>https://arxiv.org/abs/2610.33008</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33008</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Diffusion large language models (dLLMs) enable flexible generation through iterative masked denoising, but incur substantial inference cost because token representations are repeatedly recomputed across denoising steps. Existing cache-based methods reduce this cost by reusing intermediate results across denoising steps and recomputing only a subset of positions at each step, chosen either on a…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Recursive Semantic Divergence for LLM Agent Consistency</title>
-      <link>https://arxiv.org/abs/2610.33012</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33012</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Large Language Model (LLM) agents with tool use exhibit inconsistent behavior across independent runs from identical states, calling different tools, producing contradictory outputs, or pursuing divergent strategies. This variability compounds over time and undermines deployment reliability. Existing evaluation metrics primarily measure task correctness via completion-based scores and do not…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Social World Model Evaluation Gap</title>
-      <link>https://arxiv.org/abs/2610.33014</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33014</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A negotiation assistant can reach a good deal without accurately predicting the other person&amp;#x27;s response. We ask whether evaluations of social world models test that prediction directly. We audit 113 works published from 1999 to 2026. 9 primary evaluations measure a real person&amp;#x27;s response to an action selected by the system or experimenter. Only 2 also compare an explicit response forecast with…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory</title>
-      <link>https://arxiv.org/abs/2610.33015</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33015</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Long-term memory enables large language model (LLM) agents to maintain personalized and temporally coherent interactions, but repeated LLM inference for memory admission, extraction, and organization introduces substantial cost and latency. We present SLICE-Mem, a lightweight memory framework that combines salience-guided admission and predicate-centered information extraction. A compact…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
-      <link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</guid>
-      <pubDate>Tue, 27 Oct 2026 02:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else&amp;#x27;s AI agent.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
-      <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</guid>
-      <pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
