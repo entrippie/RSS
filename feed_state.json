@@ -1,5 +1,293 @@
 [
  {
+  "title": "Latent Cluster Separation as a Regularizer for Lifelong Anomaly Detection",
+  "link": "https://arxiv.org/abs/2611.03652",
+  "summary": "Lifelong (continual) anomaly detection systems must learn a sequence of tasks without forgetting how to recognize anomaly types seen earlier -- a property known as backward transfer. A common way to try to improve backward transfer is to reshape a model's internal representation around learnable concept centroids, typically coupled with a new way of scoring anomalies based on distance to those…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Four Extensions of the Universal Law of Robustness: Log-Concave Covariates, Heterogeneous Mixtures, Vector-Valued Predictors, and Markovian Data",
+  "link": "https://arxiv.org/abs/2611.03653",
+  "summary": "Bubeck and Sellke's universal law of robustness says that fitting $n$ noisy samples below the noise level with a class of $p$ real parameters forces a Lipschitz constant of order $\\sqrt{nd/p}$, when the covariate distribution on $\\mathbb{R}^d$ is isoperimetric: smooth interpolation costs a factor $d$ of overparametrization. Its hypotheses are Gaussian-type concentration, a homogeneous covariate…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
+  "link": "https://arxiv.org/abs/2611.03654",
+  "summary": "Cardiac auscultation traditionally detects the presence of a heart murmur, but clinicians further characterize it by timing, shape, pitch, quality, and grade. Most automatic phonocardiogram analysis systems stop at binary detection and do not estimate this richer description. In this work, we formulate automatic murmur characterization as five patient-level classification tasks and compare three…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Mixture of Wide Experts: Sparse Routing for Interpretable Native Coordinates",
+  "link": "https://arxiv.org/abs/2611.03655",
+  "summary": "Language models often spread a concept across many internal dimensions, making their features difficult to interpret. Sparse autoencoders (SAEs) recover clearer features after training. We ask whether models can instead learn interpretable output coordinates directly. We introduce Mixture of Wide Experts (MoWE), a sparse feed-forward layer in which selected experts read the full representation…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Stress-Testing the Robustness of LLM-Based Causal Inference",
+  "link": "https://arxiv.org/abs/2611.03656",
+  "summary": "Why do some of the world's most powerful Artificial Intelligence (AI) systems still struggle to reason about cause and effect? Causal discovery, the ability to discern the underlying drivers of a system, is fundamental to scientific inquiry and has traditionally relied on structured data and statistical methods. Recently, Large Language Models (LLMs) have been explored as an alternative paradigm…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Learning Directional Randers Geometry for Latent-Space Exploration",
+  "link": "https://arxiv.org/abs/2611.03675",
+  "summary": "Deep neural networks extract powerful latent representations from images, enabling fast and efficient downstream analysis. However, these latent spaces lack explicit geometric structure, leading to possibly poor interpolation fidelity and misleading extrapolation. Latent interpolation techniques assume symmetric transition costs which are often not the case for real world data. Their symmetric…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Does the Trust Boundary Hold over Time? A Long-Horizon Benchmark for Receiver-Directed Federated Learning",
+  "link": "https://arxiv.org/abs/2611.03724",
+  "summary": "In receiver-directed federated learning, each site draws a trust boundary. For every source and model component it judges, on its own data, whether the transfer helps (admit), harms (reject) or cannot yet be told (abstain). We ask whether this boundary holds over hundreds of rounds. Our benchmark has a federation of thirteen semi-synthetic sites, an exact oracle for every evaluated transfer,…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Auditing a Model-Hub Benchmark: Data Quality, Training Budgets, and Side Information in HuggingBench",
+  "link": "https://arxiv.org/abs/2611.03727",
+  "summary": "Benchmarks built from model hubs combine interaction data, knowledge graphs (KGs) and resource documentation, but valid files do not ensure that these artifacts describe the same objects. Treating the release as a data product, we audit HuggingBench (SIGIR 2025), a benchmark for recommending Hugging Face resources, through data validation, a replication of its eleven recommendation methods and…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
+  "link": "https://arxiv.org/abs/2611.03734",
+  "summary": "Training a classifier means letting a validation metric decide which model is kept and when training stops. A natural requirement on that metric is superiority: every correctly classified forecast should score better than every incorrectly classified one, however close the underlying probabilities are. Neither the Brier score nor the logarithmic score satisfies this on its own. We show that…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "SSPE: Robust Sequential Staypoint Extraction in Degraded Trajectory Data",
+  "link": "https://arxiv.org/abs/2611.03737",
+  "summary": "Extracting semantically meaningful staypoints from raw trajectory streams is a foundational prerequisite for mobility analytics. However, real-world trajectory data is frequently degraded by severe spatial noise and protracted temporal dropouts. Classic threshold-based extraction methods, such as the widely adopted sliding-window algorithm, are highly sensitive to these anomalies, routinely…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1793768400
+ },
+ {
+  "title": "Alignment Faking Depends on the Value, Not Just the Model",
+  "link": "https://arxiv.org/abs/2611.03650",
+  "summary": "Language models can follow a directive when they believe they are monitored and abandon it when they believe they are not, a pattern termed Alignment Faking. Prior work establishes this for harmful-content objectives and a handful of moral-foundations values, leaving open how it distributes across a wider value space. We argue it is value-dependent: whether compliance survives a change in…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+  "link": "https://arxiv.org/abs/2611.03651",
+  "summary": "Geometric certificates make mathematical claims about specified estimator objects, while robotic action requires a physical transform, a service decision, and timely proof support. We present CARD, a proof-carrying interface that keeps these objects distinct and records how they combine. Its lifted-fiber formulation separates semantic motion from witness repair and characterizes when projected…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+  "link": "https://arxiv.org/abs/2611.03662",
+  "summary": "The Model Context Protocol (MCP) connects large language model agents to external tools and services through official SDKs that implement message validation and session logic. Specification constraints omitted by these SDKs may propagate to downstream applications, highlighting the importance of SDK-level conformance testing. Yet existing MCP conformance tools mainly exercise running endpoints…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
+  "link": "https://arxiv.org/abs/2611.03684",
+  "summary": "Language models serve as the reasoning core of agents for chemistry and materials science, where they must interpret molecular structure before planning syntheses or proposing materials. Yet their outputs show only what they say, not what they know. Given a prompt such as ``The primary functional group in 1-Fluorobutane (CCCCF) is'', a small general-purpose model may answer ``the alkyne group''…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+  "link": "https://arxiv.org/abs/2611.03685",
+  "summary": "Visual agents need to coordinate reasoning and action while their environment evolves during inference. We introduce LOLPlay, a benchmark in native \\emph{League of Legends} with 36 champion-specific tasks spanning resource management, combat, cooperation, and objectives. Agents interact through screenshots and mouse--keyboard actions; automated initialization and 82 executable subgoal checks…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+  "link": "https://arxiv.org/abs/2611.03698",
+  "summary": "Recursive Self-Improvement (RSI) aims to enable AI systems to autonomously build and improve AI systems themselves, including models, harnesses, and underlying infrastructure. Within this broader agenda, a central capability is enabling agents to train and improve base models. However, existing studies on automated model training primarily focused on workflow- or harness-level optimizations,…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
+  "link": "https://arxiv.org/abs/2611.03713",
+  "summary": "Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Physicists call such a trial form an ansatz. Benchmarks for automated equation discovery mostly supply it, by fixing the variables, a library of candidate terms, or a law to be modified. We introduce Unsatz, a benchmark in which…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+  "link": "https://arxiv.org/abs/2611.03721",
+  "summary": "Recent breakthroughs in artificial-intelligence-assisted mathematics show that open-ended machine search can outperform human mathematicians, yet transferring this paradigm to physics requires refactoring the research workflow. We introduce Simjecture, an open-source framework in which language-model agents pursue human-defined physical conjectures. The framework tackles two central challenges in…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
+  "link": "https://arxiv.org/abs/2611.03723",
+  "summary": "Deep Research (DR) systems extend large language models into autonomous agents that decompose complex information needs, iteratively search the web, and synthesize evidence to answer challenging questions. However, their multi-stage execution may introduce robustness risks, as variations in user questions or intermediate search inputs may propagate across research stages and lead to incorrect…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "From Logs to Faults: Reference-Free Fault Localization for Retrieval-Augmented Generation Pipelines",
+  "link": "https://arxiv.org/abs/2611.03725",
+  "summary": "Retrieval-Augmented Generation (RAG) pipelines are widely used for domain-specific question answering, yet locating faults remains manual and time-consuming. Fault localization is challenging because RAG pipelines consist of interdependent stages, where faults can propagate downstream, masking their origin, or remain undetected even when the final answer is correct. Existing evaluation approaches…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1793768400
+ },
+ {
+  "title": "Rethinking Next-Visit Diagnosis Prediction Beyond Aggregate Metrics: Retrieval--Memory Multi-Agent Adjudication",
+  "link": "https://arxiv.org/abs/2611.03826",
+  "summary": "Next-visit diagnosis prediction forecasts the diagnoses documented at a patient's next encounter, turning retrospective electronic health records into prospective clinical prediction. However, conventional aggregate evaluation obscures its multifaceted nature: distributionally, models must handle variable-size diagnosis sets and long-tailed labels; temporally, they must distinguish persistent,…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "A Conditional Mutual Information Analysis of Response Variety in Language Models",
+  "link": "https://arxiv.org/abs/2611.03836",
+  "summary": "Large language models provide a variety of responses at inference (generation) that conventionally depend on a temperature parameter. Using a conditional mutual information approach, a quantitative, entropy based analysis of response variety is given. Three limiting behaviors are defined: arbiter, independent (conditionally) and neutral (deterministic) that span no to maximal mutual information.…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost",
+  "link": "https://arxiv.org/abs/2611.03852",
+  "summary": "Reasoning substantially improves language models' ability to solve difficult problems, but long reasoning traces make these gains expensive. Efficient reasoning should express useful analysis in fewer tokens by reducing repetition and text that adds little value to solving the problem. Progress in proprietary models motivates this goal, yet their hidden scratchpads limit direct study of how it is…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "EvoGroup: A Self-Evolving Harness for Group Agents in Shared Contexts",
+  "link": "https://arxiv.org/abs/2611.03868",
+  "summary": "With the rise of Group Agent such as Claude Tag, agents increasingly serve as digital workers for long-term team collaboration. These agents operate over shared contexts that continuously accumulate through multi-user interactions. However, existing agent memory systems are mainly designed for individual users and struggle to capture group-level knowledge in shared contexts, including group…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "Balancing Chain-of-Thought and Answer Supervision for Small Language Models on Medical Question Answering",
+  "link": "https://arxiv.org/abs/2611.03948",
+  "summary": "Small language models (<=9B parameters) can support local medical question answering (QA) while reducing privacy and latency concerns, but effective fine-tuning remains challenging. This paper compares two chain-of-thought (CoT) supervised fine-tuning methods: Uniform-across-Sequence (UaS), which applies equal loss weighting to the full CoT-and-answer sequence, and Segment-weighted (SwS), which…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use",
+  "link": "https://arxiv.org/abs/2611.03982",
+  "summary": "Enterprises increasingly want LLM agents to automate standard operating procedures over their software stacks -- mapping each step of a procedure to the right call among thousands of internal APIs, without hand-authored step-to-API mappings. The core difficulty is API selection at scale: choosing and composing the correct tools over a long horizon, judged only by whether the overall task…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "FlagRot: Selective Rotation for Low-Bit KV Caches",
+  "link": "https://arxiv.org/abs/2611.03992",
+  "summary": "Long-context inference is bound by the KV cache, which 2-bit codes could shrink about sixfold if their error stays in check. The usual remedy rotates keys before quantizing, assuming rotation always helps. However, we observe that it does not: rotation flattens a spiky piece of a key but can give a flat one a new peak, and both coexist within one key. We therefore propose FlagRot, which stores…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "Whose startup does the AI back? An algorithm audit of reputation and demographic signals in LLM-assisted crowdfunding",
+  "link": "https://arxiv.org/abs/2611.03993",
+  "summary": "Large language model (LLM) assistants increasingly advise backers on which crowdfunding campaigns to support. LLMs have known race and gender problems, and it is unsettled whether they reproduce, erase, or reverse the discrimination documented in entrepreneurial finance. We ask when, and through which decision process, LLM assistants use founders' gender and ethnicity. In a pre-specified…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "Dory1.0-4B: A Looped Normalized-GPT",
+  "link": "https://arxiv.org/abs/2611.03998",
+  "summary": "We introduce Dory1.0-4B, a 4-billion-parameter looped (latent-recurrent) language model with elastic depth: a single checkpoint serves different inference compute budgets. Dory1.0-4B is built on a normalized Transformer (nGPT) backbone with interleaved sliding-window and full-attention layers, organized into an input block, a shared recurrent block, and an output block. At inference, the…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "Language Model Augmented Decision Transformer for Multi-Task Offline Reinforcement Learning",
+  "link": "https://arxiv.org/abs/2611.04031",
+  "summary": "Offline multi-task reinforcement learning (MTRL) aims to learn a unified policy from heterogeneous offline datasets that generalizes across tasks. However, existing offline MTRL methods often struggle with two fundamental issues: severe per-task data scarcity and limited cross-task generalization. In this paper, we propose Language-Model Augmented Decision Transformer (LaMA-DT), a unified…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1793768400
+ },
+ {
+  "title": "The biggest modding site in PC gaming is taking a stance on AI",
+  "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+  "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1793752930
+ },
+ {
+  "title": "Please stop asking me when the AI bubble will pop",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+  "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1793749065
+ },
+ {
   "title": "Anthropic is working on a system to prove AI models’ identity",
   "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
@@ -2104,293 +2392,5 @@
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1793179800
- },
- {
-  "title": "KORA: Deterministic-First Execution Control for AI Workloads",
-  "link": "https://arxiv.org/abs/2610.35869",
-  "summary": "AI applications often invoke a model before they determine whether inference is necessary. That default is useful for ambiguous generative tasks, but it is poorly matched to work that is structured, deterministic, policy-bound, lookup-oriented, or directly verifiable. KORA introduces deterministic-first execution control: a pre-inference control layer that represents requests as task paths,…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under Intervention",
-  "link": "https://arxiv.org/abs/2610.35877",
-  "summary": "Changing a deployment policy can invalidate a world model's uncertainty while leaving the physical transition mechanism and predictor unchanged. For one-step prediction, if source and target laws share the conditional mechanism $P(Y|X)=Q(Y|X)$, then the intervention is identified by the pre-outcome change of measure $w(X)=dQ_X/dP_X$. For policy-controlled dynamics this ratio factors into…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing",
-  "link": "https://arxiv.org/abs/2610.35954",
-  "summary": "Autonomous vertical landing of reusable launch vehicles is a critical yet formidable challenge in aerospace engineering, primarily due to highly nonlinear dynamics, stringent precision require- ments, and inherent environmental uncertainties. While reinforcement learning (RL) has emerged as a promising alternative to traditional model-based control, existing approaches frequently rely on flat…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "ResCom: Activation Residual Compensation for Large Language Model Quantization",
-  "link": "https://arxiv.org/abs/2610.35955",
-  "summary": "Low-bit weight--activation quantization reduces the memory and computation needed to deploy large language models, but activation rounding can still degrade accuracy after calibration. Reconstruction from rounded inputs cannot distinguish activations within the same quantization bin. We propose ResCom, a low-rank correction that uses the activation rounding residual to compensate for the…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "Distributed LLM Inference via Communication-Efficient Speculative Decoding",
-  "link": "https://arxiv.org/abs/2610.35957",
-  "summary": "Distributed speculative decoding has emerged as a promising approach for device--server collaborative large language model (LLM) inference, but its decoding speedup is often limited by the vocabulary-scale communication overhead. In existing distributed speculative decoding methods, exact rejection sampling requires transmitting full token distributions over the LLM vocabulary between the device…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "Exponential Wake-Up Overshoot in Explicit Gaussian Point-Process Filters",
-  "link": "https://arxiv.org/abs/2610.35958",
-  "summary": "When events resume after a long silence, explicit Gaussian point-process filters amplify the first update exponentially in the silence duration. We give the exact distribution of this update and a computable index that predicts when it overshoots. For the explicit (single-scoring-step) filter and its implicit posterior-mode counterpart, we derive second-order silence expansions of the state…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "From Slices to Volumes: Comparing 2D, 2.5D, and 3D Residual Networks for Pulmonary Nodule Malignancy-Risk Classification",
-  "link": "https://arxiv.org/abs/2610.35960",
-  "summary": "Purpose: To compare 2D, 2.5D, and 3D residual networks for pulmonary nodule malignancy-risk classification and evaluate momentum-contrast pretraining, mild augmentation, and exclusion of indeterminate ratings. Methods: A retrospectively prepared LIDC-IDRI cohort contained 2,654 nodules labeled benign, indeterminate, or malignant using median radiologist ratings. Patient-disjoint splits comprised…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "Knowledge distillation across teacher architectures for compact diabetic retinopathy grading",
-  "link": "https://arxiv.org/abs/2610.35961",
-  "summary": "Diabetic retinopathy grading from retinal fundus photographs is important but difficult to deploy on resource-constrained hardware. We conducted a controlled study of offline response-based knowledge distillation for five-class diabetic retinopathy grading on APTOS 2019, comparing ResNet-50, MobileNetV3-Large, and Swin Transformer-Tiny (Swin-T) teachers distilled into a MobileNetV3-Small student.…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "h1: A Taste of the Bitter Lesson in Automated Theorem Proving",
-  "link": "https://arxiv.org/abs/2610.35962",
-  "summary": "While progress in informal mathematics has come largely from scaling the chain-of-thought and agentic reasoning of frontier language models, formal theorem proving has increasingly relied on human-designed workflows around these models, such as planning, decomposition, and orchestrating specialized provers. This raises a bitter-lesson question: can a simple agentic loop that scales test-time…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "Condition-Enhanced Generative Adversarial Network for Aerodynamic Configuration Design of Commercial Aircraft",
-  "link": "https://arxiv.org/abs/2610.35963",
-  "summary": "Generative machine learning provides an end-to-end framework for aerodynamic design optimization by generating diverse aerodynamic configurations conditioned on target performance. However, the generated designs may violate geometric constraints or deviate from the prescribed aerodynamic performance. Therefore, we propose a Condition-Enhanced Generative Adversarial Network (CEGAN) that embeds…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1793160000
- },
- {
-  "title": "Counting the Bandages: On measuring the time that AI saves",
-  "link": "https://arxiv.org/abs/2610.35942",
-  "summary": "I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, and I argue for the latter. The argument has four parts. I define a model-free pair of quantities, time saved and excess escaped defects, and one…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-  "link": "https://arxiv.org/abs/2610.35984",
-  "summary": "Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance. In our work, we propose a comprehensive data generation strategy to overcome these limitations. First, we apply various data generation techniques, including traditional augmentation…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-  "link": "https://arxiv.org/abs/2610.36077",
-  "summary": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-  "link": "https://arxiv.org/abs/2610.36100",
-  "summary": "Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements. We introduce CohortFlow, a steerable agent that represents natural language corrections as localized updates to a structured cohort specification and reconciles them with a persistent execution graph. Explicitly recorded semantic dependencies…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-  "link": "https://arxiv.org/abs/2610.36116",
-  "summary": "As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understanding of the world, pursued in…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-  "link": "https://arxiv.org/abs/2610.36146",
-  "summary": "Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relations even when global text--image similarity remains high. We propose StruPO, a structure-aware prompt editor that uses a calibrated scene graph as a shared representation for policy conditioning and image-grounded supervision.…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-  "link": "https://arxiv.org/abs/2610.36169",
-  "summary": "A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong. Existing methods settle the disagreement with a rule fixed at design time: follow the context, amplify it in proportion to how far it moves the model, or trust the model's memory. Each rule is confidently wrong in some…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-  "link": "https://arxiv.org/abs/2610.36183",
-  "summary": "We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic state, estimated as the lower envelope of observed locomotion times. Rather than modeling space ownership through position density estimation or closed-form physics-based models, we cast TTA as a conditional quantile regression problem,…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-  "link": "https://arxiv.org/abs/2610.36188",
-  "summary": "Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance. However, repository-specific skills must evolve with changing code structures, implementation conventions, and maintenance requirements. Pull requests (PRs) provide a natural source of such knowledge by…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-  "link": "https://arxiv.org/abs/2610.36234",
-  "summary": "Requirements engineering (RE) is foundational to systems engineering (SE), as requirement defects can propagate downstream and adversely affect development outcomes. Although large language models (LLMs) are promising for requirement quality assessment, prior work shows that off-the-shelf models miss a large share of expert-identified defects, perform unevenly across quality criteria, and vary…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1793160000
- },
- {
-  "title": "ReCoPII: A Relation-Grounded Framework for Building Contextual PII Masking Datasets",
-  "link": "https://arxiv.org/abs/2610.35925",
-  "summary": "Training contextual masking systems for personally identifiable information (PII) requires examples distinguishing maskable from preservable mentions of one entity type, but privacy restrictions limit access to real data. Author-based augmentation (SPY) labels mentions unrelated to the author as non-PII, presuming a single data subject and overlooking others. We propose ReCoPII (Relation-grounded…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
-  "link": "https://arxiv.org/abs/2610.36006",
-  "summary": "System One decision models such as Jev answer structured questions in a single forward pass without generating text, offering fast and computationally efficient clinical decision support. We evaluate MedJev, an open System One model that runs locally on a laptop, across ten medical benchmarks spanning medical knowledge, diagnosis, and patient level prediction using MIMIC IV and MIMIC IV ED. We…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence",
-  "link": "https://arxiv.org/abs/2610.36013",
-  "summary": "General-purpose embodied intelligence requires robots to coordinate diverse skills over long horizons, track task progress, and recover from failures. Specialist policies alone do not ensure task-level reliability, while powerful multimodal agents rely on costly reasoning and external experience that compact models struggle to reproduce. We introduce OmniBrain-0, a lightweight unified embodied…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading",
-  "link": "https://arxiv.org/abs/2610.36083",
-  "summary": "Recent advances in Generative AI have substantially improved financial sentiment analysis through post-trained financial large language models (LLMs). However, existing approaches remain confined to predicting the sentiment of each article in isolation and operate as black boxes, which limits contextual understanding and hinders deployment in high-stakes financial decision-making. To this end, we…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "3, 7, 14, 17, 42: Instruction Tuning Installs and Sharpens Number-Choice Heuristics in Language Models",
-  "link": "https://arxiv.org/abs/2610.36178",
-  "summary": "We measure, without sampling error, the probability a language model assigns to each integer from 1 to N when asked for a random number. For a fixed prompt the model defines one probability vector, which we compute by summing over each integer's scored spellings rather than estimate by sampling, removing the noise that limits earlier studies [1, 4]. We evaluate 18 open-weight model lines at five…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
-  "link": "https://arxiv.org/abs/2610.36184",
-  "summary": "Bengali, spoken by over 230 million people, remains severely under-resourced in spoken language research. Existing open Bengali ASR corpora are confined to short, read or crowd-sourced speech and lack speaker diarization and long-form audio. We present Lipi-Ghor, a large-scale weakly-supervised Bengali speech corpus comprising 885 hours of audio sourced from 998 YouTube videos across 596 unique…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "Frankly Speaking: The Company Election Integrity Keeps in Congressional Communication",
-  "link": "https://arxiv.org/abs/2610.36187",
-  "summary": "Election integrity is a shared commitment in American politics, but Democrats and Republicans in Congress increasingly mean different things by it. Analyzing 10,420 congressional e-newsletters sent from 2010 to 2025, we examine how the two parties invoke election terms such as ``integrity,'' ``security,'' and ``fraud.'' Using diachronic word embeddings, which track semantic change through how…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "LLM Hallucination Detection via Low-rank Multilinear Decomposition",
-  "link": "https://arxiv.org/abs/2610.36191",
-  "summary": "Large language models (LLMs) frequently generate fluent yet factually incorrect responses, raising concerns about their reliability. Recent hallucination detectors increasingly exploit internal representations, but extracting informative signals from high-dimensional hidden states remains challenging. Existing approaches often rely on selected activations or pooling-based compression, potentially…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic from 12M to 1B Parameters",
-  "link": "https://arxiv.org/abs/2610.36230",
-  "summary": "IceBERT, the reference encoder for Icelandic, found that a cleaned web crawl is enough to train a strong model and that starting from a multilingual model can help on some tasks. We revisit both findings with the ModernBERT architecture. We train Icelandic encoders from 12M to 1B parameters on 9B tokens of open data, and rerun IceBERT's benchmarks and five newer tasks for 30 encoders under one…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs",
-  "link": "https://arxiv.org/abs/2610.36353",
-  "summary": "Large language models (LLMs) often answer ambiguous inputs as if they had a single intended meaning. This is problematic because input ambiguity is an upstream source of uncertainty: when a prompt admits multiple valid interpretations, the key question is whether the model should answer directly at all. Existing input uncertainty methods often rely on LLM-generated statements or clarifications,…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1793160000
- },
- {
-  "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-  "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-  "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793150128
- },
- {
-  "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-  "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-  "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793144067
  }
 ]
