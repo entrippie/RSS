@@ -1,5 +1,32 @@
 [
  {
+  "title": "Securing the agentic enterprise with data lineage",
+  "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+  "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1793797200
+ },
+ {
+  "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+  "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+  "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1793797200
+ },
+ {
+  "title": "Google hasn’t figured out how to make AI pay like its search engine",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+  "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1793793600
+ },
+ {
   "title": "Latent Cluster Separation as a Regularizer for Lifelong Anomaly Detection",
   "link": "https://arxiv.org/abs/2611.03652",
   "summary": "Lifelong (continual) anomaly detection systems must learn a sequence of tasks without forgetting how to recognize anomaly types seen earlier -- a property known as backward transfer. A common way to try to improve backward transfer is to reshape a model's internal representation around learnable concept centroids, typically coupled with a new way of scoring anomalies based on distance to those…",
@@ -2311,86 +2338,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1793198640
- },
- {
-  "title": "The October inflection point for vibe game development",
-  "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-  "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1793195715
- },
- {
-  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-  "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-  "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793193300
- },
- {
-  "title": "Pairing industrial AI autonomy and human control",
-  "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-  "summary": "",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1793188800
- },
- {
-  "title": "Voters in Texas agree: They hate data centers",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-  "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793188800
- },
- {
-  "title": "Meta quietly launched an ‘AI pet journal’ app",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-  "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793186850
- },
- {
-  "title": "Quoting Terk Terkowitz",
-  "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-  "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1793182147
- },
- {
-  "title": "The future of the firm",
-  "link": "https://openai.com/index/the-future-of-the-firm",
-  "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793181600
- },
- {
-  "title": "Legora is building the agentic operating system for legal work",
-  "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793179800
- },
- {
-  "title": "Legora is building the agentic operating system for legal work",
-  "link": "https://openai.com/index/legora",
-  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793179800
  }
 ]
