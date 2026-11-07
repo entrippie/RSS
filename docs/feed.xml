@@ -5,9 +5,59 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 05:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:45:30 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
+      <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia&amp;#x27;s CEO.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake</title>
+      <link>https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</guid>
+      <pubDate>Sat, 07 Nov 2026 15:50:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won&amp;#x27;t make my husband complain, &amp;quot;Chicken again?&amp;quot; Yes, I should meal plan more, but I don&amp;#x27;t, so this is where I&amp;#x27;m at. A nightly battle in which the chicken usually wins. Recently, my best […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The US let Nvidia sell chips to an empty office in China</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</guid>
+      <pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company&amp;#x27;s H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, &amp;quot;a hollow gray shell […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI broke the cybersecurity world. What’s next?</title>
+      <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</guid>
+      <pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</guid>
+      <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company&amp;#x27;s models improving roughly twice as quickly as a year ago, with little indication of slowing down. That&amp;#x27;s according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Crusoe sells troubled Wyoming data center project to Google</title>
       <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
@@ -2777,56 +2827,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here&amp;#x27;s a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
-      <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</guid>
-      <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple&amp;#x27;s new CEO defended the company&amp;#x27;s current position in the AI landscape.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
-      <link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</guid>
-      <pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
-      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</guid>
-      <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI reportedly lowers funding target for new round</title>
-      <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</guid>
-      <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI’s latest funding round doesn&amp;#x27;t seem to be living up to expectations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I built an AI Tamagotchi before Meta could</title>
-      <link>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</guid>
-      <pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mark Zuckerberg&amp;#x27;s Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won&amp;#x27;t be buying one, because we have Muse Charm at home. It […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
