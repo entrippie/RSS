@@ -5,9 +5,49 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:58:51 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</title>
+      <link>https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/</guid>
+      <pubDate>Sun, 08 Nov 2026 21:00:11 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In a memo to the company, Huang admitted that he had an affair.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</guid>
+      <pubDate>Sun, 08 Nov 2026 20:22:39 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China&amp;#x27;s Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple is racing to make Siri more agentic</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</guid>
+      <pubDate>Sun, 08 Nov 2026 19:18:19 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bloomberg&amp;#x27;s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI&amp;#x27;s Dots or Meta&amp;#x27;s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it&amp;#x27;s […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elvis and Eminem rights holders are suing Suno</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</guid>
+      <pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley&amp;#x27;s music and the publisher of some of Eminem&amp;#x27;s biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee&amp;#x27;s […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
       <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
@@ -2797,36 +2837,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I&amp;#x27;ve been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I&amp;#x27;m having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don&amp;#x27;t include a uv.lock file, since it&amp;#x27;s rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
-      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</guid>
-      <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Data centers are deeply unpopular. But what if we called them something else?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
-      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</guid>
-      <pubDate>Sun, 01 Nov 2026 20:57:58 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we discuss why tech CEO statements can seem so tone deaf.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Kyle Kingsbury</title>
-      <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</guid>
-      <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation?…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
