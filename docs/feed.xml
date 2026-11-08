@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:55:26 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
+      <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
+      <pubDate>Sat, 07 Nov 2026 23:57:46 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link:…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
+      <link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</guid>
+      <pubDate>Sat, 07 Nov 2026 22:07:22 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Equity, we unpacked what the midterms mean for the tech industry.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
       <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
@@ -2807,26 +2827,6 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation?…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How We Took Over ChatGPT Accounts</title>
-      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
-      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT&amp;#x27;s implementation of the artifacts pattern (OpenAI used to call this &amp;quot;Canvas&amp;quot; but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It&amp;#x27;s important that HTML in these stays tightly sandboxed to avoid untrusted code…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a9</title>
-      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/datasette-llm/</guid>
-      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here&amp;#x27;s a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
