@@ -1,5 +1,86 @@
 [
  {
+  "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+  "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+  "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794240748
+ },
+ {
+  "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+  "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794239438
+ },
+ {
+  "title": "Disney and Adobe are building generative AI tools together",
+  "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+  "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794238736
+ },
+ {
+  "title": "Hold up — I had a great time talking to the RIAA guy",
+  "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+  "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794238200
+ },
+ {
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1794236757
+ },
+ {
+  "title": "Jonathan Kanter is using AI to take on Big Tech",
+  "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+  "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794234600
+ },
+ {
+  "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+  "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+  "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794232800
+ },
+ {
+  "title": "Innovating with AI in the special chemicals industry",
+  "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+  "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster,…",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1794229200
+ },
+ {
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1794227669
+ },
+ {
   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
@@ -2473,104 +2554,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1793637000
- },
- {
-  "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-  "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-  "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793636601
- },
- {
-  "title": "Scaling Git at OpenAI",
-  "link": "https://openai.com/index/scaling-git-at-openai",
-  "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793633400
- },
- {
-  "title": "Introducing the Grid Protectors Program",
-  "link": "https://openai.com/index/grid-protectors-program",
-  "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793631600
- },
- {
-  "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-  "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-  "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793631600
- },
- {
-  "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-  "link": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-  "summary": "What do LLMs think about vision models?",
-  "source": "Import AI",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://importai.substack.com/feed",
-  "ts": 1793629854
- },
- {
-  "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-  "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-  "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793628000
- },
- {
-  "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-  "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-  "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793627873
- },
- {
-  "title": "The U.S. Census Bureau and “Super Intelligence”",
-  "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-  "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1793626286
- },
- {
-  "title": "Stop counting tokens, start counting what ships",
-  "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-  "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1793625032
- },
- {
-  "title": "The agentic web is here",
-  "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-  "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1793612119
- },
- {
-  "title": "LifeVal",
-  "link": "https://openai.com/index/lifeval",
-  "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793610000
  }
 ]
