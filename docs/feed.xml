@@ -5,9 +5,159 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:15:05 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
+      <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</guid>
+      <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents</title>
+      <link>https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/</guid>
+      <pubDate>Tue, 10 Nov 2026 20:52:56 +0000</pubDate>
+      <dc:creator>Microsoft Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, […] The post Lazare, veni foras:…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
+      <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</guid>
+      <pubDate>Tue, 10 Nov 2026 20:52:13 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.36</title>
+      <link>https://simonwillison.net/2026/Nov/10/llm-gemini/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/llm-gemini/</guid>
+      <pubDate>Tue, 10 Nov 2026 20:09:44 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for &amp;quot;a subset of cyber defenders&amp;quot;, but today it&amp;#x27;s available to everyone else . This is Google&amp;#x27;s best ever Gemini, priced at $2/million input and $10/million output at launch (that&amp;#x27;s GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>All 7 Anthropic founders will each cash out about $250M in IPO</title>
+      <link>https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:57:52 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oura to acquire AI-native primary care startup Counsel Health for $625M</title>
+      <link>https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:23:34 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The US is winning the AI race. Jensen Huang could have blown it</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</guid>
+      <pubDate>Tue, 10 Nov 2026 19:04:05 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world&amp;#x27;s most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PSI is trying to make a business out of AI-driven scientific discovery</title>
+      <link>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:03:52 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</title>
+      <link>https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/</guid>
+      <pubDate>Tue, 10 Nov 2026 18:49:52 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT is getting verified AI ‘Business Agents’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</guid>
+      <pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT is going to let you chat with verified &amp;quot;Business Agents&amp;quot; that represent a brand to help you with things like comparison shopping. The feature, available first to &amp;quot;eligible&amp;quot; e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The indie game community is in disarray over AI and Big Walk</title>
+      <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</guid>
+      <pubDate>Tue, 10 Nov 2026 17:32:47 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in &amp;quot;any capacity.&amp;quot; Soon after, the developer of indie hit Big Walk has published a statement saying it &amp;quot;sparingly&amp;quot; used AI in the &amp;quot;final stretch&amp;quot; of the game&amp;#x27;s development to &amp;quot;help work through difficult […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic has its own AI-powered office suite now</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>eBay appears to have shut the door on third-party AI agents</title>
+      <link>https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</guid>
+      <pubDate>Tue, 10 Nov 2026 16:20:30 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;eBay appears to have blocked AI agents, including Meta&amp;#x27;s Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he&amp;#x27;s had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon is now available</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:03:47 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of &amp;quot;cybersecurity defenders&amp;quot; two weeks ago. Google claims Carbon is its &amp;quot;strongest model&amp;quot; yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon &amp;quot;pushes […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly</title>
       <link>https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/</link>
@@ -79,6 +229,16 @@
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Introducing Businesses in ChatGPT</title>
+      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-businesses-chatgpt</guid>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Closing the AI guidance gap in education</title>
       <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
       <guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
@@ -107,6 +267,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work at the Frontier: AI’s effect on freelance work</title>
+      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
+      <guid isPermaLink="true">https://openai.com/index/ai-effect-on-freelance-work</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quoting Prompting Claude Fable 5.2</title>
@@ -449,6 +619,26 @@
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;During Paramount Skydance&amp;#x27;s latest earnings call, CEO David Ellison said &amp;quot;it&amp;#x27;s hard to imagine&amp;quot; AI won&amp;#x27;t have a bigger impact on the film industry than CGI. In response to a question about the company&amp;#x27;s outlook for AI, Ellison said: &amp;quot;I think when you zoom out and look at production, AI really has the potential to […]&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
+      <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/hub-gcp-marketplace</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decision Models in Hugging Face</title>
+      <link>https://huggingface.co/blog/decision</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/decision</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>llm-anthropic 0.31</title>
       <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/llm-anthropic/</guid>
@@ -547,6 +737,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Nvidia CEO also pulled out of an Anthropic event earlier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
+      <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:51:47 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Our most capable vision-language-action model enhances robot dexterity, reliability, and safety&lt;/p&gt;</description>
     </item>
     <item>
       <title>The backlash about data centers might really just be about electricity</title>
@@ -2727,196 +2927,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I&amp;#x27;ll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette-agent 0.5a0</title>
-      <link>https://simonwillison.net/2026/Nov/3/datasette-agent/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/datasette-agent/</guid>
-      <pubDate>Tue, 03 Nov 2026 23:13:45 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app.…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic is working on a system to prove AI models’ identity</title>
-      <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</guid>
-      <pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data centers are turning to old jet engines as the wait for power grows</title>
-      <link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</guid>
-      <pubDate>Tue, 03 Nov 2026 22:19:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
-      <link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</guid>
-      <pubDate>Tue, 03 Nov 2026 21:43:08 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>llm 0.37.1</title>
-      <link>https://simonwillison.net/2026/Nov/3/llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/llm/</guid>
-      <pubDate>Tue, 03 Nov 2026 21:41:42 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
-      <link>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/</guid>
-      <pubDate>Tue, 03 Nov 2026 21:05:55 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Palantir&amp;#x27;s U.S. commercial revenue surpassed U.S. government revenue for the first time ever.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Those Jeff Bezos hair transplant photos are very fake</title>
-      <link>https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</guid>
-      <pubDate>Tue, 03 Nov 2026 21:01:07 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They&amp;#x27;re both famously bald, and that definitely hasn&amp;#x27;t changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple starts giving Siri AI access to third-party apps</title>
-      <link>https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</guid>
-      <pubDate>Tue, 03 Nov 2026 20:16:17 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI&amp;#x27;s new features in &amp;quot;all apps,&amp;quot; allowing the voice assistant to draw on a user&amp;#x27;s personal context, process natural language prompts, and use on-screen awareness to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI inference startup Fal doubles its valuation to $16B as demand surges</title>
-      <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</guid>
-      <pubDate>Tue, 03 Nov 2026 19:34:43 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The five-year-old startup raised a $1.3 billion round led by Bessemer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Netflix’s new AI Discover tab helps you find something to watch based on your mood</title>
-      <link>https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/</guid>
-      <pubDate>Tue, 03 Nov 2026 18:42:16 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The first experimental feature under the tab will allow users to get recommendations based on what they&amp;#x27;re currently in the mood for.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</title>
-      <link>https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</guid>
-      <pubDate>Tue, 03 Nov 2026 18:31:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Starting today, Siri can tune into the Apple Watch&amp;#x27;s mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses &amp;quot;ambient listening&amp;quot; to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI says ChatGPT is catching up to Google in search</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</guid>
-      <pubDate>Tue, 03 Nov 2026 18:30:42 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In many circles, &amp;quot;Ask Chat&amp;quot; has replaced &amp;quot;Google it,&amp;quot; and that&amp;#x27;s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI&amp;#x27;s consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Indie games are missing launch dates because Steam is backed up</title>
-      <link>https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates</guid>
-      <pubDate>Tue, 03 Nov 2026 18:14:50 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</title>
-      <link>https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</link>
-      <guid isPermaLink="true">https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</guid>
-      <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Netflix&amp;#x27;s TV app is getting a new &amp;quot;AI Discover&amp;quot; tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like &amp;quot;Something Light,&amp;quot; &amp;quot;Family Movie Night,&amp;quot; or &amp;quot;Quick Watches.&amp;quot; When you pick a theme, Netflix will show […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>StateBench: Testing how language models track state changes over long documents</title>
-      <link>https://huggingface.co/blog/allenai/statebench</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/statebench</guid>
-      <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Learn the rules: The hacker mindset</title>
-      <link>https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/</link>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/</guid>
-      <pubDate>Tue, 03 Nov 2026 17:14:38 +0000</pubDate>
-      <dc:creator>Microsoft Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://www.microsoft.com/en-us/research/feed/">Microsoft Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Microsoft Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on Microsoft Research .&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agentic cheminformatics with Google Antigravity</title>
-      <link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</guid>
-      <pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Palette: teaching a small model to build decks in your design language</title>
-      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
-      <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
-      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
-      <pubDate>Tue, 03 Nov 2026 16:29:48 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Yesterday&amp;#x27;s hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp;amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a &amp;quot;blog post&amp;quot;, but it&amp;#x27;s paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

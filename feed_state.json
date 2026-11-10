@@ -1,5 +1,140 @@
 [
  {
+  "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+  "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+  "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794344932
+ },
+ {
+  "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+  "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+  "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, […] The post Lazare, veni foras:…",
+  "source": "Microsoft Research",
+  "section": "Research labs",
+  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
+  "ts": 1794343976
+ },
+ {
+  "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+  "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+  "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794343933
+ },
+ {
+  "title": "llm-gemini 0.36",
+  "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+  "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1794341384
+ },
+ {
+  "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+  "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+  "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794340672
+ },
+ {
+  "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+  "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+  "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794338614
+ },
+ {
+  "title": "The US is winning the AI race. Jensen Huang could have blown it",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+  "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794337445
+ },
+ {
+  "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+  "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+  "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794337432
+ },
+ {
+  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+  "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+  "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794336592
+ },
+ {
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+  "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794333600
+ },
+ {
+  "title": "The indie game community is in disarray over AI and Big Walk",
+  "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+  "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794331967
+ },
+ {
+  "title": "Anthropic has its own AI-powered office suite now",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+  "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794331800
+ },
+ {
+  "title": "eBay appears to have shut the door on third-party AI agents",
+  "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+  "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794327630
+ },
+ {
+  "title": "Gemini 4 Carbon is now available",
+  "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+  "summary": "",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1794326627
+ },
+ {
+  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+  "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794326400
+ },
+ {
   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
@@ -63,6 +198,15 @@
   "ts": 1794312000
  },
  {
+  "title": "Introducing Businesses in ChatGPT",
+  "link": "https://openai.com/index/introducing-businesses-chatgpt",
+  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1794304800
+ },
+ {
   "title": "Closing the AI guidance gap in education",
   "link": "https://openai.com/index/closing-ai-guidance-gap-education",
   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
@@ -87,6 +231,15 @@
   "source": "TechCrunch",
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794294000
+ },
+ {
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "link": "https://openai.com/index/ai-effect-on-freelance-work",
+  "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1794294000
  },
  {
@@ -396,6 +549,24 @@
   "ts": 1794270529
  },
  {
+  "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1794268800
+ },
+ {
+  "title": "Decision Models in Hugging Face",
+  "link": "https://huggingface.co/blog/decision",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1794268800
+ },
+ {
   "title": "llm-anthropic 0.31",
   "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate an SVG of a pelican riding a bicycle\" I ran pelicans at all five reasoning levels - low , medium , high ,…",
@@ -484,6 +655,15 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1794254946
+ },
+ {
+  "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+  "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1794253907
  },
  {
   "title": "The backlash about data centers might really just be about electricity",
@@ -2446,176 +2626,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1793749065
- },
- {
-  "title": "datasette-agent 0.5a0",
-  "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-  "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app.…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1793747625
- },
- {
-  "title": "Anthropic is working on a system to prove AI models’ identity",
-  "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-  "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793745663
- },
- {
-  "title": "Data centers are turning to old jet engines as the wait for power grows",
-  "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-  "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793744393
- },
- {
-  "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-  "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-  "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793742188
- },
- {
-  "title": "llm 0.37.1",
-  "link": "https://simonwillison.net/2026/Nov/3/llm/",
-  "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1793742102
- },
- {
-  "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-  "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-  "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793739955
- },
- {
-  "title": "Those Jeff Bezos hair transplant photos are very fake",
-  "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-  "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793739667
- },
- {
-  "title": "Apple starts giving Siri AI access to third-party apps",
-  "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-  "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793736977
- },
- {
-  "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-  "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-  "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793734483
- },
- {
-  "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-  "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-  "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793731336
- },
- {
-  "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-  "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-  "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793730660
- },
- {
-  "title": "OpenAI says ChatGPT is catching up to Google in search",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-  "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793730642
- },
- {
-  "title": "Indie games are missing launch dates because Steam is backed up",
-  "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-  "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793729690
- },
- {
-  "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-  "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-  "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793728800
- },
- {
-  "title": "StateBench: Testing how language models track state changes over long documents",
-  "link": "https://huggingface.co/blog/allenai/statebench",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1793726121
- },
- {
-  "title": "Learn the rules: The hacker mindset",
-  "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-  "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on Microsoft Research .",
-  "source": "Microsoft Research",
-  "section": "Research labs",
-  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
-  "ts": 1793726078
- },
- {
-  "title": "Agentic cheminformatics with Google Antigravity",
-  "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-  "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-  "source": "Google DeepMind",
-  "section": "Research labs",
-  "source_feed": "https://deepmind.google/blog/rss.xml",
-  "ts": 1793725309
- },
- {
-  "title": "Palette: teaching a small model to build decks in your design language",
-  "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1793723736
- },
- {
-  "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-  "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-  "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1793723388
  }
 ]
