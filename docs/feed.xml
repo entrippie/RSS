@@ -5,9 +5,189 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:29:01 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic reportedly plans to move forward with IPO plans</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</guid>
+      <pubDate>Tue, 10 Nov 2026 01:27:12 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The AI company is expected to set its valuation range this week, the Wall Street Journal reported.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</title>
+      <link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</guid>
+      <pubDate>Tue, 10 Nov 2026 00:28:49 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;During Paramount Skydance&amp;#x27;s latest earnings call, CEO David Ellison said &amp;quot;it&amp;#x27;s hard to imagine&amp;quot; AI won&amp;#x27;t have a bigger impact on the film industry than CGI. In response to a question about the company&amp;#x27;s outlook for AI, Ellison said: &amp;quot;I think when you zoom out and look at production, AI really has the potential to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.31</title>
+      <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/llm-anthropic/</guid>
+      <pubDate>Mon, 09 Nov 2026 23:58:46 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I&amp;#x27;ve added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 &amp;quot;Generate an SVG of a pelican riding a bicycle&amp;quot; I ran pelicans at all five reasoning levels - low , medium , high ,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Locating the source of a mysterious beep with Claude</title>
+      <link>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</guid>
+      <pubDate>Mon, 09 Nov 2026 23:57:21 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Our house has a box room, full of boxes that we still haven&amp;#x27;t unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn&amp;#x27;t want to dig through every one of those boxes. So I had Claude Code build Beep Locator ,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What could China get from Jensen Huang?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</guid>
+      <pubDate>Mon, 09 Nov 2026 23:51:58 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;It&amp;#x27;s difficult to overstate Nvidia&amp;#x27;s power in today&amp;#x27;s AI landscape. The company&amp;#x27;s chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Here’s what Trump said he knew about Jensen Huang</title>
+      <link>https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference</guid>
+      <pubDate>Mon, 09 Nov 2026 23:47:46 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang&amp;#x27;s affair with an alleged Chinese spy. Huang said this weekend that he had been &amp;quot;​​unfaithful&amp;quot; to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago</title>
+      <link>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</guid>
+      <pubDate>Mon, 09 Nov 2026 23:28:37 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang&amp;#x27;s business dealings with Jensen Huang, Wired reported.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</guid>
+      <pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal</title>
+      <link>https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/</guid>
+      <pubDate>Mon, 09 Nov 2026 22:46:09 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Six months before Nvidia&amp;#x27;s spy scandal erupted, Culper Research was already questioning Jensen Huang&amp;#x27;s unusually close relationship with a Chinese executive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The race is on to sue Nvidia</title>
+      <link>https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/</guid>
+      <pubDate>Mon, 09 Nov 2026 22:23:42 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring the world's languages with Language Explorer</title>
+      <link>https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/</link>
+      <guid isPermaLink="true">https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/</guid>
+      <pubDate>Mon, 09 Nov 2026 20:29:39 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Natural Language Processing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy</title>
+      <link>https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/</guid>
+      <pubDate>Mon, 09 Nov 2026 20:09:06 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Nvidia CEO also pulled out of an Anthropic event earlier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The backlash about data centers might really just be about electricity</title>
+      <link>https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:35:33 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:24:51 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic says the new models &amp;quot;show improvements in areas like coding, reasoning, and vision,&amp;quot; as well as in communicating more clearly with users.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple’s $50 Intelligence Usage Packs extend access to some AI features</title>
+      <link>https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</guid>
+      <pubDate>Mon, 09 Nov 2026 19:09:58 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to &amp;quot;Buy More Usage&amp;quot; for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like &amp;quot;start a new song, set […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic launches new Claude Fable and Mythos 5.2 models</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on &amp;quot;daunting&amp;quot; technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nancy Pelosi’s replacement is ready to regulate AI</title>
+      <link>https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/</guid>
+      <pubDate>Mon, 09 Nov 2026 17:05:43 +0000</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>News</category>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
+      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiener on Friday, only a…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Medium’s new TK app brings AI assistance directly into the writing process</title>
       <link>https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/</link>
@@ -89,6 +269,16 @@
       <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster,…&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+      <link>https://openai.com/index/control-room</link>
+      <guid isPermaLink="true">https://openai.com/index/control-room</guid>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
       <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
       <guid isPermaLink="true">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
@@ -97,6 +287,36 @@
       <category>Research labs</category>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
       <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BAIR at CoRL 2026</title>
+      <link>http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/</link>
+      <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/</guid>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
+      <dc:creator>Berkeley AI Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://bair.berkeley.edu/blog/feed.xml">Berkeley AI Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Berkeley AI Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies. November 9–12,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CodeRabbit scales agentic software development and ships 20x more</title>
+      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
+      <guid isPermaLink="true">https://openai.com/index/coderabbit-codex-daybreak</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kuken Industries searches 70 years of drawings in minutes</title>
+      <link>https://openai.com/index/kuken</link>
+      <guid isPermaLink="true">https://openai.com/index/kuken</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”</title>
@@ -2687,166 +2907,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple hinted at ways that it could spur revenue through third-party &amp;quot;opportunities&amp;quot; during its Monday night earnings call.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</title>
-      <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Y Combinator Garry Tan has jokingly admitted that he&amp;#x27;s suffered from &amp;quot;cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Transformers Model Integration Contracts</title>
-      <link>https://huggingface.co/blog/transformers-mic</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/transformers-mic</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
-      <link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
-      <guid isPermaLink="true">https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CWE-bench v2: More coverage, quality, and transparency</title>
-      <link>https://huggingface.co/blog/cwe-bench</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/cwe-bench</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>llm 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/2/llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/2/llm/</guid>
-      <pubDate>Mon, 02 Nov 2026 23:49:30 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm 0.37 There&amp;#x27;s a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
-      <link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</guid>
-      <pubDate>Mon, 02 Nov 2026 23:13:53 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The one-year-old startup is now valued at $300 million.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic warns that it’s very close to RSI capability, aka self-building AI</title>
-      <link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</guid>
-      <pubDate>Mon, 02 Nov 2026 22:14:50 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Web host Squarespace lays off 19% of its employees</title>
-      <link>https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/</guid>
-      <pubDate>Mon, 02 Nov 2026 19:25:59 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The website builder said that the job losses are part of a broader restructuring of its organization.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New York Times and other outlets sue web browser Brave over alleged content scraping</title>
-      <link>https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/</guid>
-      <pubDate>Mon, 02 Nov 2026 19:19:17 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic clamps down on Claude’s AI video game clones</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</guid>
-      <pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic has updated Claude Code&amp;#x27;s system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom&amp;#x27;s Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn&amp;#x27;t want people to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI pitches data center power plants as a way to protect nearby areas</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</guid>
-      <pubDate>Mon, 02 Nov 2026 18:01:30 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In an announcement on Monday, OpenAI says it will pilot its &amp;quot;Grid Protectors Program&amp;quot; at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rewarding defenders with bigger bug bounties</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Preparing our next security sprint to harden OpenAI</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
-      <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
-      <pubDate>Mon, 02 Nov 2026 17:51:19 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Raising the quality of insights in agentic analytics</title>
-      <link>https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/</guid>
-      <pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’</title>
-      <link>https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/</guid>
-      <pubDate>Mon, 02 Nov 2026 16:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Here&amp;#x27;s a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
