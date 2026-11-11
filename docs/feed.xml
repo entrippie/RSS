@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:12:08 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -19,6 +19,16 @@
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
+      <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it&amp;#x27;s developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ChatGPT Plus for veterans and servicemembers</title>
       <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
       <guid isPermaLink="true">https://openai.com/index/chatgpt-plus-for-veterans</guid>
@@ -27,6 +37,16 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia’s crisis has corporate governance experts reaching for the popcorn</title>
+      <link>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</guid>
+      <pubDate>Wed, 11 Nov 2026 07:30:51 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The governance experts we talked to say nobody has seen anything like what&amp;#x27;s unfolding right now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
@@ -2857,56 +2877,6 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Securing the agentic enterprise with data lineage</title>
-      <link>https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston</title>
-      <link>https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today is the day to join TechCrunch Founder Summit 2026 in Boston&amp;#x27;s SoWa Power Station. Register now to join this founder-focused conference today.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google hasn’t figured out how to make AI pay like its search engine</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google&amp;#x27;s Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A thousand fewer paths to root</title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-      <guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
-      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
-      <guid isPermaLink="true">https://openai.com/index/daybreak-red-aws-govcloud</guid>
-      <pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
