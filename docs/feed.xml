@@ -5,7 +5,7 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:37:04 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,6 +17,176 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The unfolding Jensen Huang scandal: a timeline</title>
+      <link>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
+      <pubDate>Wed, 11 Nov 2026 23:50:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
+      <link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</guid>
+      <pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As soon as Wednesday evening, Nvidia&amp;#x27;s board could decide to remove its founder and CEO of 33 years.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
+      <link>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</guid>
+      <pubDate>Wed, 11 Nov 2026 23:17:05 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia is reportedly preparing to fire Jensen Huang</title>
+      <link>https://www.theverge.com/tech/1031652/jensen-huang-rumor</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1031652/jensen-huang-rumor</guid>
+      <pubDate>Wed, 11 Nov 2026 22:44:36 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia&amp;#x27;s board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
+      <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Gemini Decisions API Google join Jev and OpenAI in the decision model category with &amp;quot;Gemini Decision 1&amp;quot;. This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev&amp;#x27;s term &amp;quot;Noul&amp;quot; for a yes/no question. It&amp;#x27;s priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>United won’t let your AI agent book your flight</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</guid>
+      <pubDate>Wed, 11 Nov 2026 21:54:21 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;United says it won&amp;#x27;t let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn&amp;#x27;t yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>aws-emulator</title>
+      <link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/aws-emulator/</guid>
+      <pubDate>Wed, 11 Nov 2026 21:18:30 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It&amp;#x27;s written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels&amp;#x27; blog. It currently…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why the data center you dread might never even be built</title>
+      <link>https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/</guid>
+      <pubDate>Wed, 11 Nov 2026 20:15:15 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta is losing its longtime head of infrastructure</title>
+      <link>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/</guid>
+      <pubDate>Wed, 11 Nov 2026 20:12:01 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How backlash and red tape continue to slow data centers post-Blue Wave</title>
+      <link>https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/</link>
+      <guid isPermaLink="true">https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/</guid>
+      <pubDate>Wed, 11 Nov 2026 20:02:14 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching</title>
+      <link>https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/</link>
+      <guid isPermaLink="true">https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/</guid>
+      <pubDate>Wed, 11 Nov 2026 19:54:00 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Health &amp;amp; Bioscience&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Browse tools.simonwillison.net by tag</title>
+      <link>https://simonwillison.net/2026/Nov/11/tools-tags/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/tools-tags/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:42:50 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Browse tools.simonwillison.net by tag I&amp;#x27;ve been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The homepage now features tag clouds for browsing by each of…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llm 0.37.2</title>
+      <link>https://simonwillison.net/2026/Nov/11/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/llm/</guid>
+      <pubDate>Wed, 11 Nov 2026 17:19:52 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google’s Tabletop AI experiment lets you build custom collaboration apps</title>
+      <link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</guid>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic's IPO roadshow video</title>
+      <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:11:59 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on &amp;quot;Approach to compute&amp;quot; with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I&amp;#x27;m not sure why…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
+      <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>Research labs</category>
+      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
+      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Predicting how DNA sequences and their variations impact specific human cell types and disease.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google’s AlphaGenome 2 zooms in on the cellular roots of disease</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
@@ -357,6 +527,26 @@
       <category>arXiv papers</category>
       <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Commercial language model APIs bill per token, so a tokenizer that needs more tokens for the same content in one language makes that language more expensive, slower, and able to fit less text in a fixed context window. We measure this disparity for nine public tokenizers, including those of GPT-4, GPT-4o, Qwen2.5, DeepSeek-V3, Mistral-Nemo and four Sarvam models, on all 25 languages of India…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <guid isPermaLink="true">https://openai.com/index/jiostar-vijay-seshadri</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
+      <link>https://huggingface.co/blog/token-pooling</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/token-pooling</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
@@ -2677,206 +2867,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Data center opposition crossed party lines in Tuesday’s midterms.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
-      <link>https://huggingface.co/blog/phonon-tts</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/phonon-tts</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
-      <link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</guid>
-      <pubDate>Wed, 04 Nov 2026 22:45:09 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qualcomm is betting big on data centers as smartphone sales sink</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</guid>
-      <pubDate>Wed, 04 Nov 2026 22:42:15 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
-      <link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</guid>
-      <pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;While it&amp;#x27;s not yet clear what kind of product the smartphone startup is cooking up, Nothing&amp;#x27;s CEO said the product is designed to leverage AI for productivity gains.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Almost no one uses AI agents to book their Uber, company says</title>
-      <link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</guid>
-      <pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>17 better ways Elon Musk could have wasted $446 million</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</guid>
-      <pubDate>Wed, 04 Nov 2026 21:45:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI is already trying to shape the 2028 election</title>
-      <link>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/</guid>
-      <pubDate>Wed, 04 Nov 2026 21:25:44 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta acquires AI coding startup Conductor</title>
-      <link>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/</guid>
-      <pubDate>Wed, 04 Nov 2026 21:10:56 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini for Home now plugs into AT&amp;T’s smart security system</title>
-      <link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</guid>
-      <pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AT&amp;amp;T&amp;#x27;s smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the &amp;quot;first&amp;quot; home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open source AI is booming. Hugging Face explains who profits.</title>
-      <link>https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/</guid>
-      <pubDate>Wed, 04 Nov 2026 19:30:04 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Texas was the new epicenter of the AI data center buildout. That might be kaput.</title>
-      <link>https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/</guid>
-      <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nothing teases a screen-free AI device ahead of launch next month</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</guid>
-      <pubDate>Wed, 04 Nov 2026 18:26:07 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nothing CEO Carl Pei said in a post on X that the company&amp;#x27;s launching its first AI device in December. That&amp;#x27;s just a little over a year after Pei announced plans for &amp;quot;AI-native&amp;quot; devices and an AI operating system. He didn&amp;#x27;t give away much about what exactly the new device is, only that one feature […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agile Deliberation: How AI helps humans define the gray areas</title>
-      <link>https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/</link>
-      <guid isPermaLink="true">https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/</guid>
-      <pubDate>Wed, 04 Nov 2026 18:07:05 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Data Mining &amp;amp; Modeling&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My therapist thinks I should chuck the Amazon Bee Frontier out a window</title>
-      <link>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</link>
-      <guid isPermaLink="true">https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</guid>
-      <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they&amp;#x27;re going to change your life. Opt in for Optimizer here. &amp;quot;How does that make you feel?&amp;quot; I get asked this a lot in therapy. Plenty of life events, big and […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT will now make you animated GIFs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</guid>
-      <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI&amp;#x27;s new Images 2.6 model, allows you to adjust the GIF&amp;#x27;s animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn&amp;#x27;t natively generate GIFs in a single […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
-      <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
-      <pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data centers lost the midterms</title>
-      <link>https://www.theverge.com/policy/1026365/data-centers-midterms-results</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1026365/data-centers-midterms-results</guid>
-      <pubDate>Wed, 04 Nov 2026 16:05:39 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Uber only fulfilled 4 rides from AI agents last quarter</title>
-      <link>https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</link>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</guid>
-      <pubDate>Wed, 04 Nov 2026 15:58:45 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI agents won&amp;#x27;t be stealing Uber&amp;#x27;s lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording &amp;quot;around 500&amp;quot; during […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a10</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/4/datasette-llm/</guid>
-      <pubDate>Wed, 04 Nov 2026 15:26:02 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
-      <link>https://openai.com/index/openai-to-acquire-pierre</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-pierre</guid>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

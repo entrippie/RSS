@@ -9,6 +9,159 @@
   "ts": 1794441600
  },
  {
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794441000
+ },
+ {
+  "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+  "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+  "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794439725
+ },
+ {
+  "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+  "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+  "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794439025
+ },
+ {
+  "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+  "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+  "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794437076
+ },
+ {
+  "title": "Gemini Decisions API",
+  "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+  "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1794434605
+ },
+ {
+  "title": "United won’t let your AI agent book your flight",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794434061
+ },
+ {
+  "title": "aws-emulator",
+  "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+  "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1794431910
+ },
+ {
+  "title": "Why the data center you dread might never even be built",
+  "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+  "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794428115
+ },
+ {
+  "title": "Meta is losing its longtime head of infrastructure",
+  "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+  "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794427921
+ },
+ {
+  "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+  "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+  "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794427334
+ },
+ {
+  "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+  "link": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+  "summary": "Health & Bioscience",
+  "source": "Google Research",
+  "section": "Research labs",
+  "source_feed": "https://research.google/blog/rss/",
+  "ts": 1794426840
+ },
+ {
+  "title": "Browse tools.simonwillison.net by tag",
+  "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+  "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The homepage now features tag clouds for browsing by each of…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1794422570
+ },
+ {
+  "title": "llm 0.37.2",
+  "link": "https://simonwillison.net/2026/Nov/11/llm/",
+  "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1794417592
+ },
+ {
+  "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+  "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794412800
+ },
+ {
+  "title": "Anthropic's IPO roadshow video",
+  "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+  "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I'm not sure why…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1794409919
+ },
+ {
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1794409215
+ },
+ {
+  "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+  "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794409200
+ },
+ {
   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
   "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]",
@@ -313,6 +466,24 @@
   "section": "arXiv papers",
   "source_feed": "https://rss.arxiv.org/rss/cs.CL",
   "ts": 1794373200
+ },
+ {
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "link": "https://openai.com/index/jiostar-vijay-seshadri",
+  "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1794355200
+ },
+ {
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "link": "https://huggingface.co/blog/token-pooling",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1794355200
  },
  {
   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -2401,185 +2572,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1793840534
- },
- {
-  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-  "link": "https://huggingface.co/blog/phonon-tts",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1793836800
- },
- {
-  "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-  "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-  "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793832309
- },
- {
-  "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-  "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793832135
- },
- {
-  "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-  "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-  "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793830396
- },
- {
-  "title": "Almost no one uses AI agents to book their Uber, company says",
-  "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-  "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793829361
- },
- {
-  "title": "17 better ways Elon Musk could have wasted $446 million",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-  "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793828700
- },
- {
-  "title": "OpenAI is already trying to shape the 2028 election",
-  "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-  "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793827544
- },
- {
-  "title": "Meta acquires AI coding startup Conductor",
-  "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-  "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793826656
- },
- {
-  "title": "Gemini for Home now plugs into AT&T’s smart security system",
-  "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-  "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793823804
- },
- {
-  "title": "Open source AI is booming. Hugging Face explains who profits.",
-  "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-  "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1793820604
- },
- {
-  "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-  "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-  "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-  "source": "MIT Technology Review",
-  "section": "News",
-  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-  "ts": 1793818255
- },
- {
-  "title": "Nothing teases a screen-free AI device ahead of launch next month",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-  "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793816767
- },
- {
-  "title": "Agile Deliberation: How AI helps humans define the gray areas",
-  "link": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-  "summary": "Data Mining & Modeling",
-  "source": "Google Research",
-  "section": "Research labs",
-  "source_feed": "https://research.google/blog/rss/",
-  "ts": 1793815625
- },
- {
-  "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-  "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-  "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793815200
- },
- {
-  "title": "ChatGPT will now make you animated GIFs",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-  "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793815200
- },
- {
-  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-  "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1793814610
- },
- {
-  "title": "Data centers lost the midterms",
-  "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-  "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793808339
- },
- {
-  "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-  "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-  "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1793807925
- },
- {
-  "title": "datasette-llm 0.1a10",
-  "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-  "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1793805962
- },
- {
-  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-  "link": "https://openai.com/index/openai-to-acquire-pierre",
-  "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1793802600
  }
 ]
