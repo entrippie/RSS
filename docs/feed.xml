@@ -5,9 +5,439 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:36:58 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
+      <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</guid>
+      <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;New research shows the most advanced AI models from China were trained on banned Nvidia chips.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
+      <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT’s new Wallet lets AI agents shop and check out for you</title>
+      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:12 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT Wallet lets AI agents shop and check out on users&amp;#x27; behalf, starting with a limited rollout to U.S. Pro subscribers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The unfolding Jensen Huang scandal: a timeline</title>
+      <link>https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
+      <pubDate>Fri, 13 Nov 2026 15:58:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What’s really at stake in the Jensen Huang saga</title>
+      <link>https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</guid>
+      <pubDate>Fri, 13 Nov 2026 14:47:16 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI&amp;#x27;s most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia&amp;#x27;s dealings in China, about the US government&amp;#x27;s willingness […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ElevenLabs’ new app combines meeting note-taking and dictation for teams</title>
+      <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</guid>
+      <pubDate>Fri, 13 Nov 2026 14:44:48 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+      <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Normally, the products I test don&amp;#x27;t offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic&amp;#x27;s AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don&amp;#x27;t write code. It&amp;#x27;s been an interesting couple […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Israel’s VCs see opportunity for challengers in Nvidia’s turmoil</title>
+      <link>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:52:19 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Given Nvidia’s stronghold on AI and its importance in Israel, many in the country&amp;#x27;s startup ecosystem are worried about the impact of his departure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jensen Huang didn’t show confidence in his successor, report says</title>
+      <link>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:28:23 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Huang described Kress as a &amp;quot;deer in the headlights&amp;quot; during a meeting in summer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Let’s talk about Jensen Huang’s many affairs!</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Usually, we&amp;#x27;d be offering to answer your questions about a news event, but honestly we don&amp;#x27;t really have any answers about what the hell is going on over at Nvidia. I can&amp;#x27;t speak for Nilay but at the rate Jensen Huang&amp;#x27;s new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CAFIN: CUDA-accelerated Adaptive Fisher Information Matrix Network Optimization via GPU-Native Kernel Fusion</title>
+      <link>https://arxiv.org/abs/2611.14589</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14589</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Second-order optimizers improve deep neural network training using curvature information, but their practical efficiency is limited by GPU execution overhead. AdaFisher reduces Fisher Information Matrix (FIM) approximation costs through diagonal Kronecker structures and exponential moving averages, yet its PyTorch implementation requires sequential CUDA kernel launches, intermediate tensor…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Asynchronous Federated Learning Platform for Lung Adenocarcinoma Grading via Foundation Models and Structural Pruning</title>
+      <link>https://arxiv.org/abs/2611.14590</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14590</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Classification of lung adenocarcinoma into poorly differentiated (PD) and well-to-moderately differentiated (WMD) subtypes plays an important role in patient survival; however, consistent classification is difficult due to inter-observer variability among pathologists. Collecting data from multiple hospitals is also challenging due to patient privacy concerns. This study proposes a web-based…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adversarial Risk in the Generative AI Era Necessitates Dropping the Small Epsilon Ball</title>
+      <link>https://arxiv.org/abs/2611.14594</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14594</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Adversarial Machine Learning research is currently centered on the search for the epsilon-ball: minimal perturbations designed to fool models while remaining imperceptible to humans. We argue that this fixation on $\ell_p$ norms is a metrological trap that communicates a distorted perception of risk to defenders, one that is unaligned with real-world system vulnerabilities. This paradigm misleads…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>StructRL: Model-Free Reinforcement Learning with Replay Graphs</title>
+      <link>https://arxiv.org/abs/2611.14599</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14599</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;StructRL turns the experience collected during reinforcement learning into an explicit replay graph. Once the graph contains a path to the task goal, dynamic programming selects actions on the observed part of the state space; these actions form a graph policy that is defined only where the required transitions have been observed. StructRL transfers these actions to model-free learners: as action…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KernelMosaic: An Open Dataset and Agentic Framework for CUDA Kernel Generation</title>
+      <link>https://arxiv.org/abs/2611.14604</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14604</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Training large language models to generate efficient CUDA kernels requires supervision spanning diverse computational requirements and iterative code optimization. Constructing this supervision is challenging because of heterogeneous specifications, and useful implementations emerge through iterative complicated testing and refinement. We introduce KernelMosaic, an open dataset pairing diverse…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thompson Sampling using Prior-fitted Diffusion Transformers</title>
+      <link>https://arxiv.org/abs/2611.14656</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14656</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Thompson sampling is natural randomized strategy for optimizing unknown functions in a black-box manner. In continuous global optimization, Thompson sampling has largely been restricted to Gaussian process priors, as these are essentially the only class for which computing the posterior distribution has been tractable in practice. In this work, we introduce \emph{prior-fitted diffusion…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Closing the Loop: Co-Evolving EM for Irregular Time Series Generation in Lifted Representations</title>
+      <link>https://arxiv.org/abs/2611.14659</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14659</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Regular time-series generation from irregular time series is typically reduced to one-shot imputation: complete each partial sequence once, freeze the completions, and train a generator on the resulting surrogate dataset. We show that this open-loop strategy is structurally flawed. Point imputers collapse ambiguous missing regions to conditional averages, while stochastic imputers become stale as…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trait Hitchhiking in LLM Post-Training</title>
+      <link>https://arxiv.org/abs/2611.14683</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14683</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reinforcement learning (RL) is now a standard stage of language model post-training, and the compute devoted to it is growing rapidly. While it has been shown to improve capabilities, particularly for tasks with verifiable rewards, it can also change behaviours and internal properties that the reward does not explicitly target. We present a formalism to describe the evolution of &amp;quot;traits&amp;quot; during…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond Row-Level Prediction: Evaluating and Learning Composition for Reusable Table Representations</title>
+      <link>https://arxiv.org/abs/2611.14697</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14697</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tables are compositional, with content spread across a schema, cell values, rows, and columns. Large-scale operations such as retrieval, overlap estimation, deduplication, and data curation need these local signals composed into one reusable embedding vector per table. Table representation methods, however, are mostly evaluated through row-level prediction or supervised downstream tasks, which do…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code as Explanations: Executable and Verifiable LLM Explanations</title>
+      <link>https://arxiv.org/abs/2611.14704</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14704</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;As large language models (LLMs) increasingly make consequential decisions and solve problems alongside humans, we must understand how models arrive at their conclusions. Understanding how an LLM behaves requires observing it across multiple inputs, yet free-text explanations such as chain-of-thought (CoT) are generated per instance and cannot be easily verified on new inputs. We propose {code…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets</title>
+      <link>https://arxiv.org/abs/2611.14544</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14544</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-but-wrong move is silent, because a legality-only pipeline accepts it and reads every later move against a wrong position. We…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cleaning an Agent's History Hurts When the World Still Holds the Error</title>
+      <link>https://arxiv.org/abs/2611.14654</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14654</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, where showing a corrected step and saying it is done move together. We ask whether the same correct content helps or hurts…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Together Compiler: Continual Compilation for AI Inference</title>
+      <link>https://arxiv.org/abs/2611.14681</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14681</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today&amp;#x27;s AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When Should Semantic Priors Enter Partially-Identified Causal Discovery?</title>
+      <link>https://arxiv.org/abs/2611.14736</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14736</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalidate downstream inference. We study three separate decisions: where to allocate semantic queries, which proposals to admit, and which causal graphs to…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SynthCorp: A Platform for Creating Benchmarks for Data Agents</title>
+      <link>https://arxiv.org/abs/2611.14765</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14765</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rational Use of Time for Social Coordination in Humans and AI</title>
+      <link>https://arxiv.org/abs/2611.14766</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14766</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others&amp;#x27; mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination? And can AI systems do the same, without ``experiencing&amp;#x27;&amp;#x27; continuous real-time as humans do? We study these questions using a…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation</title>
+      <link>https://arxiv.org/abs/2611.14769</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14769</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robust Task-Aware State Estimation from Pre-trained Perception</title>
+      <link>https://arxiv.org/abs/2611.14781</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14781</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a single best-guess state and make decisions as if it were ground truth. This is brittle because when the guess is wrong, the agent&amp;#x27;s decisions may be unsafe or…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning</title>
+      <link>https://arxiv.org/abs/2611.14794</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14794</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Proof-step verification rewrites a solver&amp;#x27;s answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering</title>
+      <link>https://arxiv.org/abs/2611.14804</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14804</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fixed weights. The context contains evaluated designs labeled desired (Class 1) or undesired (Class 0). GenPFN interpolates between desired designs and refines…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models</title>
+      <link>https://arxiv.org/abs/2611.14661</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14661</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Kalai et al. propose stating the scoring rule in the prompt with an explicit threshold t, so that a model should answer only when its probability of being correct exceeds t. We probe each requirement of compliance on shared items, in 12 checkpoints from three post-training stages of four fully open 3-8B recipes, with exploratory models up to 32B. At t = 0.75, a line limiting the reply to an…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MITRA-Swarm: Injecting Explicit Linguistic Structure into Foundation Models for Classical Machine Translation</title>
+      <link>https://arxiv.org/abs/2611.14675</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14675</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Classical Sanskrit poses three challenges unresolved by single-call monolithic models: morphophonemic fusion Sandhi, dense nominal compounding Sam\=asa, and discourse-level zero-anaphora forced by poetic meter. We present MITRA-Swarm, a multi-agent architecture injecting explicit linguistic structure into an otherwise monolithic pipeline: a Sandhi-splitting agent, a parallel array of generalist…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making</title>
+      <link>https://arxiv.org/abs/2611.14700</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14700</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Benchmarking Multilingual Document Understanding in Vision-Language Models</title>
+      <link>https://arxiv.org/abs/2611.14758</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14758</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Recent Vision-Language Models (VLMs) perform strongly on multimodal tasks, Document Understanding (DU) among them, but the benchmarks that measure them mostly cover English documents and narrow problems. How well current VLMs generalize across languages, tasks, styles and layouts therefore remains unclear. We introduce MDU, a multilingual DU benchmark of 23146 examples spanning 13 tasks and five…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An LLM Is All You Need: Data-Efficient Adaptation to Full-Duplex, Word-Level Spoken Dialogue</title>
+      <link>https://arxiv.org/abs/2611.14774</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14774</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Full-duplex spoken dialogue, in which a system listens while it speaks and can backchannel, yield the floor, and be interrupted, is usually obtained by training on hundreds of thousands to millions of hours of speech. This is costly, rewrites the language model that supplies the system&amp;#x27;s knowledge, and still leaves turn-taking either implicit or decided coarsely rather than word by word. We show…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Distributionally Robust BEST-RQ For Speech Representation Learning</title>
+      <link>https://arxiv.org/abs/2611.14801</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14801</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;BEST-RQ, based on random projection and quantization, has been a well-established self-supervised learning approach to learn speech representations from large-scale unlabeled audio due to its high performance and efficiency. However, in BEST-RQ representations learned by random quantization can be sensitive to the choice of quantization targets. To address this issue, we propose a…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Do Tokenizer Comparisons Measure? Disentangling Granularity, Root Assignment, and Word-Level Readout across Amharic and Hausa</title>
+      <link>https://arxiv.org/abs/2611.14818</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14818</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Morphology-aware tokenizers are expected to help morphologically rich languages, and their reported gains over byte-pair encoding (BPE) are usually credited to their linguistic units. A comparison with BPE cannot support this attribution, since such a tokenizer also segments text more finely (granularity) and, on token-level tasks, changes how much the sub-token readout matters. We separate both…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discharge Summary Generation Is Not Just Summarization: A Reality Check for Evaluation</title>
+      <link>https://arxiv.org/abs/2611.14823</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14823</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Discharge summaries combine a retrospective account of hospitalization with discharge-time decisions. Physician-written references therefore contain both facts supported by prior clinical notes and reference-only content, potentially reflecting clinical synthesis, handoffs, or discharge planning. Reference-only evaluation can conflate failure to recover available information with failure to…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLMs and the Homogenization of Teaching</title>
+      <link>https://arxiv.org/abs/2611.14828</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14828</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are known to lack diversity in open-ended text generation, a limitation that is especially consequential in education, where homogeneity can narrow the kinds of thinking and disciplinary work students are invited to do. We study diversity in two educational generation tasks: math items and essay feedback. We compare frontier and open-weight models with human-authored…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is Jev a Good Multilingual Judge?</title>
+      <link>https://arxiv.org/abs/2611.14861</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14861</guid>
+      <pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Generative large language models are widely used for multilingual text evaluation, yet whether decision models that directly output judgment probabilities can serve as multilingual judges has received limited attention. We evaluate Jev against generative LLM judges on four multilingual benchmarks with human annotations, covering up to 47 language varieties and three evaluation formats: binary…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>llm-gemini 0.37</title>
       <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
@@ -2277,166 +2707,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hundreds of Artex AI hacking tools found publicly exposed to the web</title>
-      <link>https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/</guid>
-      <pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta introduces Spaces, a new way to collaborate with your Muse agent</title>
-      <link>https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/</guid>
-      <pubDate>Fri, 06 Nov 2026 18:44:20 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta&amp;#x27;s Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now</title>
-      <link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
-      <pubDate>Fri, 06 Nov 2026 18:10:10 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called &amp;quot;spaces,&amp;quot; allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect your space to a relevant app, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How a Blue Wave midterm might reshape the AI industry</title>
-      <link>https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/</link>
-      <guid isPermaLink="true">https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/</guid>
-      <pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>After the midterms, is the AI industry in for a rough two years?</title>
-      <link>https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/</guid>
-      <pubDate>Fri, 06 Nov 2026 17:23:52 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quoting Nilay Patel</title>
-      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/6/nilay-patel/</guid>
-      <pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The products aren&amp;#x27;t good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It&amp;#x27;s not worth it. It just isn&amp;#x27;t worth it to anyone. And agents aren&amp;#x27;t real and they might not be being used the way that anyone wants them to yet. All these companies…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI is the new dating dealbreaker</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</guid>
-      <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. &amp;quot;Hinge has a prompt where […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Big Tech lost big in the 2026 election</title>
-      <link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</guid>
-      <pubDate>Fri, 06 Nov 2026 16:38:02 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Akai and Moog are embracing vibe-coded mods</title>
-      <link>https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai</guid>
-      <pubDate>Fri, 06 Nov 2026 16:34:39 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O&amp;#x27;Donnell said, &amp;quot;We&amp;#x27;re going to provide a toolbox to the community, we&amp;#x27;re going to provide the inner workings of, say, an MPC or Sample so that people can […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
-      <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</guid>
-      <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>After blocking Muse, Amazon now lets users text Alexa to help them shop</title>
-      <link>https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/</guid>
-      <pubDate>Fri, 06 Nov 2026 14:10:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon said that the feature will roll out to millions of users in coming weeks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-      <link>https://huggingface.co/blog/allenai/toyblocks</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/toyblocks</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon will let you text Alexa your shopping list</title>
-      <link>https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they&amp;#x27;re looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Protesters break into Microsoft data center site in Amsterdam</title>
-      <link>https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam</guid>
-      <pubDate>Fri, 06 Nov 2026 11:55:19 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I watched a humanoid robot clean my apartment. It felt like a taste of the future.</title>
-      <link>https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/</guid>
-      <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-      <link>https://openai.com/index/partnering-with-hacktron</link>
-      <guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
