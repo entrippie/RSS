@@ -5,9 +5,79 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 19:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:12:37 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon has a plan to index the world’s online shopping data</title>
+      <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</guid>
+      <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn&amp;#x27;t sell, and make the information available through its own site, according to Reuters. The project, called the &amp;quot;World Product Graph,&amp;quot; is meant to make it less likely that shoppers leave Amazon to do their […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>datasette-cluster-map 0.19</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</guid>
+      <pubDate>Fri, 13 Nov 2026 23:02:45 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here&amp;#x27;s a map of power plants owned by California&amp;#x27;s PG&amp;amp;E , also demonstrating Datasette&amp;#x27;s recently redesigned facets : Tags: datasette , geospatial ,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
+      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</guid>
+      <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>datasette-leaflet 0.3</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/13/datasette-leaflet/</guid>
+      <pubDate>Fri, 13 Nov 2026 22:30:54 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advancing science &amp; engineering with Antigravity’s /teamwork</title>
+      <link>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</link>
+      <guid isPermaLink="true">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</guid>
+      <pubDate>Fri, 13 Nov 2026 20:47:18 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Education Innovation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
+      <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and &amp;quot;eligible US-issued American Express, Chase, Mastercard and Visa cards.&amp;quot; After adding a card […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI agent startup LangChain hits $3B valuation</title>
+      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</guid>
+      <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
       <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
@@ -137,6 +207,16 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Usually, we&amp;#x27;d be offering to answer your questions about a news event, but honestly we don&amp;#x27;t really have any answers about what the hell is going on over at Nvidia. I can&amp;#x27;t speak for Nilay but at the rate Jensen Huang&amp;#x27;s new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+      <link>https://openai.com/business/customer-stories/shield</link>
+      <guid isPermaLink="true">https://openai.com/business/customer-stories/shield</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CAFIN: CUDA-accelerated Adaptive Fisher Information Matrix Network Optimization via GPU-Native Kernel Fusion</title>
@@ -2657,56 +2737,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company&amp;#x27;s models improving roughly twice as quickly as a year ago, with little indication of slowing down. That&amp;#x27;s according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crusoe sells troubled Wyoming data center project to Google</title>
-      <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</guid>
-      <pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The deal highlights the challenges of developing massive AI data centers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
-      <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world&amp;#x27;s most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>China reportedly recruited AI exec to spy on Jensen Huang</title>
-      <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
-      <pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;China&amp;#x27;s intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and &amp;quot;potentially influence the company to push for its most advanced chips to be made available to China.&amp;quot; Megaspeed […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</title>
-      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</guid>
-      <pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn&amp;#x27;t closed yet but is expected to in the coming weeks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>All the latest updates on AI data centers</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
-      <pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
