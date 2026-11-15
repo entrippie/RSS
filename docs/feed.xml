@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:47:26 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An overview of Jensen Huang’s messy days</title>
+      <link>https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</link>
+      <guid isPermaLink="true">https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</guid>
+      <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang&amp;#x27;s resignation and the fallout from Nvidia&amp;#x27;s leadership crisis, follow Terrence O&amp;#x27;Brien. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Positional Embeddings in Modern LLMs</title>
+      <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
+      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
+      <pubDate>Sun, 15 Nov 2026 12:10:37 +0000</pubDate>
+      <dc:creator>Ahead of AI (Sebastian Raschka)</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://magazine.sebastianraschka.com/feed">Ahead of AI (Sebastian Raschka)</source>
+      <description>&lt;p&gt;&lt;em&gt;Ahead of AI (Sebastian Raschka) · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Methods Behind How LLMs Represent Token Positions&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Where was Nvidia’s security team?</title>
       <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
@@ -2727,16 +2747,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bloomberg&amp;#x27;s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI&amp;#x27;s Dots or Meta&amp;#x27;s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it&amp;#x27;s […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elvis and Eminem rights holders are suing Suno</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</guid>
-      <pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley&amp;#x27;s music and the publisher of some of Eminem&amp;#x27;s biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee&amp;#x27;s […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
