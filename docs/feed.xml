@@ -5,9 +5,29 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:20:16 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where was Nvidia’s security team?</title>
+      <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</guid>
+      <pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a11</title>
+      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-llm/</guid>
+      <pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you&amp;#x27;re running local models with LM Studio or Ollama…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
       <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
@@ -27,6 +47,16 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;From Apple&amp;#x27;s repeatedly delayed Siri AI to OpenAI&amp;#x27;s messy &amp;quot;super app&amp;quot; launch, here&amp;#x27;s a look at the AI projects that shut down or missed expectations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>datasette-vega 0.7</title>
+      <link>https://simonwillison.net/2026/Nov/14/datasette-vega/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-vega/</guid>
+      <pubDate>Sat, 14 Nov 2026 17:09:09 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-vega 0.7 A new release of Datasette&amp;#x27;s longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
@@ -2707,16 +2737,6 @@
       <category>News</category>
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
       <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley&amp;#x27;s music and the publisher of some of Eminem&amp;#x27;s biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee&amp;#x27;s […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
-      <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
-      <pubDate>Sat, 07 Nov 2026 23:57:46 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link:…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
