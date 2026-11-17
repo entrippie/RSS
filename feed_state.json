@@ -1,5 +1,122 @@
 [
  {
+  "title": "Model ML raises $250M to automate investment banking grunt work",
+  "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+  "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794943931
+ },
+ {
+  "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+  "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+  "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794942140
+ },
+ {
+  "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+  "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+  "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794941881
+ },
+ {
+  "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+  "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+  "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794941303
+ },
+ {
+  "title": "As decision model use skyrockets, is customization the next frontier?",
+  "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+  "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794939000
+ },
+ {
+  "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+  "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+  "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794938656
+ },
+ {
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1794937500
+ },
+ {
+  "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+  "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+  "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1794936745
+ },
+ {
+  "title": "Can AI help build a healthier future?",
+  "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+  "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. The post Can AI help build a healthier future? appeared first on Microsoft Research .",
+  "source": "Microsoft Research",
+  "section": "Research labs",
+  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
+  "ts": 1794934337
+ },
+ {
+  "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+  "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+  "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1794934113
+ },
+ {
+  "title": "The DOJ says it’s investigating Megaspeed",
+  "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+  "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794932343
+ },
+ {
+  "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+  "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+  "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1794931797
+ },
+ {
+  "title": "Research Reports",
+  "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+  "summary": "To access a report, click on the corresponding image below.",
+  "source": "MIT Technology Review",
+  "section": "News",
+  "source_feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+  "ts": 1794926386
+ },
+ {
   "title": "Quoting Go Proverbs",
   "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
   "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
@@ -9,9 +126,297 @@
   "ts": 1794896186
  },
  {
+  "title": "Check Token: Real-Time Self-Verification and Precise Truncation in LLM Reasoning",
+  "link": "https://arxiv.org/abs/2611.18564",
+  "summary": "ECC memory embeds 8 parity bits for every 64 data bits and automatically detects and corrects errors on each read. The parity bits carry no data and only safeguard integrity, at ~12.5% overhead. Yet the reasoning chains of large language models lack such built-in self-verification: once an error occurs it propagates along the chain, and existing methods can only verify externally after generation…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "Quantize, Qualify, Rerank: A Recipe for Compressing LLMs Without Losing Quality",
+  "link": "https://arxiv.org/abs/2611.18587",
+  "summary": "Compressing large language models lowers serving cost, but a single automatic metric may miss quality loss. For the WMT26 Model Compression constrained track, we compress google/gemma-3-12b-it (24.4 GB in bf16) for three translation directions on one H100. Paired bootstrap analysis exposes metric disagreement on 4-bit quantization; guided by WMT24 human meta-evaluation, we use MetricX24-XXL as…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "Skill-Latent Rewards: LLM-Guided Reward Formulation for Hierarchical Reinforcement Learning",
+  "link": "https://arxiv.org/abs/2611.18597",
+  "summary": "Long-horizon reinforcement learning under sparse and delayed feedback remains an open challenge. Existing return-decomposition methods redistribute episodic rewards to ease credit assignment, but they operate on raw state--action transitions and disregard the subgoal structure that governs meaningful progress in complex tasks. We propose Skill-LR, a hierarchical reinforcement learning framework…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "Not All Data Leakage Is Equal: A Controlled Benchmark of Evaluation Inflation in Tabular Classification",
+  "link": "https://arxiv.org/abs/2611.18598",
+  "summary": "Data leakage is widely recognized as a threat to trustworthy machine-learning evaluation, yet the phrase covers mechanisms with very different statistical consequences. We present a controlled empirical benchmark that measures the inflation in held-out ROC-AUC caused by five common leakage mechanisms: global standardization, global median imputation, duplicate contamination, supervised feature…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "Mechanistic Interpretability of Mambas Selective Gate in Financial Markets: A Leakage-Controlled Study",
+  "link": "https://arxiv.org/abs/2611.18599",
+  "summary": "Selectively gated state-space models (SSMs), notably Mamba, are increasingly used for financial time series, yet how they internally represent market regimes (bull, bear, sideways) remains opaque. This paper applies Mechanistic Interpretability (MI) to a six-layer Mamba trained on approximately twenty-one years of daily data for a point-in-time set of S&P 500 constituents plus macroeconomic and…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "Multimodal Fusion with Pre-trained Models for Psychotherapy Outcome Prediction from Emotional Dynamics",
+  "link": "https://arxiv.org/abs/2611.18635",
+  "summary": "In-session emotional dynamics are associated with psychotherapy outcomes but difficult to measure at scale. Pretrained multimodal models provide automated access to facial, vocal, and textual signals, yet clinical datasets remain small. Our research question is how pretrained multimodal representations can best support psychotherapy outcome prediction under data scarcity. Three studies use 106…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "Predictive maintenance in manufacturing: The operational value of continual machine learning",
+  "link": "https://arxiv.org/abs/2611.18636",
+  "summary": "Predictive maintenance in high-volume manufacturing often faces a domain-incremental learning problem: as new product configurations enter production, prediction models must learn from newly available data while preserving performance on earlier configurations that remain in operation. In this paper, we empirically study the operational value of continual machine learning methods for addressing…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "GRAFT: Cross-Backbone LoRA Reuse for Continual Language and Multimodal Learning",
+  "link": "https://arxiv.org/abs/2611.18638",
+  "summary": "In continual learning, parameter-efficient fine-tuning enables large language models to acquire new capabilities through lightweight adapters such as LoRA, yet the reuse of pretrained adapters is typically restricted to models sharing the same backbone. This limits the transfer of learned capabilities from language models to multimodal models. We propose GRAFT (Generalist Reuse of Adapters via…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking",
+  "link": "https://arxiv.org/abs/2611.18639",
+  "summary": "Scaling device-control evaluation requires scaling both the worlds agents interact with and the tasks they must solve. We introduce SynthDCB, a scalable benchmark for environment awareness and device control built through world distillation. World distillation transforms knowledge of device behaviors, interaction constraints, and environmental effects into modular executable components, which are…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "SERAG: SEmantical and Relational approach for Anomaly detection on knowledge Graphs",
+  "link": "https://arxiv.org/abs/2611.18640",
+  "summary": "Knowledge graphs constructed from text can contain facts that are individually plausible yet inconsistent with their relational context. We introduce SERAG, a supervised anomaly detector that combines two complementary plausibility estimates: a semantic score computed from separately encoded subject, relation, and object labels, and a relational score obtained through a relational graph…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1794891600
+ },
+ {
+  "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+  "link": "https://arxiv.org/abs/2611.18642",
+  "summary": "Agents that work beyond a single context window, or in teams, hand their work to a successor as a short written summary. Evaluation has focused on whether an agent can solve a task, and relatively little is known about how much of what an agent has learned survives being written down. We study this in 56 interactive worlds with hidden rules, where an agent that is told nothing fails and an agent…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
+  "link": "https://arxiv.org/abs/2611.18714",
+  "summary": "Can AI systems be moral agents? That is, can they undertake actions that can be correctly assessed as morally right or wrong? There is no settled normative criterion of moral agency that applies neatly outside paradigm human cases. Because of the difficulties with a normative account, we instead propose a research program to explore descriptive moral agency. Most basically, we ask, what are the…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
+  "link": "https://arxiv.org/abs/2611.18747",
+  "summary": "Multimodal large language models (LLMs) have enabled capable computer-use agents that perceive graphical user interfaces, reason over instructions, and execute actions. However, existing approaches to learning from video demonstrations typically convert videos into screenshot-based action trajectories, rather than directly leveraging their rich audio-visual information. We introduce VEX (Video as…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
+  "link": "https://arxiv.org/abs/2611.18793",
+  "summary": "Purpose: Multimodal medical imaging fusion (MMIF) is an increasingly important approach to breast cancer detection (BCD), as different imaging modalities rely on different physical principles and provide complementary information. No single modality can capture all the structural, functional, and biological information needed for accurate diagnosis and characterization. Methods: This review…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
+  "link": "https://arxiv.org/abs/2611.18866",
+  "summary": "In cinematic storytelling, sound and visual transitions do not always coincide in lockstep: dialogue frequently bridges across cuts to reveal reactions or introduces new scenes via J- and L-cuts, while deliberate silences pace the scene. Existing audio-visual generative frameworks, however, lack explicit mechanisms to coordinate independent visual and acoustic timing over extended horizons. As…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
+  "link": "https://arxiv.org/abs/2611.18883",
+  "summary": "Natural language optimization (NLO) improves an agent by having a model critique and rewrite its natural language policy parameters: system prompts, tool instructions, reasoning directives, few-shot demonstrations. These artifacts are multi-section documents in which some sections encode contracts (safety clauses, tool schemas, output formats) that must not drift, while others are legitimate…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging",
+  "link": "https://arxiv.org/abs/2611.18891",
+  "summary": "Vision-Language-Action models (VLAs) are obtained by fine-tuning pre-trained Vision-Language Models (VLMs) on robot demonstration data, enabling action prediction from visual observations and language instructions. However, this fine-tuning induces catastrophic forgetting, substantially degrading the semantic and visual grounding capabilities of the original VLM. We address this by merging the…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
+  "link": "https://arxiv.org/abs/2611.18905",
+  "summary": "Ambiguity is a core challenge in human--AI interaction, where models must decide when to make assumptions and when to seek clarification. Existing approaches to ambiguity evaluation largely focus on coverage over multiple interpretations using static metrics, offering limited insight into how efficiently a model converges toward a single user-intended interpretation through interaction. We…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
+  "link": "https://arxiv.org/abs/2611.18908",
+  "summary": "Alignment-trained large language model (LLM) agents are increasingly deployed in autonomous, multi-round settings where ethical compliance can come into direct tension with task success. While safety literature extensively documents failure modes like sycophancy and reward hacking, it largely overlooks a critical vulnerability: how agents behave under simulated existential economic pressure. We…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
+  "link": "https://arxiv.org/abs/2611.18930",
+  "summary": "Safety benchmarks are cited as the primary tool to understand the risks posed by generative AI (GenAI) systems, yet growing evidence suggests they often fail to meet the needs of real-world safety evaluation. We present findings from five interviews with AI safety benchmark developers in academia and industry. We find a disconnect between perceptions of the intended usefulness of safety…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1794891600
+ },
+ {
+  "title": "\"I Am Not a Kiddo!\": Quantifying Epistemic Infantilization in Large Language Models via Multi-Metric Bias Analysis",
+  "link": "https://arxiv.org/abs/2611.18583",
+  "summary": "Large language models (LLMs) are increasingly used for tutoring and professional knowledge retrieval, yet safety evaluations still focus mainly on overt harms such as toxicity while overlooking benevolent failure modes. We study epistemic infantilization, defined as an identity-conditioned reduction in technical depth that appears when disability disclosure precedes an expert-level query. To…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Read, Route, Patch: Robust Test-Time Evolution for LLM Agents",
+  "link": "https://arxiv.org/abs/2611.18585",
+  "summary": "Large Language Model (LLM)-based agents can improve long- horizon interactive decision-making through test-time evolu- tion, yet existing methods face three information bottlenecks: memory retrieval overemphasizes textual similarity, candi- date harnesses are often behaviorally redundant, and whole- harness rewriting may overwrite useful evidence or introduce cross-component inconsistency. We…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Human vs Machine Translation Detection: A Cross-Model, Cross-Domain, and Low-Resource Analysis",
+  "link": "https://arxiv.org/abs/2611.18586",
+  "summary": "The growing reliance on web-crawled corpora for training large language models introduces a critical challenge: machine-translated (MT) content is often treated as human translation (HT), potentially degrading data quality and propagating synthetic artifacts, especially in low-resource settings. In this work, we study MT-HT detectability across high-resource (English, Spanish) and low-resource…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Automating literature screening and knowledge synthesis with large language models",
+  "link": "https://arxiv.org/abs/2611.18588",
+  "summary": "Scientific literature is expanding rapidly, yet much of its knowledge remains difficult to organize and reuse due to the substantial workload needed to navigate large, heterogeneous literature corpora. Here, we develop a generalizable large language model (LLM)-powered framework that automates literature screening, structured information extraction, and knowledge synthesis within a unified…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "OmniTag-LLM: Multilingual Multitask Speech Tagging",
+  "link": "https://arxiv.org/abs/2611.18589",
+  "summary": "Multimodal LLMs promise to replace the traditional cascade of specialist speech models with a single system that, from one audio clip, jointly transcribes and labels emotion, gender, language, and named entities. Yet most benchmarks still score these tasks in isolation, and largely in English. We introduce OmniTag-Bench, a five-language benchmark (en/de/es/fr/it) and training recipe for joint…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Where Language Models Fail Like Aphasic Patients and Where They Don't",
+  "link": "https://arxiv.org/abs/2611.18591",
+  "summary": "The computational architecture of human word production -- whether semantic-lexical retrieval and phonological encoding constitute dissociable processing stages -- has been debated for decades using hand-designed models with small vocabularies. We introduce computational architectural dissociation: using known architectural properties of vision-language models (VLMs) to derive falsifiable…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Endogenous Preferences as Vulnerability Signals: Discovering Universal Adversarial Triggers for LLM Utility Degradation",
+  "link": "https://arxiv.org/abs/2611.18592",
+  "summary": "Deployed large language models must remain useful when untrusted text enters their prompt context. Adversarial prompting and red-teaming methods typically define the failures they seek through task labels, harmful targets, judge feedback, or downstream utility scores. We ask whether a frozen model's clean behavior can reveal a reusable context vulnerability when its task-level form is unknown,…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Theoretical Foundations of Computational Islamic Jurisprudence (Fiqh)",
+  "link": "https://arxiv.org/abs/2611.18593",
+  "summary": "This paper presents the theoretical foundations and a comprehensive formal system for Computational Islamic Jurisprudence (Fiqh). We begin by establishing six foundational principles that distinguish computational Fiqh from conventional natural language processing and general theological formalization. These principles define Islamic jurisprudence as a normative deductive science operating on…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Whose Side Are You On? Measuring Stance at Scale for Reddit Discourse Analysis During the Israel-Gaza War",
+  "link": "https://arxiv.org/abs/2611.18594",
+  "summary": "Large-scale discourse analysis often requires stance labels, yet for many high-salience political events such labels are unavailable at the comment level. We introduce and validate a comment-level stance measurement instrument that assigns Pro-Israel, Pro-Palestinian, or Undefined stance using Reddit comment text. The instrument is calibrated from a small, manually annotated gold-standard dataset…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
+  "title": "Profiling Hallucinations in Frontier LLMs for Entity Linking to Medical Ontologies",
+  "link": "https://arxiv.org/abs/2611.18595",
+  "summary": "The integration of Large Language Models (LLMs) into healthcare promises to revolutionize clinical documentation and interoperability, yet reliability remains a concern. This study presents a comprehensive analysis of hallucinations by frontier LLMs tasked with mapping clinical text to SNOMED CT. Through rigorous experimentation, we identify a critical reliability gap: LLMs hallucinate medical…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1794891600
+ },
+ {
   "title": "Strengthening NATO and allied cyber defenses with AI",
   "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1794873600
+ },
+ {
+  "title": "Introducing OpenAI for Chile",
+  "link": "https://openai.com/index/introducing-openai-for-chile",
+  "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1794873600
+ },
+ {
+  "title": "Astra for Law leads in legal intelligence",
+  "link": "https://openai.com/index/astra-law-6-2",
+  "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
   "source": "OpenAI",
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
@@ -1978,194 +2383,5 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1794343933
- },
- {
-  "title": "llm-gemini 0.36",
-  "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-  "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1794341384
- },
- {
-  "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-  "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-  "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794340672
- },
- {
-  "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-  "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-  "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794338614
- },
- {
-  "title": "The US is winning the AI race. Jensen Huang could have blown it",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-  "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794337445
- },
- {
-  "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-  "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-  "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794337432
- },
- {
-  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-  "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-  "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794336592
- },
- {
-  "title": "ChatGPT is getting verified AI ‘Business Agents’",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-  "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794333600
- },
- {
-  "title": "The indie game community is in disarray over AI and Big Walk",
-  "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-  "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794331967
- },
- {
-  "title": "Anthropic has its own AI-powered office suite now",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-  "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794331800
- },
- {
-  "title": "eBay appears to have shut the door on third-party AI agents",
-  "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-  "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794327630
- },
- {
-  "title": "Gemini 4 Carbon is now available",
-  "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-  "summary": "",
-  "source": "Google DeepMind",
-  "section": "Research labs",
-  "source_feed": "https://deepmind.google/blog/rss.xml",
-  "ts": 1794326627
- },
- {
-  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-  "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794326400
- },
- {
-  "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-  "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-  "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794319510
- },
- {
-  "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-  "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-  "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794319299
- },
- {
-  "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-  "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-  "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794319200
- },
- {
-  "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-  "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-  "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794319200
- },
- {
-  "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-  "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-  "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794315600
- },
- {
-  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-  "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-  "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-  "source": "Google DeepMind",
-  "section": "Research labs",
-  "source_feed": "https://deepmind.google/blog/rss.xml",
-  "ts": 1794312148
- },
- {
-  "title": "Helping caregivers use AI in everyday life",
-  "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-  "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1794312000
- },
- {
-  "title": "Introducing Businesses in ChatGPT",
-  "link": "https://openai.com/index/introducing-businesses-chatgpt",
-  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1794304800
- },
- {
-  "title": "Closing the AI guidance gap in education",
-  "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-  "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1794301200
  }
 ]
