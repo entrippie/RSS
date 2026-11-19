@@ -5,9 +5,149 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:29:28 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta’s Muse Charm might cost $300</title>
+      <link>https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price</guid>
+      <pubDate>Thu, 19 Nov 2026 20:22:17 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm &amp;quot;in time for the holidays in December,&amp;quot; but […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The unfolding Jensen Huang scandal: a timeline</title>
+      <link>https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
+      <pubDate>Thu, 19 Nov 2026 20:18:49 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google is putting AI chats right on the homepage</title>
+      <link>https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</guid>
+      <pubDate>Thu, 19 Nov 2026 20:05:06 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is updating its homepage to include AI searches. In a post on X, Google&amp;#x27;s vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A game you cannot win unless you have a quantum computer</title>
+      <link>https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/</link>
+      <guid isPermaLink="true">https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/</guid>
+      <pubDate>Thu, 19 Nov 2026 20:03:00 +0000</pubDate>
+      <dc:creator>Google Research</dc:creator>
+      <category>Research labs</category>
+      <source url="https://research.google/blog/rss/">Google Research</source>
+      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Quantum&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic’s IPO could deliver $156 billion to charity</title>
+      <link>https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/</guid>
+      <pubDate>Thu, 19 Nov 2026 19:10:45 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At a stock price of $95, the frontier lab&amp;#x27;s Public Benefit Foundation, its employee donations, and the company&amp;#x27;s match tot up to $156 billion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini on Mac can now use your computer</title>
+      <link>https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use</guid>
+      <pubDate>Thu, 19 Nov 2026 18:21:13 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s Gemini app for macOS now has computer use, meaning it can help you &amp;quot;get multi-step tasks done across your local files, desktop apps, and the web,&amp;quot; the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google gives Gemini the ability to use your Mac for you</title>
+      <link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</guid>
+      <pubDate>Thu, 19 Nov 2026 18:09:11 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
+      <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:38:40 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn&amp;#x27;t belong to them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories</title>
+      <link>https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic hits Nasdaq exchanges at $111, 33% above IPO price</title>
+      <link>https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/</guid>
+      <pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s IPO price was set at $83, representing more than $80 billion in new capital raised.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic starts trading on Wall Street</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq</guid>
+      <pubDate>Thu, 19 Nov 2026 16:52:01 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol &amp;quot;ANT&amp;quot; at $111.50 per share, up from its initial $83 per share price that put company&amp;#x27;s value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT can transcribe as you speak now with Live Dictation</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation</guid>
+      <pubDate>Thu, 19 Nov 2026 15:16:45 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It&amp;#x27;s rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</guid>
+      <pubDate>Thu, 19 Nov 2026 14:25:37 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it&amp;#x27;s not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models</title>
       <link>https://arxiv.org/abs/2611.23240</link>
@@ -2977,196 +3117,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jensen Huang was having a third affair, Reuters reports</title>
-      <link>https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/</guid>
-      <pubDate>Thu, 12 Nov 2026 20:26:47 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility</title>
-      <link>https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/</guid>
-      <pubDate>Thu, 12 Nov 2026 20:16:24 +0000</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>News</category>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review</source>
-      <description>&lt;p&gt;&lt;em&gt;MIT Technology Review · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-      <link>https://openai.com/index/amplitude</link>
-      <guid isPermaLink="true">https://openai.com/index/amplitude</guid>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-      <link>https://openai.com/business/customer-stories/amplitude</link>
-      <guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>No, AI agents did not discover a previously unknown Maya site</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</guid>
-      <pubDate>Thu, 12 Nov 2026 19:42:40 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google’s latest Search upgrade promises better answers to your most complicated questions</title>
-      <link>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</guid>
-      <pubDate>Thu, 12 Nov 2026 19:27:45 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Powered by Gemini 4 Hydrogen, Google&amp;#x27;s AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Oh, Palantir is ‘progressive’ now, is it?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video</guid>
-      <pubDate>Thu, 12 Nov 2026 18:06:54 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I had other things to do today, but Alex Karp&amp;#x27;s pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week&amp;#x27;s elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a &amp;quot;vibe shift&amp;quot; […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Gemini 4 Hydrogen</title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
-      <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-      <dc:creator>Google DeepMind</dc:creator>
-      <category>Research labs</category>
-      <source url="https://deepmind.google/blog/rss.xml">Google DeepMind</source>
-      <description>&lt;p&gt;&lt;em&gt;Google DeepMind · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Jensen Huang scandal is hardly over</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</guid>
-      <pubDate>Thu, 12 Nov 2026 17:44:33 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I was certain, until the story of Jensen Huang&amp;#x27;s second affair hit, that Huang was bulletproof. After all, why wouldn&amp;#x27;t he be? He&amp;#x27;s placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he&amp;#x27;s the only CEO Nvidia has ever had. L&amp;#x27;état c&amp;#x27;est moi. Then […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI chatbots are recommending fake retail websites, study finds</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More game developers are starting to use generative AI</title>
-      <link>https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming&amp;#x27;s latest annual industry survey. Forty percent of developers surveyed say they use it &amp;quot;as part of their job,&amp;quot; an increase from 36 percent in 2025. Usage was higher with game developers that […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts</title>
-      <link>https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:02:28 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is Fireworks&amp;#x27; second data breach in as many months.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The unfolding Jensen Huang scandal: a timeline</title>
-      <link>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:30:01 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I reviewed the Apple HomeView, ask me anything</title>
-      <link>https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything</guid>
-      <pubDate>Thu, 12 Nov 2026 14:10:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Hi! I&amp;#x27;m Jen Tuohy, The Verge&amp;#x27;s senior smart home reviewer. I&amp;#x27;ve tested every smart display Amazon and Google have ever made, and for the past week I&amp;#x27;ve been testing Apple&amp;#x27;s first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns</guid>
-      <pubDate>Thu, 12 Nov 2026 13:53:16 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia&amp;#x27;s board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang&amp;#x27;s letter of resignation as CEO, president, and […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition</title>
-      <link>https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/</guid>
-      <pubDate>Thu, 12 Nov 2026 13:26:25 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gondola doubles revenue as its team builds more with Codex</title>
-      <link>https://openai.com/business/customer-stories/gondola</link>
-      <guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Holiday Extras is rethinking what it can build with Codex</title>
-      <link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-      <guid isPermaLink="true">https://openai.com/business/customer-stories/holidays-extras-codex</guid>
-      <pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
