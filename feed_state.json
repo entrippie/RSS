@@ -1,5 +1,356 @@
 [
  {
+  "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+  "link": "https://arxiv.org/abs/2611.23240",
+  "summary": "Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and capabilities of Prandtl neural networks (PNNs), Preisach neural networks (PreisachNNs), generalized Prandtl neural networks (GPNNs), the neuro-Madelung model (NMM),…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
+  "link": "https://arxiv.org/abs/2611.23241",
+  "summary": "The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per day, but there is no public benchmark dataset, no shared reference model, and no commonly agreed evaluation protocol for benchmarking sectoral, data-intensive models for operational decision support; notably for maintenance planning…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
+  "link": "https://arxiv.org/abs/2611.23242",
+  "summary": "Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requires sparse spike representations that naive rate-coding methods fail to provide. We combine biologically motivated spike-encoding schemes with two training improvements: Rouser adaptive-threshold surrogate gradients and…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
+  "link": "https://arxiv.org/abs/2611.23244",
+  "summary": "Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc load by at most the largest demand. Recently, Dmitry Rybin announced a seven-vertex counterexample found through an interaction with ChatGPT, which disproved this long-standing conjecture. However, the interaction did not reveal why…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
+  "link": "https://arxiv.org/abs/2611.23245",
+  "summary": "Response-relevant information is not sufficient evidence that two neural networks are in the same training state. We define training-state equivalence operationally: two checkpoints are equivalent, relative to an intervention family and horizon, if they respond alike when training is perturbed and continues. On fresh runs of a one-layer transformer learning modular addition, response to a…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
+  "link": "https://arxiv.org/abs/2611.23246",
+  "summary": "Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders. The expansion is pointwise: once its argument is a whole set rather than a point, one polynomial must stay accurate across that set, and it reaches only as far as its disc of convergence. The limit binds hardest on the rational terms and sigmoid…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
+  "link": "https://arxiv.org/abs/2611.23247",
+  "summary": "A binary probability estimate may be used by several decision makers with different error costs. Proper scoring rules can emphasize selected probability thresholds, but a single average threshold distribution need not give a good worst-case regret guarantee. We study the choice of a proper loss when the threshold distribution belongs to a finite specified family. Among integrable loss weights…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
+  "link": "https://arxiv.org/abs/2611.23248",
+  "summary": "In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms and PD diagnosis, highlighting their potential applications in various aspects of the disease. ML methods such as support vector machines, decision…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
+  "link": "https://arxiv.org/abs/2611.23339",
+  "summary": "Generative recommendation (GR) inference differs substantially from conventional LLM serving, featuring long input sequences, wide beam search, and only a few fixed output tokens. Existing LLM serving engines such as vLLM process beams as batched independent sequences, causing redundant KV cache accesses over the shared prompt prefix. Furthermore, vLLM executes each beam search generation step as…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
+  "link": "https://arxiv.org/abs/2611.23342",
+  "summary": "The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration. Real-world materials databases may contain measurement errors, failed calculations, missing or duplicate records, and hidden violations of physicochemical constraints. Such…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795064400
+ },
+ {
+  "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+  "link": "https://arxiv.org/abs/2611.23322",
+  "summary": "One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "Training Language Models for Introspective Oversight",
+  "link": "https://arxiv.org/abs/2611.23365",
+  "summary": "Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. These face limitations:…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+  "link": "https://arxiv.org/abs/2611.23375",
+  "summary": "Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+  "link": "https://arxiv.org/abs/2611.23398",
+  "summary": "The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+  "link": "https://arxiv.org/abs/2611.23410",
+  "summary": "While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap, we introduce RFBench, a simulator-grounded dataset and benchmark for passive RF layout design and understanding. The dataset contains 10,000…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+  "link": "https://arxiv.org/abs/2611.23445",
+  "summary": "Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue accuracy by selectively retaining high-precision parameters, the fundamental mechanics of where and why these models collapse remain poorly…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+  "link": "https://arxiv.org/abs/2611.23454",
+  "summary": "Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real clinical notes are rarely available due to privacy regulations, which particularly limits progress for low-resource languages such as European Portuguese. We present…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+  "link": "https://arxiv.org/abs/2611.23456",
+  "summary": "Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging. Generated questions must satisfy multiple constraints: mathematical correctness, curriculum alignment, appropriate cognitive difficulty, and educator reviewability. While prior work has advanced text generation, reliable assessment authoring…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+  "link": "https://arxiv.org/abs/2611.23476",
+  "summary": "Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders often backfires: reflection and scalar scores conflate what an edit newly broke with what remains unsolved, causing local regressions, skill…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+  "link": "https://arxiv.org/abs/2611.23480",
+  "summary": "Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods. In this retrospective study, six VLMs read 100 emergency CT and MRI examinations published in a public archive (March 2025-August 2026) under four conditions (free navigation, navigation from a key slice, and all slices or…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795064400
+ },
+ {
+  "title": "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter",
+  "link": "https://arxiv.org/abs/2611.23359",
+  "summary": "A single academic vacancy can draw hundreds of applications, and the first screening round consumes most of a committee's time. We describe a CV Priority Sorter deployed at a national platform for academic vacancies and integrated with its vacancy database. It proposes a reading order for a pile of CVs and leaves every decision to the committee, pairing a frozen multilingual transformer encoder…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation",
+  "link": "https://arxiv.org/abs/2611.23386",
+  "summary": "Language models can gain capacity at little computational cost from n-gram embedding tables: large tables of learned vectors for short sequences of consecutive tokens, which are looked up and added to the model's input or to its intermediate layers. Recent designs commonly use a separate n-gram embedding table for each layer, which makes the tables costly in memory and prevents layers from…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Tracking Representations in LLM Reasoning Traces for Iterated Games",
+  "link": "https://arxiv.org/abs/2611.23403",
+  "summary": "Large language model (LLM) agents achieve state-of-the-art performance across domains through chain-of-thought (CoT) reasoning. Despite their ubiquitous use, little is understood about the relationship between the externalized trace and the model's actual computation. We address this by investigating how LLM agents make decisions in iterative games with incomplete information. Using a series of…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Formal Adequacy Index (based on Polish-language material)",
+  "link": "https://arxiv.org/abs/2611.23482",
+  "summary": "Linguistic formality is one of the dimensions of stylistic variation in speech; however, simply measuring its level does not allow us to determine whether the chosen mode of communication is appropriate in a given situation. The aim of this article is to present the concept of a formal adequacy index (based on Polish-language material), which enables a quantitative assessment of how well the…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "From Arraignment to Resolution: Transformer Models of Court Cases",
+  "link": "https://arxiv.org/abs/2611.23518",
+  "summary": "The criminal legal system is composed of many complex decision points, such as which charges are pursued, how bond is determined, plea deal negotiations, and sentencing. Given the profound impact of such decisions, there is a growing need to increase the transparency within this system. While prior machine learning approaches have focused on modeling single decisions (e.g., recidivism), this…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Dreaming Up Authors: Factual Prevalence and LLM Hallucinations in Academic Authorship Attribution",
+  "link": "https://arxiv.org/abs/2611.23530",
+  "summary": "Large Language Models (LLMs) are widely used for question answering but are prone to hallucinations, yet the underlying causes, particularly the role of factual prevalence in training data, remain underexplored. In this work, we study this through academic authorship attribution, hypothesizing that hallucinations are more likely for less prevalent papers. Using citation count as a proxy for…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets",
+  "link": "https://arxiv.org/abs/2611.23533",
+  "summary": "Large language models (LLMs) are increasingly evaluated through their ability to predict future outcomes, implicitly assuming that predictive success reflects an understanding of the underlying system. However, accurate predictions can often be achieved without recovering the latent mechanisms that generate observable outcomes. To examine this assumption, we introduce LUCID, a benchmark that…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Language Models Make New Research Sound Old",
+  "link": "https://arxiv.org/abs/2611.23546",
+  "summary": "Researchers are increasingly using large language models (LLMs) to validate research questions. We find that LLMs make open research questions sound partly studied and overstate what related papers establish. Models recognize most of these overstatements when asked to check the papers' full texts separately. On 40 questions drawn from newly accepted papers, GPT-6-Astra correctly judges 98% to be…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+  "link": "https://arxiv.org/abs/2611.23601",
+  "summary": "Asking a model to check retrieved text can also tell it which source to trust. We introduce FutureBench, a renewable framework for evaluating knowledge-context conflict using timestamped questions, controlled passage triplets, and no-context probes. Across 3,629 questions and six models, Verify (a prompt combining checking with passage priority) raises false-answer adoption in all five models…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Localizing Text Anonymization for Trustworthy AI: Extending RAT-Bench to Malaysian Microdata and PII",
+  "link": "https://arxiv.org/abs/2611.23704",
+  "summary": "As governments and organizations adopt foundation models for public services and workplace productivity, sensitive citizen, employee, and administrative text may enter LLM workflows through inference, retrieval, fine-tuning, or local model development. We examine whether text anonymizers transfer to new deployment settings by extending RAT-Bench to Malaysia using local microdata, Malaysian PII…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795064400
+ },
+ {
+  "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+  "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+  "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795048976
+ },
+ {
+  "title": "llm-gemini 0.38",
+  "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+  "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1795046360
+ },
+ {
+  "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+  "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+  "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795045500
+ },
+ {
+  "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+  "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+  "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795044317
+ },
+ {
+  "title": "The nation’s largest school districts consider ditching Google Search",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+  "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1795043915
+ },
+ {
+  "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+  "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+  "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795043848
+ },
+ {
+  "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+  "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+  "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795042691
+ },
+ {
+  "title": "Anthropic prices IPO at $83 a share, above projected range",
+  "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+  "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795039875
+ },
+ {
+  "title": "Introducing Gemini 4 Neon",
+  "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "summary": "",
+  "source": "Google DeepMind",
+  "section": "Research labs",
+  "source_feed": "https://deepmind.google/blog/rss.xml",
+  "ts": 1795037743
+ },
+ {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
   "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
   "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
@@ -108,6 +459,15 @@
   "ts": 1795023130
  },
  {
+  "title": "datasette-arrows 0.1a0",
+  "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+  "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1795021799
+ },
+ {
   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
   "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
   "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
@@ -183,6 +543,24 @@
   "title": "Inside the Codex sandbox",
   "link": "https://openai.com/index/inside-the-codex-sandbox",
   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1794988800
+ },
+ {
+  "title": "Research acceleration: The jagged frontier",
+  "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1794988800
+ },
+ {
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "link": "https://openai.com/business/customer-stories/sumitomo-life",
+  "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
   "source": "OpenAI",
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
@@ -2464,104 +2842,5 @@
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1794475800
- },
- {
-  "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-  "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-  "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794453190
- },
- {
-  "title": "Gilbert + Tobin rethinks the business of law with AI",
-  "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-  "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1794441600
- },
- {
-  "title": "Supporting research on AI and children’s safety",
-  "link": "https://openai.com/index/children-first-declaration",
-  "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-  "source": "OpenAI",
-  "section": "Research labs",
-  "source_feed": "https://openai.com/news/rss.xml",
-  "ts": 1794441600
- },
- {
-  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-  "link": "https://huggingface.co/blog/3d-lora-finetuning",
-  "summary": "",
-  "source": "Hugging Face",
-  "section": "Research labs",
-  "source_feed": "https://huggingface.co/blog/feed.xml",
-  "ts": 1794441600
- },
- {
-  "title": "The unfolding Jensen Huang scandal: a timeline",
-  "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-  "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794441000
- },
- {
-  "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-  "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-  "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794439725
- },
- {
-  "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-  "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-  "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794439025
- },
- {
-  "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-  "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-  "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794437076
- },
- {
-  "title": "Gemini Decisions API",
-  "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-  "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1794434605
- },
- {
-  "title": "United won’t let your AI agent book your flight",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794434061
- },
- {
-  "title": "aws-emulator",
-  "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-  "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1794431910
  }
 ]
