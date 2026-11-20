@@ -1,5 +1,347 @@
 [
  {
+  "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
+  "link": "https://arxiv.org/abs/2611.24999",
+  "summary": "Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science. Existing personalized agents commonly condition actions directly on a static profile, leaving realized state transitions unused as an explicit source of supervision. We introduce a profile-conditioned state world model that uses observed…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
+  "link": "https://arxiv.org/abs/2611.25000",
+  "summary": "Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive. We show that a first-order directional derivative of task A's outputs along task B's vector can predict interference, but only when evaluated at the appropriate…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
+  "link": "https://arxiv.org/abs/2611.25001",
+  "summary": "Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation. Their perturbation density, however, is set only indirectly by a fixed sparsity coefficient whose mapping to density is unknown and shifts during training, so reaching a target density requires re-tuning; this fixed pressure also yields…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "A Model of Diverse Sampling from Language Models",
+  "link": "https://arxiv.org/abs/2611.25003",
+  "summary": "Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encodes item quality, and the embedding geometry encodes repulsion between similar outputs. Exact inference over…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
+  "link": "https://arxiv.org/abs/2611.25004",
+  "summary": "Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have established an interdisciplinary field called adversarial machine learning to explore these vulnerabilities and develop corresponding defense strategies. Feature reduction strategies are used to decrease the dimensionality of the data in order to reduce…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "Near-Quadratic Sample Compression for All VC Classes",
+  "link": "https://arxiv.org/abs/2611.25011",
+  "summary": "The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. At its heart is a connection between simplification and generalization: if a predictor consistent with a training sample is defined using only a small part of that sample, then it is likely to generalize. Sample compression schemes formalize this…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
+  "link": "https://arxiv.org/abs/2611.25100",
+  "summary": "Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such knowledge is often available only in natural language, e.g., expert intuitions or documentation, rather than as the explicit probability distribution landscape that prior-guided BO methods may require. Leveraging it effectively demands both an…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
+  "link": "https://arxiv.org/abs/2611.25108",
+  "summary": "Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter. No existing benchmark systematically addresses multi-distance capture, diverse environmental conditions, and concurrent spoofing and occlusion-based attacks, leaving deployed models…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
+  "link": "https://arxiv.org/abs/2611.25114",
+  "summary": "DISCO is a recent internal cluster validity index for density-based clustering that, unlike earlier indices, also evaluates the quality of noise labels. The discoCVI package makes DISCO available in R. This article describes the design of the package and a typical workflow, in which DISCO is used to compare clusterings and to choose the parameters of HDBSCAN without ground truth, followed by the…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "Auditing Learned Dynamics in Weather Models",
+  "link": "https://arxiv.org/abs/2611.25119",
+  "summary": "Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated. Using sparse autoencoder features from GraphCast, DeepMind's autoregressive weather forecasting model, we test whether causal relevance requires physical semantics, a question that matters for auditing whether AI forecasters used in high-assurance settings…",
+  "source": "arXiv cs.LG",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+  "ts": 1795150800
+ },
+ {
+  "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+  "link": "https://arxiv.org/abs/2611.25043",
+  "summary": "Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. However, analytical reasoning alone does not make a laboratory autonomous: autonomy in an SDL is achievable only when the agent can be trusted to act on physical hardware unsupervised and knows when to defer to a human. Here, we present an architecture…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+  "link": "https://arxiv.org/abs/2611.25070",
+  "summary": "This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interactions. The framework employs an advanced AI agentic approach to interpret human instructions, providing knowledge extraction, asset status summarization, and work order recommendations. It identifies patterns and trends and predicts work orders by…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+  "link": "https://arxiv.org/abs/2611.25087",
+  "summary": "We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum independent set (MIS). For Market Split, our randomized algorithm searches across multiple lattice bases, dividing computation between enumeration and continued basis reduction. Across ten random seeds per instance, it found the first reported…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
+  "link": "https://arxiv.org/abs/2611.25088",
+  "summary": "Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing, training, and evaluating complex models demands modifying multi-file repositories to reproduce results, debug training runs, integrate datasets, and port frameworks. However, existing MLE benchmarks limit agents to single-file edits without full…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
+  "link": "https://arxiv.org/abs/2611.25109",
+  "summary": "Users of conversational LLMs sometimes anthropomorphize these systems, form emotional attachments to them, and become dependent on them. This behavior, known as parasocial attachment, has been linked to multiple documented fatalities. However, public benchmarks for measuring whether LLMs reinforce users' parasocial attachment are lacking: existing work is single-turn, post hoc observational, or…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
+  "link": "https://arxiv.org/abs/2611.25111",
+  "summary": "Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexible general-purpose agents and statistically controlled pipelines. We introduce DSFlow, a LangGraph-based neuro-symbolic data-agent platform that combines reusable, LLM-selected skills with deterministic diagnostic guardrails.…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
+  "link": "https://arxiv.org/abs/2611.25135",
+  "summary": "Reinforcement learning (RL) can only teach a language model what its reward can recognize. Answer checkers are exact but need a reference answer; learned reward models and LLM judges work everywhere, but their scores are not probabilities. We study RLCDR (Reinforcement Learning from Calibrated Decision Rewards). An LLM converted into a decision model answers a typed question about a response (\"is…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
+  "link": "https://arxiv.org/abs/2611.25146",
+  "summary": "Everyday digital tasks, from selecting products and planning trips to conducting research and creating artifacts, require AI agents to deliver useful outcomes rather than merely retrieve web information. Yet evaluating these outcomes on the live web is challenging, as a single request may admit multiple valid results, and changing web information can alter which results remain valid over time.…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "A Verifier from the Past: Test-Time Compute for Time Series Foundation Models",
+  "link": "https://arxiv.org/abs/2611.25171",
+  "summary": "Test-time compute (TTC) improves language models by spending additional inference compute to generate, verify, and select among candidate outputs, but this recipe has not transferred directly to time series forecasting. A language model can verify a proof or vote across samples, but a forecaster must be causal; it cannot use future information to score a candidate. We propose Backtest-Gated…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
+  "link": "https://arxiv.org/abs/2611.25184",
+  "summary": "Empirical finance research often reuses natural experiments to study other outcomes, raising concerns about multiple testing and publication bias. We use AI agents to run a multiverse analysis of 324 papers that reuse 13 natural experiments. The agents rebuild the data, reproduce each paper's main estimate and re-estimate it across grids totaling 62,409 estimated defensible specifications. Based…",
+  "source": "arXiv cs.AI",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
+  "ts": 1795150800
+ },
+ {
+  "title": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
+  "link": "https://arxiv.org/abs/2611.24943",
+  "summary": "Computational complexity theory offers a principled framework for characterizing the efficiency of computational problems, and Large Language Models (LLMs) can similarly be viewed as computational systems executing a structured process of input, inference-time compute, and output. In this context, the number of generated tokens emerges as a natural and directly observable proxy for inference-time…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
+  "link": "https://arxiv.org/abs/2611.24959",
+  "summary": "The rise of powerful, fine-tuned large language models (LLMs) necessitates robust natural language inference (NLI) systems. These NLI systems ideally train across various tasks, encompassing diverse concepts like sentiment analysis, news classification, and coreference resolution. However, this continual, multi-tasking approach can lead to catastrophic forgetting, where previously learned tasks…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
+  "link": "https://arxiv.org/abs/2611.24960",
+  "summary": "Converting complex documents into structured knowledge constitutes the critical infrastructure urgently required for deploying Large Language Models (LLMs) in downstream research. However, blind to the Table of Contents (ToC) as a macro-structure, existing bottom-up paradigms rely on localized visual cues, inducing heuristic fragility in high-entropy layouts where visual prominence decouples from…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality",
+  "link": "https://arxiv.org/abs/2611.24963",
+  "summary": "Do standard benchmarks see the architectural differences that matter? We study it with 64 from-scratch pretraining runs of Transformers and three linear-model families at 1.3-8B parameters on 1-2T Nemotron-CC tokens, at a cost of roughly 100k USD per 8B run. In academic-scale pretraining (1.3B parameters, 100B tokens), architectural differences can all but disappear when the models are carefully…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "Global Importance Estimation for KV Cache Eviction",
+  "link": "https://arxiv.org/abs/2611.24969",
+  "summary": "Memory consumption of the key-value (KV) cache remains a central bottleneck for long-context LLM inference. We introduce PRKV, a training-free KV eviction method that estimates multi-hop global token importance by applying Personalized PageRank over attention-induced transition graphs. This enables importance propagation beyond recency or instantaneous attention, without modifying the model. We…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure",
+  "link": "https://arxiv.org/abs/2611.24970",
+  "summary": "The deployment of large language models (LLMs) in hiring pipelines is growing, yet existing evaluations generally overlook their compliance with legal rules. To fill this gap, we introduce HireWatch, an evaluation that assesses whether LLMs comply with U.S. laws that govern the questions that job candidates may be asked. We construct a 200-item bank of lawful and unlawful interview questions,…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "The ROI of Small Examples: Optimizing In-Context Learning Under Token Budgets",
+  "link": "https://arxiv.org/abs/2611.24971",
+  "summary": "In-context learning (ICL) improves large language model performance at inference time without updating model parameters. However, these gains are not free: in practical deployments, longer prompts directly increase inference cost and latency. Under a fixed token budget, prompt construction therefore becomes a resource-allocation problem. While prior work has often focused on how many examples to…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "No-Harm-Jury A Jury-Based Multi-Dimensional Harm Evaluation Framework for Medical AI Responses",
+  "link": "https://arxiv.org/abs/2611.24972",
+  "summary": "We present No-Harm-Jury, a jury-based automated evaluation framework that scores AI-generated medical responses across seven conceptually distinct harm dimensions using a panel of five diverse language models as independent jurors. Responses generated by Ministral-14B on 3,000 questions drawn from PubMedQA, MedQA, and MedMCQA are scored by five jurors across dimensions of informational, social,…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents",
+  "link": "https://arxiv.org/abs/2611.24977",
+  "summary": "We present CANDID (Candidate-Driven Intervention for Disciplined Execution), an execution-control framework designed to enhance the reliability of local computer-use agents (CUAs) in resource-constrained settings. While local CUAs feature robust baseline proficiency in single-step action prediction, they frequently fail at critical junctions due to rigid action loops or premature DONE decisions.…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "Quantifying Cultural-Psychological Constructs in Four Centuries of Ottoman Court Registers",
+  "link": "https://arxiv.org/abs/2611.24981",
+  "summary": "Populations vary along cultural dimensions such as individualism, collectivism, and honor. But how can these dimensions be studied in historical societies for which conventional psychological data are unavailable? Here, we introduce a computational text-analytic framework for quantifying psychological constructs in 54,670 Ottoman Turkish court records from 21 Istanbul courts spanning 1513-1911…",
+  "source": "arXiv cs.CL",
+  "section": "arXiv papers",
+  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
+  "ts": 1795150800
+ },
+ {
+  "title": "Token fraud is here and it’s BAD (YouTube)",
+  "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+  "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1795142997
+ },
+ {
+  "title": "Apple may be developing its own AI agent that runs your Mac",
+  "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795136161
+ },
+ {
+  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795135430
+ },
+ {
+  "title": "Apple is hiring engineers to build its own AI agent",
+  "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1795127501
+ },
+ {
+  "title": "A brief history of Nvidia’s recent stock fluctuations",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+  "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+  "source": "The Verge",
+  "section": "News",
+  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+  "ts": 1795125575
+ },
+ {
+  "title": "Meta’s new Muse Charm device may cost $300",
+  "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+  "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795125486
+ },
+ {
+  "title": "These tech outages are giving Y2K, AI agent style",
+  "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+  "source": "TechCrunch",
+  "section": "News",
+  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "ts": 1795124551
+ },
+ {
+  "title": "PostgreSQL 19 Released",
+  "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+  "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys,…",
+  "source": "Simon Willison",
+  "section": "Newsletters & blogs",
+  "source_feed": "https://simonwillison.net/atom/everything/",
+  "ts": 1795121037
+ },
+ {
   "title": "Meta’s Muse Charm might cost $300",
   "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
   "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
@@ -403,6 +745,42 @@
   "section": "News",
   "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
   "ts": 1795048976
+ },
+ {
+  "title": "Deploying Daybreak Red",
+  "link": "https://openai.com/business/learn/deploying-daybreak-red",
+  "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1795046400
+ },
+ {
+  "title": "See PR scans in action",
+  "link": "https://openai.com/business/learn/pr-scans-demo",
+  "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1795046400
+ },
+ {
+  "title": "Explore the Codex Security Plugin",
+  "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1795046400
+ },
+ {
+  "title": "Get started with Daybreak Blue",
+  "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1795046400
  },
  {
   "title": "llm-gemini 0.38",
@@ -2473,329 +2851,5 @@
   "section": "Research labs",
   "source_feed": "https://openai.com/news/rss.xml",
   "ts": 1794556800
- },
- {
-  "title": "CAFIN: CUDA-accelerated Adaptive Fisher Information Matrix Network Optimization via GPU-Native Kernel Fusion",
-  "link": "https://arxiv.org/abs/2611.14589",
-  "summary": "Second-order optimizers improve deep neural network training using curvature information, but their practical efficiency is limited by GPU execution overhead. AdaFisher reduces Fisher Information Matrix (FIM) approximation costs through diagonal Kronecker structures and exponential moving averages, yet its PyTorch implementation requires sequential CUDA kernel launches, intermediate tensor…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "An Asynchronous Federated Learning Platform for Lung Adenocarcinoma Grading via Foundation Models and Structural Pruning",
-  "link": "https://arxiv.org/abs/2611.14590",
-  "summary": "Classification of lung adenocarcinoma into poorly differentiated (PD) and well-to-moderately differentiated (WMD) subtypes plays an important role in patient survival; however, consistent classification is difficult due to inter-observer variability among pathologists. Collecting data from multiple hospitals is also challenging due to patient privacy concerns. This study proposes a web-based…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "Adversarial Risk in the Generative AI Era Necessitates Dropping the Small Epsilon Ball",
-  "link": "https://arxiv.org/abs/2611.14594",
-  "summary": "Adversarial Machine Learning research is currently centered on the search for the epsilon-ball: minimal perturbations designed to fool models while remaining imperceptible to humans. We argue that this fixation on $\\ell_p$ norms is a metrological trap that communicates a distorted perception of risk to defenders, one that is unaligned with real-world system vulnerabilities. This paradigm misleads…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "StructRL: Model-Free Reinforcement Learning with Replay Graphs",
-  "link": "https://arxiv.org/abs/2611.14599",
-  "summary": "StructRL turns the experience collected during reinforcement learning into an explicit replay graph. Once the graph contains a path to the task goal, dynamic programming selects actions on the observed part of the state space; these actions form a graph policy that is defined only where the required transitions have been observed. StructRL transfers these actions to model-free learners: as action…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "KernelMosaic: An Open Dataset and Agentic Framework for CUDA Kernel Generation",
-  "link": "https://arxiv.org/abs/2611.14604",
-  "summary": "Training large language models to generate efficient CUDA kernels requires supervision spanning diverse computational requirements and iterative code optimization. Constructing this supervision is challenging because of heterogeneous specifications, and useful implementations emerge through iterative complicated testing and refinement. We introduce KernelMosaic, an open dataset pairing diverse…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "Thompson Sampling using Prior-fitted Diffusion Transformers",
-  "link": "https://arxiv.org/abs/2611.14656",
-  "summary": "Thompson sampling is natural randomized strategy for optimizing unknown functions in a black-box manner. In continuous global optimization, Thompson sampling has largely been restricted to Gaussian process priors, as these are essentially the only class for which computing the posterior distribution has been tractable in practice. In this work, we introduce \\emph{prior-fitted diffusion…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "Closing the Loop: Co-Evolving EM for Irregular Time Series Generation in Lifted Representations",
-  "link": "https://arxiv.org/abs/2611.14659",
-  "summary": "Regular time-series generation from irregular time series is typically reduced to one-shot imputation: complete each partial sequence once, freeze the completions, and train a generator on the resulting surrogate dataset. We show that this open-loop strategy is structurally flawed. Point imputers collapse ambiguous missing regions to conditional averages, while stochastic imputers become stale as…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "Trait Hitchhiking in LLM Post-Training",
-  "link": "https://arxiv.org/abs/2611.14683",
-  "summary": "Reinforcement learning (RL) is now a standard stage of language model post-training, and the compute devoted to it is growing rapidly. While it has been shown to improve capabilities, particularly for tasks with verifiable rewards, it can also change behaviours and internal properties that the reward does not explicitly target. We present a formalism to describe the evolution of \"traits\" during…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "Beyond Row-Level Prediction: Evaluating and Learning Composition for Reusable Table Representations",
-  "link": "https://arxiv.org/abs/2611.14697",
-  "summary": "Tables are compositional, with content spread across a schema, cell values, rows, and columns. Large-scale operations such as retrieval, overlap estimation, deduplication, and data curation need these local signals composed into one reusable embedding vector per table. Table representation methods, however, are mostly evaluated through row-level prediction or supervised downstream tasks, which do…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "Code as Explanations: Executable and Verifiable LLM Explanations",
-  "link": "https://arxiv.org/abs/2611.14704",
-  "summary": "As large language models (LLMs) increasingly make consequential decisions and solve problems alongside humans, we must understand how models arrive at their conclusions. Understanding how an LLM behaves requires observing it across multiple inputs, yet free-text explanations such as chain-of-thought (CoT) are generated per instance and cannot be easily verified on new inputs. We propose {code…",
-  "source": "arXiv cs.LG",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-  "ts": 1794546000
- },
- {
-  "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-  "link": "https://arxiv.org/abs/2611.14544",
-  "summary": "Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-but-wrong move is silent, because a legality-only pipeline accepts it and reads every later move against a wrong position. We…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-  "link": "https://arxiv.org/abs/2611.14654",
-  "summary": "Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, where showing a corrected step and saying it is done move together. We ask whether the same correct content helps or hurts…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "Together Compiler: Continual Compilation for AI Inference",
-  "link": "https://arxiv.org/abs/2611.14681",
-  "summary": "Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-  "link": "https://arxiv.org/abs/2611.14736",
-  "summary": "Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalidate downstream inference. We study three separate decisions: where to allocate semantic queries, which proposals to admit, and which causal graphs to…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-  "link": "https://arxiv.org/abs/2611.14765",
-  "summary": "Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "Rational Use of Time for Social Coordination in Humans and AI",
-  "link": "https://arxiv.org/abs/2611.14766",
-  "summary": "All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination? And can AI systems do the same, without ``experiencing'' continuous real-time as humans do? We study these questions using a…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-  "link": "https://arxiv.org/abs/2611.14769",
-  "summary": "Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-  "link": "https://arxiv.org/abs/2611.14781",
-  "summary": "Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a single best-guess state and make decisions as if it were ground truth. This is brittle because when the guess is wrong, the agent's decisions may be unsafe or…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-  "link": "https://arxiv.org/abs/2611.14794",
-  "summary": "Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500,…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-  "link": "https://arxiv.org/abs/2611.14804",
-  "summary": "Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fixed weights. The context contains evaluated designs labeled desired (Class 1) or undesired (Class 0). GenPFN interpolates between desired designs and refines…",
-  "source": "arXiv cs.AI",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.AI",
-  "ts": 1794546000
- },
- {
-  "title": "Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models",
-  "link": "https://arxiv.org/abs/2611.14661",
-  "summary": "Kalai et al. propose stating the scoring rule in the prompt with an explicit threshold t, so that a model should answer only when its probability of being correct exceeds t. We probe each requirement of compliance on shared items, in 12 checkpoints from three post-training stages of four fully open 3-8B recipes, with exploratory models up to 32B. At t = 0.75, a line limiting the reply to an…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "MITRA-Swarm: Injecting Explicit Linguistic Structure into Foundation Models for Classical Machine Translation",
-  "link": "https://arxiv.org/abs/2611.14675",
-  "summary": "Classical Sanskrit poses three challenges unresolved by single-call monolithic models: morphophonemic fusion Sandhi, dense nominal compounding Sam\\=asa, and discourse-level zero-anaphora forced by poetic meter. We present MITRA-Swarm, a multi-agent architecture injecting explicit linguistic structure into an otherwise monolithic pipeline: a Sandhi-splitting agent, a parallel array of generalist…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
-  "link": "https://arxiv.org/abs/2611.14700",
-  "summary": "User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "Benchmarking Multilingual Document Understanding in Vision-Language Models",
-  "link": "https://arxiv.org/abs/2611.14758",
-  "summary": "Recent Vision-Language Models (VLMs) perform strongly on multimodal tasks, Document Understanding (DU) among them, but the benchmarks that measure them mostly cover English documents and narrow problems. How well current VLMs generalize across languages, tasks, styles and layouts therefore remains unclear. We introduce MDU, a multilingual DU benchmark of 23146 examples spanning 13 tasks and five…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "An LLM Is All You Need: Data-Efficient Adaptation to Full-Duplex, Word-Level Spoken Dialogue",
-  "link": "https://arxiv.org/abs/2611.14774",
-  "summary": "Full-duplex spoken dialogue, in which a system listens while it speaks and can backchannel, yield the floor, and be interrupted, is usually obtained by training on hundreds of thousands to millions of hours of speech. This is costly, rewrites the language model that supplies the system's knowledge, and still leaves turn-taking either implicit or decided coarsely rather than word by word. We show…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "Distributionally Robust BEST-RQ For Speech Representation Learning",
-  "link": "https://arxiv.org/abs/2611.14801",
-  "summary": "BEST-RQ, based on random projection and quantization, has been a well-established self-supervised learning approach to learn speech representations from large-scale unlabeled audio due to its high performance and efficiency. However, in BEST-RQ representations learned by random quantization can be sensitive to the choice of quantization targets. To address this issue, we propose a…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "What Do Tokenizer Comparisons Measure? Disentangling Granularity, Root Assignment, and Word-Level Readout across Amharic and Hausa",
-  "link": "https://arxiv.org/abs/2611.14818",
-  "summary": "Morphology-aware tokenizers are expected to help morphologically rich languages, and their reported gains over byte-pair encoding (BPE) are usually credited to their linguistic units. A comparison with BPE cannot support this attribution, since such a tokenizer also segments text more finely (granularity) and, on token-level tasks, changes how much the sub-token readout matters. We separate both…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "Discharge Summary Generation Is Not Just Summarization: A Reality Check for Evaluation",
-  "link": "https://arxiv.org/abs/2611.14823",
-  "summary": "Discharge summaries combine a retrospective account of hospitalization with discharge-time decisions. Physician-written references therefore contain both facts supported by prior clinical notes and reference-only content, potentially reflecting clinical synthesis, handoffs, or discharge planning. Reference-only evaluation can conflate failure to recover available information with failure to…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "LLMs and the Homogenization of Teaching",
-  "link": "https://arxiv.org/abs/2611.14828",
-  "summary": "Large language models (LLMs) are known to lack diversity in open-ended text generation, a limitation that is especially consequential in education, where homogeneity can narrow the kinds of thinking and disciplinary work students are invited to do. We study diversity in two educational generation tasks: math items and essay feedback. We compare frontier and open-weight models with human-authored…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "Is Jev a Good Multilingual Judge?",
-  "link": "https://arxiv.org/abs/2611.14861",
-  "summary": "Generative large language models are widely used for multilingual text evaluation, yet whether decision models that directly output judgment probabilities can serve as multilingual judges has received limited attention. We evaluate Jev against generative LLM judges on four multilingual benchmarks with human annotations, covering up to 47 language varieties and three evaluation formats: binary…",
-  "source": "arXiv cs.CL",
-  "section": "arXiv papers",
-  "source_feed": "https://rss.arxiv.org/rss/cs.CL",
-  "ts": 1794546000
- },
- {
-  "title": "llm-gemini 0.37",
-  "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-  "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1794524119
- },
- {
-  "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-  "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-  "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794523371
- },
- {
-  "title": "Muse can now place calls to U.S. businesses — if you pay",
-  "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-  "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794522148
- },
- {
-  "title": "Google’s new Gemini model is better at understanding complicated questions",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-  "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794520532
- },
- {
-  "title": "Microsoft Research Focus – Edition #98",
-  "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-  "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research .",
-  "source": "Microsoft Research",
-  "section": "Research labs",
-  "source_feed": "https://www.microsoft.com/en-us/research/feed/",
-  "ts": 1794519117
- },
- {
-  "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-  "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-  "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794518830
  }
 ]
