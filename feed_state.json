@@ -1,5 +1,14 @@
 [
  {
+  "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+  "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+  "summary": "Generative AI",
+  "source": "Google Research",
+  "section": "Research labs",
+  "source_feed": "https://research.google/blog/rss/",
+  "ts": 1795217430
+ },
+ {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
@@ -425,6 +434,24 @@
  {
   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
   "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "summary": "",
+  "source": "Hugging Face",
+  "section": "Research labs",
+  "source_feed": "https://huggingface.co/blog/feed.xml",
+  "ts": 1795132800
+ },
+ {
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "link": "https://openai.com/business/customer-stories/hebbia",
+  "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+  "source": "OpenAI",
+  "section": "Research labs",
+  "source_feed": "https://openai.com/news/rss.xml",
+  "ts": 1795132800
+ },
+ {
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "link": "https://huggingface.co/blog/inkling2mini",
   "summary": "",
   "source": "Hugging Face",
   "section": "Research labs",
@@ -2797,59 +2824,5 @@
   "section": "News",
   "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
   "ts": 1794657600
- },
- {
-  "title": "Amazon has a plan to index the world’s online shopping data",
-  "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-  "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794613751
- },
- {
-  "title": "datasette-cluster-map 0.19",
-  "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-  "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial ,…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1794610965
- },
- {
-  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-  "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-  "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-  "source": "TechCrunch",
-  "section": "News",
-  "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "ts": 1794609780
- },
- {
-  "title": "datasette-leaflet 0.3",
-  "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-  "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on…",
-  "source": "Simon Willison",
-  "section": "Newsletters & blogs",
-  "source_feed": "https://simonwillison.net/atom/everything/",
-  "ts": 1794609054
- },
- {
-  "title": "Advancing science & engineering with Antigravity’s /teamwork",
-  "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-  "summary": "Education Innovation",
-  "source": "Google Research",
-  "section": "Research labs",
-  "source_feed": "https://research.google/blog/rss/",
-  "ts": 1794602838
- },
- {
-  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-  "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-  "source": "The Verge",
-  "section": "News",
-  "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-  "ts": 1794602710
  }
 ]
