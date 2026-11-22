@@ -5,9 +5,49 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:31:21 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why data centers are at the center of the Big Tech backlash</title>
+      <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
+      <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Journalist Paris Marx unpacks his new book &amp;quot;Hyperscale.&amp;quot;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
+      <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
+      <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The vibe-coding revolution is coming to all the gadgets</title>
+      <link>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</link>
+      <guid isPermaLink="true">https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</guid>
+      <pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it&amp;#x27;s not […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence</link>
+      <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>OpenAI</dc:creator>
+      <category>Research labs</category>
+      <source url="https://openai.com/news/rss.xml">OpenAI</source>
+      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Muru</title>
       <link>https://simonwillison.net/2026/Nov/21/muru/</link>
@@ -3107,36 +3147,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
-      <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An overview of Jensen Huang’s messy days</title>
-      <link>https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</link>
-      <guid isPermaLink="true">https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</guid>
-      <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang&amp;#x27;s resignation and the fallout from Nvidia&amp;#x27;s leadership crisis, follow Terrence O&amp;#x27;Brien. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Understanding Positional Embeddings in Modern LLMs</title>
-      <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
-      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
-      <pubDate>Sun, 15 Nov 2026 12:10:37 +0000</pubDate>
-      <dc:creator>Ahead of AI (Sebastian Raschka)</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://magazine.sebastianraschka.com/feed">Ahead of AI (Sebastian Raschka)</source>
-      <description>&lt;p&gt;&lt;em&gt;Ahead of AI (Sebastian Raschka) · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The Methods Behind How LLMs Represent Token Positions&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
