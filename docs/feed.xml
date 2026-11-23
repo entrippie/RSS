@@ -5,9 +5,349 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 19:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:27:59 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the loss landscape of the linear neural network: beyond critical points</title>
+      <link>https://arxiv.org/abs/2611.26671</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26671</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \&amp;amp; Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking. Such a characterization is crucial, particularly as a substantial body of literature indicates that gradient descent circumvents critical points. The…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parasite Features: Causal Abstraction Through Spurious Pathways</title>
+      <link>https://arxiv.org/abs/2611.26711</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26711</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Causal Abstraction defines a notion of \emph{equivalence} between a neural network and an algorithm, thus serving as a powerful framework for mechanistic interpretability. In this paper, however, we show the existence of a class of \emph{spurious features} which straightforwardly pass such equivalence tests. Suppose there are two directions in a model&amp;#x27;s representation space where: (i) one…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cross-Attack Robust Aggregation for Federated Learning</title>
+      <link>https://arxiv.org/abs/2611.26731</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26731</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can poison the global model. Existing robust aggregators each fail in some regime: naive averaging (FedAvg) collapses under high-magnitude attacks, whereas distance- and statistics-based defenses (Krum, median, trimmed mean) sacrifice accuracy…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Depth-Linked Residual Tokens for Multimodal Retrieval and Generation</title>
+      <link>https://arxiv.org/abs/2611.26752</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26752</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iterations introduce substantial computational latency. Conversely, parallelizable learnable special tokens (such as the register tokens in Vision Transformer) enable efficient single-pass inference, but often suffer from the absence of…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who Should Verify? Reviewer Selection with Partial Information and Outcome Audits</title>
+      <link>https://arxiv.org/abs/2611.26770</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26770</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Selecting an AI reviewer requires evidence about what it does after reading a draft. On a fixed batch of items, a team can keep the original answers or adopt one reviewer&amp;#x27;s answers throughout. We ask how much it costs to certify that the chosen procedure falls at most a specified number of correct answers short of the best available procedure, for every completion of the unobserved evidence. When…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation</title>
+      <link>https://arxiv.org/abs/2611.26803</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26803</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;RL post-training methods such as PPO and GRPO are computationally expensive, with substantial resources devoted to sampling rollouts, which contain multiple completions per prompt along with their respective rewards. Canonical distillation, however, discards these traces and uses more compute to regenerate data from the final teacher. We ask if and how we can reuse the saved teacher RL rollouts…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning</title>
+      <link>https://arxiv.org/abs/2611.26805</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26805</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging is poorly suited: locally trained adapters are not identifiable up to permutation, and averages of adapters trained on dissimilar data can be…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NitroGen: Observations on the Action Dynamics, Visual Instruction Following, and Spatial Exploration</title>
+      <link>https://arxiv.org/abs/2611.26807</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26807</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;NitroGen is an open vision-action foundation model for game control. It is trained by behavior cloning on online gameplay videos. In this paper, we study the frozen controller in Hollow Knight and Trackmania as examples along three dimensions: action adaptation, visual instruction following, and spatial exploration. Our results indicate that NitroGen can adapt its actions to local context, but it…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Realistic Robustness Evaluation of Tabular Data Driven Models</title>
+      <link>https://arxiv.org/abs/2611.26818</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26818</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial attacks. While extensive research has focused on adversarial example generation in image and text domains, the study of such examples in tabular data remains comparatively limited, despite its widespread use in real-world systems. This…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing</title>
+      <link>https://arxiv.org/abs/2611.26828</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26828</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.LG</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Delivering robust In-Building Coverage (IBC) is critically impeded by severe Outdoor-to-Indoor (O2I) attenuation, a constraint that intensifies as deployments move from 5G mid-band towards mmWave and prospective 6G sub-THz carriers, where losses of 60-80 dB have been reported across modern building envelopes. While Unmanned Aerial Vehicles (UAVs) offer scalable exterior RF sensing platforms, a…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams</title>
+      <link>https://arxiv.org/abs/2611.26663</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26663</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted more ideas to the shared…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation</title>
+      <link>https://arxiv.org/abs/2611.26717</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26717</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it and take the artifact to be…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator</title>
+      <link>https://arxiv.org/abs/2611.26722</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26722</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one. In an environment where even a minor formatting error can invalidate a call and an…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization</title>
+      <link>https://arxiv.org/abs/2611.26782</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26782</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: designing the simulation, writing reliable input scripts, executing them, and analyzing the results with separate tools. Here we present ChatAtom, a…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&amp;E and mIF</title>
+      <link>https://arxiv.org/abs/2611.26794</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26794</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&amp;amp;E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an explanation, but two gaps remain. Pathology MLLMs read H&amp;amp;E alone, while these readouts…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory</title>
+      <link>https://arxiv.org/abs/2611.26797</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26797</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through attractor dynamics. Beyond their capacity, AMs form new minima known as spurious states,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs</title>
+      <link>https://arxiv.org/abs/2611.26870</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26870</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks evaluate demographic discrimination under a single reasoning objective, and none we know of tests whether a model treats the same item differently when…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis</title>
+      <link>https://arxiv.org/abs/2611.26903</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26903</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report strong overall results, but aggregate scores do not reveal whether this performance holds across different editing conditions. In this work, we present an edit- and generator-conditioned analysis of Segment-Aware Localization (SAL) using WavLM-Large and XLS-R…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers</title>
+      <link>https://arxiv.org/abs/2611.26906</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26906</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the cheapest solver wastes attempts on subgoals that require stronger models. We present BudgetPV, an agentic budget-aware predict-and-verify system that allocates…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress</title>
+      <link>https://arxiv.org/abs/2611.26910</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26910</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.AI</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in an embodied world cannot be read from one measure. Existing benchmarks measure task progress, world-knowledge question answering (QA), and episodic memory, but a correct answer does not show that the agent ever observed the evidence for it, and progress does not show…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills</title>
+      <link>https://arxiv.org/abs/2611.26747</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26747</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Agent skills extend AI assistants through installable instructions and code that can access users&amp;#x27; files, accounts, and data. Even when performing their advertised tasks, skills may infer sensitive attributes, retain unnecessary information, or disclose data to unexpected recipients. We study these potential privacy-of-use harms through SkillPrivus, a static audit framework that analyzes skills…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reinforcement Learning Unlearns Corrupted SFT Reasoning</title>
+      <link>https://arxiv.org/abs/2611.26756</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26756</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We show that reinforcement learning (RL) in reasoning tasks can succeed even when the supervised fine-tuning (SFT) data is severely corrupted. In a mathematical reasoning dataset (GSM8K), we systematically corrupt training trajectories across 361 configurations by injecting realistic error types, varying error locations, trace-answer consistency, and corruption ratios up to 100%. While aggregated…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL</title>
+      <link>https://arxiv.org/abs/2611.26775</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26775</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Text-to-SQL systems increasingly rely on context banks: curated collections of example queries, metric definitions, and domain knowledge that tell a model how an organization writes its queries. In the enterprise, a bank grows over years as many analysts add entries, checked one at a time for correctness (does the SQL answer its own question?) and rarely for consistency with one another. Yet…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference</title>
+      <link>https://arxiv.org/abs/2611.26776</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26776</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Systems that flag violent video for a human operator can now be built from language models without training, by combining perception models and letting a language model decide. We ask how the observations of the perception models should reach the decision, and which evidence matters. On the XD-Violence test set (799 clips) we fix one set of perception agents (video description, object detection,…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution</title>
+      <link>https://arxiv.org/abs/2611.26806</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26806</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Medical agents built on large language models (LLMs) have advanced rapidly, yet most stay fixed once deployed and do not keep using their experience to improve later attempts. As a result, the same kind of error can recur across patients. To address this, existing self-improvement methods update an agent&amp;#x27;s weights or its medical harness from its own experience, but their improving strategy stays…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search From the Start: Search-Native Pretraining for Language Models</title>
+      <link>https://arxiv.org/abs/2611.26809</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26809</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capability during pretraining from ordinary text corpora. Specifically, we augment…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neural Geometry as a Learning Signal</title>
+      <link>https://arxiv.org/abs/2611.26832</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26832</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We investigate whether the geometric structure of neural representations can provide a sufficient learning signal for improving model behavior without any supervision on model outputs. First, we fine-tune Llama-3.1-8B to answer questions such as &amp;quot;What month is four months after June?&amp;quot; by supervising internal representations of the input month (June = 6) and offset (4), which are encoded with…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports</title>
+      <link>https://arxiv.org/abs/2611.26833</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26833</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Adapting large language models (LLMs) to specialized domains remains challenging, particularly for technical documents such as Portuguese well drilling reports, where annotated data are scarce and domain adaptation may compromise instruction-following capabilities. Although Low-Rank Adaptation (LoRA) is widely used for parameter-efficient adaptation, its scaling after training remains…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models</title>
+      <link>https://arxiv.org/abs/2611.26835</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26835</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Recent work has shown that continued fraction inspired neural architectures (CoFrGeNets) can be highly parameter efficient yet performant for language modeling. In this work, we revisit continued fraction-based channel mixing with the goal of improving its performance and simplifying integration into standard pre-training protocols for language models. We achieve this by two simple yet critical…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cross-Linguistic Distinctive-Feature Constraints on Segmental Triphones: Evidence for Contrastive Dispersion</title>
+      <link>https://arxiv.org/abs/2611.26837</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26837</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <dc:creator>arXiv cs.CL</dc:creator>
+      <category>arXiv papers</category>
+      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
+      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Natural speech reflects articulatory and perceptual constraints, yet how these pressures shape consecutive segment transitions across languages remains underexplored. We analyze adjacent distinctive-feature distances in token-weighted segmental triphones across 17 Universal Dependencies corpora spanning nine language families, transcribed into IPA and mapped to 24 PanPhon features using Hamming…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
+      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</guid>
+      <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Three significant backers share what gave them conviction to bet billions on Anthropic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We haven’t seen the last of the major tech outages</title>
+      <link>https://www.theverge.com/tech/1039851/major-tech-outages</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1039851/major-tech-outages</guid>
+      <pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: &amp;quot;The American people should be […]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</guid>
+      <pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;To establish a speed limit on AI development, you need to agree on how to measure speed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Select Styling Specimens</title>
+      <link>https://simonwillison.net/2026/Nov/22/select-styling/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/22/select-styling/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tool: Select Styling Specimens I got frustrated at how HTML &amp;lt;select&amp;gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why data centers are at the center of the Big Tech backlash</title>
       <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
@@ -2727,426 +3067,6 @@
       <category>Research labs</category>
       <source url="https://openai.com/news/rss.xml">OpenAI</source>
       <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alignment with Reflect-Reasoning: Learning How To Follow Principles</title>
-      <link>https://arxiv.org/abs/2611.17398</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17398</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preferences or constitutional principles specified at training time and subsequently fixed. In practice, many deployers rely on system prompting to implement…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search</title>
-      <link>https://arxiv.org/abs/2611.17412</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17412</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Dynamic Time Warping (DTW) is the standard distance for similarity search over time series that are misaligned in time, but its cost is quadratic in the series length and lower bounds often prune few candidates, so search over large collections of long series is slow. Learned approximations embed the series to make comparisons cheap, yet compare every pair with the same fixed rule, usually the…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Classification with Large-Step Gradient Descent: Unifying Self-Stabilization and Convergence Rates</title>
-      <link>https://arxiv.org/abs/2611.17459</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17459</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Neural networks are often trained with gradient descent (GD) using step sizes that exceed classical stability thresholds, a regime where standard convergence theory no longer applies. Despite exhibiting non-monotonic loss and oscillatory dynamics, this regime frequently leads to faster convergence and better generalization. Existing theoretical perspectives offer complementary but incomplete…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments</title>
-      <link>https://arxiv.org/abs/2611.17460</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17460</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people&amp;#x27;s authority. When completion requires violating a rule, the agent must decide alone, yet benchmarks of instruction-rule conflicts state the rule in the prompt or keep it hidden and do not evaluate…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models</title>
-      <link>https://arxiv.org/abs/2611.17462</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17462</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Diffusion-based generative models have become strong priors over plausible crystal structures, but turning that prior into promising candidates requires steering toward several conflicting properties at once. Fine-tuning is expensive and produces a new model for every new objective, while differentiable guidance is not applicable to many real-world tasks. We instead adapt these generative models…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction</title>
-      <link>https://arxiv.org/abs/2611.17463</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17463</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel temperature and final chemical composition challenging. Intermittent or delayed measurements limit the information available for timely prediction. This…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Improved Regret via Variance-Aware Policy Optimization in Adversarial MDPs</title>
-      <link>https://arxiv.org/abs/2611.17469</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17469</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We study episodic adversarial MDPs with unknown dynamics and full-information rewards and achieve regret with leading term $\widetilde O(\sqrt{H^3SAK})$. Here $H$ is the horizon, $S$ the total number of states across decision layers, $A$ the number of actions, and $K$ the number of episodes. This improves the two incomparable prior leading terms by factors $\sqrt{S/H}$ and $\sqrt{H^3}$, leaving a…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Do Mixture-of-Experts Routers Benefit from Ensembling?</title>
-      <link>https://arxiv.org/abs/2611.17472</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17472</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them. Mixture-of-experts models already combine many experts, but a single router decides how the experts are weighted for each input. Motivated by ensemble theory, we apply ensembling to the routing step: an…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ERGo: Energy-Efficient Hybrid Graph Neural Network Training on Processing-In-Memory Architectures</title>
-      <link>https://arxiv.org/abs/2611.17478</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17478</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Processing-in-memory (PIM) has been proposed as an alternative computing paradigm for training Deep Neural Networks, including Graph Neural Networks (GNNs). Despite these advancements, training GNN workloads on PIM devices necessitates off-chip memory access. This off-chip access is expensive in terms of performance and energy, thereby impacting the overall energy efficiency of the training…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SURFACE: Preference Distribution Matching on Pareto Fronts via Scalarization Steering</title>
-      <link>https://arxiv.org/abs/2611.17484</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17484</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.LG</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.LG">arXiv cs.LG</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.LG · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Constructing a finite Pareto representation requires allocating a limited number of solutions across the Pareto front (PF). A desired preference distribution specifies this allocation by assigning more solutions to some PF regions and fewer to others. Scalarization generates Pareto solutions by varying objective weights and solving single-objective problems. However, a distribution of…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors</title>
-      <link>https://arxiv.org/abs/2611.17338</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17338</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs</title>
-      <link>https://arxiv.org/abs/2611.17339</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17339</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Instruct, and Gemma-2-2B-Instruct, typically at 4-bit precision, sit outside this evidence base. We present a…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LoRAWeaver: Directional Adapter Routing in LoRA Representation Space</title>
-      <link>https://arxiv.org/abs/2611.17340</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17340</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new adapters are added, which limits their use in…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction</title>
-      <link>https://arxiv.org/abs/2611.17341</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17341</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An Operationalization of Opaque Serial Depth</title>
-      <link>https://arxiv.org/abs/2611.17495</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17495</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a specific instantiation of the notion of opaque serial depth: roughly, the length of the longest path through a model&amp;#x27;s…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advancing Quantization for R&amp;R Models with Microscaling Formats</title>
-      <link>https://arxiv.org/abs/2611.17501</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17501</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Recommendation and Ranking (R&amp;amp;R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-grade R&amp;amp;R models enforce a stringent launch bar: model quality must remain within a 0.01% Normalized Entropy…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent</title>
-      <link>https://arxiv.org/abs/2611.17515</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17515</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavioral economics to vary the counterparty&amp;#x27;s…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Model Annealing: Data-Efficient Learning through Review and Consolidation</title>
-      <link>https://arxiv.org/abs/2611.17524</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17524</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network&amp;#x27;s own knowledge. Training is divided into episodes whose learning rate is raised again and cooled, every cooled state joins a memory of…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation</title>
-      <link>https://arxiv.org/abs/2611.17532</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17532</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the &amp;quot;conductors&amp;quot; of the &amp;quot;orchestra&amp;quot; that is the brain network: astrocytes make up approximately $50\%$ of all brain cells but do not emit electrical signals. Nevertheless, they may play critical roles in…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents</title>
-      <link>https://arxiv.org/abs/2611.17539</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17539</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.AI</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.AI">arXiv cs.AI</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.AI · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during evaluation through structural matching to a known…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tracing Knowledge and Reasoning in LLM</title>
-      <link>https://arxiv.org/abs/2611.17461</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17461</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Current evaluations of Large Language Models (LLMs) report performance at the dataset or task level, revealing what a model achieves but offering little insight into the internal processing associated with its performance. We propose a task-centric framework for characterising the model-internal processing elicited by a benchmark. It combines attention- and activation-based signals with…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Poetry 'resurrection' from LLMs</title>
-      <link>https://arxiv.org/abs/2611.17464</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17464</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In an era where linguistic creativity is challenged by algorithmic authorship, we pose a provocative question: can artificial intelligence (AI) write an infinite poem? We set up two experiments to investigate the quantitative and qualitative output produced by AI utilizing couplets that evidence a poetic relationship between end words, the only variation in a strict anaphoric, litany structure.…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Creating Steering Vectors via Input Optimisation</title>
-      <link>https://arxiv.org/abs/2611.17481</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17481</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Activation steering influences a language model&amp;#x27;s behaviour by adding a steering vector to its residual stream during generation, but it requires white-box access to modify the hidden states at every generation step. We introduce ActGCG, a modification of Greedy Coordinate Gradient which optimises a suffix to match the target activations obtained by adding a steering vector to the residual…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Benchmarks Don't Talk Back: Learning Through Self-Disagreement</title>
-      <link>https://arxiv.org/abs/2611.17563</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17563</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A benchmark usually measures a language model alone with a question, and deployment rarely looks like that: answers get contested, and models give up correct ones under counter-reasoning that is itself wrong. We show that what fails there is not a shortfall of accuracy but a capability in its own right -- knowing when to hold a position and when to yield to a better one -- which we call…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais</title>
-      <link>https://arxiv.org/abs/2611.17573</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17573</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Cameroon Pidgin English (a West African Pidgin English variety) and Camfranglais are widely used in Cameroon, yet to our knowledge, neither has a dedicated spoken Natural Language Inference (NLI) resource. We introduce CamSpokenNLI, a pilot dataset of 114 scenario-matched spoken NLI items in each variety (228 in total), recorded by one native speaker from Buea. Each item pairs premise audio and…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation</title>
-      <link>https://arxiv.org/abs/2611.17589</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17589</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Small open-weight language models can run crowd decision-making (CDM) on an institution&amp;#x27;s own infrastructure, which keeps the checkpoint, the inference settings and the opinions under its control. Their judgements vary across repeated queries; whether repeating and aggregating them, often through the 2-tuple linguistic representation, settles the decision rather than the labels is untested. Five…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Do Multilingual Self-Supervised Speech Encoders Know About Sentence Meaning?</title>
-      <link>https://arxiv.org/abs/2611.17686</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17686</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Self-supervised speech models (S3Ms) have been scaled up to thousands of languages and millions of hours of audio, yet little is known about how these models structure semantic knowledge across languages. In this work, we probe sentence-level semantics in massively multilingual S3Ms across 76 languages, using linear maps from frozen speech representations into a frozen text embedding space,…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>See Every Block Once: Variance-Reduced Post-Training for Masked Diffusion Language Models</title>
-      <link>https://arxiv.org/abs/2611.17754</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17754</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Policy gradient methods are widely used to align large language model outputs with human preferences, but the log-likelihoods they require cannot be directly computed in Masked Diffusion Language Models (MDLMs). MDLM post-training therefore relies on a surrogate objective based on the Evidence Lower Bound (ELBO), and recent work estimates a blockwise variant of this objective via Monte Carlo…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks</title>
-      <link>https://arxiv.org/abs/2611.17766</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17766</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to. Together the files hold 2.18 million populated cells, and the rubrics 791 criteria. Agents work in a container with spreadsheet tools, and an agentic judge that can open the file…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Activation Steering the Nan-Shan in Typhoon</title>
-      <link>https://arxiv.org/abs/2611.17768</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17768</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <dc:creator>arXiv cs.CL</dc:creator>
-      <category>arXiv papers</category>
-      <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
-      <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Typhoon is an audiovisual installation based on Joseph Conrad&amp;#x27;s novella, in which Captain MacWhirr steers the steamer Nan-Shan directly into and through a catastrophic storm. The novella is a study of what happens when the scale of a phenomenon exceeds the practical and conceptual frameworks available to comprehend it and of the paralysis that sometimes follows a demand for action in such…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple launches new app to study how people use AI for health</title>
-      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</guid>
-      <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple&amp;#x27;s new app for a study will answer everyday medical questions&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple’s new study looks to improve the effectiveness of AI health tools</title>
-      <link>https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</guid>
-      <pubDate>Mon, 16 Nov 2026 01:26:56 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
-      <link>https://huggingface.co/blog/openrouter</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/openrouter</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Hugging Face</dc:creator>
-      <category>Research labs</category>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
-      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette-maplibre 0.1a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-maplibre/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:58:36 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
-      <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette 1.0a43</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:20:27 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette 1.0a43 I&amp;#x27;ve been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>datasette 0.65.6</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-2/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-2/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&amp;lt;route&amp;gt;.db by actors who were denied access to it. [...] Tags: security , datasette&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A step toward defining the Standard Model on a lattice</title>
-      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-      <guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our new blog for science</title>
-      <link>https://openai.com/index/our-new-blog-for-science</link>
-      <guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
-      <dc:creator>OpenAI</dc:creator>
-      <category>Research labs</category>
-      <source url="https://openai.com/news/rss.xml">OpenAI</source>
-      <description>&lt;p&gt;&lt;em&gt;OpenAI · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is bad news for Jensen Huang also bad news for the AI industry?</title>
-      <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</guid>
-      <pubDate>Sun, 15 Nov 2026 21:56:35 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.&amp;quot;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jensen Huang might be plotting a return and more of the latest Nvidia drama</title>
-      <link>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</guid>
-      <pubDate>Sun, 15 Nov 2026 20:43:49 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
-      <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</guid>
-      <pubDate>Sun, 15 Nov 2026 20:20:57 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
