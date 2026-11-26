@@ -5,9 +5,59 @@
     <link>https://github.com/entrippie/RSS</link>
     <description>Curated machine learning and AI news, lab blogs, newsletters, and arXiv papers.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 08:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:26:30 +0000</lastBuildDate>
     <ttl>360</ttl>
     <atom:link href="https://entrippie.github.io/RSS/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+      <dc:creator>TechCrunch</dc:creator>
+      <category>News</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
+      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quoting Jack Despain Zhou</title>
+      <link>https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</guid>
+      <pubDate>Thu, 26 Nov 2026 15:09:31 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
+      <pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
+      <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</guid>
+      <pubDate>Thu, 26 Nov 2026 09:54:40 +0000</pubDate>
+      <dc:creator>The Verge</dc:creator>
+      <category>News</category>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off &amp;quot;the private chat histories of more than 21 million U.S. accounts - […]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>sqlite3_rsync: Database Remote-Copy Tool For SQLite</title>
       <link>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</link>
@@ -17,6 +67,16 @@
       <category>Newsletters &amp; blogs</category>
       <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
       <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as &amp;quot;experimental&amp;quot; in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/hn-50651685/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:08:46 +0000</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>Newsletters &amp; blogs</category>
+      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
+      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
@@ -327,6 +387,16 @@
       <category>arXiv papers</category>
       <source url="https://rss.arxiv.org/rss/cs.CL">arXiv cs.CL</source>
       <description>&lt;p&gt;&lt;em&gt;arXiv cs.CL · arXiv papers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When users assume that an AI chatbot has mental states, they are more likely to develop over-reliance, emotional dependence, and in extreme cases, psychological harm or self-harm. However, how these mind attributions arise in conversations and how human or AI factors influence this is still unknown. We study how users attribute minds using a minimal framework: a simulated user with different…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+      <link>https://huggingface.co/blog/training-swarms</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Hugging Face</dc:creator>
+      <category>Research labs</category>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face</source>
+      <description>&lt;p&gt;&lt;em&gt;Hugging Face · Research labs&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quoting Scott Aaronson</title>
@@ -2627,146 +2697,6 @@
       <category>News</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
       <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There&amp;#x27;s actually likely something deeper going on, cybersecurity experts say.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PostgreSQL 19 Released</title>
-      <link>https://simonwillison.net/2026/Nov/19/postgresql-19/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/19/postgresql-19/</guid>
-      <pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>Newsletters &amp; blogs</category>
-      <source url="https://simonwillison.net/atom/everything/">Simon Willison</source>
-      <description>&lt;p&gt;&lt;em&gt;Simon Willison · Newsletters &amp;amp; blogs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year&amp;#x27;s release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys,…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s Muse Charm might cost $300</title>
-      <link>https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price</guid>
-      <pubDate>Thu, 19 Nov 2026 20:22:17 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm &amp;quot;in time for the holidays in December,&amp;quot; but […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The unfolding Jensen Huang scandal: a timeline</title>
-      <link>https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
-      <pubDate>Thu, 19 Nov 2026 20:18:49 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google is putting AI chats right on the homepage</title>
-      <link>https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</guid>
-      <pubDate>Thu, 19 Nov 2026 20:05:06 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google is updating its homepage to include AI searches. In a post on X, Google&amp;#x27;s vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A game you cannot win unless you have a quantum computer</title>
-      <link>https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/</link>
-      <guid isPermaLink="true">https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/</guid>
-      <pubDate>Thu, 19 Nov 2026 20:03:00 +0000</pubDate>
-      <dc:creator>Google Research</dc:creator>
-      <category>Research labs</category>
-      <source url="https://research.google/blog/rss/">Google Research</source>
-      <description>&lt;p&gt;&lt;em&gt;Google Research · Research labs&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Quantum&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic’s IPO could deliver $156 billion to charity</title>
-      <link>https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/</guid>
-      <pubDate>Thu, 19 Nov 2026 19:10:45 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;At a stock price of $95, the frontier lab&amp;#x27;s Public Benefit Foundation, its employee donations, and the company&amp;#x27;s match tot up to $156 billion.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini on Mac can now use your computer</title>
-      <link>https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use</guid>
-      <pubDate>Thu, 19 Nov 2026 18:21:13 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s Gemini app for macOS now has computer use, meaning it can help you &amp;quot;get multi-step tasks done across your local files, desktop apps, and the web,&amp;quot; the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google gives Gemini the ability to use your Mac for you</title>
-      <link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</guid>
-      <pubDate>Thu, 19 Nov 2026 18:09:11 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Google&amp;#x27;s latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
-      <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:38:40 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn&amp;#x27;t belong to them.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories</title>
-      <link>https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic hits Nasdaq exchanges at $111, 33% above IPO price</title>
-      <link>https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/</guid>
-      <pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>News</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch</source>
-      <description>&lt;p&gt;&lt;em&gt;TechCrunch · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s IPO price was set at $83, representing more than $80 billion in new capital raised.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic starts trading on Wall Street</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq</guid>
-      <pubDate>Thu, 19 Nov 2026 16:52:01 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol &amp;quot;ANT&amp;quot; at $111.50 per share, up from its initial $83 per share price that put company&amp;#x27;s value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT can transcribe as you speak now with Live Dictation</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation</guid>
-      <pubDate>Thu, 19 Nov 2026 15:16:45 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It&amp;#x27;s rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</guid>
-      <pubDate>Thu, 19 Nov 2026 14:25:37 +0000</pubDate>
-      <dc:creator>The Verge</dc:creator>
-      <category>News</category>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <description>&lt;p&gt;&lt;em&gt;The Verge · News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it&amp;#x27;s not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
